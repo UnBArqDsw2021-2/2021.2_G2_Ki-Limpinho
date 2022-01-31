@@ -3,7 +3,7 @@
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 19.08.2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Lucas Melo |
+| 31.01.2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Lucas Melo |
 
 
 
@@ -28,11 +28,12 @@ criado para descrever um usuário específico. Como não é possível falar com 
 </p>
 
 
+## 3. Descrição
 ## 3.1. Persona Primária 1
 
 || Leonardo Motta Junior|
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/leonardo.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Leonardo Motta</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="leonardo">Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/leonardo.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Leonardo Motta</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|29 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>| Gerente |
@@ -49,7 +50,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 || Marta Pereira Silva|
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/marta.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Marta Pereira</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="marta">Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/marta.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Marta Pereira</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|44 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>|Professsora univesitária|
@@ -58,7 +59,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 |<b>Habilidades:</b>| Da aula de matemática para alunos da universidade e gosta bastante da área que atua|
 |<b>Tarefas:</b>| É bastante organizada, planeja todas aulas com muito carinho e gosta gosta de sair de casa sempre que possível. Pelo menos uma vez no mês usa o carro para visitar sua mãe que mora em outro estado. |
 |<b>Relacionamentos:</b>| Casada |
-|<b>Requisitos:</b>|Luana não gosta de ter que ir ao lava jato e esperar ser atendida, por isso para ela o porto forte do site seria conseguir marcar um horário de forma rápida |
+|<b>Requisitos:</b>|Marta não gosta de ter que ir ao lava jato e esperar ser atendida, por isso para ela o porto forte do site seria conseguir marcar um horário de forma rápida |
 |<b>Expectativas:</b>| Por ser bem metódica e rigorosa com seus horários, deixar um horário marcado para lavar seu carro seria importante para manter sua agenda organizada|
 
 
@@ -67,7 +68,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 || João Luiz Santos|
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/joao.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Luiz</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="joao">Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/joao.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Luiz</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|28 anos |
 |<b>Status:</b>| Anti-persona |
 |<b>Profissão:</b>| Personal trainer |
