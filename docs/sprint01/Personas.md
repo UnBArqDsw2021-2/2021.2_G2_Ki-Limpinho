@@ -3,7 +3,7 @@
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 31.01.2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Lucas Melo |
+| 30.01.2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Lucas Melo |
 
 
 
