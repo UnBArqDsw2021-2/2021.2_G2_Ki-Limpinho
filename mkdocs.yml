@@ -6,5 +6,8 @@ theme:
   features: navigation.tabs
 
 nav:
-  - Home: "index.md"
-  - Heatmap: "heatmap.md"
+  - Home: 
+    - Home: "index.md"
+    - Heatmap: "heatmap.md"
+  - Base:
+    - Product Backlog: "modelagem/backlog.md" 
