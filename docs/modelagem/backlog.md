@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 30.01.2022 |  0.1   | Criação do documento e versão inicial | Henrique Melo |
 | 30.01.2022 |  0.2   | Continuação do doumento e Criação Épico-3 | Davi Matheus|
+| 30.01.2022 |  0.2   | Criação Épico-4 | Natanael Filho |
 
 ### O que é Product Backlog ?
 <p align="justify">&emsp;&emsp;
