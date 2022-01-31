@@ -4,10 +4,11 @@
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
 | 29/01/2022 | 1.0.0 | Criação e elaboração do documento |  Nilvan Júnior |
+| 31/01/2022 | 1.0.1 | Correção de alguns erros |  Nilvan Júnior |
 
 
 ## Sumário 
-[1 - Introdução](#1---Introdução)
+[1 - Introdução](#1---introdução)
 * [1.1 - Propósito](#1.1---Propósito)
 * [1.2 - Escopo](#1.2---escopo)
 * [1.3 - Definições, acrônomos e Abreviações](#1.3---Definições,-acrônomos-e-Abreviações)
@@ -44,14 +45,14 @@
 * [6.3 - Restrições de segurança](#6.3---Restrições-de-segurança)
 * [6.4 - Restrições de uso](#6.4---Restrições-de-uso)
 
-
+### My Multi Word Header
 
 ## 1 - Introdução 
 
 ### 1.1 - Propósito
 
 <p align="justify">&emsp;&emsp;
-  Esse documento tem como principal objetivo principal fornecer uma visão geral sobre o projeto que será desenvolvido, o escopo que está inserido e a finalidade do produto. Aos fatos, também é esperado que ao final dessa leitura estejam claros as principais características e requisitos de nossa aplicação web, entendimento do problema que buscamos resolver, expecativas em relação ao que será desenvolvido, e alguns mecanismos para reduzir riscos que possam afetar a entrega produto. [1]
+  Esse documento tem como principal objetivo principal fornecer uma visão geral sobre o projeto que será desenvolvido, o escopo que está inserido e a finalidade do produto. Aos fatos, também é esperado que ao final dessa leitura estejam claros as principais características e requisitos de nossa aplicação web, entendimento do problema que buscamos resolver, expecativas em relação ao que será desenvolvido, e alguns mecanismos para reduzir riscos que possam afetar a entrega do produto. [1]
 </p>
 
 <p align="justify">&emsp;&emsp;
@@ -84,7 +85,6 @@
 <p align="justify">&emsp;&emsp;
 
   <ul>
-    <li>Hoje tem <a href="https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document">teste</a> </li>
     <li> [1] - IBM Knowlege Center - Documento de visão. Disponível em: < <a href="https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document" >https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document </a> >.Acesso em: 29 jan. 2022; </li>
     <li> [2] - IBGE - Frota de veículos. Disponível em: < <a href="https://cidades.ibge.gov.br/brasil/pesquisa/22/28120">https://cidades.ibge.gov.br/brasil/pesquisa/22/28120</a> >.Acesso em: 29 jan. 2022</li>
     <li> [3] - GrLavaJato - Principais funcionalidades: Disponível em: < <a href="https://www.grlavajato.com.br/">https://www.grlavajato.com.br</a> >. Acesso em 29 jan. 2002</li>
@@ -97,7 +97,7 @@
 ### 1.5 - Visão Geral
 
 <p align="justify">&emsp;&emsp;
-  Este documento é consituído em seis tópicos que destrincham as principais características e uma ideia geral de como será o planejamento de construção do produto.
+  Este documento é consituído em seis tópicos que destrincham as principais características e fornecem uma ideia geral de como será o planejamento de construção do produto.
   <ul> 
     <li>Introdução: Parte na qual as ideias gerais são introduzidas, fornecendo um pequeno overview sobre o projeto.</li>
     <li>Posicionamento: Parte na qual o problema é apresentado, e quais são as hipóteses de solução, além da oportunidade do negócio.</li>
@@ -158,26 +158,26 @@
 ### 3.2 - Resumo dos usuários
 | Nome  | Descrição |
 | :- | :- |
-| Gerente | Proprietários ou gerentes de lava-jatos interessados na otimização de monitoramento do negócio | Validação informal |
-| Proprietários de veículos | Pessoas interessadas em consumir os serviços ofertados em um lava-jato.  | Validação informal | 
+| Gerente | Proprietários ou gerentes de lava-jatos interessados na otimização de monitoramento do negócio. | Validação informal. |
+| Proprietários de veículos | Pessoas interessadas em consumir os serviços ofertados em um lava-jato.  | Validação informal. | 
 
 ### 3.3 - Perfis dos envolvidos  
 
 #### 3.3.1 - Equipe de desenvolvimento de software 
 | Representantes | Davi Matheus, Nilvan Peres, Natanael Fernandes, Lucas Ferraz, Henrique Amorim, Jonathan Jorge, Yuri Alves, Lucas Melo, Peniel Etèmana e Caio Martins. |
 | :--- | :-------- |  
-| Descrição | Estudantes do curso de Engenharia de Software da FGA |
+| Descrição | Estudantes do curso de Engenharia de Software da FGA. |
 | Responsabilidades | Desenvolver e documentar o projeto, realizar testes e validar o projeto.
 | Critérios de Sucesso | Finalizar o aplicativo no prazo determinado, atendendo os requisitos de mais alta prioridade.
 | Envolvimento | Alto. |
-| Problemas/Comentários | Organizar horários para dez integrantes, seguir prazo de entregas, sobrecarga em algum membro do projeto|
+| Problemas/Comentários | Organizar horários para dez integrantes, seguir prazo de entregas, sobrecarga em algum membro do projeto.|
 
 #### 3.3.2 - Avaliadores
 | Representantes | Professora Milene Serrano | 
 | :--- | :-------- |  
 | Descrição | Professora da disciplina ArqDSW. |  
 | Responsabilidades | Orientar e avaliar a equipe em cada fase da disciplina. |
-| Critérios de Sucesso | Transmitir conhecimento para a equipe conseguir elaborar os artefatos solicitados, e fornecer feedbacks em relação as entregas |
+| Critérios de Sucesso | Transmitir conhecimento para a equipe conseguir elaborar os artefatos solicitados, e fornecer feedbacks em relação as entregas. |
 | Envolvimento | Médio. |
 | Problemas/Comentários | Penalização de integrantes que não estão auxiliando a equipe, tornando o processo mais árduo e possivelmente sobrecarregando outros membros. |
 
@@ -235,7 +235,7 @@
   <ul> 
     <li>O usuário deverá ter computador/celular e uma conexão estável com a internet.</li>
     <li>A aplicação permitirá maior conexão entre clientes e gerentes da lava-jato.</li>
-    <li>A aplicação permitirá maior conexão entre clientes e gerentes da lava-jato.</li>
+    <li>O usuário deverá levar o carro ao lava-jato na data que e horário que foi escolhido.</li>
   </ul>
 </p>
 
