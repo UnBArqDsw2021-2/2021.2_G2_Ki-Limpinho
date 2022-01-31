@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 30.01.2022 |  0.1   | Criação do documento e versão inicial | Henrique Melo |
+| 30.01.2022 |  0.2   | Continuação do doumento e Criação Épico-3 | Davi Matheus|
 
 ### O que é Product Backlog ?
 <p align="justify">&emsp;&emsp;
@@ -65,7 +66,7 @@
         <tr>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Informação do Usuário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US08/">US08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo ter uma página de perfil, para que consiga acessar as minhas informações.</td>    
@@ -81,6 +82,43 @@
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US010/"  >US10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo deletar minha conta, para que todos meus registros sejam apagados.</td>
+        </tr>
+           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Forma de Pagamento</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US11/">US11</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo escolher minha forma de pagamento, para que eu possa pagar da maneira que eu preferir.</td>    
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8"><a href="../Epicos/EP03/" >Épico 03 - Gerenciamento de serviços </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Agendar serviços</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US12/">US12</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Eu, como usuário, desejo agendar um serviço, para que eu possa ter meu carro lavado.</td>    
+        </tr>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" >Cancelar serviços</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US13/"  >US13</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Eu, como usuário, desejo cancelar um serviço, para que eu possa desmarcar a ação caso eu esteja ocupado ou simplesmente não posso comparecer a data anteriormente agendada.
+        </td>
+        </tr>
+           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Remarcar um serviço</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US14/">US14</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo remarcar um serviço, para que eu possa obter a lavagem em uma data mais adequada a minha agenda.</td>    
+        </tr>
+        </tr>
+           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2" >Avaliar um  serviço</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US15/">US15</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo  fazer um comentário sobre determinado serviço para que eu possa deixar um feedback construtivo sobre a lavagem realizada.</td>    
+        </tr>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US16/">US16</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo avaliar de maneira simples  determinado serviço para que eu possa deixar um feedback sobre a lavagem realizada.a.</td>    
+        </tr> 
+         </tr>
+           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Verificação do serviço</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US17/">US17</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo verificar o status de um determinado serviço agendado/contratado para que eu possa ver de forma detalhada o percursso da lavagem.</td>    
         </tr>
     </tbody>
 </table>
