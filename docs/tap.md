@@ -1,17 +1,17 @@
 # ✅ Termo de Abertura do Projeto
 
-|Data|Versão|Descrição|Autor(es)|          
-|-----|------|---------|----------|           
-|30/01/2022|0.1| Versão inicial | Lucas Lima, Jonathan Jorge |
-
+| Data       | Versão | Descrição      | Autor(es)                  |
+| ---------- | ------ | -------------- | -------------------------- |
+| 30/01/2022 | 0.1    | Versão inicial | Lucas Lima, Jonathan Jorge |
 
 ## Sumário
-1. [Introdução](#1---introdução)  
+
+1. [Introdução](#1---introdução)
 2. [Descrição do Projeto](#2---descrição-do-projeto)
 3. [Propósito e justificativa do projeto](#3---propósito-e-justificativa-do-projeto)
 4. [Requisitos de alto nível](#4---requisitos-de-alto-nível)
 5. [Restrições](#5---restrições)
-
+6. [Riscos](#6---riscos)
 
 # 1 - Introdução
 
@@ -27,21 +27,55 @@ Com o aumento de clientes e serviços, tornou-se insustentável devido a falta d
 
 # 4 - Requisitos de alto nível
 
- A plataforma será uma página web sendo possível o acesso a partir de computadores e celulares, o acesso será de forma gratuita. Os requisitos de alto nível são:
- 
-|                 Nome                 |           Descrição          |
-|:------------------------------------:|:-------------------------:|
-| - | Configurar a integração do site dentro dos frameworks escolhidos para o projeto. (a serem definidos)  |
-| Cadastro do cliente | Realizar cadastro do cliente com dados de comunicação, endereço e de identificação.  |
-| Cadastro de serviços | Realizar cadastro dos serviços com suas respctivas descrições e preços  |
-| Visualizar Fluxo de caixa | Dashboard com entrada   |
-| Realizar agendamentos | Permitir o agendamento de um serviço por parte do cliente e do gerente. |
-| Banco de Dados | Permitir a comunicação entre o front e o banco de dados (a ser definido) para a criação de dashboards interativas. |
+A plataforma será uma página web sendo possível o acesso a partir de computadores e celulares, o acesso será de forma gratuita. Os requisitos de alto nível são:
+
+|           Nome            |                                                     Descrição                                                      |
+| :-----------------------: | :----------------------------------------------------------------------------------------------------------------: |
+|             -             |        Configurar a integração do site dentro dos frameworks escolhidos para o projeto. (a serem definidos)        |
+|    Cadastro do cliente    |                Realizar cadastro do cliente com dados de comunicação, endereço e de identificação.                 |
+|   Cadastro de serviços    |                       Realizar cadastro dos serviços com suas respctivas descrições e preços                       |
+| Visualizar Fluxo de caixa |                                               Dashboard com entrada                                                |
+|   Realizar agendamentos   |                      Permitir o agendamento de um serviço por parte do cliente e do gerente.                       |
+|      Banco de Dados       | Permitir a comunicação entre o front e o banco de dados (a ser definido) para a criação de dashboards interativas. |
 
 # 5 - Restrições
 
-- O prazo para entrega do projeto é (a ser definida)
-- O projeto deve ser construído pela equipe 02 do segundo semestre letivo de 2021 da matéria Arquitetura e Desenho de Software.  
+-   O prazo para entrega do projeto é (a ser definida)
+-   O projeto deve ser construído pela equipe 02 do segundo semestre letivo de 2021 da matéria Arquitetura e Desenho de Software.
 
-# Referências Bibliográficas 
+# 6 - Riscos
+
+Nessa etapa é identificada o plano de risco do projeto.No gerenciamento de riscos é possivel ter um certo controle sobre as incertezar que o projeto pode ter, além de medir o impacto.
+
+| Impacto     | Descrição                              |
+| ----------- | -------------------------------------- |
+| Muito Baixo | Quase que imperceptível para o projeto |
+| Baixo       | pouca influencia                       |
+| Média       | influencia mas solucionavel            |
+| Alto        | Muita influencia no projeto            |
+| Muito Alto  | influencia critica                     |
+
+| probabilidade |
+| ------------- |
+| Muito Baixo   |
+| Baixo         |
+| Média         |
+| Alta          |
+| Muito Alta    |
+
+| Risco | Impacto | probabilidade | prevenção |
+| Aluno retira a diciplina | Alto | Média | manter o grupo sempre alinhado e contente |
+| Perda de prazo das entregas | Alto | Baixa | Manter o grupo coordenado e sempre alinhado com os prazos |
+| Falta de comunicação na equipe | Alto | Muito Baixa | Manter um espaço de comunicação saudavel |
+| Um dos membros ficar impossibilitado por doença | Alto | Alta | Reorgnizar as tarefas de modo a não sobrecarregar os outros integrantes |
+| Equipe incapacitada tecninamente | Muito Alto | Baixa | Escolha correta das tecnologias usadas abrangendo o conhecimento geral além de possibilidade de tempo para estudo |
+| Bugs/Falha | Alto | Muito Alta | Realizando testagem periodicamente |
+| Divergencia de grade horaria | Baixo | Muito Alta | Realização de heatmap, mantendo uma estrategia de distribuição de tarefas |
+| Sobrecarga de algum membro | Médio | Média | Reajuste de tarefas |
+| Falta de monitoramento e controle | Alto | Média | Elaboração de um cronograma com acompanhamento sistematico |
+
+# 7 - Custos
+
+# Referências Bibliográficas
+
 EASYBOK. Termo de abertura de projeto. Brasil: Easyhome, 2019. Disponível em: http://www.easybok.com.br/downloads/easyhome-tap/
