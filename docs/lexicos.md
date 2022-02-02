@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 30.01.2022 | 0.1 | Criação do documento | Peniel Zannoukou |
+| 02.01.2022 | 0.2 | Remoção de léxicos incorretos| Lucas Melo |
 
 ## Metodologia
 <div align="justify">&emsp;&emsp; As atividades associadas ao processo de desenho de software(Base), principalmente a parte de Módulo Projeto Não Orientado a Abordagens Específicas, podem envolver leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Exemplos de documentos incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software. [Sayão, Carvalho, 2006]</div>
@@ -27,16 +28,16 @@
 | Nome | Agendamento |
 | -- | -- |
 | Sinônimos | Agendar |
-| Noção | O  **usuário**  possui o aplicativo lava jato para agendar seu dia em que o serviço escolhido será realizado. |
+| Noção | O  **usuário**  tem acesso ao site para agendar seu dia em que o serviço escolhido será realizado. |
 | Impacto | O **usuário** pode criar <a href="#conta">conta</a>.<br>O **usuário** pode  **agendar** o serviço que desejar no **Lava-Jato**. |
 | Classificação | Estado |
 <br>
 
-## Aplicativo
-| Nome | Aplicativo |
+## Site
+| Nome | Site |
 | -- | -- |
-| Sinônimos | Aplicativo |
-| Noção | O  **usuário**  possui o aplicativo lava jato para se cadastrar. |
+| Sinônimos | Site |
+| Noção | O  **usuário**  tem accesso ao site lava jato para se cadastrar. |
 | Impacto | O **usuário** pode criar <a href="#conta">conta</a>.<br>O **usuário** pode realizar **consulta sobre as funcionalidade**. |
 | Classificação | Objeto |
 <br>
@@ -47,51 +48,6 @@
 | Sinônimos | Amparo, beneficiamento, auxílio |
 | Noção | O sistema auxilia, também, através do FAQ(frequently Asked Questions ou Perguntas Frequentes) onde o **usuário** venha a ter uma dúvida de uso e nessa aba de ajuda ele consegue ver que alguém teve o mesmo erro e sua resolução do problema está disponível em tal página |
 | Impacto | O **usuário** terá maior agilidade e eficiência no uso da plataforma, pois, caso seja uma dúvida comum, ganhará tempo resolvendo sem espera |
-| Classificação | Objeto |
-<br><br>
-
-## Área de aprendizado
-| Nome | Área de aprendizado |
-| -- | -- |
-| Sinônimos |  Área Educacional, Área de estudo, Área de tutorial |
-| Noção | Uma área feita pela Equipe **lava jato**, na qual, se baseia em distribuir conhecimento de todos os tipos que envolva o sistema para seus usuários/clientes. |
-| Impacto |    Os **usuários** entram no Portal educacional e assiste cada vídeo explicativo. |
-| Classificação | Objeto |
-<br>
-
-## Assinatura Eletrônica
-| Nome | Assinatura Eletrônica |
-| -- | -- |
-| Sinônimos | Senha Virtual, código de acesso único |
-| Noção | O **usuário** cria sua Assinatura Eletrônica e o sistema responsável salva em seu <a href="#banco">banco</a> de dados. Sempre que tiver que efetuar uma compra ou algo do tipo dentro do sistema, será requerida a assinatura do **usuário**. |
-| Impacto |    Os **usuários** se encontra em uma posição de maior segunraça com a assinatura, pois dificulta o trabalho de um possível hacker. |
-| Classificação | Verbo |
-<br><br>
-
-## Alertas
-| Nome | Alertas |
-| -- | -- |
-| Sinônimos | Notificações, Avisos, Comunicados |
-| Noção | Receber um alerta significa que o ou o sistema está dizendo ao **usuário** novidades que talvez ele possa não ter visto sobre ou o sistema está notificando o  **usuário** sobre os processos que estão ocorrendo com sua empresa. |
-| Impacto |    O  **usuário** fica ciente do que está acontecendo |
-| Classificação | Estado |
-<br><br>
-
-## Banco
-| Nome | Banco |
-| -- | -- |
-| Sinônimos | Título |
-| Noção | Instituição que presta serviços financeiros em geral, tais como: acolhimento dos depósitos de dinheiro dos clientes, concessão de empréstimos entre outros.. |
-| Impacto |    O **usuário** consegue ter uma <a href="#conta">conta</a> neste banco, podendo realizar interações financeiras. |
-| Classificação | Objeto |
-<br><br>
-
-##  Canal Lava Jato
-| Nome | Canal Lava Jato |
-| -- | -- |
-| Sinônimos | Intermediador, Interventor |
-| Noção |  Canal do Lava Jato é uma forma, utilizando uma outra plataforma para divulgar vídeos educaionais voltador para assuntos de controle financeira. |
-| Impacto |    Qualquer  **usuário** ou não sendo  **usuário** consegue ter acesso aos vídeos educaionais de forma gratuita |
 | Classificação | Objeto |
 <br><br>
 
@@ -112,15 +68,6 @@
 | Impacto |    O usuário tendo sua conta, ele consegue usar todas as funcionalidades que o sistema oferece |
 | Classificação | Objeto |
 <br> 
-
-## Contratos
-| Nome | Contratos |
-| -- | -- |
-| Sinônimos |  Acordo, Obrigação |
-| Noção |   Acordo, trato em que duas ou mais pessoas assumem certos compromissos ou obrigações, ou asseguram entre si algum direito. |
-| Impacto |    O usuário que concordou e assinou os contratos terá de seguir os compromissos assumidos |
-| Classificação | Objeto |
-<br>
 
 ## Crédito
 | Nome | Crédito |
@@ -154,15 +101,6 @@
 | -- | -- |
 | Sinônimos |  Armazenado, depositar, Guardado |
 | Noção |  Armazenamento de algo, no caso do sistema, no depósito de dinheiro. |
-| Impacto |   Cada usuário faz pagamento assim que selecionar o serviço que deseja e o agendamento. |
-| Classificação | Verbo |
-<br>
-
-## Destaques da Semana
-| Nome | Destaques da Semana |
-| -- | -- |
-| Sinônimos |  Novidades, Promoções |
-| Noção | O sistema avisa ao usuário os destaques da semana, quais são os serviços com promoção |
 | Impacto |   Cada usuário faz pagamento assim que selecionar o serviço que deseja e o agendamento. |
 | Classificação | Verbo |
 <br>
@@ -221,49 +159,13 @@
 | Classificação | Objeto |
 <br><br>
 
-## Termos  
-| Nome | Termos |
-| -- | -- |
-| Sinônimos |  Termos, Documentos |
-| Noção | Termos e Contratos assinados pelo o usuário  |
-| Impacto | O  **usuário** pode visualizar seu histórico de termos |
-| Classificação | Objeto |
-<br><br>
-
-## Tour virtual
-| Nome | Tour virtual |
-| -- | -- |
-| Sinônimos |  Tutorial |
-| Noção | Tutorial feito pelo Lava Jato para ajudar usuários a mexerem no sistema |
-| Impacto | O **usuário** percorre as etapas do Tour Virtual<br>O **usuário** pula as etapas do Tour Virtual |
-| Classificação | Objeto |
-<br><br>
-
-## Transferir     
-| Nome | Transferir |
-| -- | -- |
-| Sinônimos | Transportar, deslocar, modificar, mudar, remover, substituir, transladar, trasladar, trocar |
-| Noção | Mudar de um lugar para outro |
-| Impacto | O **usuário** transferiu dinheiro para a conta Lava Jato. |
-| Classificação | Ação |
-<br><br>
-
 ## Usuário    
-| Nome | Vencimento |
+| Nome | Usuário |
 | -- | -- |
 | Sinônimos | Utilizador, utente, cliente, usador, usufruidor |
 | Noção | Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades |
 | Impacto | O usuário possui uma conta no sistema de Lava Jato |
 | Classificação | Objeto |
-<br><br>
-
-## Vencimento   
-| Nome | Vencimento |
-| -- | -- |
-| Sinônimos | Expiração, final, término |
-| Noção | Dia em que expira o prazo para o pagamento de algum serviço de crédito ou as promoções especiais |
-| Impacto | Promoções podem possuir data de vencimento |
-| Classificação | Estado |
 <br><br>
 
 ## Referências
