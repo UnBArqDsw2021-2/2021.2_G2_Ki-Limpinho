@@ -8,3 +8,4 @@ theme:
 nav:
   - Home: "index.md"
   - Heatmap: "heatmap.md"
+  - Metologia: "metodologia_do_projeto.md"
