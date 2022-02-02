@@ -8,3 +8,4 @@ theme:
 nav:
   - Home: "index.md"
   - Heatmap: "heatmap.md"
+  - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
