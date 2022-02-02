@@ -4,36 +4,62 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 30.01.2022 |  0.1   | Criação do documento e versão inicial | Henrique Melo |
-| 30.01.2022 |  0.2   | Continuação do doumento e Criação Épico-3 | Davi Matheus|
-| 30.01.2022 |  0.2   | Criação Épico-4 | Natanael Filho |
+| 30.01.2022 |  0.2   | Continuação do doumento e Criação Épico-2 | Davi Matheus|
+| 30.01.2022 |  0.2   | Criação Épico-3 | Natanael Filho |
+| 31.01.2022 |  0.3   | Criação Épicos 4,5,6,7 e adição de coluna tema | Nilvan Peres |
+| 31.01.2022 |  0.4   | Adição dos tópicos introdução, metodologia, resultados e conclusão | Nilvan Peres |
 
-### O que é Product Backlog ?
+### Responsáveis pelo documento
+- Nilvan Peres
+- Davi Matheus
+- Henrique
+
+### Introdução
+
 <p align="justify">&emsp;&emsp;
-  O product backlog é o artefato responsável por manter todas as funcionalidades/caracteristícas desejadas para um produto, tais funcionalidades devem ser priorizadas por ordem de relevância/dificuldade. Esse artefato não deve ser estático, isto é, mudanças devem ocorrer caso surjam novas necessidades para atender o cliente, o mesmo tende a evoluir em conjunto com o desenvolvimento do produto.
+    O product backlog é uma das ferramentas essenciais da metologia Scrum, e consiste em uma lista priorizada, contendo todas as funcionalidades/comportamentos desejados para determinada aplicação. Vale ressaltar que, o product backlog está em constante mudanças, com o decorrer do desenvolvimento do projeto o entedimento vai prioridades são alteradas, novas demandas surgem, ou outros comportamentos podem ser descartados, é de suma importância ter o product backlog atualizado para ter uma organização mais otimizada sobre o projeto.[1]
 </p>
 
-### Histórias de usuário
+### Metodologia
+<p align="justify">&emsp;&emsp;
+    O artefato foi desenvolvido ao longo da sprint 01 e 02, e deverá sofrer alterações ao longo do projeto. A lista de requisitos foram extraídas a partir das seguintes técnicas de elicitações:
+    <ul>
+        <li>Brainstorm</li>
+        <li>Storytelling</li>
+        <li>Introspecção</li>
+    </ul>
+</p>
 
 <p align="justify">&emsp;&emsp;
-  A história de usuário consiste em um breve lembrete com descrição informal e em uma linguagem simples contendo o tipo de usuário, a funcionalidade que usuário precisa, e o que isso trará de valor para o mesmo. 
+    Foi determinado abordar os seguintes níveis de granularidade para backlog do projeto:
+    <ul>
+        <li>Tema</li>
+        <li>Épicos</li>
+        <li>Features</li>
+        <li>História de usuário</li>
+        <li>Critérios de aceitação</li>
+    </ul>
 </p>
 
 
-## **Backlog V1.0**
+
+### Resultados
 
 
-<!-- <table>
-    <thead>
+<table>
+    <thead style="background-color: lightblue">
         <tr>
+            <th style="text-align:center">Tema</th>
             <th style="text-align:center">Épico</th>
             <th style="text-align:center">Feature</th>
-            <th style="text-align:center">US ID</th>
+            <th style="text-align:center">US</th>
             <th style="text-align:center">História de Usuário</th>
         </tr>
     </thead>
     <tbody >
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7"><a href="../Epicos/EP01/" >Épico 01 - Cadastro e Autenticação de Cliente </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="20"><b>Lavagem de carro e outros serviços</b></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7"><a href="./Epicos/EP01/" >Épico 01 - Cadastro e Autenticação de Cliente </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Cadastro</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US01/" >US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como novo usuário do sistema, desejo realizar cadastro no site do lava-jato para ter uma conta.</td>
@@ -63,8 +89,6 @@
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US07/" >US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo que minhas informações não sejam lembradas ao fazer logout, para que ninguém possa fazer login possui minhas credenciais.</td>
-        </tr>
-        <tr>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
@@ -124,46 +148,91 @@
         <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Indicação e sistema de fidelizacão</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US18/">US18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário, desejo recomendar a aplicação para amigos, para que eu possa receber descontos e brindes.</td>
-
         <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan=19><b>Gerenciamento do lava jato.</b></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7"><a href="../Epicos/EP04/" >Épico 04 -  Cadastro e Autenticação de Gerente </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Cadastro</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US19/" >US19</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Eu, como gerente do lava-jato, desejo cadastrar uma conta no site do lava-jato para poder usar a aplicação.</td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Login</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US20/" >US20</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Eu, como um gerente do sistema, desejo realizar o login na aplicação do lava-jato para ter acesso as funcionalidades que estão disponíveis para mim.</td>
+        <tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US21/" >US21</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um gerente do sistema, desejo login automático quando marco a opção de lembrar login.</td>
+        </tr>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US22/" >US22</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um gerente do sistema, desejo visualizar minha senha para saber se não há erros de digitação.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Logout</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US23/" >US23</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo fazer logout, quando desejar sair da aplicação.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US24/" >US24</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo fazer logout, desejao que nenhuma informação pessoa minha seja lembrada pelo navegador, de modo que outro usuário não possa logar com minhas credênciais.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a href="../Epicos/EP05/" >Épico 05 -  Gerenciamento de conta de Gerente </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Editar conta de gerente</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US25/" >US25</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do lava-jato desejo modificar as minhas informações pessoas registradas na aplicação.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US26/" >US26</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do lava-jato desejo modificar as minhas informações pessoas registradas na aplicação.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a href="../Epicos/EP06/" >Épico 06 -  Dashboards</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Visualização de dados</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US27/" >US27</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do lava-jato, desejo visualizar um dashboard com a quantidade de serviços contratados/cancelados, para ter mais controle sobre quantidade de serviços prestados</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US28/" >US28</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do lava-jato, desejo visualizar um dashboard com o lucro bruto mensal, para análise do negócio.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US29/" >US29</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do lava-jato, desejo visualizar um dashboard com o lucro líquido mensal, para análise do negócio.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a href="../Epicos/EP07/" >Épico 07 -  Sistema de fidelização</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Cupons</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US30/" >US30</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema, desejo cadastrar cupons de descontos, para os clientes conseguirem aplica-los no serviço desejado.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Recompensas</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US31/" >US31</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema, desejo determinar recompensas a partir da quantidade de serviços contratados pelo mesmo cliente, para que os clientes ganhem brindes ou serviços gratuitos.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a href="../Epicos/EP08/" >Épico 08 -  Fluxo de caixa</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Despesas</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US32/" >US32</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema desejo crudar despesas fixas e variáveis(mês), para ter controle sobre lucro líquido e o fluxo de caixa.</td>
         </tr>
     </tbody>
-</table> -->
+</table>
 
-| Epics | Features | Id | User Stories|
-|:---:|:---:|:---:|:---:|
-| Épico 01 - Cadastro e Autenticação de Cliente  | Cadastro | [US01](../User-Stories/US01) | Eu, como novo usuário do sistema, desejo realizar cadastro no site do lava-jato para ter uma conta. |
-|  |  | [US02](../User-Stories/US02) |  Eu, como usuário do sistema, desejo receber um email de confirmação, para que eu possa validar a minha conta. |
-|  | Login | [US03](../User-Stories/US03) | Eu, como um usuário do sistema, desejo realizar o login na aplicação do lava-jato para ter acesso à todas as funcionalidades. |
-|  |  | [US04](../User-Stories/US04) | Eu, como um usuário do sistema, desejo visualizar minha senha, para que eu consiga confirmar se digitação está correta. |
-|  |  | [US05](../User-Stories/US05) | Eu, como usuário do sistema, desejo logar automaticamente quando marcar a opção de lembrar o login. |
-|  | Logout | [US06](../User-Stories/US06) | Eu, como usuário do sistema, desejo fazer logout da aplicação, para que ninguém acesse minha conta na mesma sessão. |
-|  |  | [US07](../User-Stories/US07) | Eu, como usuário do sistema, desejo que minhas informações não sejam lembradas ao fazer logout, para que ninguém possa fazer login possui minhas credenciais. |
-|  |  |  |  |
-| Épico 02 - Perfil do Usuário  | Informação do Usuário | [US08](../User-Stories/US08) | Eu, como usuário, desejo ter uma página de perfil, para que consiga acessar as minhas informações. |
-|  |  |  |  |
-|  | Alterar dados de usuário | [US09](../User-Stories/US09) | Eu, como usuário, desejo editar minhas informações de perfil, para que eu possa atualizar meus dados quando necessário.          |
-|  |  | [US10](../User-Stories/US10) | Eu, como usuário, desejo deletar minha conta, para que todos meus registros sejam apagados. |
-|  | Forma de Pagamento | [US11](../User-Stories/US11) | Eu, como usuário, desejo escolher minha forma de pagamento, para que eu possa pagar da maneira que eu preferir. |
-| Épico 03 - Gerenciamento de serviços  | Agendar serviços | [US12](../User-Stories/US12) |  Eu, como usuário, desejo agendar um serviço, para que eu possa ter meu carro lavado. |
-|  |  |  |  |
-|  | Cancelar serviços | [US13](../User-Stories/US13) |  Eu, como usuário, desejo cancelar um serviço, para que eu possa desmarcar a ação caso eu esteja ocupado ou simplesmente não posso comparecer a data anteriormente agendada.          |
-|  | Remarcar um serviço | [US14](../User-Stories/US14) | Eu, como usuário, desejo remarcar um serviço, para que eu possa obter a lavagem em uma data mais adequada a minha agenda. |
-|  | Avaliar um  serviço | [US15](../User-Stories/US15) | Eu, como usuário, desejo  fazer um comentário sobre determinado serviço para que eu possa deixar um feedback construtivo sobre a lavagem realizada. |
-|  |  | [US16](../User-Stories/US16) | Eu, como usuário, desejo avaliar de maneira simples  determinado serviço para que eu possa deixar um feedback sobre a lavagem realizada.a. |
-|  | Verificação do serviço | [US17](../User-Stories/US17) | Eu, como usuário, desejo verificar o status de um determinado serviço agendado/contratado para que eu possa ver de forma detalhada o percursso da lavagem. |
-|  | Indicação e sistema de fidelizacão | [US18](../User-Stories/US18) | Eu, como usuário, desejo recomendar a aplicação para amigos, para que eu possa receber descontos e brindes. |
-|  |  |  |  |
-|  | Criar conta de gerente | [US19](../User-Stories/US19) | Eu, como gerente do lava-jato, desejo cadastrar uma conta no site do lava-jato para poder usar a aplicação. |
-|  | Editar conta de gerente | [US20](../User-Stories/US20) | Eu, como gerente do lava-jato desejo modificar as minhas informações pessoas registradas na aplicação. |
-|  | Deletar conta de gerente | [US21](../User-Stories/US21) | Eu, como um gerente do sistema, desejo que ao deletar minha conta, as minhas informações sejam esquecidas. |
-|  | Login do gerente | [US22](../User-Stories/US22) | Eu, como um gerente do sistema, desejo realizar o login na aplicação do lava-jato para ter acesso as funcionalidades que estão disponíveis para mim. |
-|  |  | [US23](../User-Stories/US23) | Eu, como um gerente do sistema, desejo login automático quando marco a opção de lembrar login. |
-|  |  | [US24](../User-Stories/US24) | Eu, como um gerente do sistema, desejo visualizar minha senha para saber se não há erros de digitação. |
-|  | Logout de gerente | [US25](../User-Stories/US25) | Eu, como usuário do sistema, desejo fazer logout, quando desejar sair da aplicação. |
-|  |  | [US26](../User-Stories/US26) | Eu, como usuário do sistema, desejo fazer logout, desejao que nenhuma informação pessoa minha seja lembrada pelo navegador, de modo que outro usuário não possa logar com minhas credênciais. |
+### Conclusão
+
+<p align="justify">&emsp;&emsp;
+    Apesar do product backlog ser uma lista ordenada e priorizada com todos os requisitos, acredito que o documento está com mais requisitos do que deveria devido ao tempo que será disponibilizado. Entretanto, foi realizado uma matriz de esforço-ganho para determinar quais são os épicos que devem permancer no product backlog até o final da entrega, os épicos mais agregarão valor para o projeto são: E01, E03, E04, E06 E08.
+</p>
 
 ## Referências
 
- * referencias aqui
+> [1] - Product Backlog. Disponível em : https://www.atlassian.com/agile/scrum/backlogs. Acesso em: 02 de fev. de 2022.
+
+> [2] - Animalesco - Product Backlog. Disponível em: https://unbarqdsw2021-1.github.io/2021.1_G01_Animalesco_docs/#/pages/backlog-do-produto?id=_4-requisitos-funcionais. ACesso em: 02 de fev. de 2022
+
+> [3] - What is product backlog. Disponível em: https://www.scrum.org/resources/what-is-a-product-backlog. Acesso em: 02 de fev. de 2022.
+
+> [4] - Curumim - Prodcut backlog. Disponível em : https://unbarqdsw2021-1.github.io/2021.1_G6_Curumim/product-backlog/. Acesso em: 02 de fev. de 2022.
