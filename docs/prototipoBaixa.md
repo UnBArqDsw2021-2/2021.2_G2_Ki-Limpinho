@@ -27,8 +27,8 @@ Abaixo temos o protótipo de baixa fidelidade produzido:
 
 > - BARBOSA. Simone. SILVA. Bruno. 2010. Interação Humano-computador.
 
-> -   Fidelidade de protótipos: Baixa, Média ou Alta, conheça os tipos: https://www.vitaminaweb.com.br/fidelidade-de-prototipos-baixa-media-ou-alta/. Último acesso em 04/08/2021.
+> -   Fidelidade de protótipos: Baixa, Média ou Alta, conheça os tipos: https://www.vitaminaweb.com.br/fidelidade-de-prototipos-baixa-media-ou-alta/. Acesso em: 31 fev. 2022.
 
-> - Protótipos de Baixa fidelidade x Alta fidelidade. Qual escolher para seu produto?: https://medium.com/pan-design/prot%C3%B3tipos-de-baixa-fidelidade-x-alta-fidelidade-qual-escolher-para-seu-produto-6f3d0f95733c/. Último acesso em 28/08/2021
+> - Protótipos de Baixa fidelidade x Alta fidelidade. Qual escolher para seu produto?: https://medium.com/pan-design/prot%C3%B3tipos-de-baixa-fidelidade-x-alta-fidelidade-qual-escolher-para-seu-produto-6f3d0f95733c/. Último acesso em Acesso em: 31 fev. 2022.
 
-> - Protótipo de baixa fidelidade: o que é e como desenvolver em um projeto?: https://www.digitalhouse.com/br/blog/prototipo-de-baixa-fidelidade/. Último acesso em 28/08/2021
+> - Protótipo de baixa fidelidade: o que é e como desenvolver em um projeto?: https://www.digitalhouse.com/br/blog/prototipo-de-baixa-fidelidade/. Acesso em: 31 fev. 2022.
