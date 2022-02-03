@@ -23,25 +23,25 @@
 
 ![Definir a metodologia](assets/images/bpmn/processo_geral_bpmn.png)
 
-<center>[Figura 1: Diagrama BPMN do processo de definição da metodologia.](/assets/bpmn/processo_geral_bpmn.png)</center>
+<center>[Figura 1: Diagrama BPMN do processo de definição da metodologia.](assets/bpmn/processo_geral_bpmn.png)</center>
 
 ## Definir Tema
 
 ![Definir o tema](assets/images/bpmn/definir_tema_bpmn.png)
 
-<center>[Figura 2: Diagrama BPMN do processo de definição do tema.](/assets/bpmn/processo_geral_bpmn.png)</center>
+<center>[Figura 2: Diagrama BPMN do processo de definição do tema.](assets/bpmn/processo_geral_bpmn.png)</center>
 
 ## Design Sprint
 
 ![Definir Design Sprint](assets/images/bpmn/design_sprint_bpmn.png)
 
-<center>[Figura 3: Diagrama BPMN do processo de definição do design de sprint.](/assets/bpmn/processo_geral_bpmn.png)</center>
+<center>[Figura 3: Diagrama BPMN do processo de definição do design de sprint.](assets/bpmn/processo_geral_bpmn.png)</center>
 
 ## Sprint Planning
 
 ![Definir Sprint](assets/images/bpmn/sprint_bpmn.png)
 
-<center>[Figura 4: Diagrama BPMN do processo de definição do planejamento da sprint.](/assets/bpmn/processo_geral_bpmn.png)</center>
+<center>[Figura 4: Diagrama BPMN do processo de definição do planejamento da sprint.](assets/bpmn/processo_geral_bpmn.png)</center>
 
 ## Referências
 
