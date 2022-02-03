@@ -6,6 +6,7 @@ theme:
   features: navigation.tabs
 
 nav:
+
   - Home: 
     - Home: "index.md"
     - Heatmap: "heatmap.md"
@@ -51,3 +52,13 @@ nav:
         - US30: modelagem/User-Stories/US30.md
         - US31: modelagem/User-Stories/US31.md
         - US32: modelagem/User-Stories/US32.md
+
+  - Home: "index.md"
+  - Heatmap: "heatmap.md"
+  - Personas: "sprint01/Personas.md"
+  - Story Telling: "sprint01/StoryTelling.md"
+  - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
+  - TAP: "tap.md"
+  - Documento: "DocumentoDeVisao.md"
+
+
