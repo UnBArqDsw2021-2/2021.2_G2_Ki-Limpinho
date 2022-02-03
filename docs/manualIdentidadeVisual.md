@@ -4,7 +4,7 @@
 | 03.02.2021 |  0.1   | Adição do manual de identidade visual | Natanael Filho|   fi
 
 
-<embed src="https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/tree/28-identidadeVisual/docs/assets/pdf/manualIdentidadeVisual.pdf" width="800px" height="500px" />
+<embed src="/assets/pdf/manualIdentidadeVisual.pdf" width="800px" height="500px" />
 
 ## Bibliografia
 
