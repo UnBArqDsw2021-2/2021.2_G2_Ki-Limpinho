@@ -1,8 +1,8 @@
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 03.02.2021 |  0.1   | Adição do manual de identidade visual | Natanael Filho|   fi
-
+| 03.02.2021 |  0.1   | Adição do manual de identidade visual | Natanael Filho|  
+| 03.02.2021 |  0.2 | Revisao e aprovacao do documento  | Davi Matheus | 
 
 <embed src="/assets/pdf/manualIdentidadeVisual.pdf" width="800px" height="500px" />
 
