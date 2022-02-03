@@ -55,10 +55,16 @@ nav:
 
   - Home: "index.md"
   - Heatmap: "heatmap.md"
-  - Personas: "sprint01/Personas.md"
-  - Story Telling: "sprint01/StoryTelling.md"
+  - Personas: "Personas.md"
+  - Story Telling: "StoryTelling.md"
   - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
   - TAP: "tap.md"
   - Documento: "DocumentoDeVisao.md"
+  - Sprints:
+    Sprint01: 
+      Planning: Sprints/Sprint01/Planning.md
+      Review: Sprints/Sprint01/Review.md
+    Sprint02: 
+      Planning: Sprints/Sprint02/Planning.md
 
 
