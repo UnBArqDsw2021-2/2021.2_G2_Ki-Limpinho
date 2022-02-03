@@ -11,12 +11,16 @@ nav:
     - Heatmap: "heatmap.md"
   - Base:
     - Product Backlog: "modelagem/backlog.md" 
-    - Épicos:
+    - Epics:
       - EP01: "modelagem/Epicos/EP01.md"
       - EP02: "modelagem/Epicos/EP02.md"
       - EP03: "modelagem/Epicos/EP03.md"
       - EP04: "modelagem/Epicos/EP04.md"
-    - User-Stories:
+      - EP05: "modelagem/Epicos/EP05.md"
+      - EP06: "modelagem/Epicos/EP06.md"
+      - EP07: "modelagem/Epicos/EP07.md"
+      - EP08: "modelagem/Epicos/EP08.md"
+    - User Stories:
       - US01: "modelagem/User-Stories/US01.md"
       - US02: "modelagem/User-Stories/US02.md"
       - US03: "modelagem/User-Stories/US03.md"
@@ -57,10 +61,10 @@ nav:
   - Documento: "DocumentoDeVisao.md"
   - Sprints:
     - Sprint01: 
-      - Planning: "Sprints/Sprint01/Planning.md"
-      - Review: "Sprints/Sprint01/Review.md"
+      - Planning: "Sprints/sprint01/Planning.md"
+      - Review: "Sprints/sprint01/Review.md"
     - Sprint02: 
-      - Planning: "Sprints/Sprint02/Planning.md"
+      - Planning: "Sprints/sprint02/Planning02.md"
   - Manual de Identidade Visual: "manualIdentidadeVisual.md"
 
 
