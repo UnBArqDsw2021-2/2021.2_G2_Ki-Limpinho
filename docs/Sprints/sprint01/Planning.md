@@ -10,9 +10,10 @@
 ## Objetivo da sprint 
   -
 
-  ## Issues da sprint
+## Issues da sprint
+
 | Número | Descrição | Pontuação | Responsável(eis) |
-| -- | -- | -- | -- |
+| :- | :- | :- | :- |
 | [#1](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/1)   | Criar gh-pages disciplina | 2 | Natanael |
 | [#2](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/2)   | Brainstorm | 1 | Individual, geral  |
 | [#3](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/3)   | Mapa mental |2| Individual, geral  |
