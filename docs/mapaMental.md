@@ -4,7 +4,7 @@
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
 | 02/02/2022 | 1.0.0 | Criação e elaboração do documento | Davi Matheus |
-
+| 03/02/2022 | 1.1.0 | Adição dos topicos 5 e 6 | Davi matheus |
 
 ## 1. Introdução
 
@@ -188,29 +188,16 @@ A visão geral do projeto propõe definir conceito, aplicativos similares e list
   </figcaption>
 </p>
 
-### 3.2 Visão geral da equipe
+## 6. Resultados e Conclusões
 
-A visão geral da equipe propõe definir possíveis metodologias, tecnologias de gerenciamento e ciclo de vida do projeto. Abarcando futuras decisões, mas agregando valor para conceitos que são definidos ao decorrer do desenvolvimento dos documentos. O mapa mental a respeito dessa visão pode ser visto abaixo:
-
-<p align='center'>
-  <img src='https://raw.githubusercontent.com/UnBArqDsw2021-1/2021.1_G01_Animalesco_docs/main/docs/assets/pages/mapa-mental/mapa_mental_metologia_e_desenvolvimento.png'>
-  <figcaption align='center'>
-      <b>Figura 3: Mapa mental de visão geral da equipe feito pelo Whimsical</b>
-      <br>
-      <small>Autores: Leonardo Gomes e Lorrany Souza.</small>
-  </figcaption>
-</p>
-
-## 4. Resultados e Conclusões
-
-O documento aqui exposto teve como objetivo a criação de um mapa mental, que culminou na melhor estruturação das ideias dadas pelos membros da equipe, acerca do projeto de acompanhamento da saúde e rotina de animais de estimação. Foi possível delimitar e esclarecer as ideias, que inicialmente, se apresentavam vagas, mas que agora se tornaram mais lúcidas. Dessa forma, será possível argumentar o porque e como será criado esse projeto e nosso objetivos para a matéria de Arquitetura de Desenho de Software.
+Essa atividade de elaboração de mapas mentais individuais e depois um mapa mental do grupo colaborou para o entendimento coletivo da aplicação que culminou na melhor estruturação das ideias dadas pelos membros da equipe, acerca do projeto em que após analisar cada um dos mapas mentais produzidos foi possível identificar conjunto de funcionalidades que todos citaram, assim conseguindo levandar mais requisitos e todos os integrantes entenderem o fluxo do projeto.
+.
 
 ## Bibliografia
 
 1. **Silva, Milena da Costa**. Mapas mentais: uma ferramenta para o desenvolvimento da competência em informação – Rio de Janeiro, 2010.
 
-2. Mapa mental. **Stock**. Disponível em https://unbarqdsw.github.io/2020.1_G12_Stock/#/preTraceability/MapaMental (Último acesso em 29/07/2021)
+2. Mapa mental: como fazer e para que serve essa técnica? **Mariane Roccelo**. Disponível em https://www.estudarfora.org.br/mapa-mental/ (Último acesso em 03/02/2021)
 
-3. Mapa mental. **QRodizio**. Disponível em https://unbarqdsw.github.io/2020.1_G10_QRodizio/base/mapa_mental.html (Último acesso em 29/07/2021)
 
 4. Como fazer um MAPA MENTAL Passo a Passo | Seja Um Estudante Melhor. Canal **SejaUmaPessoaMelhor** Disponível em https://www.youtube.com/watch?v=m1qW0wPJV1M (Último acesso em 29/07/2021)
