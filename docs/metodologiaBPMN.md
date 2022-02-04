@@ -6,6 +6,7 @@
 | ---------- | ------ | ------------------------ | ---------------------------------------------- |
 | 03.02.2022 | 0.1    | Criação do documento     | Peniel Zannoukou                               |
 | 03.02.2022 | 0.2    | Adição das imagens 1 a 4 | Caio Martins, Jonathan Jorge, Peniel Zannoukou |
+| 04.02.2022 | 0.3    | Correção do documento e adição do BPMN para sprint Review | Nilvan Peres |
 
 ## Participantes
 
@@ -42,6 +43,13 @@
 ![Definir Sprint](assets/images/bpmn/sprint_bpmn.png)
 
 <center>[Figura 4: Diagrama BPMN do processo de definição do planejamento da sprint.](assets/bpmn/processo_geral_bpmn.png)</center>
+
+## Review da Sprint
+
+![Review Sprint](assets/images/bpmn/sprint_review.png)
+
+<center>[Figura 4: Diagrama BPMN do processo de definição do planejamento da sprint.](assets/bpmn/sprint_review)</center>
+
 
 ## Referências
 
