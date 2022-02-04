@@ -1,16 +1,16 @@
 # <center> Planning sprint 01
 
 
-## Informações básicas Planning
+## 1. Informações básicas Planning
   - Local Reunião: Teams
   - Data e horário Reunião: 25/10/2022 às 21h
   - Duração da sprint: 6 dias
   - Quantidade de issues planejadas: 17
 
-## Objetivo da sprint 
+## 2. Objetivo da sprint 
   -
 
-## Issues da sprint
+## 3. Issues da sprint
 
 | Número | Descrição | Pontuação | Responsável(eis) |
 | :- | :- | :- | :- |
@@ -33,7 +33,9 @@
 | [#17](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/17)   | Especificação suplementar(FURPS) | 2 |  Henrique |
 
 
-## Gravações disponíveis
+## 3. Gravações disponíveis
+
+<iframe width="964" height="542" src="https://www.youtube.com/embed/iaJnCPtc00Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    
 

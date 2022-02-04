@@ -28,7 +28,7 @@ Para a realização do Brainstorming foi utilizado a ferramenta Miro. Por meio d
 ### 3.1. *Brainstorming* requisitos funcionais para o cliente
 
 <p align='center'>
-    <img src='../../assets/brainstorm/Brainstorming _cliente.jpg'>
+    <img src='../../assets/img/brainstorm/Brainstorming _cliente.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Brainstorm para gerar requisitos funcionais para o cliente</b>
         <br>
@@ -40,7 +40,7 @@ Para a realização do Brainstorming foi utilizado a ferramenta Miro. Por meio d
 ### 3.2. *Brainstorming* requisitos funcionais para o gerente
 
 <p align='center'>
-    <img src='../../assets/brainstorm/Brainstorming_gerente.jpg'>
+    <img src='../../assets/img/brainstorm/Brainstorming_gerente.jpg'>
     <figcaption align='center'>
         <b>Figura 2: Brainstorm para gerar requisitos funcionais para o gerente</b>
         <br>
@@ -83,7 +83,7 @@ BS24  | O gerente deve ser capaz de visualizar as avaliações de serviço      
 ## 4. *Brainstorming* requisitos não funcionais.
 
 <p align='center'>
-    <img src='../../assets/brainstorm/Brainstorming_NF.jpg'>
+    <img src='../../assets/img/brainstorm/Brainstorming_NF.jpg'>
     <figcaption align='center'>
         <b>Figura 3: Brainstorm para gerar requisitos não funcionais</b>
         <br>
@@ -126,7 +126,7 @@ Por fim, o último Brainstorming feito até o momento foi para definição do no
 </p>
 
 <p align='center'>
-    <img src='../../assets/brainstorm/brainstorm_nomes.png'>
+    <img src='../../assets/img/brainstorm/brainstorm_nomes.png'>
     <figcaption align='center'>
         <b>Figura 4: Votação para o nome do projeto</b>
         <br>
