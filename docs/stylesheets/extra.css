@@ -1,0 +1,25 @@
+
+/*  primary-color:        #6998F6;
+    primary-color--light: #9FB6E3;
+    secondary-color: #544FE3;
+*/
+  .md-header {
+    background: linear-gradient(90deg, #6998f6, #544fe3);
+      color: white !important;
+  }
+  
+  .md-tabs {
+      background: linear-gradient(90deg, #6998f6, #544fe3);
+      color: white !important;
+  }
+  
+  
+  .md-typeset table thead tr {
+    background: linear-gradient(90deg, #6998f6, #544fe3);
+      color: white;
+  }
+  
+  .md-typeset__table table {
+      border-radius: 10px !important;
+      box-shadow: 0 0 0.5em #0000003f !important;
+  }
