@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 29/01/2022 |  0.1   | Criação do documento | Davi Matheus    |
+| 03/02/2022 |  0.2   | Revisão do documento e adição de outras ferramentas | Nilvan Peres   |
 
 
 
@@ -122,7 +123,7 @@ Time box utilizado pela equipe :
 #### ZenHub
 
 
- Nesse projeto utilizamos o ZenHub como uma extensão do GitHub, em que o grupo, através de Sprints e issues consegue organizar e dar funções para os membros ao longo da semana. 
+ Nesse projeto utilizamos o ZenHub como uma extensão do GitHub, em que o grupo, através de Sprints e issues consegue organizar e dar funções para os membros ao longo da semana. Com a ferramenta também será possível extrair métricas importantes para saber se o desenvolvimento de fato está ágil, como os gráficos de burndown, e velocity.
 
 <p align = "center"> &emsp;&emsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/zenhub-logo-png-transparent.png" width="200" height="200"/> </p>
 
@@ -137,6 +138,30 @@ Time box utilizado pela equipe :
 
 <p align = "center"> &emsp;&emsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/1024px-Google_Drive_logo.png" width="200" height="200"/> </p>
 
+### Whimsical
+
+   Whimsical é uma ferramenta de desenvolvimento visual, ideal para desenvolver projetos de forma colaborativas, além da possibilidade de construir fluxos das seguintes formas: mapas mentais, wireframe, flowchart. Por fim, a plataforma ainda permite criar documentos a partir de vários templates bem interessantes, tais como: retrospectiva, matriz de prioridade, análise swot, etre outros.
+
+   Essa aplicação será utiliza pela maioria do grupo para construir algum fluxo do projeto, facilitando o entedimento de mais alto nível para o desenvolvimento. Alguns integrantes utilizaram para contruir mapa mental e o rich picture, entretando o uso da plataforma não será limitado apenas a esses dois artefatos.
+
+   <p align = "center"> &emsp;&emsp; <img src="https://i.ibb.co/y5HrxHb/7c9d33.png" alt="7c9d33" border="0" width="200" height="200"/> </p>
+
+### Miro 
+
+   Miro também é uma ferramenta de desenvolvimento visual, e como a ferramenta anterior também auxilia no desenvolvimento de projetos de forma colaborativa, é bastante conhecida por ser possível elaborar jornadas de projeto com ela com seus famosos post-its e comentários, a plataforma também permite referenciar um post-it a outro, ajudando na rastreabilidade do fluxo.
+
+   Essa aplicação também nos auxiliará no fluxo do projeto, e possivelmente será a escolhida para o desenvolvimento do brainstorm, e das reuniões de retrospectivas, permitindo um desenvolvimento ágil dessas técnicas.
+
+
+   <p align = "center"> &emsp;&emsp; <img src="https://i.ibb.co/bvkvq6k/Miro.png" alt="7c9d33" border="0" width="200" height="200"/> </p>
+
+### Figma
+
+   Figma é uma ferramenta de User Intefarce, muito conhecido pela criação de prototipagem, onde todo o fluxo da aplicação pode ser mapeado, criando um mockup totalmente fidedigno a aplicação. Além disso também é possível combinar a aplicação com outras extensções para obter um mapa de calor, em algum teste de validação do protótipo.
+
+   Essa aplicação nos ajudará a construir os protótipos relacionados ao projeto, e em possíveis testes de validação.
+
+   <p align = "center"> &emsp;&emsp; <img src="https://i.ibb.co/J3snH7J/Logo-Figma.png" alt="7c9d33" border="0" width="200" height="200"/> </p>
 
 ### Bibliografia
 
