@@ -1,4 +1,4 @@
-# Planning sprint 01
+# <center> Planning sprint 01
 
 
 ## Informações básicas Planning

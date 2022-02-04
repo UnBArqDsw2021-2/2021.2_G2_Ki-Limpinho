@@ -9,19 +9,20 @@
 | 31.01.2022 |  0.3   | Criação Épicos 4,5,6,7 e adição de coluna tema | Nilvan Peres |
 | 31.01.2022 |  0.4   | Adição dos tópicos introdução, metodologia, resultados e conclusão | Nilvan Peres |
 | 03.02.2022 |  0.5   | Refatoração dos requisitos |Lucas Lima e Lucas Melo |
+| 04.02.2022 | 0.5.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 
 ### Responsáveis pelo documento
 - Nilvan Peres
 - Davi Matheus
 - Henrique
 
-### Introdução
+## 1. Introdução
 
 <p align="justify">&emsp;&emsp;
-    O product backlog é uma das ferramentas essenciais da metologia Scrum, e consiste em uma lista priorizada, contendo todas as funcionalidades/comportamentos desejados para determinada aplicação. Vale ressaltar que, o product backlog está em constante mudanças, com o decorrer do desenvolvimento do projeto o entedimento vai prioridades são alteradas, novas demandas surgem, ou outros comportamentos podem ser descartados, é de suma importância ter o product backlog atualizado para ter uma organização mais otimizada sobre o projeto.[1]
+    O product backlog é uma das ferramentas essenciais da metologia Scrum, e consiste em uma lista priorizada, contendo todas as funcionalidades/comportamentos desejados para determinada aplicação. Vale ressaltar que, o product backlog está em constante mudanças, com o decorrer do desenvolvimento do projeto o entendimento vai prioridades são alteradas, novas demandas surgem, ou outros comportamentos podem ser descartados, é de suma importância ter o product backlog atualizado para ter uma organização mais otimizada sobre o projeto.[1]
 </p>
 
-### Metodologia
+## 2. Metodologia
 <p align="justify">&emsp;&emsp;
     O artefato foi desenvolvido ao longo da sprint 01 e 02, e deverá sofrer alterações ao longo do projeto. A lista de requisitos foram extraídas a partir das seguintes técnicas de elicitações:
     <ul>
@@ -44,7 +45,7 @@
 
 
 
-### Resultados
+## 3. Resultados
 
 
 <table>
@@ -206,13 +207,13 @@
     </tbody>
 </table>
 
-### Conclusão
+## 4. Conclusão
 
 <p align="justify">&emsp;&emsp;
-    Apesar do product backlog ser uma lista ordenada e priorizada com todos os requisitos, acredito que o documento está com mais requisitos do que deveria devido ao tempo que será disponibilizado. Entretanto, foi realizado uma matriz de esforço-ganho para determinar quais são os épicos que devem permancer no product backlog até o final da entrega, os épicos mais agregarão valor para o projeto são: E01, E03, E04, E06 E08.
+    Apesar de ser uma lista ordenada e priorizada com todos os requisitos, o product backlog está com mais requisitos do que deveria devido ao tempo que será disponibilizado. Entretanto, foi realizado uma matriz de esforço-ganho para determinar quais são os épicos que devem permanecer no product backlog até o final da entrega, os épicos mais agregarão valor para o projeto são: E01, E03, E04, E06 E08.
 </p>
 
-## Referências
+## 5. Referências
 
 > [1] - Product Backlog. Disponível em : https://www.atlassian.com/agile/scrum/backlogs. Acesso em: 02 de fev. de 2022.
 
