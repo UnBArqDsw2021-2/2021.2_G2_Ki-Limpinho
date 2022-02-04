@@ -1,29 +1,23 @@
 |Data|Versão|Descrição|Autor(es)|          
 |-----|------|---------|----------|           
 |30/01/2022|0.1| Versão inicial | Lucas Lima, Jonathan Jorge, Yuri Alves |
+| 04.02.2022 | 0.1.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 
-
-## Sumário
-1. [Protótipo de Baixa Fidelidade](#1---protótipo-de-baixa-fidelidade)  
-2. [Metodologia](#2---metodologia)
-3. [Protótipo produzido](#3---protótipo-produzido)
-4. [Bibliografia](#4---bibliografia)
-
-## 1 - Protótipo de Baixa Fidelidade
+## 1. Protótipo de Baixa Fidelidade
 
 &emsp;&emsp;Os protótipos de baixa fidelidade são feitos  à mão no papel. Eles visam definir a interação do usuário com a aplicação da forma mais simples o possível, e esse tipo de protótipo tem como objetivo coletar feedbacks rápidos, por isso acabam não levando em conta o refinamento do design, além disso, o pricinpal foco é a arquitetura e as funcionlidades. São utilizados para ajudar na definição do projeto e na elicitação de requisitos do produto.
 
-## 2 - Metodologia
+## 2. Metodologia
 
 &emsp;&emsp;O grupo decidiu reunir três membros e fazer um protótipo de baixa fidelidade com base nos requisitos que foram elicitados anteriormente.
 
-## 3 - Protótipo Produzido
+## 3. Protótipo Produzido
 
 Abaixo temos o protótipo de baixa fidelidade produzido:
-<img width="1500" height="1500" src="../assets/prototipoBaixa.jpeg">
+<img width="1500" height="1500" src="../assets/img/prototipagem/prototipoBaixa.jpeg">
 
 
-## 4 - Bibliografia
+## 4. Bibliografia
 
 > - BARBOSA. Simone. SILVA. Bruno. 2010. Interação Humano-computador.
 

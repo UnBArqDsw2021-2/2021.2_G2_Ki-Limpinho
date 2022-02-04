@@ -6,16 +6,15 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 03.02.2022 | 0.1 | Criação do documento | Nilvan Júnior, Lucas Melo|
+| 04.02.2022 | 0.1.1 | Revisão do documento | Natanael Filho |
 
 ### Participantes
 
 * Lucas Melo
 * Nilvan Júnior
 
-<br><br>
 
-
-### Introdução
+## 1. Introdução
 <div align="justify"> 
   A design sprint é uma técnica utilizada para acelerar desenvolvimento de projetos que estão na fase inicial e foi desenvolvido pela Google Ventures, são 5 dias de reuniões seguidos, e o principal objetivo é sanar dúvidas que podem comprometer o desenvolvimento do produto, otimizar tempo e validar as ideias de negócio a partir de testes. Ao invés de ter que esperar um MVP para conseguir inferir se o produto é de qualidade, essa técnica permite encurtar o tempo em apenas poucos dias, porém, são dias intensos.[1]
   Os fluxos da design sprint são: 
@@ -26,7 +25,7 @@
 
 <br>
 
-### Metodologia
+## 2. Metodologia
 <div align="justify"> 
   Realizamos a metodologia com adaptações que faziam sentido para o grupo, abaixo descreverei quais foram as adaptações em cada fase dessa técnica de desenvolvimento.
   <ul> 
@@ -39,10 +38,10 @@
 
 <br>
 
-### Resultados
+## 3. Resultados
 
 
-#### Unpack
+### 3.1. Unpack
 
   Para essa fase foi determinado a elaboração dos seguintes artefatos:
 
@@ -54,7 +53,7 @@
 
   - Diagrama de causa-efeito: Essa técnica também é mais focado no problema, e faz uma classifcação dos mesmos em categorias diferentes.
   
-#### Sketch
+### 3.2. Sketch
 
   Para essa fase foi determinado a elaboração dos seguintes artefatos:
 
@@ -64,7 +63,7 @@
 
   - Personas: Esse artefato foi desenvolvido para simular possíveis stakeholders interessados no projeto, e determinar melhor qual seria nosso público alvo principal, também visando melhorar essa fase da design sprint.
 
-### Decide
+## 4. Decide
 
   Após a realização da elicitação de requisitos foi realizado as seguintes técnicas para cotemplar a fase de decisão:
   
@@ -74,7 +73,7 @@
 
 
 
-## Referências
+## 5. Referências
 
 > [1] Design sprint - GV. Disponível em : [https://www.gv.com/sprint/](https://www.gv.com/sprint/) . Acesso em 31:  jan. 2022.
 
@@ -82,4 +81,4 @@
 
 > [3] Como funciona design sprint - Brasil UX design. Disponível em [https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659](https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659).  Acesso em 31:  jan. 2022.
 
-> [4] Design sprint - Curumim. Disponível em : (https://unbarqdsw2021-1.github.io/2021.1_G6_Curumim/base/design-sprint/doc-design-sprint/)[https://unbarqdsw2021-1.github.io/2021.1_G6_Curumim/base/design-sprint/doc-design-sprint/]. Acesso em 3:  fev. 2022.
+> [4] Design sprint - Curumim. Disponível em : [https://unbarqdsw2021-1.github.io/2021.1_G6_Curumim/base/design-sprint/doc-design-sprint/](https://unbarqdsw2021-1.github.io/2021.1_G6_Curumim/base/design-sprint/doc-design-sprint/). Acesso em 3:  fev. 2022.

@@ -8,7 +8,7 @@
 | 04.02.2022 | 0.2 | Melhorias após o PR | Peniel Zannoukou |
 | 04.02.2022 | 0.3 | Revisão do Documento | Davi e Natanael |
 
-## Metodologia
+## 1. Metodologia
 <div align="justify">&emsp;&emsp; O Diagrama de Ishikawa , também conhecido como "Diagrama de Causa e Efeito" ou "Espinha-de-peixe", é utilizado pela administração para o gerenciamento e controle de qualidade sendo uma ferramenta gráfica que auxilia em diversos processos. Os diagramas de Ishikawa são ferramentas sistemáticas muito úteis para encontrar, classificar e documentar as causas da variação da qualidade em uma determinada produção e organizar a mútua relação entre elas. Esse diagrama vai analisando sobre diferentes perspectivas,diferentes pontos de vistas, levantando uma série de causas que podem estar levando à um dado efeito.</div>
 <div align="justify">&emsp;&emsp; Para construção do diagrama de causa e efeito foram definidos os problemas e suas possíveis causas, para o escopo do projeto foram escolhidas 6 categorias das possíveis causas, sendo elas as seguintes: 
 
@@ -24,9 +24,9 @@
 </br>
 <div align="justify">&emsp;&emsp; Dessa forma foi possível fazer uma dedução mais objetiva das possíveis causas e montar uma estratégia para resolver os problemas levantados.</div><br>
 
-## Resultado
+## 2. Resultado
 
-![Figura 1: Diagrama Causa-Efeito](img/fishbone.png)
+![Figura 1: Diagrama Causa-Efeito](assets/img/ishikawa/fishbone.png)
 <center>Figura 1: Diagrama Causa-Efeito</center>
 <center>Autor: Peniel Zannoukou</center>
 
@@ -40,10 +40,10 @@
 * Clientes: com imprevistos cotidianos que levam a impossibilidade de prosseguir com o que foi agendado no sistema, os clientes tendem a esquecer de avisar a ausência ou simplesmente não comparecem ao estabelecimento. Além disso, nem todas as empresas conseguem organizar-se de tal maneira que consigam avisar com atecedência aos seus clientes o atendimento marcado.<br>
 
 
-## Conclusão 
+## 3. Conclusão 
 Através do uso do diagrama de causa e efeito foi possível ter uma visão maior sobre as causas dos problemas que nossa aplicação deve ser capaz de resolver, dessa forma, devemos levantar requisitos que sejam capazes de ser a solução para cada uma das causas identificadas.
 
-## Referência
+## 4. Referência
 
 > ISHIKAWA, Kaoru. Controle de Qualidade Total. 6. ed. Rio de Janeiro, Campus Editora, 1998.<br>
 > ANDRADE, Luiza. Diagrama de Ishikawa: o que é e como fazer. Siteware, 2017. Disponível em: https://www.siteware.com.br/blog/metodologias/diagrama-de-ishikawa/. Acesso em: 3 de Fevereiro de 2022.<br>

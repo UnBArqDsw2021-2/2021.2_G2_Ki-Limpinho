@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 02/02/2022 |  0.1   | Criação do documento | Davi Matheus |
 | 04/02/2022 |  0.2   |Revisão do documento | Lucas Melo |
+| 04.02.2022 | 0.2.1 | Revisão do documento | Natanael Filho |
 
 
 
@@ -13,7 +14,6 @@
 * Davi Matheus
 * Lucas Melo
 * Lucas Lima
-* Davi Matheus
 * Nilvan Peres
 * Henrique Melo
 * Caio Martins
@@ -22,16 +22,12 @@
 
 ### 1. Introdução
 <p align="justify">&emsp;&emsp;
-`Rich pictures` se trata de uma forma de modelagem de ideias pouco formal e ideal para reuniões já que propicia um rápido entendimento sobre problemas complexos ou mal definidos. É um modelo informal, bem fácil de entender, baseando-se em rascunhar desenhos e usar textos curtos e objetivos para expressar um momoneto, um desejo. O interessante dessa técnica é que ela pode ser construído colaborativamente com os  stackholders, em que eles interveen, mexem e colaborão
-desenhos
-
-
-Para se criar um `rich picture`, pode-se utilizar ou  mão livre ou um software , as `rich pictures` por ser um modelo informal não há consenso sobre sua sintaxe e sobre sua forma de uso com isso deixamos que nosso criativo e imaginario nos guie durante o processo de criação deste artefato.
+<code>Rich pictures</code> se trata de uma forma de modelagem de ideias pouco formal e ideal para reuniões já que propicia um rápido entendimento sobre problemas complexos ou mal definidos. É um modelo informal, bem fácil de entender, baseando-se em rascunhar desenhos e usar textos curtos e objetivos para expressar um momento, um desejo. O interessante dessa técnica é que ela pode ser construído colaborativamente com os  stackholders, em que eles intervém, mexem e colaborão para se criar um <code>rich picture</code>, pode-se utilizar ou  mão livre ou um software , as <code>rich pictures</code> por ser um modelo informal não há consenso sobre sua sintaxe e sobre sua forma de uso com isso deixamos que nosso criativo e imaginário nos guie durante o processo de criação deste artefato.
 </p>
 
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_exemplo.jpeg'>
+    <img src='../assets/img/rich_pictures/rich_picture_exemplo.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Exemplo de rich picture</b>
         <br>
@@ -51,7 +47,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.1. Rich-Picture do Yuri Alves
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Yuri.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Yuri.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Yuri Alves</b>
         <br>
@@ -62,7 +58,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.2. Rich-Picture do Lucas Lima
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_mibas.jpeg'>
+    <img src='../assets/img/rich_pictures/rich_picture_mibas.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Lucas Lima</b>
         <br>
@@ -74,7 +70,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.3. Rich-Picture do Lucas Melo
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Lucas_melo.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Lucas_melo.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Lucas Melo</b>
         <br>
@@ -85,7 +81,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.4. Rich-Picture do Davi Matheus
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Davi.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Davi.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Davi Matheus</b>
         <br>
@@ -96,7 +92,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.5. Rich-Picture do Nilvan Peres
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Nilvan.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Nilvan.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Nilvan Peres</b>
         <br>
@@ -107,7 +103,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.6. Rich-Picture do  Natanel Filho
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Natanel.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Natanel.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Natanel</b>
         <br>
@@ -118,7 +114,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.7. Rich-Picture do Henrique Melo
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Henrique.jpg'>
+    <img src='../assets/img/rich_pictures/rich_picture_Henrique.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Henrique</b>
         <br>
@@ -130,7 +126,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.8. Rich-Picture do Caio Martins
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Caio.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Caio.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Caio</b>
         <br>
@@ -141,7 +137,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.9. Rich-Picture do Peniel Etenema
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Peniel.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Peniel.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Peniel Etèmana</b>
         <br>
@@ -152,7 +148,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 #### 3.10. Rich-Picture do Jonathan Jorge
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Jhontan.jpeg'>
+    <img src='../assets/img/rich_pictures/rich_picture_Jhontan.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Jonathan Jorge</b>
         <br>
@@ -163,7 +159,7 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 ### 4. Rich-Pictures escolhida pelo grupo
 
 <p align='center'>
-    <img src='../assets/rich_pictures/rich_picture_Nilvan.png'>
+    <img src='../assets/img/rich_pictures/rich_picture_Nilvan.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Grupo</b>
         <br>
@@ -173,13 +169,13 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 
 ### 5. Resultados e Conclusões
 
-Essa atividade de elaboração de rich-pictures individuais e depois um rich-picture escolhido pelo  grupo colaborou para o entendimento coletivo da aplicação. Em que escolhemos a rich picture do itegrante Nilvan devido seu alto nivel de complexidade e sua otima visão do fluxo do projeto. Após analisar cada um dos rich-pictures produzidos foi possível identificar conjunto de funcionalidades que todos citaram, assim conseguindo levandar mais requisitos e todos os integrantes entenderem o fluxo do projeto.
+Essa atividade de elaboração de rich pictures individuais e depois um rich picture escolhido pelo  grupo colaborou para o entendimento coletivo da aplicação. Em que escolhemos a rich picture do integrante Nilvan devido seu alto nível de complexidade e sua ótima visão do fluxo do projeto. Após analisar cada um dos rich pictures produzidos foi possível identificar conjunto de funcionalidades que todos citaram, assim conseguindo levar mais requisitos e todos os integrantes entenderem o fluxo do projeto.
 
 ### Bibliografia
 
-1. [Open Access] Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com/ (Último acesso em 27/07/2022).
+1. [Open Access] Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. Disponível em: [http://livrodeengenhariaderequisitos.blogspot.com/](http://livrodeengenhariaderequisitos.blogspot.com/) (Último acesso em 27/07/2022).
 
-2. Monk, A; Howard, S. The Rich Picture. A Tool for Reasoning About Work Context. Disponível em https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf. (Último acesso em 27/07/2022).
+2. Monk, A; Howard, S. The Rich Picture. A Tool for Reasoning About Work Context. Disponível em [https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf](https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf). (Último acesso em 27/07/2022).
 
-3. WAGENINGEN University. Rich Picture. Disponível em http://www.mspguide.org/tool/rich-picture. (Último acesso em 27/07/2022).
+3. WAGENINGEN University. Rich Picture. Disponível em [http://www.mspguide.org/tool/rich-picture](http://www.mspguide.org/tool/rich-picture). (Último acesso em 27/07/2022).
 

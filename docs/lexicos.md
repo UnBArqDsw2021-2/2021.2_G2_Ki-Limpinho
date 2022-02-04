@@ -7,8 +7,13 @@
 | 30.01.2022 | 0.1 | Criação do documento | Peniel Zannoukou |
 | 02.02.2022 | 0.2 | Remoção de léxicos incorretos| Lucas Melo |
 | 03.02.2022 | 0.3 | Melhorias de léxicos | Peniel Zannoukou |
+| 04.02.2022 | 0.3.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 
-## Metodologia
+### Participantes
+
+* Peniel Zannoukou
+	
+## 1. Metodologia
 <div align="justify">&emsp;&emsp; As atividades associadas ao processo de desenho de software(Base), principalmente a parte de Módulo Projeto Não Orientado a Abordagens Específicas, podem envolver leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Exemplos de documentos incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software. [Sayão, Carvalho, 2006]</div>
 <div align="justify">&emsp;&emsp; Esses símbolos são apresentados em ordem alfabética. Cada um deles trará uma noção, que diz respeito ao significado desse símbolo, e um impacto, que traz uma descrição do efeito desse símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. Além disso, cada um contará com os respectivos sinônimos e com a classificação que pode ser: Objeto, Verbo, Sujeito ou Estado. Faremos uso desse formato a seguir:</div>
 
@@ -19,13 +24,7 @@
 | Impacto | O impacto do léxico |
 | Classificação | A classificação do léxico |
 
-## Participantes
-
-* Peniel Zannoukou
-
-<br><br>
-
-## Agendamento
+## 2. Agendamento
 | Nome | Agendamento |
 | -- | -- |
 | Sinônimos | Agendar |
@@ -35,7 +34,7 @@
 
 <br>
 
-## Ajuda
+## 3. Ajuda
 | Nome | Ajuda |
 | -- | -- |
 | Sinônimos | Amparo, beneficiamento, auxílio, Faq |
@@ -45,7 +44,7 @@
 
 <br>
 
-## Cadastro de funcionários
+## 4. Cadastro de funcionários
 | Nome | Cadastro de funcionários |
 | -- | -- |
 | Sinônimos |  Registra |
@@ -55,7 +54,7 @@
 
 <br>
 
-## Cadastro de serviço
+## 5. Cadastro de serviço
 | Nome | Cadastro de serviço |
 | -- | -- |
 | Sinônimos |  Registra |
@@ -65,7 +64,7 @@
 
 <br>
 
-## Contatos
+## 6. Contatos
 | Nome | Contatos |
 | -- | -- |
 | Sinônimos | Toque, tato, comunicação, conversa, diálogo |
@@ -75,7 +74,7 @@
 
 <br>
 
-## Capital
+## 7. Capital
 | Nome | Capital |
 | -- | -- |
 | Sinônimos |  Dinheiro total de empresa |
@@ -85,7 +84,7 @@
 
 <br>         
 
-## Conta
+## 8. Conta
 | Nome | Conta |
 | -- | -- |
 | Sinônimos |  Domínio |
@@ -95,7 +94,7 @@
 
 <br> 
 
-## Crédito
+## 9. Crédito
 | Nome | Crédito |
 | -- | -- |
 | Sinônimos |  Confiança, Acreditar |
@@ -105,7 +104,7 @@
 
 <br>
 
-## Custo Operacionais
+## 10. Custo Operacionais
 | Nome | Custo Operacionais |
 | -- | -- |
 | Sinônimos |  Conta a serem pagas |
@@ -115,7 +114,7 @@
 
 <br>
 
-## Débito
+## 11. Débito
 | Nome | Débito |
 | -- | -- |
 | Sinônimos |  Conta, dívida |
@@ -125,7 +124,7 @@
 
 <br>
 
-## Depósito
+## 12. Depósito
 | Nome | Depósito |
 | -- | -- |
 | Sinônimos |  Armazenado, depositar, Guardado |
@@ -135,7 +134,7 @@
 
 <br>
 
-## Dinheiro
+## 13. Dinheiro
 | Nome | Dinheiro |
 | -- | -- |
 | Sinônimos |   Patrimônio, meio de pagamento |
@@ -145,7 +144,7 @@
 
 <br>
 
-## Dúvidas
+## 14. Dúvidas
 | Nome | Dúvidas |
 | -- | -- |
 | Sinônimos |  indecisão, insegurança |
@@ -155,7 +154,7 @@
 
 <br>
 
-## Financeiro    
+## 15. Financeiro    
 | Nome | Financeiro |
 | -- | -- |
 | Sinônimos | Financial, monetário, numerário, fazendário, financista |
@@ -165,7 +164,7 @@
 
 <br>
 
-## Funcionalidade
+## 16. Funcionalidade
 | Nome | Funcionalidade |
 | -- | -- |
 | Sinônimos |  funções,opções |
@@ -175,7 +174,7 @@
 
 <br>
 
-## Histórico    
+## 17. Histórico    
 | Nome | Histórico |
 | -- | -- |
 | Sinônimos | Consagrado, Memorável, reconhecido, Celebrado |
@@ -185,7 +184,7 @@
 
 <br>
 
-## Lava Jato     
+## 18. Lava Jato     
 | Nome | Lava Jato |
 | -- | -- |
 | Sinônimos |  Lava Jato |
@@ -195,7 +194,7 @@
 
 <br>
 
-## Nome Do Usuários
+## 19. Nome Do Usuários
 | Nome | Operações normais |
 | -- | -- |
 | Sinônimos |  Nickname, Nick, @. |
@@ -205,7 +204,7 @@
 
 <br>
 
-## Senha
+## 20. Senha
 | Nome | Senha |
 | -- | -- |
 | Sinônimos | Marca, indicação |
@@ -215,7 +214,7 @@
 
 <br>
 
-## Serviços
+## 21. Serviços
 | Nome | Serviços |
 | -- | -- |
 | Sinônimos | Trabalho, fineza, préstimo, despacho |
@@ -225,7 +224,7 @@
 
 <br>
 
-## Site
+## 22. Site
 | Nome | Site |
 | -- | -- |
 | Sinônimos | Site |
@@ -235,7 +234,7 @@
 
 <br>
 
-## Usuário    
+## 23. Usuário    
 | Nome | Usuário |
 | -- | -- |
 | Sinônimos | Utilizador, utente, cliente, usador, usufruidor |
@@ -245,7 +244,7 @@
 
 <br>
 
-## Referências
+## 24. Referências
 
 >  * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula<br><br>
 >  * Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br>

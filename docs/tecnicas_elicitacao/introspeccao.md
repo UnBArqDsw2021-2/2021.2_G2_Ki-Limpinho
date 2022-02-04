@@ -6,17 +6,18 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 03.02.2022 | 0.1 | Criação do documento | Henrique Amorim |
+| 04.02.2022 | 0.1.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 
 ## Participantes
 
 * Henrique Amorim
 
-## Metodologia
+## 1. Metodologia
 <p align="justify">&emsp;&emsp;
   Introspecção é uma técnica de Elicitação de Requisitos que consiste na compreensão das funcionalidades e propriedades necessárias para o sucesso do produto. Resumidamente, a técnica pode ser descrita como um engenheiro de requisitos se coloca no lugar do usuário e analisa quais as necessidades e desejos do mesmo ao utilizar o sistema. 
 </p>
 
-## Resultados
+## 2. Resultados
 <p align="justify">&emsp;&emsp;
   Os requisitos que foram elicitados pelo membro da equipe Henrique Amorim ao aplicar a técnica foram os seguintes:
 </p>
