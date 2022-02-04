@@ -5,10 +5,13 @@
 | :- | :- | :- | :- |
 | 29/01/2022 | 1.0.0 | Criação e elaboração do documento |  Nilvan Júnior |
 | 31/01/2022 | 1.0.1 | Correção de alguns erros |  Nilvan Júnior |
+| 04/02/2022 | 1.0.1 | Correção do sumário |  Nilvan Júnior |
 
 
 ## Sumário 
+
 [1 - Introdução](#1---introdução)
+
 * [1.1 - Propósito](#1.1---Propósito)
 * [1.2 - Escopo](#1.2---escopo)
 * [1.3 - Definições, acrônomos e Abreviações](#1.3---Definições,-acrônomos-e-Abreviações)
@@ -16,11 +19,13 @@
 * [1.5 - Visão Geral](#1.5---Visão-Geral)
 
 [2 - Posicionamento](#2---Posicionamento)
+
 * [2.1 - Oportunidade de negócios](#2.1---Oportunidade-de-negócios)
 * [2.2 - Descrição do problema](#2.2---Descrição-do-problema)
 * [2.3 - Descrição de posição de produto](#2.3---Descrição-de-posição-de-produto)
 
 [3 - Descrições da parte interessada e do usuário](#3---Descrições-da-parte-interessada-e-do-usuário)
+
 * [3.1 - Resumo dos envolvidos](#3.1---Resumo-dos-envolvidos)
 * [3.2 - Resumo dos usuários](#3.2---Resumo-dos-usuários)
 * [3.3 - Perfis dos envolvidos](#3.3---Perfis-dos-envolvidos)
@@ -33,19 +38,22 @@
 * [3.6 - Alternativas e concorrências](#3.6---Alternativas-e-concorrências)
 
 [4 - Visão geral do produto](#4---Visão-geral-do-produto)
+
 * [4.1 - Perspectiva do produto](#4.1---Pespectiva-do-produto)
 * [4.2 - Resumo de capacidades](#4.1---Resumo-de-capacidades)
 * [4.3 - Suposições e Dependências](#4.1---Suposições-e-Dependências)
   
 [5 - Recursos do produto](#5---Recursos-do-produto)
+* [5.1 - Recursos do gerente](#5.1---Recursos-do-gerente)
+* [5.2 - Recursos do proprietário do carro](#5.2---Recursos-do-proprietário-do-carro)
+
 
 [6 - Restrições](#6---Restrições)
+
 * [6.1 - Restrições de design](#6.1---Restrições-de-design)
 * [6.2 - Restrições de implementação](#6.2---Restrições-de-implementação)
 * [6.3 - Restrições de segurança](#6.3---Restrições-de-segurança)
 * [6.4 - Restrições de uso](#6.4---Restrições-de-uso)
-
-### My Multi Word Header
 
 ## 1 - Introdução 
 

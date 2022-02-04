@@ -55,9 +55,10 @@ nav:
   - Personas: "Personas.md"
   - Story Telling: "StoryTelling.md"
   - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
+  - Metologia: "metodologia_do_projeto.md"
   - Protótipo Média Fidelidade: "prototipoMedia.md"
   - TAP: "tap.md"
-  - Documento: "DocumentoDeVisao.md"
+  - Documento de Visão: "DocumentoDeVisao.md"
   - Sprints:
     - Sprint01: 
       - Planning: "Sprints/sprint01/Planning.md"
@@ -68,5 +69,8 @@ nav:
   - Politica de Contribuição: "PoliticaDeContribuição.md"
   - Template: "template.md"
   - Atas: "Atas/ATA_18_01_2022.md"
+  - EAP : "EAP.md"
+  - DesignSprint: "designSprint.md"
+
 
 
