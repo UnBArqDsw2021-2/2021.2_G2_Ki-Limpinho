@@ -4,8 +4,21 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 02/02/2022 |  0.1   | Criação do documento | Davi Matheus |
+| 04/02/2022 |  0.2   |Revisão do documento | Lucas Melo |
 
 
+
+### Participantes
+
+* Davi Matheus
+* Lucas Melo
+* Lucas Lima
+* Davi Matheus
+* Nilvan Peres
+* Henrique Melo
+* Caio Martins
+* Peniel Etèmana
+* Jonathan Jorge
 
 ### 1. Introdução
 <p align="justify">&emsp;&emsp;
@@ -114,14 +127,14 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 </p>
 
 
-#### 3.8. Rich-Picture do Caio
+#### 3.8. Rich-Picture do Caio Martins
 
 <p align='center'>
     <img src='../assets/rich_pictures/rich_picture_Caio.png'>
     <figcaption align='center'>
         <b>Figura 1: Rich-Picture do Caio</b>
         <br>
-        <small>Autor: Caio , 2022.</small>
+        <small>Autor: Caio Martins, 2022.</small>
     </figcaption>
 </p>
 
@@ -130,9 +143,9 @@ Nesse tópico é apresentado os rich-pictures criados por cada um dos integrante
 <p align='center'>
     <img src='../assets/rich_pictures/rich_picture_Peniel.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Peniel Etenema</b>
+        <b>Figura 1: Rich-Picture do Peniel Etèmana</b>
         <br>
-        <small>Autor: Peniel Etenema, 2022.</small>
+        <small>Autor:Peniel Etèmana, 2022.</small>
     </figcaption>
 </p>
 
