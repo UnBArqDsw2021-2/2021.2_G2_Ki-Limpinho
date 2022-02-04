@@ -1,21 +1,11 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
+# Ki-Limpinho 💦🚗
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2021.2_G1_ProjetoPandora*. !!** 
- 
- (Apague essa seção)
-
-# Nome do Projeto
+ ![logo](docs/assets/img/personalizacao/logoRodas.svg ) 
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 02<br>
 
-## Alunos
+## Alunos 🤓
 |Matrícula | Aluno |
 | -- | -- |
 | 18/0074741  |  Caio Martins Ferreira |
@@ -29,8 +19,10 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 | 18/0011308  |  Peniel Etèmana Désirez-Jésus Zannoukou |
 | 18/0078640  |  Yuri Alves Bacarias |
 
-## Sobre 
-Descreva o seu projeto em linhas gerais. 
+## Sobre 🤔
+Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto sonhava, acorda cedo para levar o carro para lavar, e depois tem que ficar horas esperando o carro ficar pronto, triste né. É pior ainda quando você é um gerente de uma empresa e tem que além de gerenciar os funcionários, lidar com ações repetitivas da gerência financeira, 😨.
+
+É por isso que a Ki-limpinho fornece uma aplicação web que ajuda ao cliente no monitoramento do veículo e ao gerente na organização do lava-jato e gerência das finanças. Com ela, o cliente consegue manter contato com o lava-jato e acompanhar o status do carro, já o gerente pode visualizar dashboards, planilhas, etc. que fornece a liquidez mensal e entre outros fatores importantes para a gestão do lava-jato.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
