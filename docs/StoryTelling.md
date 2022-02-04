@@ -17,7 +17,7 @@
 
 ## 2. Objetivo
 <p align="justify">&emsp;&emsp;
-  A partir de uma pequena história em que as personas são os personagens será possível contextualizar a maneira com qual essas personas estão inseridas como usuários, dessa forma é possível elicitar alguns requisitos.
+  A partir de uma pequena história em que as personas são os personagens será possível contextualizar a maneira com qual essas personas estão inseridas como clientes, dessa forma é possível elicitar alguns requisitos.
 </p>
 
 ## 3. Descrição
