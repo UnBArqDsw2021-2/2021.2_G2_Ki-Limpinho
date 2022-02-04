@@ -29,16 +29,21 @@ nav:
       - Rich Picture: "richPicture.md"
       - Mapa Mental: "mapaMental.md"
       - Diagrama Causa e Efeito: "diagramacausaefeito.md"
-      - 5w2h: "5w2h.md"
       - Tap: "tap.md"
       - Lexicos: "lexicos.md"
-      - Técnicas de elicitacao:
-        - Introspecção: "tecnicas_elicitacao/introspeccao.md"
-        - Story Telling: "tecnicas_elicitacao/StoryTelling.md"
-        - Brainstorm: "tecnicas_elicitacao/brainstorm.md"
+      - Elicitacao:
+        - Técnicas de elicitacao:
+          - Introspecção: "tecnicas_elicitacao/introspeccao.md"
+          - Story Telling: "tecnicas_elicitacao/StoryTelling.md"
+          - Brainstorm: "tecnicas_elicitacao/brainstorm.md"
+      - Personas: Personas.md
       - Priorizacao:
-        - Moscow: "modelagem/priorizacao/moscow.md"
-    - Metodologias/ Processos:
+          - Moscow: "modelagem/priorizacao/moscow.md"
+      - Prototipagem:
+        - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
+        - Protótipo Média Fidelidade: "prototipoMedia.md"
+    - Metodologias/ Processos / Abordagens:
+      - 5w2h: "5w2h.md"
       - Metodologia: "metodologia_do_projeto.md"
       - Metologia BPMN: "metodologiaBPMN.md"
     - Iniciativas extras:
@@ -79,17 +84,12 @@ nav:
           - US26: modelagem/User-Stories/US26.md
           - US27: modelagem/User-Stories/US27.md
           - US28: modelagem/User-Stories/US28.md
-      - Personas: Personas.md
       - Projeto:
         - Documento de Visão: "DocumentoDeVisao.md"
         - Politica de Contribuição: "PoliticaDeContribuição.md"
         - Atas: "Atas/ATA_18_01_2022.md"
         - EAP : "EAP.md"
-      - Produto:
         - Manual de Identidade Visual: "manualIdentidadeVisual.md"
-        - Prototipagem:
-          - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
-          - Protótipo Média Fidelidade: "prototipoMedia.md"
     - Sprints:
         - Sprint01: 
           - Planning: "Sprints/sprint01/Planning.md"

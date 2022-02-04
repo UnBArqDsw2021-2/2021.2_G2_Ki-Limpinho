@@ -5,20 +5,23 @@
 | Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 01.02.2022 | 0.1 | Criação do documento | Peniel Zannoukou |
-
 | 04.02.2022 | 0.2 | Melhorias após o PR | Peniel Zannoukou |
 | 04.02.2022 | 0.3 | Revisão do Documento | Davi e Natanael |
 
 ## Metodologia
 <div align="justify">&emsp;&emsp; O Diagrama de Ishikawa , também conhecido como "Diagrama de Causa e Efeito" ou "Espinha-de-peixe", é utilizado pela administração para o gerenciamento e controle de qualidade sendo uma ferramenta gráfica que auxilia em diversos processos. Os diagramas de Ishikawa são ferramentas sistemáticas muito úteis para encontrar, classificar e documentar as causas da variação da qualidade em uma determinada produção e organizar a mútua relação entre elas. Esse diagrama vai analisando sobre diferentes perspectivas,diferentes pontos de vistas, levantando uma série de causas que podem estar levando à um dado efeito.</div>
-<div align="justify">&emsp;&emsp; Para construção do diagrama de causa e efeito foram definidos os problemas e suas possíveis causas, para o escopo do projeto foram escolhidas 6 categorias das possíveis causas, sendo elas as seguintes:<br><br>
+<div align="justify">&emsp;&emsp; Para construção do diagrama de causa e efeito foram definidos os problemas e suas possíveis causas, para o escopo do projeto foram escolhidas 6 categorias das possíveis causas, sendo elas as seguintes: 
 
-* Estratégias: quais são as estratégias adotadas atualmente pelas empresas de Lava-Jato;<br>
-* Tecnologia: que tipo de tecnologias são utilizadas pelas empresas de Lava-Jato para agendamento de atendimento;<br>
-* Controle financeira: Como as empresas de Lava-Jato comtrolam a entrada de dinheiro;
-* Gerenciamento de atendimento: os métodos de gerenciamento mais utilizados pelos funcionários da empresa;<br>
-* Medias sociais: por onde é feita a divulgação dos serviços prestados por essas empresas de Lava-Jato;<br>
-* Clientes: como os clientes são afetados pela forma de atendimento pelo aplicativo.<br></div>
+<br><br>
+
+<li>Estratégias: quais são as estratégias adotadas atualmente pelas empresas de Lava-Jato</li>
+<li>Tecnologia: que tipo de tecnologias são utilizadas pelas empresas de Lava-Jato para agendamento de atendimento</li>
+<li>Controle financeira: Como as empresas de Lava-Jato comtrolam a entrada de dinheiro</li>
+<li>Gerenciamento de atendimento: os métodos de gerenciamento mais utilizados pelos funcionários da empresa</li>
+<li>Medias sociais: por onde é feita a divulgação dos serviços prestados por essas empresas de Lava-Jato</li>
+<li>Clientes: como os clientes são afetados pela forma de atendimento pelo aplicativo.</li> 
+</div>
+</br>
 <div align="justify">&emsp;&emsp; Dessa forma foi possível fazer uma dedução mais objetiva das possíveis causas e montar uma estratégia para resolver os problemas levantados.</div><br>
 
 ## Resultado

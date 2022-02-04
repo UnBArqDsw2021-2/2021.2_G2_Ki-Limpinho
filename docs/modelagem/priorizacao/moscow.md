@@ -214,7 +214,7 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
 
 Através da priorização podemos determinar qual a importância de um requisito para o projeto. Os resultados que determinam a relação de tags(Must, Should, Could, Would) por requisitos podem ser observados no gráfico a seguir.
 
-<img width="1500" height="1500"  src="../../assets/moscow-chart.jpeg">
+<img width="1500" height="1500"  src="../../../assets/moscow-chart.jpeg">
 
 ## Referências
 

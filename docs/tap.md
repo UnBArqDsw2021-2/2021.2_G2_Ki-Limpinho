@@ -1,4 +1,4 @@
-# ✅ Termo de Abertura do Projeto
+# <center> Termo de Abertura do Projeto
 
 | Data       | Versão | Descrição      | Autor(es)                                            |
 | ---------- | ------ | -------------- | ---------------------------------------------------- |
@@ -95,11 +95,12 @@ E = a*S^b*fae
 $$
 
 onde:
-E: é o esforço aplicado (em pessoas-mês).
-S: é o número (estimado) de linhas de código para o projeto (em milhares).
-a: é um coeficiente fornecido pela tabela de Boehm(1981).
-b: é um expoente fornecido pela tabela de Boehm(1981).
-fae: é o Fator de Ajustamento do Esforço, onde é baseado na tabela de Boehm(1981) e a equipe se reuniu para definir os valores para a confeção do fae.
+
+* E: é o esforço aplicado (em pessoas-mês).
+* S: é o número (estimado) de linhas de código para o projeto (em milhares).
+* a: é um coeficiente fornecido pela tabela de Boehm(1981).
+* b: é um expoente fornecido pela tabela de Boehm(1981).
+* fae: é o Fator de Ajustamento do Esforço, onde é baseado na tabela de Boehm(1981) e a equipe se reuniu para definir os valores para a confeção do fae.
 
 a = 3
 b = 1.12
@@ -132,10 +133,11 @@ T = c *E^d
 $$
 
 onde:
-E: é o esforço aplicado (em pessoas-mês).
-T: é o tempo de desenvolvimento (em meses cronológicos).
-c: é um coeficiente fornecido pela tabela de Boehm(1981).
-d: é um expoente fornecido pela tabela de Boehm(1981).
+
+* E: é o esforço aplicado (em pessoas-mês).
+* T: é o tempo de desenvolvimento (em meses cronológicos).
+* c: é um coeficiente fornecido pela tabela de Boehm(1981).
+* d: é um expoente fornecido pela tabela de Boehm(1981).
 
 Para E = 12.31 temos:
 

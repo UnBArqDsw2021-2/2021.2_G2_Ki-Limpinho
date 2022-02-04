@@ -194,7 +194,7 @@ Nesse tópico é apresentado os mapa mentais criados por cada um dos integrantes
 A visão geral do projeto propõe definir conceito, aplicativos similares e listar possíveis funcionalidades, stakeholders, plataformas e tecnologias. Essas ideias foram levantadas a partir de um brainstorm feito por toda a equipe, onde foram aceitos quaisquer ideias a respeito do que poderia ser o projeto. O mapa mental a respeito dessa visão pode ser visto abaixo:
 
 <p align='center'>
-  <img src='../assets/mapa_mental/mapa-mental.png'>
+  <img src='../assets/mapa_mental/mapa_grupo.png'>
   <figcaption align='center'>
       <b>Figura 2: Mapa mental de visão geral do projeto feito pelo Whimsical</b>
       <br>
