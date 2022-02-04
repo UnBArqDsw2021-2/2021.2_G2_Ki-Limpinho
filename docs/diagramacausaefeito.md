@@ -6,7 +6,7 @@
 | -- | -- | -- | -- |
 | 01.02.2022 | 0.1 | Criação do documento | Peniel Zannoukou |
 | 04.02.2022 | 0.2 | Melhorias após o PR | Peniel Zannoukou |
-
+| 04.02.2022 | 0.3 | Revisão do Documento | Davi e Natanael |
 
 ## Metodologia
 <div align="justify">&emsp;&emsp; O Diagrama de Ishikawa , também conhecido como "Diagrama de Causa e Efeito" ou "Espinha-de-peixe", é utilizado pela administração para o gerenciamento e controle de qualidade sendo uma ferramenta gráfica que auxilia em diversos processos. Os diagramas de Ishikawa são ferramentas sistemáticas muito úteis para encontrar, classificar e documentar as causas da variação da qualidade em uma determinada produção e organizar a mútua relação entre elas. Esse diagrama vai analisando sobre diferentes perspectivas,diferentes pontos de vistas, levantando uma série de causas que podem estar levando à um dado efeito.</div>
