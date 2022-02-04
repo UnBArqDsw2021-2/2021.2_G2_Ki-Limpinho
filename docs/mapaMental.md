@@ -209,9 +209,9 @@ Essa atividade de elaboração de mapas mentais individuais e depois um mapa men
 
 ## Bibliografia
 
-1. **Silva, Milena da Costa**. Mapas mentais: uma ferramenta para o desenvolvimento da competência em informação – Rio de Janeiro, 2010.
+1. **Silva, Milena da Costa**. Mapas mentais: uma ferramenta para o desenvolvimento da competência em informação – Rio de Janeiro, 2010 (Último acesso em 03/02/2022).
 
-2. Mapa mental: como fazer e para que serve essa técnica? **Mariane Roccelo**. Disponível em https://www.estudarfora.org.br/mapa-mental/ (Último acesso em 03/02/2021)
+2. Mapa mental: como fazer e para que serve essa técnica? **Mariane Roccelo**. Disponível em https://www.estudarfora.org.br/mapa-mental/ (Último acesso em 03/02/2022)
 
 
-4. Como fazer um MAPA MENTAL Passo a Passo | Seja Um Estudante Melhor. Canal **SejaUmaPessoaMelhor** Disponível em https://www.youtube.com/watch?v=m1qW0wPJV1M (Último acesso em 29/07/2021)
+4. Como fazer um MAPA MENTAL Passo a Passo | Seja Um Estudante Melhor. Canal **SejaUmaPessoaMelhor** Disponível em https://www.youtube.com/watch?v=m1qW0wPJV1M (Último acesso em 03/02/2022)

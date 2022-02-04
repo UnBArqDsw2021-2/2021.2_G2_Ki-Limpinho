@@ -1,11 +1,11 @@
-# <center> TEMPLATE
+# <center> Design Sprint
 
 
 ### Histórico de versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 03.02.2021 | 0.1 | Criação do documento | Nilvan Júnior|
+| 03.02.2022 | 0.1 | Criação do documento | Nilvan Júnior, Lucas Melo|
 
 ### Participantes
 
