@@ -30,7 +30,7 @@
 ### Resultados
 <div align="justify">
 
-<p align = "center"> &emsp;&emsp; <img src="https://i.ibb.co/XF6NRY5/EAP-Kilimpinho.png" width="200" height="200"/> </p> <br>
+<p align = "center"> &emsp;&emsp; <img src="https://i.ibb.co/XF6NRY5/EAP-Kilimpinho.png" width="600" height="800"/> </p> <br>
 
   Como o nivel hierárquico acaba sendo complexo, irei disponibilizar o link do documento para melhor visualização, o mesmpo pode ser encontrado, o documento estará habilitado apenas para comentários, o link pode ser encontrado <a href="https://whimsical.com/eap-kilimpinho-CKGFzUujU6VNdGAi8HTBss">aqui</a>
 

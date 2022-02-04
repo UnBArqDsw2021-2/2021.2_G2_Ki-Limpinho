@@ -48,7 +48,7 @@
 
 
 <table>
-    <thead style="background-color: lightblue">
+    <thead >
         <tr>
             <th style="text-align:center">Tema</th>
             <th style="text-align:center">Épico</th>
