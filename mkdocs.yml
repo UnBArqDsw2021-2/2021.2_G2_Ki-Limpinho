@@ -32,7 +32,7 @@ nav:
       - Termo de Abertura do Projeto: "tap.md"
       - Léxicos: "lexicos.md"
       - Elicitação:
-        - Técnicas de elicitação:
+        - Técnicas de Elicitação:
           - Introspecção: "tecnicas_elicitacao/introspeccao.md"
           - Story Telling: "tecnicas_elicitacao/StoryTelling.md"
           - Brainstorm: "tecnicas_elicitacao/brainstorm.md"
@@ -42,12 +42,12 @@ nav:
       - Prototipagem:
         - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
         - Protótipo Média Fidelidade: "prototipoMedia.md"
-    - Metodologias/ Processos / Abordagens:
+    - Metodologias, Processos e Abordagens:
       - 5w2h: "5w2h.md"
       - Metodologia do Projeto: "metodologia_do_projeto.md"
       - Metologia BPMN: "metodologiaBPMN.md"
-    - Iniciativas extras:
-      - Backlog do produto:
+    - Iniciativas Extras:
+      - Backlog do Produto:
         - Backlog: "modelagem/backlog.md"
         - Épicos:
             - Épico 1: "modelagem/Epicos/EP01.md"
@@ -94,15 +94,17 @@ nav:
         - Documento de Visão: "DocumentoDeVisao.md"
         - Politica de Contribuição: "PoliticaDeContribuição.md"
         - EAP : "EAP.md"
-        - Especificação Suplementar: "especificacaoSuplementar.md"
-        - Sprints:
-          - Sprint 1: 
-            - Planning: "Sprints/sprint01/Planning.md"
-            - Review: "Sprints/sprint01/Review.md"
-          - Sprint 2: 
-            - Planning: "Sprints/sprint02/Planning02.md"
-        - Atas de Reunião: 
-          - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
+        - Especificação Suplementar(FURPS): "especificacaoSuplementar.md"
+    - Sprints:
+      - Sprint 1: 
+        - Planning: "Sprints/sprint01/Planning.md"
+        - Review: "Sprints/sprint01/Review.md"
+      - Sprint 2: 
+        - Planning: "Sprints/sprint02/Planning02.md"
+    - Atas de Reunião: 
+      - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
+  - Apresentações:
+    - Apresentação da Entrega 1: "apresentacoes/entrega1.md"
     
         
  
