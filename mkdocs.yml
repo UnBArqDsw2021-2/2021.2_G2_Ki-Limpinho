@@ -36,7 +36,7 @@ nav:
           - Introspecção: "tecnicas_elicitacao/introspeccao.md"
           - Story Telling: "tecnicas_elicitacao/StoryTelling.md"
           - Brainstorm: "tecnicas_elicitacao/brainstorm.md"
-      - Personas: Personas.md
+        - Personas: Personas.md
       - Priorizacao:
           - Moscow: "modelagem/priorizacao/moscow.md"
       - Prototipagem:
