@@ -10,7 +10,8 @@
 ## Objetivo da sprint 
   -
 
-  ## Issues da sprint
+## Issues da sprint
+
 | Número | Descrição | Pontuação | Responsável(eis) |
 | -- | -- | -- | -- |
 | [#24](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/24)    |  Mapa mental  | 1 | Davi |
@@ -29,6 +30,7 @@
 | [#34](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/34)  |  Diagrama de causa-efeito |2  | Peniel |
 
   ## Pontuação por integrante:
+  
   - Nilvan: 4 
   - Natanael: 5
   - Davi: 5
