@@ -32,6 +32,7 @@
 | Noção | O  **usuário**  tem acesso ao site para agendar seu dia em que o serviço escolhido será realizado. |
 | Impacto | O **usuário** pode criar <a href="#conta">conta</a>.<br>O **usuário** pode  **agendar** o serviço que desejar no **Lava-Jato**. |
 | Classificação | Estado |
+
 <br>
 
 ## Ajuda
@@ -41,6 +42,7 @@
 | Noção | O sistema auxilia, também, através do FAQ(frequently Asked Questions ou Perguntas Frequentes) onde o **usuário** venha a ter uma dúvida de uso e nessa aba de ajuda ele consegue ver que alguém teve o mesmo erro e sua resolução do problema está disponível em tal página |
 | Impacto | O **usuário** terá maior agilidade e eficiência no uso da plataforma, pois, caso seja uma dúvida comum, ganhará tempo resolvendo sem espera |
 | Classificação | Objeto |
+
 <br>
 
 ## Cadastro de funcionários
@@ -50,6 +52,7 @@
 | Noção |   É de surma importância que a empresa cadastre seus funcionários no sistema com seus respetivos dados pessoais |
 | Impacto |    Uma Empresa deveria cadastrar seus funcionários |
 | Classificação | Estado |
+
 <br>
 
 ## Cadastro de serviço
@@ -59,6 +62,7 @@
 | Noção |   É uma parte que possui o nome,preço e uma descrição dos serviços |
 | Impacto |    Uma Empresa possui um certo serviços,como pode haver promoção  registrado para que o **usuário** ver |
 | Classificação | Objeto |
+
 <br>
 
 ## Contatos
@@ -68,6 +72,7 @@
 | Noção | O sistema possui contatos da empresa para que o **usuário** possa entrar diretamente em contato em caso desejar. Pois ele pode está com preguiça de fazer todo o processo de cadastro e tal.E sendo assim a melhor maneira será de efetua uma ligação. |
 | Impacto | O **usuário** terá maior agilidade e eficiência no uso da plataforma, pois, caso não queira fazer todo o procedimento ele fará uma ligação. |
 | Classificação | Objeto |
+
 <br>
 
 ## Capital
@@ -77,6 +82,7 @@
 | Noção |   É a soma de todos os recursos, bens e valores, mobilizados para a constituição de uma empresa. |
 | Impacto |    Uma Empresa possui um certo capital que pode ser investido na própria empresa |
 | Classificação | Objeto |
+
 <br>         
 
 ## Conta
@@ -86,6 +92,7 @@
 | Noção |   Conta significa é um conjunto de dados que definem uma pessoa física ou jurídica, sendo armazenados dados para essa tal pessoa específica. |
 | Impacto |    O usuário tendo sua conta, ele consegue usar todas as funcionalidades que o sistema oferece |
 | Classificação | Objeto |
+
 <br> 
 
 ## Crédito
@@ -95,6 +102,7 @@
 | Noção |   Crédito é um termo que traduz confiança, e deriva-se a expressão “crer”, acreditar em algo, ou alguém. crédito, sob o aspecto financeiro com o lava jato, significa dispor a um tomador, recursos financeiros para fazer frente a despesas, financiar a compra de bens, etc.. |
 | Impacto |    O **usuário** pode fazer o pagamento numa forma de crédito para poder ir pagando com juros. |
 | Classificação | Estado |
+
 <br>
 
 ## Custo Operacionais
@@ -104,6 +112,7 @@
 | Noção |  São todas as despesas que mantem o negócio da empresa em funcionamento, esse custo da empresa tem independemente do valor de vendas.<br>São considerados custo operacional despesas como: Água, Luz, Internet, Funcionários, Telefone, Sistemas de Gestão Comercial e etc.. |
 | Impacto |    Dependendo do serviço que o usuário quizer, tal pode ter taxas extras a serem pagas, ou seja seu custo operacional, para manter as empresas funcionando |
 | Classificação | Objeto |
+
 <br>
 
 ## Débito
@@ -113,6 +122,7 @@
 | Noção |  Aquilo que se deve. Parte de uma conta, oposta ao crédito, onde o negociante lança o que fornece ou paga. |
 | Impacto |  Uma pessoa física ou jurídica estar devendo alguém, ou alguém apenas está no prejuízo |
 | Classificação | Estado |
+
 <br>
 
 ## Depósito
@@ -122,6 +132,7 @@
 | Noção |  Armazenamento de algo, no caso do sistema, no depósito de dinheiro. |
 | Impacto |   Cada usuário faz pagamento assim que selecionar o serviço que deseja e o agendamento. |
 | Classificação | Verbo |
+
 <br>
 
 ## Dinheiro
@@ -131,6 +142,7 @@
 | Noção | Usado para fazer pagamento de serviços |
 | Impacto |    O  **usuário** pode utilizar seu dinheiro para pagar os serviços |
 | Classificação | Objeto |
+
 <br>
 
 ## Dúvidas
@@ -140,6 +152,7 @@
 | Noção | Hesitação entre opiniões diversas ou várias possibilidades dos serviços. |
 | Impacto |   O  **usuário** com dúvida em certos serviços da empresa. |
 | Classificação | Estado |
+
 <br>
 
 ## Financeiro    
@@ -149,6 +162,7 @@
 | Noção | Saber como funciona o departamento financeiro é fundamental para a gestão do seu negócio. Afinal,esse é o setor responsável por administrar os recursos da empresa,controlando atividades com finanças, riscos, planejamento e resultados |
 | Impacto | Poder saber como lidar com a crise e outros fins |
 | Classificação | Estado |
+
 <br>
 
 ## Funcionalidade
@@ -158,6 +172,7 @@
 | Noção | Hesitação entre opiniões diversas ou várias possibilidades dos serviços. |
 | Impacto |   O  **usuário**  poderá vizualizar as funcionalidades da empresa. |
 | Classificação | Estado |
+
 <br>
 
 ## Histórico    
@@ -167,6 +182,7 @@
 | Noção | Parte onde se tem guardado todas entradas e saidas da empresa |
 | Impacto | O usuário como a empresa podem ver seus históricos |
 | Classificação | Objeto |
+
 <br>
 
 ## Lava Jato     
@@ -176,6 +192,7 @@
 | Noção | <a href="#lava-jato">Lava Jato</a> é uma instalação usada para limpa o exterior e às vezes, o inteiro de um veículo motorizado. A lavagem de carros pode ser feita sozinha,totalmente automatizada ou com serviço completo com os oficias que limpam o veículo. |
 | Impacto | O lava jato encaixa-se no empreendedorismo |
 | Classificação | Objeto |
+
 <br>
 
 ## Nome Do Usuários
@@ -185,6 +202,7 @@
 | Noção |Nome único que o  **usuário** pode escolher para poder compartilhar a escolha do seu serviço. |
 | Impacto |   O usuário passa a poder usufruir das funcionalidades da aplicação |
 | Classificação | Objeto |
+
 <br>
 
 ## Senha
@@ -194,6 +212,7 @@
 | Noção | Marca ou indicação para dar a entender uma coisa ou se chegar ao conhecimento dela |
 | Impacto | O  **usuário** solicitou uma redefinição de senha |
 | Classificação | Objeto |
+
 <br>
 
 ## Serviços
@@ -203,6 +222,7 @@
 | Noção | Um serviço é o conjunto de atividades realizadas por uma empresa para responder às expectativas e necessidades do cliente. Por isso ele é definido como sendo um bem não material |
 | Impacto | O  **usuário** solicitar um serviço |
 | Classificação | Estado |
+
 <br>
 
 ## Site
@@ -212,6 +232,7 @@
 | Noção | O  **usuário**  tem accesso ao site lava jato para se cadastrar. |
 | Impacto | O **usuário** pode criar <a href="#conta">conta</a>.<br>O **usuário** pode realizar **consulta sobre as funcionalidade**. |
 | Classificação | Objeto |
+
 <br>
 
 ## Usuário    
@@ -221,6 +242,7 @@
 | Noção | Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades |
 | Impacto | O usuário possui uma conta no sistema de Lava Jato |
 | Classificação | Objeto |
+
 <br>
 
 ## Referências

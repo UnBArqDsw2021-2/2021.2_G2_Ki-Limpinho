@@ -1,4 +1,4 @@
-# Metodologia do projeto
+# <center> Metodologia do projeto
 
 #### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

@@ -40,23 +40,34 @@
 <br>
 
 ### Resultados
-<div align="justify">
+
 
 #### Unpack
-  Para essa fase foi determinado a elaboração dos seguintes artefatos:
-  - Brainstorm : Essa técnica serviu para cada membro da equipe mapear possíveis requisitos que cada usuário do sistema deveria ter, também foram levantados alguns requisitos não funcionais da aplicação.
-  - Mapa mental: Técnica utilizada para organizar as ideias que surigiram no brainstorm, todos os integrantes fizeram seu próprio mapa mental, na tentativa de organizar e trazer mais clareza do escopo do projeto.
-  - 5w2h: Artefato focado nos problemas, busca a resposta que o projeto tende a resolver.
-  - Diagrama de causa-efeito: Essa técnica também é mais focado no problema, e faz uma classifcação dos mesmos em categorias diferentes.
 
-#### Sketch
   Para essa fase foi determinado a elaboração dos seguintes artefatos:
+
+  - Brainstorm : Essa técnica serviu para cada membro da equipe mapear possíveis requisitos que cada usuário do sistema deveria ter, também foram levantados alguns requisitos não funcionais da aplicação.
+
+  - Mapa mental: Técnica utilizada para organizar as ideias que surigiram no brainstorm, todos os integrantes fizeram seu próprio mapa mental, na tentativa de organizar e trazer mais clareza do escopo do projeto.
+
+  - 5w2h: Artefato focado nos problemas, busca a resposta que o projeto tende a resolver.
+
+  - Diagrama de causa-efeito: Essa técnica também é mais focado no problema, e faz uma classifcação dos mesmos em categorias diferentes.
+  
+#### Sketch
+
+  Para essa fase foi determinado a elaboração dos seguintes artefatos:
+
   - Rich picture: Artefatos no qual todos os integrantes do grupo participaram, com o intuito de desenhar as ideais que tiveram na fase anterior.
+
   - Protótipo de baixa fidelidade: Como essa fase é voltada para o rascunho, decidimos que um protótipo de baixa fidelidade iria trazer mais riqueza de detalhes para essa fase da design sprint.
+
   - Personas: Esse artefato foi desenvolvido para simular possíveis stakeholders interessados no projeto, e determinar melhor qual seria nosso público alvo principal, também visando melhorar essa fase da design sprint.
 
 ### Decide
+
   Após a realização da elicitação de requisitos foi realizado as seguintes técnicas para cotemplar a fase de decisão:
+  
   - Storytelling: Utilizada com o auxílio de Personas, para o levantamento de requisitos mais precisos.
   - Introspecção: Foi a última técnica para elicitação de requisitos, com o intuito de tentar mapear requisitos ainda não explorados
   - Moscow: Artefato que filtrou todos os requisitos que foram levantados, e os priorizou deixando os que mais agregam valor como prioritários para serem desenvolvidos. Alguns requisitos também foram descartados.
