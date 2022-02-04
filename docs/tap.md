@@ -1,20 +1,22 @@
 # ✅ Termo de Abertura do Projeto
 
-| Data       | Versão | Descrição      | Autor(es)                  |
-| ---------- | ------ | -------------- | -------------------------- |
-| 30/01/2022 | 0.1    | Versão inicial | Lucas Lima, Jonathan Jorge, Yuri Alves Bacarias|
+| Data       | Versão | Descrição      | Autor(es)                                            |
+| ---------- | ------ | -------------- | ---------------------------------------------------- |
+| 30/01/2022 | 0.1    | Versão inicial | Lucas Lima, Jonathan Jorge, Yuri Alves Bacarias      |
 | 03/02/2022 | 0.2    | Versão inicial | Caio Martins, Lucas Lima, Jonathan Jorge, Yuri Alves |
 
 ## Sumário
 
-1. [Introdução](#1---introdução)
-2. [Descrição do Projeto](#2---descrição-do-projeto)
-3. [Propósito e justificativa do projeto](#3---propósito-e-justificativa-do-projeto)
-4. [Requisitos de alto nível](#4---requisitos-de-alto-nível)
-5. [Restrições](#5---restrições)
-6. [Riscos](#6---riscos)
-7. [Estimativas de Custos](#7---estimatives-de-custos)
-8. [Referências Bibliográficas](#8---referencias-bibliográficas)
+- [✅ Termo de Abertura do Projeto](#-termo-de-abertura-do-projeto)
+  - [Sumário](#sumário)
+- [1 - Introdução](#1---introdução)
+- [2 - Descrição do projeto](#2---descrição-do-projeto)
+- [3 - Propósito e justificativa do projeto](#3---propósito-e-justificativa-do-projeto)
+- [4 - Requisitos de alto nível](#4---requisitos-de-alto-nível)
+- [5 - Restrições](#5---restrições)
+- [6 - Riscos](#6---riscos)
+- [7 - Estimativas de Custos](#7---estimativas-de-custos)
+- [8 - Referências Bibliográficas](#8---referências-bibliográficas)
 
 # 1 - Introdução
 
@@ -36,15 +38,15 @@ A plataforma será uma página web sendo possível o acesso a partir de computad
 | :-----------------------: | :----------------------------------------------------------------------------------------------------------------: |
 |             -             |        Configurar a integração do site dentro dos frameworks escolhidos para o projeto. (a serem definidos)        |
 |    Cadastro do cliente    |                Realizar cadastro do cliente com dados de comunicação, endereço e de identificação.                 |
-|   Cadastro de serviços    |                       Realizar cadastro dos serviços com suas respectivas descrições e preços                       |
+|   Cadastro de serviços    |                      Realizar cadastro dos serviços com suas respectivas descrições e preços                       |
 | Visualizar Fluxo de caixa |                                               Dashboard com entrada                                                |
 |   Realizar agendamentos   |                      Permitir o agendamento de um serviço por parte do cliente e do gerente.                       |
 |      Banco de Dados       | Permitir a comunicação entre o front e o banco de dados (a ser definido) para a criação de dashboards interativas. |
 
 # 5 - Restrições
 
-- O prazo para entrega do projeto é (a ser definida)
-- O projeto deve ser construído pela equipe 02 do segundo semestre letivo de 2021 da matéria Arquitetura e Desenho de Software.
+-   O prazo para entrega do projeto é (a ser definida)
+-   O projeto deve ser construído pela equipe 02 do segundo semestre letivo de 2021 da matéria Arquitetura e Desenho de Software.
 
 # 6 - Riscos
 
@@ -66,17 +68,17 @@ Nessa etapa é identificada o plano de risco do projeto. No gerenciamento de ris
 | Alta          |
 | Muito Alta    |
 
-| Risco | Impacto | probabilidade | prevenção |
-| ------------- | ----------- | ----------- | -------- |
-| Aluno retira a disciplina | Alto | Média | manter o grupo sempre alinhado e contente |
-| Perda de prazo das entregas | Alto | Baixa | Manter o grupo coordenado e sempre alinhado com os prazos |
-| Falta de comunicação na equipe | Alto | Muito Baixa | Manter um espaço de comunicação saudável |
-| Um dos membros ficar impossibilitado por doença | Alto | Alta | Reorganizar as tarefas de modo a não sobrecarregar os outros integrantes |
-| Equipe incapacitada tecnicamente | Muito Alto | Baixa | Escolha correta das tecnologias usadas abrangendo o conhecimento geral além de possibilidade de tempo para estudo |
-| Bugs/Falha | Alto | Muito Alta | Realizando testagem periodicamente |
-| Divergência de grade horária | Baixo | Muito Alta | Realização de heatmap, mantendo uma estratégia de distribuição de tarefas |
-| Sobrecarga de algum membro | Médio | Média | Reajuste de tarefas |
-| Falta de monitoramento e controle | Alto | Média | Elaboração de um cronograma com acompanhamento sistemático |
+| Risco                                           | Impacto    | probabilidade | prevenção                                                                                                         |
+| ----------------------------------------------- | ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Aluno retira a disciplina                       | Alto       | Média         | manter o grupo sempre alinhado e contente                                                                         |
+| Perda de prazo das entregas                     | Alto       | Baixa         | Manter o grupo coordenado e sempre alinhado com os prazos                                                         |
+| Falta de comunicação na equipe                  | Alto       | Muito Baixa   | Manter um espaço de comunicação saudável                                                                          |
+| Um dos membros ficar impossibilitado por doença | Alto       | Alta          | Reorganizar as tarefas de modo a não sobrecarregar os outros integrantes                                          |
+| Equipe incapacitada tecnicamente                | Muito Alto | Baixa         | Escolha correta das tecnologias usadas abrangendo o conhecimento geral além de possibilidade de tempo para estudo |
+| Bugs/Falha                                      | Alto       | Muito Alta    | Realizando testagem periodicamente                                                                                |
+| Divergência de grade horária                    | Baixo      | Muito Alta    | Realização de heatmap, mantendo uma estratégia de distribuição de tarefas                                         |
+| Sobrecarga de algum membro                      | Médio      | Média         | Reajuste de tarefas                                                                                               |
+| Falta de monitoramento e controle               | Alto       | Média         | Elaboração de um cronograma com acompanhamento sistemático                                                        |
 
 # 7 - Estimativas de Custos
 
@@ -87,15 +89,17 @@ Levando em consideração a natureza da materia e o escopo do projeto a ser dese
 O projeto conta com uma complexidade moderada, mas a utilização de um framework contribuirá para reduzir o tempo de desenvolvimento e a quantidade de linhas de código. No frontend será utilizado React que possui uma organização por componentes e da suporte para uma grande reutilização de código. Para a construção do backend será utilizado NodeJS. A equipe de desenvolvimento estimou que o software a ser produzido deve possuir entre 4500 e 4000 linhas de código sem considerar as bibliotecas adicionais que serão utilizadas para facilitar o desenvolvimento.
 
 Estimativa de Esforço:
+
 $$
 E = a*S^b*fae
 $$
+
 onde:
-  E: é o esforço aplicado (em pessoas-mês).
-  S: é o número (estimado) de linhas de código para o projeto (em milhares).
-  a: é um coeficiente fornecido pela tabela de Boehm(1981).
-  b: é um expoente fornecido pela tabela de Boehm(1981).
-  fae: é o Fator de Ajustamento do Esforço, onde é baseado na tabela de Boehm(1981) e a equipe se reuniu para definir os valores para a confeção do fae.
+E: é o esforço aplicado (em pessoas-mês).
+S: é o número (estimado) de linhas de código para o projeto (em milhares).
+a: é um coeficiente fornecido pela tabela de Boehm(1981).
+b: é um expoente fornecido pela tabela de Boehm(1981).
+fae: é o Fator de Ajustamento do Esforço, onde é baseado na tabela de Boehm(1981) e a equipe se reuniu para definir os valores para a confeção do fae.
 
 a = 3
 b = 1.12
@@ -106,6 +110,7 @@ S = 4500 LoC ou S = 4.5 KLoC temos:
 $$
 E = 3 *4.5^{1.12}* 0.6765
 $$
+
 $$
 E = 10.94 pessoas/mês
 $$
@@ -115,13 +120,17 @@ Para S = 4000 LoC ou S = 4 KLoC temos:
 $$
 E = 3 *4^{1.12}* 0.6765
 $$
+
 $$
 E =  9.59   pessoas/mês
 $$
+
 Estimativa de Tempo:
+
 $$
 T = c *E^d
 $$
+
 onde:
 E: é o esforço aplicado (em pessoas-mês).
 T: é o tempo de desenvolvimento (em meses cronológicos).
@@ -129,47 +138,53 @@ c: é um coeficiente fornecido pela tabela de Boehm(1981).
 d: é um expoente fornecido pela tabela de Boehm(1981).
 
 Para E = 12.31 temos:
+
 $$
 T = 2.50*12.31 ^{0.35}
 $$
+
 $$
 T = 6.02  meses
 $$
+
 Para E = 9.59 temos:
+
 $$
 T = 2.50* 9.59  ^{0.35}
 $$
+
 $$
 T = 5.51  meses
 $$
 
 A tabela abaixo foi elaborada em equipe de acordo com a tabela de Bohem(1981) que possui os Multiplicadores de Esforço de Desenvolvimento de Software.
-|Atributos do produto |  |
-| ------------- | ----------- |
-|Confiabilidade exigida do software |1.00|
-|Tamanho do banco de dados | 0.94|
-|Complexidade do produto |0.85|
 
-|Atributos do hardware|  |
-| ------------- | ----------- |
-|Restrição de tempo de execução |1.00|
-|Restrição de memoria |1.00|
-|Volatilidade do ambiente de maquina virtual |0.87|
-|Tempo para completar o ciclo| 1.00|
+| Atributos do produto               |      |
+| ---------------------------------- | ---- |
+| Confiabilidade exigida do software | 1.00 |
+| Tamanho do banco de dados          | 0.94 |
+| Complexidade do produto            | 0.85 |
 
-|Atributos do pessoal|  |
-| ------------- | ----------- |
-|Capacidade do analista| 1.00|
-|Experiencia em aplicações| 1.13|
-|Capacidade do programador| 1.00|
-|Experiencia em maquina virtual| 1.10|
-|Experiencia com a linguagem de programação| 1.00|
+| Atributos do hardware                       |      |
+| ------------------------------------------- | ---- |
+| Restrição de tempo de execução              | 1.00 |
+| Restrição de memoria                        | 1.00 |
+| Volatilidade do ambiente de maquina virtual | 0.87 |
+| Tempo para completar o ciclo                | 1.00 |
 
-|Atributos de projeto|  |
-| ------------- | ----------- |
-|Uso de praticas modernas de programação| 0.91|
-|Uso de ferramentas de software| 0.91|
-|Cronograma exigido do desenvolvimento| 1.04|
+| Atributos do pessoal                       |      |
+| ------------------------------------------ | ---- |
+| Capacidade do analista                     | 1.00 |
+| Experiencia em aplicações                  | 1.13 |
+| Capacidade do programador                  | 1.00 |
+| Experiencia em maquina virtual             | 1.10 |
+| Experiencia com a linguagem de programação | 1.00 |
+
+| Atributos de projeto                    |      |
+| --------------------------------------- | ---- |
+| Uso de praticas modernas de programação | 0.91 |
+| Uso de ferramentas de software          | 0.91 |
+| Cronograma exigido do desenvolvimento   | 1.04 |
 
 # 8 - Referências Bibliográficas
 

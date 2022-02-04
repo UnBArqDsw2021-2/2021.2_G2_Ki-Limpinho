@@ -1,80 +1,88 @@
 site_name: Ki-Limpinho
 repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho
 
+markdown_extensions:
+    - pymdownx.arithmatex:
+          generic: true
+
+extra_javascript:
+    - javascripts/mathjax.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 theme:
-  name: material
-  features: navigation.tabs
+    name: material
+    features: navigation.tabs
 
 nav:
-  - Moscow: "modelagem/priorizacao/moscow.md"
-  - Home: 
+    - Moscow: "modelagem/priorizacao/moscow.md"
+    - Home:
+          - Home: "index.md"
+          - Heatmap: "heatmap.md"
+          - Lexicos: "lexicos.md"
+    - Base:
+          - Product Backlog: "modelagem/backlog.md"
+          - Backlog: modelagem/backlog.md
+          - Épicos:
+                -EP01: modelagem/Epicos/EP01.md
+                -EP02: modelagem/Epicos/EP02.md
+                -EP03: modelagem/Epicos/EP03.md
+                -EP04: modelagem/Epicos/EP04.md
+          - User-Stories:
+                - US01: modelagem/User-Stories/US01.md
+                - US02: modelagem/User-Stories/US02.md
+                - US03: modelagem/User-Stories/US03.md
+                - US04: modelagem/User-Stories/US04.md
+                - US05: modelagem/User-Stories/US05.md
+                - US06: modelagem/User-Stories/US06.md
+                - US07: modelagem/User-Stories/US07.md
+                - US08: modelagem/User-Stories/US08.md
+                - US09: modelagem/User-Stories/US09.md
+                - US10: modelagem/User-Stories/US10.md
+                - US11: modelagem/User-Stories/US11.md
+                - US12: modelagem/User-Stories/US12.md
+                - US13: modelagem/User-Stories/US13.md
+                - US14: modelagem/User-Stories/US14.md
+                - US15: modelagem/User-Stories/US15.md
+                - US16: modelagem/User-Stories/US16.md
+                - US17: modelagem/User-Stories/US17.md
+                - US17: modelagem/User-Stories/US17.md
+                - US18: modelagem/User-Stories/US18.md
+                - US19: modelagem/User-Stories/US19.md
+                - US20: modelagem/User-Stories/US20.md
+                - US21: modelagem/User-Stories/US21.md
+                - US22: modelagem/User-Stories/US22.md
+                - US23: modelagem/User-Stories/US23.md
+                - US24: modelagem/User-Stories/US24.md
+                - US25: modelagem/User-Stories/US25.md
+                - US26: modelagem/User-Stories/US26.md
+                - US27: modelagem/User-Stories/US27.md
+                - US28: modelagem/User-Stories/US28.md
+                - US29: modelagem/User-Stories/US29.md
+                - US30: modelagem/User-Stories/US30.md
+                - US31: modelagem/User-Stories/US31.md
+                - US32: modelagem/User-Stories/US32.md
+
     - Home: "index.md"
     - Heatmap: "heatmap.md"
-    - Lexicos: "lexicos.md"
-  - Base:
-    - Product Backlog: "modelagem/backlog.md" 
-    - Backlog: modelagem/backlog.md
-    - Épicos:
-        -EP01: modelagem/Epicos/EP01.md
-        -EP02: modelagem/Epicos/EP02.md
-        -EP03: modelagem/Epicos/EP03.md
-        -EP04: modelagem/Epicos/EP04.md
-    - User-Stories:
-        - US01: modelagem/User-Stories/US01.md
-        - US02: modelagem/User-Stories/US02.md
-        - US03: modelagem/User-Stories/US03.md
-        - US04: modelagem/User-Stories/US04.md
-        - US05: modelagem/User-Stories/US05.md
-        - US06: modelagem/User-Stories/US06.md
-        - US07: modelagem/User-Stories/US07.md
-        - US08: modelagem/User-Stories/US08.md
-        - US09: modelagem/User-Stories/US09.md
-        - US10: modelagem/User-Stories/US10.md
-        - US11: modelagem/User-Stories/US11.md
-        - US12: modelagem/User-Stories/US12.md
-        - US13: modelagem/User-Stories/US13.md
-        - US14: modelagem/User-Stories/US14.md
-        - US15: modelagem/User-Stories/US15.md
-        - US16: modelagem/User-Stories/US16.md
-        - US17: modelagem/User-Stories/US17.md
-        - US17: modelagem/User-Stories/US17.md
-        - US18: modelagem/User-Stories/US18.md
-        - US19: modelagem/User-Stories/US19.md
-        - US20: modelagem/User-Stories/US20.md
-        - US21: modelagem/User-Stories/US21.md
-        - US22: modelagem/User-Stories/US22.md
-        - US23: modelagem/User-Stories/US23.md
-        - US24: modelagem/User-Stories/US24.md
-        - US25: modelagem/User-Stories/US25.md
-        - US26: modelagem/User-Stories/US26.md
-        - US27: modelagem/User-Stories/US27.md
-        - US28: modelagem/User-Stories/US28.md
-        - US29: modelagem/User-Stories/US29.md
-        - US30: modelagem/User-Stories/US30.md
-        - US31: modelagem/User-Stories/US31.md
-        - US32: modelagem/User-Stories/US32.md
-
-  - Home: "index.md"
-  - Heatmap: "heatmap.md"
-  - Personas: "sprint01/Personas.md"
-  - Story Telling: "sprint01/StoryTelling.md"
-  - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
-  - Metologia: "metodologia_do_projeto.md"
-  - Protótipo Média Fidelidade: "prototipoMedia.md"
-  - TAP: "tap.md"
-  - Documento de Visão: "DocumentoDeVisao.md"
-  - Sprints:
-    - Sprint01: 
-      - Planning: "Sprints/sprint01/Planning.md"
-      - Review: "Sprints/sprint01/Review.md"
-    - Sprint02: 
-      - Planning: "Sprints/sprint02/Planning02.md"
-  - Manual de Identidade Visual: "manualIdentidadeVisual.md"
-  - Politica de Contribuição: "PoliticaDeContribuição.md"
-  - Atas: "Atas/ATA_18_01_2022.md"
-  - EAP : "EAP.md"
-  - DesignSprint: "designSprint.md"
-  - Mapa Mental: "mapaMental.md"
-  - Documento: "DocumentoDeVisao.md"
-  - Rich Picture: "richPicture.md"
- 
+    - Personas: "sprint01/Personas.md"
+    - Story Telling: "sprint01/StoryTelling.md"
+    - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
+    - Metologia: "metodologia_do_projeto.md"
+    - Protótipo Média Fidelidade: "prototipoMedia.md"
+    - TAP: "tap.md"
+    - Documento de Visão: "DocumentoDeVisao.md"
+    - Sprints:
+          - Sprint01:
+                - Planning: "Sprints/sprint01/Planning.md"
+                - Review: "Sprints/sprint01/Review.md"
+          - Sprint02:
+                - Planning: "Sprints/sprint02/Planning02.md"
+    - Manual de Identidade Visual: "manualIdentidadeVisual.md"
+    - Politica de Contribuição: "PoliticaDeContribuição.md"
+    - Atas: "Atas/ATA_18_01_2022.md"
+    - EAP: "EAP.md"
+    - DesignSprint: "designSprint.md"
+    - Mapa Mental: "mapaMental.md"
+    - Documento: "DocumentoDeVisao.md"
+    - Rich Picture: "richPicture.md"
