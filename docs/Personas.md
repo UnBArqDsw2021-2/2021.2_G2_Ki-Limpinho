@@ -33,7 +33,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 || Leonardo Motta Junior|
 |--|--|
-|<b id="leonardo">Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/leonardo.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Leonardo Motta</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="leonardo">Foto:</b>|<p style="text-align: center"><img src="../assets/personas/leonardo.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Leonardo Motta</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|29 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>| Gerente |
@@ -50,7 +50,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 || Marta Pereira Silva|
 |--|--|
-|<b id="marta">Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/marta.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Marta Pereira</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="marta">Foto:</b>|<p style="text-align: center"><img src="../assets/personas/marta.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Marta Pereira</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|44 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>|Professsora univesitária|
@@ -68,7 +68,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 || João Luiz Santos|
 |--|--|
-|<b id="joao">Foto:</b>|<p style="text-align: center"><img src="../../assets/personas/joao.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Luiz</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="joao">Foto:</b>|<p style="text-align: center"><img src="../assets/personas/joao.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Luiz</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|28 anos |
 |<b>Status:</b>| Anti-persona |
 |<b>Profissão:</b>| Personal trainer |

@@ -2,7 +2,7 @@
 
 <center>
 
- ![logo](/assets/img/personalizacao/logoRodas.svg)
+ ![logo](assets/img/personalizacao/logoRodas.svg)
 
  </center>
 
