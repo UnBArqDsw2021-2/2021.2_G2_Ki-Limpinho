@@ -11,8 +11,13 @@ extra_javascript:
     - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 theme:
-    name: material
-    features: navigation.tabs
+  name: material
+  logo: assets/img/personalizacao/logo.svg
+  favicon: assets/img/personalizacao/favicon.svg
+  features: navigation.tabs
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: "index.md"
