@@ -1,10 +1,16 @@
-# <center> Rich Pictures
+# <center> Mapa mental
 
 ## Histórico de revisão
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 02/02/2022 | 1.0.0 | Criação e elaboração do documento | Davi Matheus |
-| 03/02/2022 | 1.1.0 | Adição dos topicos 5 e 6 | Davi matheus |
+| 02/02/2022 | 0.1 | Criação e elaboração do documento | Davi Matheus |
+| 03/02/2022 | 0.2 | Adição dos topicos 5 e 6 | Davi matheus |
+| 04/02/2022 | 0.2.1 | Revisão:Correção de texto e descrição do documento | Lucas Melo |
+
+
+### Participantes
+
+* Davi Matheus
 
 ## 1. Introdução
 
@@ -30,7 +36,7 @@ principais, os terciários aos secundários e assim sucessivamente.". (SILVA, Mi
 - Etapa 4: Utilize imagens durante o processo.
 
 <p align="justify">&emsp;&emsp;
-mas o mapa mental não é só um artefato que fica prezo somente no padrão também possui alguns fatores criativos, em que segundo Felipe Lima e William Douglas do livro: Mapas mentais e memorizações tem certas dicas para fazer um mapa mental mais criativo e dinamico:
+O mapa mental não é só um artefato que fica preso no padrão, também possui alguns fatores criativos, em que segundo Felipe Lima e William Douglas do livro: Mapas mentais e memorizações tem certas dicas para fazer um mapa mental mais criativo e dinamico:
 </p>
 
 - Começe pelo centro, indo para as bordas em que isso nós ajuda na nossa modelagem mental, em que mostra uma melhor ideia  de todo trabalho feito e da sua complexidade, além de aumentar a agilidade na hora de fazer e de analizar o mapa mental
@@ -59,117 +65,117 @@ mas o mapa mental não é só um artefato que fica prezo somente no padrão tamb
 Além de construir uma visão simplista e geral de como foi pensado o projeto e suas funcionalidades, abarcando também stakeholders que podem ser atingidos com o mesmo.
 </p>
 
-## 4. Rich-Pictures dos integrantes
+## 4. Mapas mentais dos integrantes
 
 Nesse tópico é apresentado os mapa mentais criados por cada um dos integrantes.
 
-#### 4.1. Rich-Picture do Yuri Alves
+#### 4.1. Mapa mental do Yuri Alves
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Yuri.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Yuri Alves</b>
+        <b>Figura 1: Mapa mental do Yuri Alves</b>
         <br>
         <small>Autor: Yuri Alves, 2021.</small>
     </figcaption>
 </p>
 
-#### 4.2. Rich-Picture do Lucas Lima
+#### 4.2. Mapa mental do Lucas Lima
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_mibas.jpeg'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Lucas Lima</b>
+        <b>Figura 1: Mapa mental do Lucas Lima</b>
         <br>
         <small>Autor: Lucas Lima, 2021.</small>
     </figcaption>
 </p>
 
 
-#### 4. Rich-Picture do Lucas Melo
+#### 4. Mapa mental do Lucas Melo
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Lucas.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Lucas Melo</b>
+        <b>Figura 1: Mapa mental do Lucas Melo</b>
         <br>
         <small>Autor: Lucas Melo, 2021.</small>
     </figcaption>
 </p>
 
-#### 4.4. Rich-Picture do Davi Matheus
+#### 4.4. Mapa mental do Davi Matheus
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Davi.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Davi Matheus</b>
+        <b>Figura 1: Mapa mental do Davi Matheus</b>
         <br>
         <small>Autor: Davi Matheus, 2021.</small>
     </figcaption>
 </p>
 
-#### 4.5. Rich-Picture do  Natanel Filho
+#### 4.5. Mapa mental do  Natanel Filho
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Natanel.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Natanel</b>
+        <b>Figura 1: Mapa mental do Natanel</b>
         <br>
         <small>Autor:  Natanel FIlho, 2021.</small>
     </figcaption>
 </p>
 
-#### 4.6. Rich-Picture do Henrique Melo
+#### 4.6. Mapa mental do Henrique Melo
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Henrique.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Henrique</b>
+        <b>Figura 1: Mapa mental do Henrique</b>
         <br>
         <small>Autor: Henrique Melo, 2021.</small>
     </figcaption>
 </p>
 
 
-#### 4.7. Rich-Picture do Caio
+#### 4.7. Mapa mental do Caio
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Caio.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Caio</b>
+        <b>Figura 1: Mapa mental do Caio</b>
         <br>
         <small>Autor: Caio , 2021.</small>
     </figcaption>
 </p>
 
-#### 4.8. Rich-Picture do Peniel Etenema
+#### 4.8. Mapa mental do Peniel Etenema
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Peniel.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Peniel Etenema</b>
+        <b>Figura 1: Mapa mental do Peniel Etenema</b>
         <br>
         <small>Autor: Peniel Etenema, 2021.</small>
     </figcaption>
 </p>
 
-#### 4.9. Rich-Picture do Jonathan Jorge
+#### 4.9. Mapa mental do Jonathan Jorge
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Jonathan.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Jonathan Jorge</b>
+        <b>Figura 1: Mapa mental do Jonathan Jorge</b>
         <br>
         <small>Autor: Jonathan Jorge, 2021.</small>
     </figcaption>
 </p>
 
-#### 4.10. Rich-Picture do Nilvan Peres
+#### 4.10. Mapa mental do Nilvan Peres
 
 <p align='center'>
     <img src='../assets/mapa_mental/mapa_mental_Nilvan.png'>
     <figcaption align='center'>
-        <b>Figura 1: Rich-Picture do Nilvan Peres</b>
+        <b>Figura 1: Mapa mental do Nilvan Peres</b>
         <br>
         <small>Autor: Nilvan Peres, 2021.</small>
     </figcaption>
