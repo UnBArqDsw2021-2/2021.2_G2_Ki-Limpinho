@@ -1,6 +1,6 @@
 # Ki-Limpinho 💦🚗
 
-<p align="center"><img src="../docs/assets/img/personalizacao/logoRodas.svg" alt="logo ki-limpinho"/> </p>   
+![logo](docs/assets/img/personalizacao/logoRodas.svg) 
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 02<br>
@@ -29,7 +29,6 @@ Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto 
 ![Screenshot da Home](docs/assets/img/screenshots/entrega1/screen1.png)
 
 ![Screenshot do documento Design Sprint](docs/assets/img/screenshots/entrega1/screen2.png)
-
 
 ![Screenshot do documento Mapa Mental](docs/assets/img/screenshots/entrega1/screen3.png)
 
