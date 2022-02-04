@@ -14,7 +14,9 @@ theme:
   name: material
   logo: assets/img/personalizacao/logo.svg
   favicon: assets/img/personalizacao/favicon.svg
-  features: navigation.tabs
+  features: 
+    - navigation.tabs
+    - navigation.indexes
 
 extra_css:
   - stylesheets/extra.css
