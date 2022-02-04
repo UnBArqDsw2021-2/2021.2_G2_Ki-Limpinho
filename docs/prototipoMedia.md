@@ -2,6 +2,8 @@
 |-----|------|---------|----------|           
 |02/01/2022|0.1|Criação do protótipo | Lucas Lima, Lucas Melo, Jonathan Jorge |
 |03/01/2022|0.2| Adição da descrição e metodologia | Lucas Lima, Lucas Melo, Jonathan Jorge |
+|03/01/2022|0.3| Revisão do documento | Peniel Zannoukou |
+
 
 
 ## Sumário
@@ -12,7 +14,7 @@
 
 ## 1 - Protótipo de Média Fidelidade
 
-&emsp;&emsp;Os protótipos de média fidelidade definem a estrutura de conteúdo da interface, cria um layout básico e também simulações de fluxo, por exemplo um clique de botão que redireciona para outra página. O protótipo de média fidelidade permite que você passe rapidamente do estágio conceitual para o estágio de implementação(Everything You Need to Know About Mid Fidelity Prototype, 2022). Esse tipo de protótipo oferece mais flexibilidade e criatividade para a fase de implementação. Ao fazer um protótipo de média fidelidade não é necessário criar tantos elementos de design que podem acabar sendo descartados à medida que você a versão final do front-end.
+&emsp;&emsp;Os protótipos de média fidelidade definem a estrutura de conteúdo da interface, cria um layout básico e também simulações de fluxo, por exemplo um clique de botão que redireciona para outra página. O protótipo de média fidelidade permite que você passe rapidamente do estágio conceitual para o estágio de implementação(Everything You Need to Know About Mid Fidelity Prototype, 2022). Esse tipo de protótipo oferece mais flexibilidade e criatividade para a fase de implementação. Ao fazer um protótipo de média fidelidade não é necessário criar tantos elementos de design que podem acabar sendo descartados à medida que for avançando o projeto para versão final. Os protótipos de média fidelidade não utilizam recursos de design avançados como cores e imagens e não possui simulações complexas de uso.
 
 ## 2 - Metodologia
 
@@ -29,6 +31,3 @@
 
 > -   Fidelidade de protótipos: Baixa, Média ou Alta, conheça os tipos: https://www.vitaminaweb.com.br/fidelidade-de-prototipos-baixa-media-ou-alta/. Acesso em: 2 fev. 2022.
 > - Everything You Need to Know About Mid Fidelity Prototype. Disponível em: <https://mockitt.wondershare.com/prototyping/mid-fidelity-prototype.html>. Acesso em: 3 fev. 2022.
-
-‌
-
