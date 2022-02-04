@@ -1,5 +1,5 @@
-site_name: Lava Jato
-repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato
+site_name: Ki-Limpinho
+repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho
 
 theme:
   name: material
@@ -9,6 +9,7 @@ nav:
   - Home: 
     - Home: "index.md"
     - Heatmap: "heatmap.md"
+    - Lexicos: "lexicos.md"
   - Base:
     - Product Backlog: "modelagem/backlog.md" 
     - Epics:
@@ -58,6 +59,7 @@ nav:
   - Story Telling: "StoryTelling.md"
   - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
   - Metologia: "metodologia_do_projeto.md"
+  - Protótipo Média Fidelidade: "prototipoMedia.md"
   - TAP: "tap.md"
   - Documento: "DocumentoDeVisao.md"
   - Sprints:
@@ -67,5 +69,6 @@ nav:
     - Sprint02: 
       - Planning: "Sprints/sprint02/Planning02.md"
   - Manual de Identidade Visual: "manualIdentidadeVisual.md"
+  - Politica de Contribuição: "PoliticaDeContribuição.md"
 
 
