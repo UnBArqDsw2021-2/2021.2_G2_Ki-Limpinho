@@ -6,6 +6,7 @@ theme:
   features: navigation.tabs
 
 nav:
+  - Moscow: "modelagem/priorizacao/moscow.md"
   - Home: 
     - Home: "index.md"
     - Heatmap: "heatmap.md"
@@ -51,10 +52,6 @@ nav:
       - US26: "modelagem/User-Stories/US26.md"
       - US27: "modelagem/User-Stories/US27.md"
       - US28: "modelagem/User-Stories/US28.md"
-      - US29: "modelagem/User-Stories/US29.md"
-      - US30: "modelagem/User-Stories/US30.md"
-      - US31: "modelagem/User-Stories/US31.md"
-      - US32: "modelagem/User-Stories/US32.md"
   - Personas: "Personas.md"
   - Story Telling: "StoryTelling.md"
   - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
@@ -70,7 +67,10 @@ nav:
       - Planning: "Sprints/sprint02/Planning02.md"
   - Manual de Identidade Visual: "manualIdentidadeVisual.md"
   - Politica de Contribuição: "PoliticaDeContribuição.md"
+  - Template: "template.md"
+  - Atas: "Atas/ATA_18_01_2022.md"
   - EAP : "EAP.md"
   - DesignSprint: "designSprint.md"
+
 
 
