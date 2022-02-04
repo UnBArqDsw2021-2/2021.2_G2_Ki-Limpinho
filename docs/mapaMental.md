@@ -11,6 +11,14 @@
 ### Participantes
 
 * Davi Matheus
+* Lucas Melo
+* Lucas Lima
+* Davi Matheus
+* Nilvan Peres
+* Henrique Melo
+* Caio Martins
+* Peniel Etèmana
+* Jonathan Jorge
 
 ## 1. Introdução
 
