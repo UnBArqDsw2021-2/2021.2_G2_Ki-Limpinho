@@ -19,7 +19,7 @@ theme:
     - navigation.indexes
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 nav:
   - Home: "index.md"
