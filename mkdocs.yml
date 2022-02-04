@@ -35,8 +35,9 @@ nav:
       - Técnicas de elicitacao:
         - Introspecção: "tecnicas_elicitacao/introspeccao.md"
         - Story Telling: "tecnicas_elicitacao/StoryTelling.md"
-        - Priorizacao:
-          - Moscow: "modelagem/priorizacao/moscow.md"
+        - Brainstorm: "tecnicas_elicitacao/brainstorm.md"
+      - Priorizacao:
+        - Moscow: "modelagem/priorizacao/moscow.md"
     - Metodologias/ Processos:
       - Metodologia: "metodologia_do_projeto.md"
       - Metologia BPMN: "metodologiaBPMN.md"
