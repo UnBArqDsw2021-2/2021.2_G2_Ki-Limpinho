@@ -6,7 +6,8 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 31.01.2022 | 0.1 | Criação do documento | Henrique Melo |
-
+| 03.02.2022 | 0.1 | Revisão do documento | Natanel |
+| 04.02.2022 | 0.2 | Revisão e Correção dos erros de português |  
 ### Participantes
 
 * Henrique Melo
@@ -45,14 +46,14 @@ Quão rápido é o site Lava Jato?
 
 * __Acessos ao site__
 
-O site suporta em torno de 100 acessos simultâneos sem alteraração na sua performance.
+O site suporta em torno de 100 acessos simultâneos sem alteração na sua performance.
 
 * __Rapidez no tempo de resposta__
 
 A aplicação limita a 10 segundos o tempo de carregamento de uma página, após esse tempo uma mensagem de erro é mostrada
 
 ### __Confiabilidade__
-Analisa a confiabilidade do site Lava Jato, ou seja, diz respeito à segurança e a manutenibilidade do aplicativo.
+Analisa a confiabilidade do site lava-jato, ou seja, diz respeito à segurança e a manutenibilidade do aplicativo.
 
 * __Armazenamento de dados__
 
@@ -60,7 +61,7 @@ A aplicação assegura a criptografia dos dados armazenados.
 
 * __Clareza de identificação do fornecedor__
 
-Ao acessar o site Lava Jato, o usuário poderá visualizar a equipe responsável pelo desenvolvimento no rodapé da aplicação.
+Ao acessar o site lava-jato, o usuário poderá visualizar a equipe responsável pelo desenvolvimento no rodapé da aplicação.
 
 
 ### __Suportabilidade__
