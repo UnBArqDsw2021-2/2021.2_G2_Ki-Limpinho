@@ -5,6 +5,7 @@
 | :- | :- | :- | :- |
 | 02/02/2022 | 1.0.0 | Criação e elaboração do documento | Davi Matheus |
 | 04.02.2022 | 1.0.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
+| 04.02.2022 | 1.0.2 | Mudança de política de commit | Nilvan Peres |
 
 ## 1. Introdução
 
@@ -77,10 +78,10 @@ Observações: O título da issue utilizado no nome das branches deve ser mantid
 ## 3. Políticas de Commits
 Os commits deve seguir a seguinte estrutura: 
 
-- categoria_nome do commit #issueID.
+- categoria: nome do commit #issueID.
 
-- Exemplo: bugs_Correções_Registro #10
-- Exemplo2: add_Documento_de_Arquitetura #43
+- Exemplo: bugs:Correções Registro #10
+- Exemplo2: add: Documento de Arquitetura #43
 
 Categorias:
 
