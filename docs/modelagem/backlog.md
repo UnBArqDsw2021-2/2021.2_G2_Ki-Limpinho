@@ -10,6 +10,7 @@
 | 31.01.2022 |  0.4   | Adição dos tópicos introdução, metodologia, resultados e conclusão | Nilvan Peres |
 | 03.02.2022 |  0.5   | Refatoração dos requisitos |Lucas Lima e Lucas Melo |
 | 04.02.2022 | 0.5.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
+| 04.02.2022 | 0.5.2 | Correção PR, primeira entrega (correção de links quebrados) | Nilvan Pere |
 
 ### Responsáveis pelo documento
 - Nilvan Peres
@@ -61,7 +62,7 @@
     <tbody >
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><b>Lavagem de carro e outros serviços</b></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a href="./Epicos/EP01/" >Épico 01 - Cadastro e Autenticação de Cliente </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a href="../Epicos/EP01/" >Épico 01 - Cadastro e Autenticação de Cliente </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Cadastro</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US01/" >US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como novo usuário do sistema, desejo realizar cadastro no site do lava-jato para ter uma conta.</td>
