@@ -4,7 +4,7 @@
 
 | Descrição | Valor |
 |:--:|:--:|
-|*Número da sprint*|6|
+|*Número da sprint*|1|
 |*Data de início*|25/01/2022|
 |*Data de término*|30/01/2022| 
 |*Duração*|6 dias|

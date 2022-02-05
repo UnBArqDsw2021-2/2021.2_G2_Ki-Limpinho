@@ -101,8 +101,10 @@ nav:
         - Review: "Sprints/sprint01/Review.md"
       - Sprint 2: 
         - Planning: "Sprints/sprint02/Planning02.md"
+        - Review: "Sprints/sprint02/Review.md"
     - Atas de Reunião: 
       - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
+      - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
   - Apresentações:
     - Apresentação da Entrega 1: "apresentacoes/entrega1.md"
     
