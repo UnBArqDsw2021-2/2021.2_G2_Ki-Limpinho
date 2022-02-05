@@ -1,59 +1,13 @@
-# Documento de visão
+# <center> Documento de visão
 
-## Histórico de revisão
+### Histórico de revisão
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 29/01/2022 | 1.0.0 | Criação e elaboração do documento |  Nilvan Júnior |
-| 31/01/2022 | 1.0.1 | Correção de alguns erros |  Nilvan Júnior |
-| 04/02/2022 | 1.0.1 | Correção do sumário |  Nilvan Júnior |
-
-
-## Sumário 
-
-[1 - Introdução](#1---introdução)
-
-* [1.1 - Propósito](#1.1---Propósito)
-* [1.2 - Escopo](#1.2---escopo)
-* [1.3 - Definições, acrônomos e Abreviações](#1.3---Definições,-acrônomos-e-Abreviações)
-* [1.4 - Referências](#1.4---Referências)
-* [1.5 - Visão Geral](#1.5---Visão-Geral)
-
-[2 - Posicionamento](#2---Posicionamento)
-
-* [2.1 - Oportunidade de negócios](#2.1---Oportunidade-de-negócios)
-* [2.2 - Descrição do problema](#2.2---Descrição-do-problema)
-* [2.3 - Descrição de posição de produto](#2.3---Descrição-de-posição-de-produto)
-
-[3 - Descrições da parte interessada e do usuário](#3---Descrições-da-parte-interessada-e-do-usuário)
-
-* [3.1 - Resumo dos envolvidos](#3.1---Resumo-dos-envolvidos)
-* [3.2 - Resumo dos usuários](#3.2---Resumo-dos-usuários)
-* [3.3 - Perfis dos envolvidos](#3.3---Perfis-dos-envolvidos)
-    * [3.3.1 - Equipe de desenvolvimento de software](#3.3.1---Equipe-de-desenvolvimento-de-software )
-    * [3.3.2 - Avaliadores](#3.3.2---Avaliadores)
-* [3.4 - Perfis dos usuários](#3.4---Perfis-dos-usuários)
-    * [3.4.1 - Gerente](#3.4.1---Gerente)
-    * [3.4.2 - Proprietário automotivo](#3.4.2---Proprietário-automotivo)
-* [3.5 - Ambiente dos usuários](#3.5---Ambiente-dos-usuários)
-* [3.6 - Alternativas e concorrências](#3.6---Alternativas-e-concorrências)
-
-[4 - Visão geral do produto](#4---Visão-geral-do-produto)
-
-* [4.1 - Perspectiva do produto](#4.1---Pespectiva-do-produto)
-* [4.2 - Resumo de capacidades](#4.1---Resumo-de-capacidades)
-* [4.3 - Suposições e Dependências](#4.1---Suposições-e-Dependências)
-  
-[5 - Recursos do produto](#5---Recursos-do-produto)
-* [5.1 - Recursos do gerente](#5.1---Recursos-do-gerente)
-* [5.2 - Recursos do proprietário do carro](#5.2---Recursos-do-proprietário-do-carro)
-
-
-[6 - Restrições](#6---Restrições)
-
-* [6.1 - Restrições de design](#6.1---Restrições-de-design)
-* [6.2 - Restrições de implementação](#6.2---Restrições-de-implementação)
-* [6.3 - Restrições de segurança](#6.3---Restrições-de-segurança)
-* [6.4 - Restrições de uso](#6.4---Restrições-de-uso)
+| 29.01.2022 | 1.0.0 | Criação e elaboração do documento |  Nilvan Júnior |
+| 31.01.2022 | 1.0.1 | Correção de alguns erros |  Nilvan Júnior |
+| 04.02.2022 | 1.0.2 | Correção do sumário |  Nilvan Júnior |
+| 04.02.2022 | 1.0.3 | Revisão e correção do documento, primeira entrega | Natanael Filho |
+| 04.02.2022 | 1.0.3 | Revisão PR, primeira entrega | Nilvan Júnior |
 
 ## 1 - Introdução 
 
@@ -151,7 +105,7 @@
 ### 2.3 - Descrição de posição de produto
 
 <p align="justify">&emsp;&emsp;
-  O produto final é uma aplicação web que servirá <b>para</b> auxiliar gerentes e clientes de lava-jatos, para que, tenham um acesso de forma virtual. O <b>CarWashPremium</b> veio para auxiliar o ramo de lava-jatos, ferramentas como dashboards, sistema de feedback, agendamento e pagamento de serviço, e permitirão uma melhor conexão da lava-jato com os clientes. Aplicações como o "Meu Lava Jato" e "Gr lavajato", buscam oferecer um gerenciamento de entrada e saída de carros, assim como cadastro de clientes, e agendamento de serviços, status de serviço,e orçamentos de serviços. Apesar do segundo ser bem completo, o que estamos propondo é algo mais focado no cliente, e funcionalidades essenciais para os gerentes como mostrar KR's a partir de dashboards para facilitar leitura dos dados, facilitando traçar um plano de ação. Além de permitir que proprietários automotivos possam utilizar a aplicação, para que não tenham que ficar horas na fila, e consigam avaliar qualidade do serviço prestado, também acreditamos que o sistema de fidelização em conjunto com o cadastro de promoções será um grande diferencial para retenção de clientes. [3]
+  O produto final é uma aplicação web que servirá <b>para</b> auxiliar gerentes e clientes de lava-jatos, para que, tenham um acesso de forma virtual. O <b>Ki-limpinho</b> veio para auxiliar o ramo de lava-jatos, ferramentas como dashboards, sistema de feedback, agendamento e pagamento de serviço, e permitirão uma melhor conexão da lava-jato com os clientes. Aplicações como o "Meu Lava Jato" e "Gr lavajato", buscam oferecer um gerenciamento de entrada e saída de carros, assim como cadastro de clientes, e agendamento de serviços, status de serviço,e orçamentos de serviços. Apesar do segundo ser bem completo, o que estamos propondo é algo mais focado no cliente, e funcionalidades essenciais para os gerentes como mostrar KR's a partir de dashboards para facilitar leitura dos dados, facilitando traçar um plano de ação. Além de permitir que proprietários automotivos possam utilizar a aplicação, para que não tenham que ficar horas na fila, e consigam avaliar qualidade do serviço prestado, também acreditamos que o sistema de fidelização em conjunto com o cadastro de promoções será um grande diferencial para retenção de clientes. [3]
 </p>
 
 
@@ -229,7 +183,7 @@
 
 ### 4.1 - Perspectiva do produto
 <p align="justify">&emsp;&emsp;
-  A aplicação web <b>CarWashPremium</b> busca atender dois públicos essenciais para o lava-jato, os gerentes, e seus clientes. Para o gerente permitirá maior monitoramento sobre os serviços que estão sendo prestados, além de dashboards que ajudarão a acompanhar o fluxo de caixa do negócio. Para os proprietário automotivos buscará fornecer maior comodidade podendo escolher melhor horário e serviço, conseguir descontos, além de conseguir avaliar como foi o serviço prestado.
+  A aplicação web <b>Ki Limpinho</b> busca atender dois públicos essenciais para o lava-jato, os gerentes, e seus clientes. Para o gerente permitirá maior monitoramento sobre os serviços que estão sendo prestados, além de dashboards que ajudarão a acompanhar o fluxo de caixa do negócio. Para os proprietário automotivos buscará fornecer maior comodidade podendo escolher melhor horário e serviço, conseguir descontos, além de conseguir avaliar como foi o serviço prestado.
 </p>
 
 ### 4.2 - Resumo das capacidades

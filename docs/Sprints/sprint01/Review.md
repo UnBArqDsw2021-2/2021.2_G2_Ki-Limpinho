@@ -1,30 +1,17 @@
-## Review da Sprint 1
+# <center> Review da Sprint 1
 
-## Sumário
+## 1. Informações básicas
 
-
-- [1.Informações básicas](#1informações-básicas)
-- [2.Backlog Sprints](#2backlog-sprints)
-- [3.Relato da Sprint](#3relato-da-sprint)
-- [4.Gráfico de Burndown](#4gráfico-de-burndown)
-- [5.Gráfico de Velocity](#5gráfico-de-velocity)
-- [6.Retrospectiva da Sprint](#6retrospectiva-da-sprint)
-- [7.Práticas ágeis](#7práticas-ágeis)
-- [8.Review do ScrumMaster](#8review-do-scrummaster)
-
-
-## 1.Informações básicas
-
-| | |
+| Descrição | Valor |
 |:--:|:--:|
-|*Número da sprint*|6|
+|*Número da sprint*|1|
 |*Data de início*|25/01/2022|
 |*Data de término*|30/01/2022| 
 |*Duração*|6 dias|
 
 
 
-## 2.Backlog Sprints
+## 2. Backlog Sprints
 
 |ID | Descrição | Pontuação| Status |
 |---|--------------------|--------------|------------- |
@@ -51,23 +38,23 @@
 * 32 pontos entregues.
 
 
-## 3.Relato da Sprint 
+## 3. Relato da Sprint 
     
 <div style="text-align: justify"> 
   Essa primeira sprint foi mais voltada para o entedimento do projeto, e o amadurecimento de comos pretendemos elaborar nossa aplicação web. A sprint foi bem desafiadora no quesito organização, a coordenação entre todos os membros não foi das melhores, e isso acabou gerando alguns atrasos. No geral a produção dos artefatos foi em um ritmo aceitável, porém a velocidade de reviews de PR's ainda está bem lenta.
 </div>
 
-## 4.Gráfico de Burndown
+## 4. Gráfico de Burndown
 <div style="text-align: justify">
   Apesar de termos divididos as tarefas, as issues não foram criadas prontamente, atrapalhando a coleta dessa métrica para a sprint.
 </div>  
 
-## 5.Gráfico de Velocity
+## 5. Gráfico de Velocity
 <div style="text-align: justify">
   Apesar de termos divididos as tarefas, as issues não foram criadas prontamente, atrapalhando a coleta dessa métrica para a sprint.
 </div>  
 
-## 6.Retrospectiva da Sprint
+## 6. Retrospectiva da Sprint
 |***Pontos negativos*** | ***Pontos positivos*** | ***Pontos a serem melhorados***| 
 |--------------|----------------|--------------|
 | Comunicação não foi assertiva |N/A| Realizar mais reuniões para alinhamento de tasks. 
@@ -78,18 +65,18 @@
 
 
 
-## 7.Práticas ágeis
+## 7. Práticas ágeis
 <div style="text-align: justify">
   Práticas ágeis realizas nessa sprint.  
 
   - Planning poker.  
   - Reunião para planejamento da sprint.
   - Pareamento.
-  - Issues com **time-box** para o FDS.
+  - Issues com <strong>time-box</strong> para o FDS.
 
 </div>
 
-## 8.Review do ScrumMaster
+## 8. Review do ScrumMaster
 <div style="text-align: justify">
   Acredito que está faltando um pouco de padronização dos documentos do grupo, e dos commits. Como ação corretiva será implantada uma política de contribuição, visando dar uma visão mais homogêna ao projeto.
 </div>

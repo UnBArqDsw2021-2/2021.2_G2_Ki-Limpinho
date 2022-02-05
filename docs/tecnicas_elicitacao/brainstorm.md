@@ -5,22 +5,22 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 04.02.2022 |  0.1   | Criação do documento | Davi Matheus |
 | 04.02.2022 |  0.2   | Revisão do documento |Lucas Melo |
-
+| 04.02.2022 | 0.2.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 
 
 ## 1. Introdução
 
 <p align="justify">&emsp;&emsp;
-O Brainstorming, também caracterizado como uma "tempestade de ideias", é um método usado para criar e explorar a capacidade criativa de indivíduos ou grupos. A técnica é muito dinâmica e prática que permite uma discussão bem abrangente levando em consideração opiniões e pontos de vistas pessoais de cada participante sobre os aspectos do projeto e as possíveis abordagens. Assim, o brainstrom propõe que um grupo de pessoas se reúna e utilize seus pensamentos e ideias para que possam chegar a um consenso na solução de problemas .
+O Brainstorming, também caracterizado como uma "tempestade de ideias", é um método usado para criar e explorar a capacidade criativa de indivíduos ou grupos. A técnica é muito dinâmica e prática que permite uma discussão bem abrangente considerando opiniões e pontos de vistas pessoais de cada participante sobre os aspectos do projeto e as possíveis abordagens. Assim, o brainstorm propõe que um grupo de pessoas se reúna e utilize seus pensamentos e ideias para poderem chegar a um consenso na solução de problemas.
 </p>
 
 
 ## 2. Metodologia
 <p align="justify">&emsp;&emsp;
-Para a realização do  Brainstorming foi utilizado a ferramenta Miro. Por meio dessas duas ferramentas e por meio de chamadas, os integrantes do grupo colaboraram com diversas ideias relacionadas com o projeto em cada integrante usou a funcionalidade de post-it do Miro  para colocar uma ideia ou opinião sobre o que o sistema do projeto em questão deveria conter, buscando conhecer as várias funcionalidades que poderiam estar presentes no projeto.
+Para a realização do Brainstorming foi utilizado a ferramenta Miro. Por meio dessas duas ferramentas e por meio de chamadas, os integrantes do grupo colaboraram com diversas ideias relacionadas com o projeto em cada integrante usou a funcionalidade de post-it do Miro para colocar uma ideia ou opinião sobre o que o sistema do projeto em questão deveria conter, buscando conhecer as várias funcionalidades que poderiam estar presentes no projeto.
 </p>
 <p align="justify">&emsp;&emsp;
- Atráves desse brainstorm conseguimos elicitar requistos funcionais e não funcionais, em que  após essas discussões, o grupo compreendeu melhor o escopo do projeto. E para fechar essa fase foi realizado um último Brainstorming para escolher o nome do projeto.
+ Através desse brainstorm conseguimos elicitar requisitos funcionais e não funcionais, em que  após essas discussões, o grupo compreendeu melhor o escopo do projeto. Para fechar essa fase foi realizado um último Brainstorming para escolher o nome do projeto.
 </p>
 
 ## 3. *Brainstorming* requisitos funcionais.
@@ -28,7 +28,7 @@ Para a realização do  Brainstorming foi utilizado a ferramenta Miro. Por meio 
 ### 3.1. *Brainstorming* requisitos funcionais para o cliente
 
 <p align='center'>
-    <img src='../../assets/brainstorm/Brainstorming _cliente.jpg'>
+    <img src='../../assets/img/brainstorm/Brainstorming _cliente.jpg'>
     <figcaption align='center'>
         <b>Figura 1: Brainstorm para gerar requisitos funcionais para o cliente</b>
         <br>
@@ -40,7 +40,7 @@ Para a realização do  Brainstorming foi utilizado a ferramenta Miro. Por meio 
 ### 3.2. *Brainstorming* requisitos funcionais para o gerente
 
 <p align='center'>
-    <img src='../../assets/brainstorm/Brainstorming_gerente.jpg'>
+    <img src='../../assets/img/brainstorm/Brainstorming_gerente.jpg'>
     <figcaption align='center'>
         <b>Figura 2: Brainstorm para gerar requisitos funcionais para o gerente</b>
         <br>
@@ -83,7 +83,7 @@ BS24  | O gerente deve ser capaz de visualizar as avaliações de serviço      
 ## 4. *Brainstorming* requisitos não funcionais.
 
 <p align='center'>
-    <img src='../../assets/brainstorm/Brainstorming_NF.jpg'>
+    <img src='../../assets/img/brainstorm/Brainstorming_NF.jpg'>
     <figcaption align='center'>
         <b>Figura 3: Brainstorm para gerar requisitos não funcionais</b>
         <br>
@@ -91,7 +91,7 @@ BS24  | O gerente deve ser capaz de visualizar as avaliações de serviço      
     </figcaption>
 </p>
 
-## 4.1 *Resultado* requisitos não funcionais.
+## 4.1. *Resultado* requisitos não funcionais.
 
 
 **ID**|**Descrição**|**Tipo de Requisito**
@@ -126,7 +126,7 @@ Por fim, o último Brainstorming feito até o momento foi para definição do no
 </p>
 
 <p align='center'>
-    <img src='../../assets/brainstorm/brainstorm_nomes.png'>
+    <img src='../../assets/img/brainstorm/brainstorm_nomes.png'>
     <figcaption align='center'>
         <b>Figura 4: Votação para o nome do projeto</b>
         <br>
@@ -144,7 +144,7 @@ Como pode ser visto na imagem acima, o nome escolhido "Ki-limpinho" ganhou com q
 Como pode ser percebido, a técnica de Brainstorming vem se provando eficiente para a geração de ideias, no escopo desse projeto. Essa técnica quando usada junto a enquetes também se mostrou muito útil e eficaz para tomada de decisões.
 </p>
 
-## Referências
+## 7. Referências
 
 > https://unbarqdsw2021-1.github.io/2021.1_G6_Curumim/base/requisitos/elicitacao/brainstorming/
 > https://unbarqdsw2021-1.github.io/2021.1_G01_Animalesco_docs/#/pages/brainstorming?id=_5-conclus%c3%a3o

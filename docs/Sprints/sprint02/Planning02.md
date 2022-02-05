@@ -1,16 +1,16 @@
-# Planning sprint 02
+#  <center> Planning sprint 02
 
 
-## Informações básicas Planning
+## 1. Informações básicas Planning
   - Local Reunião: Teams
   - Data e horário Reunião: 31/01/2022 às 21h
   - Duração da sprint: 4 dias
   - Quantidade de issues planejadas: 14
 
-## Objetivo da sprint 
+## 2. Objetivo da sprint 
   -
 
-## Issues da sprint
+## 3. Issues da sprint
 
 | Número | Descrição | Pontuação | Responsável(eis) |
 | -- | -- | -- | -- |
@@ -29,7 +29,7 @@
 | [#32](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/32)  |  EAP | 1  | Nilvan |
 | [#34](https://github.com/UnBArqDsw2021-2/2021.2_G2_lava-jato/issues/34)  |  Diagrama de causa-efeito |2  | Peniel |
 
-  ## Pontuação por integrante:
+## 4. Pontuação por integrante
   
   - Nilvan: 4 
   - Natanael: 5
@@ -41,3 +41,7 @@
   - Yuri Alves: 3
   - Henrique Amorim: 4
   - Caio Martins: 3
+
+## 5. Gravação
+
+<iframe width="964" height="542" src="https://www.youtube.com/embed/X9QLRTC5E4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

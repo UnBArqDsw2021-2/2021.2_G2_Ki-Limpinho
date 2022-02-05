@@ -1,6 +1,6 @@
 # Ki-Limpinho 💦🚗
 
- ![logo](docs/assets/img/personalizacao/logoRodas.svg ) 
+![logo](docs/assets/img/personalizacao/logoRodas.svg) 
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 02<br>
@@ -25,10 +25,21 @@ Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto 
 É por isso que a Ki-limpinho fornece uma aplicação web que ajuda ao cliente no monitoramento do veículo e ao gerente na organização do lava-jato e gerência das finanças. Com ela, o cliente consegue manter contato com o lava-jato e acompanhar o status do carro, já o gerente pode visualizar dashboards, planilhas, etc. que fornece a liquidez mensal e entre outros fatores importantes para a gestão do lava-jato.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+
+![Screenshot da Home](docs/assets/img/screenshots/entrega1/screen1.png)
+
+![Screenshot do documento Design Sprint](docs/assets/img/screenshots/entrega1/screen2.png)
+
+![Screenshot do documento Mapa Mental](docs/assets/img/screenshots/entrega1/screen3.png)
+
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione o(s)s vídeo(s) da Primeira Entrega.
+
+[![Projeto Não Orientado a Abordagens Específicas](docs/assets/img/screenshots/entrega1/Thumb-1.png)](https://youtu.be/NOMtTlRX-6E)
+
+[![Metodologias, Processos e Abordagens](docs/assets/img/screenshots/entrega1/Thumb-2.png)](https://youtu.be/ysbCv35X5WY)
+
+[![Iniciativas Extras](docs/assets/img/screenshots/entrega1/Thumb-3.png)](https://youtu.be/ME-ElzwlVs0)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.

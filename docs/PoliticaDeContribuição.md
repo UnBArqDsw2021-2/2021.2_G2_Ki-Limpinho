@@ -1,16 +1,18 @@
-# <center> Rich Pictures
+# <center> Política de Contribuição
 
-## Histórico de revisão
+### Histórico de revisão
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
 | 02/02/2022 | 1.0.0 | Criação e elaboração do documento | Davi Matheus |
+| 04.02.2022 | 1.0.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
+| 04.02.2022 | 1.0.2 | Mudança de política de commit | Nilvan Peres |
 
-## Introdução
+## 1. Introdução
 
 O principal intuito desse documento é elucidar o processo e as práticas que devem ser seguidas para a **criação de branches** e de **criação de commits.**
 
 
-## Políticas de Branch
+## 2. Políticas de Branch
 
 Para a criação de branches, deve ser seguido as seguintes políticas abaixo.
 
@@ -41,7 +43,7 @@ Exemplos do gitflow das branches:
 
   Regras de nomenclatura:
 
-  `numero_da_issue/feature`
+  `numero_da_issue-feature`
 
 - A branch **release** representa o conjunto de funcionalidades provenientes de um ponto específico da branch **development**. Essa branch contém funcionalidades prontas que, provavelmente, estarão presentes na próxima versão estável do produto. Apenas **bug fixes** são permitidos nessa branch.
 
@@ -53,7 +55,7 @@ Exemplos do gitflow das branches:
 
   Regras de nomenclatura:
 
-  `release/vNúmero-da-versão`
+  `release-vNúmeroDaVersão`
 
 - As branches do tipo **bugfix** são utilizadas para implementar soluções para bugs, encontrados através de testes realizados em releases específicas, na branch **release**. Isso significa que a branch **bugfix** deve ter a branch **release** como sua origem e fim.
 
@@ -64,7 +66,7 @@ Exemplos do gitflow das branches:
 
   Regras de nomenclatura:
 
-  `bugfix/issueID-titulo-da-issue`
+  `bugfix-issueIDTituloDaIssue`
 
 Observações: O título da issue utilizado no nome das branches deve ser mantido em português.
 
@@ -73,13 +75,13 @@ Observações: O título da issue utilizado no nome das branches deve ser mantid
 
   ![](https://miro.medium.com/max/640/0*FTwKYpFGADX-5Y0O)
 
-## Políticas de Commits
+## 3. Políticas de Commits
 Os commits deve seguir a seguinte estrutura: 
 
-- categoria_nome do commit #issueID.
+- categoria: nome do commit #issueID.
 
-- Exemplo: bugs_Correções_Registro #10
-- Exemplo2: add_Documento_de_Arquitetura #43
+- Exemplo: bugs:Correções Registro #10
+- Exemplo2: add: Documento de Arquitetura #43
 
 Categorias:
 
@@ -92,7 +94,7 @@ Categorias:
 - _**refact**_: Refatoração do código.
 
 
-## Referências
+## 4. Referências
 
 [Git-flow Applied to a Real Project](https://medium.com/empathyco/git-flow-applied-to-a-real-project-c08037e28f88)
 

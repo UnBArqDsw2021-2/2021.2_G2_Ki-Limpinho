@@ -7,11 +7,11 @@
  </center>
 
 
-### Introdução
+## Introdução
 
-Ki-Limpinho é uma aplicação que visa auxiliar no gerenciamento e comunicação com o cliente por parte do lava-jato, de modo que, durante o uso a frequência da execução de ações repetitivas por parte do gerente seja minimizada e o usuário possa facilmente solicitar serviços e também acompanha-los.
+A `Ki-Limpinho` é uma aplicação que visa auxiliar no gerenciamento e comunicação com o cliente por parte do lava-jato, de modo que, durante o uso a frequência da execução de ações repetitivas por parte do gerente seja minimizada e o usuário possa facilmente solicitar serviços e também acompanha-los.
 
-### Integrantes
+## Integrantes
 
 <center>
 
@@ -29,3 +29,9 @@ Ki-Limpinho é uma aplicação que visa auxiliar no gerenciamento e comunicaçã
 | 18/0078640  |  Yuri Alves Bacarias |
 
 </center>
+
+## Heatmap da Equipe
+
+Heatmap é uma tabela representativa de calor, no caso, utilizamos a representação de calor para identificarmos os melhores horários de reunião da equipe. Para melhor compreensão do heatmap, utilizamos as cores verde e vermelho, onde quanto mais forte for o verde, mais integrantes estão disponíveis naquele horário, o mesmo vice-versa.
+
+<center><iframe width="1000" height="500" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN0clKlC1VflmaKzLpZGpErGSqj9UxbNGHBD5kM41qzRNBB5_HJ0_Tb6qf5KEN69ASGy3X1j9i9gjW/pubhtml?gid=510136647&amp;single=true&amp;widget=false&amp;headers=false&chrome=false"></iframe></center>

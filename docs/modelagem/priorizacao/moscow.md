@@ -5,13 +5,13 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 03.01.2022 |  0.1   | Criação do documento e versão inicial | Lucas Melo, Lucas Lima |
 | 04.01.2022 |  0.2   | Revisão do documento | Nilvan Peres |
-
+| 04.02.2022 | 0.2.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 
 ### Responsáveis pelo documento
 - Lucas Melo
 - Lucas Lima
 
-### Introdução
+## 1. Introdução
 
 <p align="justify">&emsp;
   MoSCoW é  um método que auxilia na determinação de um sistema de prioridades. Essa técnica está ligada às metodologias ágeis e define a importância e importância dos requisitos de um sistema ou projeto.
@@ -26,7 +26,7 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
 
 
 
-### Resultados
+## 2. Resultados
 
 
 <table>
@@ -210,12 +210,12 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
     </tbody>
 </table>
 
-### Conclusão
+## 3. Conclusão
 
 Através da priorização podemos determinar qual a importância de um requisito para o projeto. Os resultados que determinam a relação de tags(Must, Should, Could, Would) por requisitos podem ser observados no gráfico a seguir.
 
-<img width="1500" height="1500"  src="../../../assets/moscow-chart.jpeg">
+<img width="1500" height="1500"  src="../../../assets/img/moscow/moscow-chart.jpeg">
 
-## Referências
+## 4. Referências
 
 > [1] - Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em <a href=https://www.voitto.com.br/blog/artigo/metodo-moscow target="_blank">https://www.voitto.com.br/blog/artigo/metodo-moscow</a>. Acesso em 20 de ago. 2021

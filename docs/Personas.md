@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 30.01.2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Lucas Melo |
+| 04.02.2022 | 0.1.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 
 
 
@@ -24,7 +25,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 ## 2. Objetivo
 <p align="justify">&emsp;&emsp;
-  A partir da definição das personas com todos os compononetes que as formam,será possível elicitar requisitos baseado nesse modelo de representação do usuário final.
+  A partir da definição das personas com todos os compononetes que as formam, será possível elicitar requisitos baseados nesse modelo de representação do usuário final.
 </p>
 
 
@@ -50,7 +51,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 || Marta Pereira Silva|
 |--|--|
-|<b id="marta">Foto:</b>|<p style="text-align: center"><img src="../assets/personas/marta.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Marta Pereira</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="marta">Foto:</b>|<p style="text-align: center"><img src="../assets/img/personas/marta.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Marta Pereira</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|44 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>|Professsora univesitária|
@@ -68,7 +69,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 || João Luiz Santos|
 |--|--|
-|<b id="joao">Foto:</b>|<p style="text-align: center"><img src="../assets/personas/joao.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Luiz</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
+|<b id="joao">Foto:</b>|<p style="text-align: center"><img src="../assets/img/personas/joao.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Luiz</p><p style="text-align: center">Fonte: This Person Does Not Exist [2]</p>|
 |<b>Idade:</b>|28 anos |
 |<b>Status:</b>| Anti-persona |
 |<b>Profissão:</b>| Personal trainer |
@@ -81,7 +82,7 @@ criado para descrever um usuário específico. Como não é possível falar com 
 |<b>Expectativas:</b>| Por gostar bastante de ciclismo e acreditar que ajuda o meio ambiente ao utilizar transportes coletivos em detrimento de transportes particulares, não tem interesse em um site para agendar a limpeza do automóvel |
 
 
-## Referências
+## 4. Referências
 
 > [1] -(  Baxter. K; Courage. C; Caine. K ;  Understanding Your Users, Second Edition: A Practical Guide to User Research Methods. Morgan Kaufmann, 2015)
 > [2] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.
