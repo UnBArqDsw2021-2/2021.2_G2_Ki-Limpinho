@@ -27,7 +27,7 @@ Representa os funcionarios do lava-jato. A ocorrência da entidade FUNCIONARIO s
 Representa os gerentes do lava-jato. A ocorrência da entidade GERENTE será associado aos seguintes atributos: **idGerente**,  **telefone**.
 
 #### 2.1.4 Entidade SERVICO
-Representa os seviços registrados no sistema WEB KiLimpinho. A ocorrência da entidade SERVICO será associado aos seguintes atributos: **idServico**, **pagamento**, **funcionarioResponsavel**, **preco**, **descricao**.
+Representa os seviços registrados no sistema WEB KiLimpinho. A ocorrência da entidade SERVICO será associado aos seguintes atributos: **idServico**, **preco**, **descricao**.
 
 #### 2.1.5 Entidade CLIENTE
 Representa os clientes cadastrados no sistema WEB KiLimpinho. A ocorrência da entidade CLIENTE será associado aos seguintes atributos: **cpf**,**nome**, **telefone**, **endereco**, **placaCarro**.
