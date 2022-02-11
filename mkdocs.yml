@@ -31,7 +31,6 @@ nav:
       - Diagrama Causa e Efeito: "diagramacausaefeito.md"
       - Termo de Abertura do Projeto: "tap.md"
       - Léxicos: "lexicos.md"
-      - Mer: "mer.md"
       - Elicitação:
         - Técnicas de Elicitação:
           - Introspecção: "tecnicas_elicitacao/introspeccao.md"
@@ -96,6 +95,7 @@ nav:
         - Politica de Contribuição: "PoliticaDeContribuição.md"
         - EAP : "EAP.md"
         - Especificação Suplementar(FURPS): "especificacaoSuplementar.md"
+      - Mer: "mer.md"
     - Sprints:
       - Sprint 1: 
         - Planning: "Sprints/sprint01/Planning.md"
