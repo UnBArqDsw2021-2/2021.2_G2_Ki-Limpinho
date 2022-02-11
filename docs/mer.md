@@ -48,11 +48,14 @@ Um GERENTE pode cadastrar um ou mais SERVICO, mas um SERVICO só pode ser cadast
 Um CLIENTE pode utilizar um ou mais SERVICO e um SERVICO pode ser utilizado por um ou mais CLIENTE. 
 **Cardinalidade: n : m**.
 
+## 3 Diagrama de Entidade Relacionamento
+
+
 
 <p align='center'>
     <img src='../assets/img/mer/mer.jpeg'>
     <figcaption align='center'>
-        <b>Figura 1: MER KiLimpinho</b>
+        <b>Figura 1: DER KiLimpinho</b>
         <br>
         <small>Autor: Lucas Ferraz, Peniel Etèmana, 2022.</small>
     </figcaption>
