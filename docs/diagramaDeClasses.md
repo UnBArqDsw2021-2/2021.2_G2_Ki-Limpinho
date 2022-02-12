@@ -7,6 +7,7 @@
 | -- | -- | -- | -- |
 | 01.12.2020 | 0.1 | Criação do documento | Henrique Melo <br>Nilvan Júnior|
 | 01.12.2020 | 0.2 | Correção imagem e parágrafos | Nilvan Júnior|
+| 01.12.2020 | 0.2 | Revisão do documento | Natanael Filho|
 
 ### Participantes
 
