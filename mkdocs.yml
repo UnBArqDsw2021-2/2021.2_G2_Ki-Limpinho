@@ -106,7 +106,11 @@ nav:
           - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
           - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
   - Modelagem:
-      - Iniciativas Extras:
+        - Sprints 3:
+            - Planning: "Sprints/sprint03/Planning03.md"
+        - Atas de Reunião:
+            - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
+        - Iniciativas Extras:
           - MER: "mer.md"
   - Apresentações:
       - Apresentação da Entrega 1: "apresentacoes/entrega1.md"
