@@ -8,6 +8,7 @@
 | 11.02.2022 | 0.2    | Adição dos diagramas     | [Lucas Lima](https://github.com/mibasFerraz), [Peniel Zannoukou](https://github.com/zpeniel09)   |
 | 13.02.2022 | 0.2.1    | Adição da revisão     | [Natanael Filho](https://github.com/fernandes-natanael)   |
 | 13.02.2022 | 0.2.2    | Melhorias após revisão do PR     | [Peniel Zannoukou](https://github.com/zpeniel09)   |
+| 13.02.2022 | 0.2.3    | Adição da revisão     | [Natanael Filho](https://github.com/fernandes-natanael)   |
 
 
 ### Participantes
