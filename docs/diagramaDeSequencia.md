@@ -7,6 +7,7 @@
 | 12.02.2022 | 0.1    | Criação do documento | Yuri Alves e Caio Martins |
 | 12.02.2022 | 0.2    | Criação de topicos   | Yuri Alves e Caio Martins |
 | 12.02.2022 | 0.3    | adição de imagens    | Yuri Alves e Caio Martins |
+| 12.02.2022 | 0.3.1   | Revisão - faltou adicionar as referências   | Lucas Melo |
 
 ## 1. Introdução
 
@@ -55,3 +56,7 @@
 </p>
 
 <br><br>
+
+## Referências
+
+> REFERENCIAS
