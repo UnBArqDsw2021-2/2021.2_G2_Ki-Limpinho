@@ -6,6 +6,7 @@
 | ---------- | ------ | ------------------------ | -------------------------------------------------- |
 | 09.02.2022 | 0.1    | Criação do documento     | [Peniel Zannoukou](https://github.com/zpeniel09)   |
 | 11.02.2022 | 0.2    | Adição dos diagramas     | [Lucas Lima](https://github.com/mibasFerraz), [Peniel Zannoukou](https://github.com/zpeniel09)   |
+| 13.02.2022 | 0.2.1    | Adição da revisão     | [Natanael Filho](https://github.com/fernandes-natanael)   |
 
 
 ### Participantes
