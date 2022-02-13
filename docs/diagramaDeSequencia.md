@@ -8,6 +8,7 @@
 | 12.02.2022 | 0.2    | Criação de topicos   | Yuri Alves e Caio Martins |
 | 12.02.2022 | 0.3    | adição de imagens    | Yuri Alves e Caio Martins |
 | 12.02.2022 | 0.3.1   | Revisão - faltou adicionar as referências   | Lucas Melo |
+| 13.02.2022 | 0.3.2   | Revisão - acho que vale a pena adicionar feature dos Dashboards | Nilvan |
 
 ## 1. Introdução
 
