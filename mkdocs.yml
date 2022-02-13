@@ -107,12 +107,13 @@ nav:
           - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
   - Desenho de Software(Modelagem):
     - Módulo Notação UML - Diagramas Estáticos:
+      - Diagrama de Classes: "diagramaDeClasses.md"
       - Diagrama de Casos de Uso: "modelagem/diagramas/diagramaCasoUso.md"
-    - Sprints 3:
+    - Iniciativas Extras:
+      - MER: "mer.md"
+    - Sprint 3:
       - Planning: "Sprints/sprint03/Planning03.md"
     - Atas de Reunião:
       - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
-    - Iniciativas Extras:
-      - MER: "mer.md"
   - Apresentações:
       - Apresentação da Entrega 1: "apresentacoes/entrega1.md"
