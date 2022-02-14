@@ -108,6 +108,10 @@ nav:
   - Desenho de Software(Modelagem):
       - Módulo Notação UML - Diagramas Estáticos:
         - Diagrama de Pacotes: "diagramaDePacotes.md"
+        - Diagrama de Classes: "diagramaDeClasses.md"
+        - Diagrama de Implementação: "modelagem/diagramas/diagramaDeImplementacao.md"
+      - Módulo Notação UML - Diagramas Dinâmicos:
+        - Diagrama de Estado: "diagramaDeEstado.md"
       - Sprints 3:
           - Planning: "Sprints/sprint03/Planning03.md"
       - Atas de Reunião:
