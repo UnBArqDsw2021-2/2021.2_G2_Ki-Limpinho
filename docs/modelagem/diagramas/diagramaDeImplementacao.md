@@ -6,6 +6,7 @@
 | :--------: | :----: | :------------------: | :---------------: |
 | 12/02/2022 |  0.1   | Criação do documento | Henrique Amorim |
 | 13/02/2022 |  0.2  | Criação do documento | Natanael Filho |
+| 13/02/2022 |  0.2  | Revisão do documento | Davi Matheus |
 
 ### Participantes
 
