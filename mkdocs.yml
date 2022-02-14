@@ -108,6 +108,8 @@ nav:
   - Desenho de Software(Modelagem):
     - Módulo Notação UML - Diagramas Estáticos:
       - Diagrama de Classes: "diagramaDeClasses.md"
+      - Diagrama de Implementação: "modelagem/diagramas/diagramaDeImplementacao.md"
+      - Diagrama de Estado: "diagramaDeEstado.md"
       - Diagrama de Casos de Uso: "modelagem/diagramas/diagramaCasoUso.md"
     - Iniciativas Extras:
       - MER: "mer.md"
