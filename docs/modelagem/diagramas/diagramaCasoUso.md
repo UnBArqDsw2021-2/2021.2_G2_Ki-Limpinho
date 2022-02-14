@@ -7,6 +7,8 @@
 | -- | -- | -- | -- |
 | 12.02.2022 | 0.1 | Criação do documento | Lucas Melo e  Natanael Filho|
 | 13.02.2022 | 0.1.1 | Adição de label para tabela | Natanael Filho|
+| 14.02.2022 | 0.1.2 | Revisão do documento | Davi Matheus |
+
 
 ### Participantes
 
@@ -17,7 +19,7 @@
 
 ## 1. Introdução
 
-Os casos de usos identificam representa as unidades funcionais de um sistema. As ações dos atores são divididos em passos, que podem ser divididos em dois fluxos: normal/básico e extensões/alternativo. O fluxo básico é composto pelos passos necessários para alcançar o sucesso da operação, já o fluxo alternativo é composto pelas alternativas de execução e erros.(Valente, 2020). O diagrama de caso de uso é um diagrama da linguagem de modelagem unificada (UML) que é a representação gráfico dos casos de uso.  Esse diagrama representa os atores de um sistema como pequenos bonecos e os casos de uso como elipses. 
+Os casos de usos identificam representa as unidades funcionais de um sistema. As ações dos atores são divididos em passos, que podem ser divididos em dois fluxos: normal/básico e extensões/alternativo. O fluxo básico é composto pelos passos necessários para alcançar o sucesso da operação, já o fluxo alternativo é composto pelas alternativas de execução e erros.(Valente, 2020). O diagrama de caso de uso é um diagrama da linguagem de modelagem unificada (UML) sendo a representação gráfico dos casos de uso.  Esse diagrama representa os atores de um sistema como pequenos bonecos e os casos de uso como elipses. 
 
 ## 2. Resultados
 
