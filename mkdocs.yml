@@ -111,6 +111,7 @@ nav:
             - MER: "mer.md"
         - Modelagem Estática:
             - Diagrama de Classes: "diagramaDeClasses.md"
+            - Diagrama de Implementação: "modelagem/diagramas/diagramaDeImplementacao.md"
             - Diagrama de Estado: "diagramaDeEstado.md"
         - Sprints 3:
             - Planning: "Sprints/sprint03/Planning03.md"
