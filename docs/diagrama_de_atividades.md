@@ -1,4 +1,4 @@
-# <center> Diagrama Causa Efeito
+# <center> Diagrama de Atividades
 
 ### Histórico de Versão
 
@@ -7,6 +7,7 @@
 | 11.02.2022 | 0.1 | Criação do documento | Davi Matheus |
 | 13.02.2022 | 0.1 | Adição dos diagramas de atividades | Davi Matheus |
 | 14.02.2022 | 0.1.1 | Revisão do documento | Natanael Filho |
+| 14.02.2022 | 0.1.2 | Aplicando mudancas solicitadas no PR | Nilvan Peres |
 
 
 ## 1. Introdução
@@ -36,12 +37,12 @@ Nó final: representa a etapa final da atividade. É representado por um círcul
 - Fluxo de caixa do gerente
 
 
-<p align="justify">&emsp;&emsp;Vale ressaltar que cada diagrama foi divido em 3 instâncias, estas são as camadas do usuário; do frontend e do backend. Cada camada representa a instância de determinada ação, isto é, em qual nível comportamental uma determinada ação acontece na aplicação. A camada do usuário descreve todas as atividades desempenhadas ao nível da pessoa que utiliza a plataforma Ki-Limpinho, em que o usuário pode ser ou o cliente ou o gerente. No que lhe concerne, a camada do frontend engloba todas as atividades desempenhadas pela solução computacional em contato direto com o usuário. Por fim, a camada do backend representa todas as atividades descritas nas regras de negócio e lógicas de processamento da aplicação.</p> 
+<p align="justify">&emsp;&emsp;Vale ressaltar que cada diagrama foi divido em 3 instâncias, estas são as camadas do usuário, do frontend e do backend. Cada camada representa a instância de determinada ação, isto é, em qual nível comportamental uma determinada ação acontece na aplicação. A camada do usuário descreve todas as atividades desempenhadas ao nível da pessoa que utiliza a plataforma Ki-Limpinho, em que o usuário pode ser ou o cliente ou o gerente. No que lhe concerne, a camada do frontend engloba todas as atividades desempenhadas pela solução computacional em contato direto com o usuário. Por fim, a camada do backend representa todas as atividades descritas nas regras de negócio e lógicas de processamento da aplicação.</p> 
 
 
 ## 3. Diagrama de Atividades
 
-### 3.1 Cadastro de usuário
+### 3.1. Cadastro de usuário
 
 
 <p align="justify">&emsp;&emsp;O fluxo de cadastro de usuário descreve o caminho que deve ser executado pelo usuário(tanto pelo cliente tanto pelo gerente) ao tentar se cadastrar na plataforma.</p>
@@ -56,7 +57,7 @@ Nó final: representa a etapa final da atividade. É representado por um círcul
     </figcaption>
 </p>
 
-### 3.2 Pagamento de um serviço
+### 3.2. Pagamento de um serviço
 
 
 <p align="justify">&emsp;&emsp;O fluxo de pagamento de um serviço  descreve o caminho percorrido pelo usuário, este já deve estar devidamente cadastrado na aplicação, ao executar a tarefa de agendar um serviço e depois todo o processo do pagamento na plataforma. </p>
@@ -71,7 +72,7 @@ Nó final: representa a etapa final da atividade. É representado por um círcul
     </figcaption>
 </p>
 
-### 3.3 Remarcar/Cancelar um serviço
+### 3.3. Remarcar/Cancelar um serviço
 
 
 <p align="justify">&emsp;&emsp;O fluxo de cancelamento ou de remarcação de uma lavagem descreve o caminho percorrido pelo cliente ao tentar alterar a data de um serviço previamente agendado, ou ate mesmo cancela-lo. Em que para realizar esta tarefa este cliente já deve estar cadastrado e vinculado a plataforma, e também é importante informar essa ação e única não podendo ser alterada posteriormente. </p>
@@ -88,7 +89,7 @@ Nó final: representa a etapa final da atividade. É representado por um círcul
     </figcaption>
 </p>
 
-### 3.4 FLuxo de caixa da plataforma
+### 3.4. Fluxo de caixa da plataforma
 
 
 <p align="justify">&emsp;&emsp;O diagrama de controle de caixa do lava-jato descreve o fluxo de atividades percorrido pelo gerente através da utilização do ‘website’ para o controle das despesas fixas e variáveis(mensais) que um determinado lava-jato precisa gerenciar para assim conseguir gerar um lucro.</p>
@@ -97,7 +98,7 @@ Nó final: representa a etapa final da atividade. É representado por um círcul
 <p align='center'>
     <img src='../assets/img/diagrama_atividades/fluxo_de_caixa.jpeg'>
     <figcaption align='center'>
-        <b>Figura 4: Diagrama de atividades - FLuxo de caixa </b>
+        <b>Figura 4: Diagrama de atividades - Fluxo de caixa </b>
         <br>
         <small>Autor: Davi Matheus.</small>
     </figcaption>
@@ -112,10 +113,10 @@ Nó final: representa a etapa final da atividade. É representado por um círcul
 
 ## 4. Referência
 
-1. Activity Diagrams. **UML Diagrams**. Disponível em: https://www.uml-diagrams.org/activity-diagrams.html (Último acesso em 12/02/2022)
+> [1] Activity Diagrams. **UML Diagrams**. Disponível em: https://www.uml-diagrams.org/activity-diagrams.html (Último acesso em 12/02/2022)
 
-2. SERRANO, Milene. Arquitetura e Desenho de Software AULA - DIAGRAMA DE ATIVIDADES (Último acesso em 13/02/2022)
+> [2] SERRANO, Milene. Arquitetura e Desenho de Software AULA - DIAGRAMA DE ATIVIDADES (Último acesso em 13/02/2022)
 
-3. "O que é diagrama de atividades UML?". **Lucidchart**. https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml (Último acesso em 14/08/2022)
+> [3] "O que é diagrama de atividades UML?". **Lucidchart**. https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml (Último acesso em 14/08/2022)
 
 
