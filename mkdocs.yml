@@ -85,25 +85,31 @@ nav:
               - Politica de Contribuição: "PoliticaDeContribuição.md"
               - EAP: "EAP.md"
               - Especificação Suplementar(FURPS): "especificacaoSuplementar.md"
-  - Sprints:
-        - Sprint 1:
-            - Planning: "Sprints/sprint01/Planning.md"
-            - Review: "Sprints/sprint01/Review.md"
-        - Sprint 2:
-            - Planning: "Sprints/sprint02/Planning02.md"
-            - Review: "Sprints/sprint02/Review.md"
-        - Sprints 3:
-            - Planning: "Sprints/sprint03/Planning03.md"
-  - Atas de Reunião:
-        - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
-        - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
-        - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
-  - Modelagem:
-        - Iniciativas Extras:
-            - MER: "mer.md"
-        - Modelagem Estática:
-            - Diagrama de Classes: "diagramaDeClasses.md"
-        - Modelagem Dinâmica:
-            - Diagrama de Sequencia: "diagramaDeSequencia.md"
+      - Sprints:
+          - Sprint 1:
+              - Planning: "Sprints/sprint01/Planning.md"
+              - Review: "Sprints/sprint01/Review.md"
+          - Sprint 2:
+              - Planning: "Sprints/sprint02/Planning02.md"
+              - Review: "Sprints/sprint02/Review.md"
+      - Atas de Reunião:
+          - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
+          - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
+
+  - Desenho de Software(Modelagem):
+    - Módulo Notação UML - Diagramas Estáticos:
+      - Diagrama de Classes: "diagramaDeClasses.md"
+      - Diagrama de Implementação: "modelagem/diagramas/diagramaDeImplementacao.md"
+      - Diagrama de Estado: "diagramaDeEstado.md"
+      - Diagrama de Casos de Uso: "modelagem/diagramas/diagramaCasoUso.md"
+    - Modelagem Dinâmica:
+      - Diagrama de Atividades: "diagrama_de_atividades.md"
+      - Diagrama de Sequencia: "diagramaDeSequencia.md"
+    - Iniciativas Extras:
+      - MER: "mer.md"
+    - Sprint 3:
+      - Planning: "Sprints/sprint03/Planning03.md"
+    - Atas de Reunião:
+      - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
   - Apresentações:
       - Apresentação da Entrega 1: "apresentacoes/entrega1.md"
