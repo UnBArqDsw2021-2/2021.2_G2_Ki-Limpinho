@@ -6,6 +6,7 @@
 | -- | -- | -- | -- |
 | 11.02.2022 | 0.1 | Criação do documento | Davi Matheus |
 | 13.02.2022 | 0.1 | Adição dos diagramas de atividades | Davi Matheus |
+| 14.02.2022 | 0.1.1 | Revisão do documento | Natanael Filho |
 
 
 ## 1. Introdução
