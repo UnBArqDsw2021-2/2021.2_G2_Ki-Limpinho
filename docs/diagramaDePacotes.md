@@ -8,6 +8,8 @@
 | 12.02.2022 | 0.1 | Criação do documento | Lucas Melo <br>Nilvan Júnior|
 | 12.02.2022 | 0.2 | Adição dos diagrama de pacotes| Nilvan Júnior <br>Lucas Melo|
 | 12.02.2022 | 0.3 | Complementação de alguns tópicos | Nilvan Júnior|
+| 15.02.2022 | 0.4 | Revisão e correção ortográfica | Davi Matheus  |
+
 
 ## Participantes
 
@@ -38,9 +40,9 @@ Existem alguns elementos que formam os diagramas de pacotes:
 
 ## Metodologia
 <div align="justify"> 
-A arquitetura escolhida para o projeto é a cliente-servidor. A Arquitetura cliente-servidor funciona através da divisão em módulos ou processos distintos da informação. Assim, é formado por dois principais processos, o servidor, que é responsável pela manutenção da informação e o cliente, responsável pela obtenção dos dados. Dessa forma, os principais pacotes representados na aplicação são o frontend(cliente) e o backend(servidor).
+A arquitetura escolhida para o projeto é a cliente-servidor. A Arquitetura cliente-servidor funciona através da divisão em módulos ou processos distintos da informação. Assim, é formado por dois principais processos, o servidor, responsável pela manutenção da informação e o cliente, responsável pela obtenção dos dados. Dessa forma, os principais pacotes representados na aplicação são o frontend(cliente) e o backend(servidor).
 <br><br>
-Utilizamos a mesma ferramenta para a elaboração do artefato a fim de interligar como será a comunição dos dois sistemas. O desenvolvimento foi a partir de trocas assíncronas e validação com os membros que serão resposáveis pelas respectivas frentes de desenvolvimento.
+Utilizamos a mesma ferramenta para a elaboração do artefato de modo a interligar como será a comunicação dos dois sistemas. O desenvolvimento foi a partir de trocas assíncronas e validação com os membros que serão responsáveis pelas respectivas frentes de desenvolvimento.
 </div><br>
 
 ## Resultados
