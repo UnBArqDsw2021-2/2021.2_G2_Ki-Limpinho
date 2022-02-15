@@ -110,8 +110,10 @@ nav:
         - Diagrama de Pacotes: "diagramaDePacotes.md"
         - Diagrama de Classes: "diagramaDeClasses.md"
         - Diagrama de Implementação: "modelagem/diagramas/diagramaDeImplementacao.md"
+        - Diagrama de Casos de Uso: "modelagem/diagramas/diagramaCasoUso.md"
       - Módulo Notação UML - Diagramas Dinâmicos:
         - Diagrama de Estado: "diagramaDeEstado.md"
+        - Diagrama de Atividades: "diagrama_de_atividades.md"
       - Sprints 3:
           - Planning: "Sprints/sprint03/Planning03.md"
       - Atas de Reunião:
