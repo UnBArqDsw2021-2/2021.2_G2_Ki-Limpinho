@@ -58,6 +58,7 @@
 
 <br><br>
 
-## Referências
+## 4. Referência
 
-> REFERENCIAS
+> Diagrama de Sequência, Disponível em: https://docente.ifrn.edu.br/givanaldorocha/disciplinas/engenharia-de-software-licenciatura-em-informatica/diagrama-de-sequencia. Acesso em: 12 de Fevereiro de 2022.<br>
+> "O que é um diagrama de sequência UML? ": Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml#section_4 Acesso em: 12 de Fevereiro de 2022.
