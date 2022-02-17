@@ -49,7 +49,7 @@
   - DLD : Jonathan
   - Padronizar : Caio
   - Organizar a wiki : Henrique
-  - Padronização do projeto: Lucas Melo
+  - Review da sprint: Lucas Melo
   - Diagrama de componentes: Peniel
 
 ## 6. Gravação
