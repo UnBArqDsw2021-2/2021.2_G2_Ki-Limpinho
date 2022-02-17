@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |     Autor(es)     |
 | :--------: | :----: | :------------------: | :---------------: |
 | 11/02/2022 |  0.1   | Criação do documento | Lucas Ferraz, Peniel Etèmana |
+| 16/02/2022 |  0.2   | Adição do DLD | Lucas Ferraz |
 
 
 ## 1 Introdução
@@ -48,9 +49,7 @@ Um GERENTE pode cadastrar um ou mais SERVICO, mas um SERVICO só pode ser cadast
 Um CLIENTE pode utilizar um ou mais SERVICO e um SERVICO pode ser utilizado por um ou mais CLIENTE. 
 **Cardinalidade: n : m**.
 
-## 3 Diagrama de Entidade Relacionamento
-
-
+## 3 Diagrama de Entidade Relacionamento (DER)
 
 <p align='center'>
     <img src='../assets/img/mer/mer.jpeg'>
@@ -60,6 +59,20 @@ Um CLIENTE pode utilizar um ou mais SERVICO e um SERVICO pode ser utilizado por 
         <small>Autor: Lucas Ferraz, Peniel Etèmana, 2022.</small>
     </figcaption>
 </p>
+
+
+## 4 Diagrama de Lógico de Dados (DLD)
+
+
+<p align='center'>
+    <img src='../assets/img/mer/dld.jpeg'>
+    <figcaption align='center'>
+        <b>Figura 2: DLD KiLimpinho</b>
+        <br>
+        <small>Autor: Lucas Ferraz, 2022.</small>
+    </figcaption>
+</p>
+
 
 ## Bibliografia
 

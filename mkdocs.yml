@@ -1,7 +1,10 @@
 site_name: Ki-Limpinho
 repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho
 
-
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+      
 extra_javascript:
     - javascripts/mathjax.js
     - https://polyfill.io/v3/polyfill.min.js?features=es6
@@ -10,6 +13,13 @@ extra_javascript:
 
 extra_css:
     - assets/stylesheets/extra.css
+theme:
+  name: material
+  logo: assets/img/personalizacao/logo.svg
+  favicon: assets/img/personalizacao/favicon.svg
+  features:
+    - navigation.tabs
+    - navigation.indexes
 
 nav:
   - Home: "index.md"
