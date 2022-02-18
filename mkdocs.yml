@@ -2,127 +2,127 @@ site_name: Ki-Limpinho
 repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho
 
 markdown_extensions:
-  - pymdownx.arithmatex:
-      generic: true
-      
+    - pymdownx.arithmatex:
+          generic: true
+
 extra_javascript:
     - javascripts/mathjax.js
     - https://polyfill.io/v3/polyfill.min.js?features=es6
     - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-
 extra_css:
     - assets/stylesheets/extra.css
 theme:
-  name: material
-  logo: assets/img/personalizacao/logo.svg
-  favicon: assets/img/personalizacao/favicon.svg
-  features:
-    - navigation.tabs
-    - navigation.indexes
+    name: material
+    logo: assets/img/personalizacao/logo.svg
+    favicon: assets/img/personalizacao/favicon.svg
+    features:
+        - navigation.tabs
+        - navigation.indexes
 
 nav:
-  - Home: "index.md"
-  - Desenho de Software(Base):
-      - Projeto Não Orientado a Abordagens Específicas:
-          - Design Sprint: "designSprint.md"
-          - Rich Picture: "richPicture.md"
-          - Mapa Mental: "mapaMental.md"
-          - Diagrama Causa e Efeito: "diagramacausaefeito.md"
-          - Termo de Abertura do Projeto: "tap.md"
-          - Léxicos: "lexicos.md"
-          - Elicitação:
-              - Técnicas de Elicitação:
-                  - Introspecção: "tecnicas_elicitacao/introspeccao.md"
-                  - Story Telling: "tecnicas_elicitacao/StoryTelling.md"
-                  - Brainstorm: "tecnicas_elicitacao/brainstorm.md"
-              - Personas: Personas.md
-          - Priorização:
-              - Moscow: "modelagem/priorizacao/moscow.md"
-          - Prototipagem:
-              - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
-              - Protótipo Média Fidelidade: "prototipoMedia.md"
-      - Metodologias, Processos e Abordagens:
-          - 5w2h: "5w2h.md"
-          - Metodologia do Projeto: "metodologia_do_projeto.md"
-          - Metologia BPMN: "metodologiaBPMN.md"
-      - Iniciativas Extras:
-          - Backlog do Produto:
-              - Backlog: "modelagem/backlog.md"
-              - Épicos:
-                  - Épico 1: "modelagem/Epicos/EP01.md"
-                  - Épico 2: "modelagem/Epicos/EP02.md"
-                  - Épico 3: "modelagem/Epicos/EP03.md"
-                  - Épico 4: "modelagem/Epicos/EP04.md"
-                  - Épico 5: "modelagem/Epicos/EP05.md"
-                  - Épico 6: "modelagem/Epicos/EP06.md"
-                  - Épico 7: "modelagem/Epicos/EP07.md"
-                  - Épico 8: "modelagem/Epicos/EP08.md"
-              - Histórias de Usuário:
-                  - História de Usuário 1: "modelagem/User-Stories/US01.md"
-                  - História de Usuário 2: "modelagem/User-Stories/US02.md"
-                  - História de Usuário 3: "modelagem/User-Stories/US03.md"
-                  - História de Usuário 4: "modelagem/User-Stories/US04.md"
-                  - História de Usuário 5: "modelagem/User-Stories/US05.md"
-                  - História de Usuário 6: "modelagem/User-Stories/US06.md"
-                  - História de Usuário 7: "modelagem/User-Stories/US07.md"
-                  - História de Usuário 8: "modelagem/User-Stories/US08.md"
-                  - História de Usuário 9: "modelagem/User-Stories/US09.md"
-                  - História de Usuário 10: "modelagem/User-Stories/US10.md"
-                  - História de Usuário 11: "modelagem/User-Stories/US11.md"
-                  - História de Usuário 12: "modelagem/User-Stories/US12.md"
-                  - História de Usuário 13: "modelagem/User-Stories/US13.md"
-                  - História de Usuário 14: "modelagem/User-Stories/US14.md"
-                  - História de Usuário 15: "modelagem/User-Stories/US15.md"
-                  - História de Usuário 16: "modelagem/User-Stories/US16.md"
-                  - História de Usuário 17: "modelagem/User-Stories/US17.md"
-                  - História de Usuário 17: "modelagem/User-Stories/US17.md"
-                  - História de Usuário 18: "modelagem/User-Stories/US18.md"
-                  - História de Usuário 19: "modelagem/User-Stories/US19.md"
-                  - História de Usuário 20: "modelagem/User-Stories/US20.md"
-                  - História de Usuário 21: "modelagem/User-Stories/US21.md"
-                  - História de Usuário 22: "modelagem/User-Stories/US22.md"
-                  - História de Usuário 23: "modelagem/User-Stories/US23.md"
-                  - História de Usuário 24: "modelagem/User-Stories/US24.md"
-                  - História de Usuário 25: "modelagem/User-Stories/US25.md"
-                  - História de Usuário 26: "modelagem/User-Stories/US26.md"
-                  - História de Usuário 27: "modelagem/User-Stories/US27.md"
-                  - História de Usuário 28: "modelagem/User-Stories/US28.md"
-          - Produto:
-              - Manual de Identidade Visual: "manualIdentidadeVisual.md"
-          - Projeto:
-              - Documento de Visão: "DocumentoDeVisao.md"
-              - Politica de Contribuição: "PoliticaDeContribuição.md"
-              - EAP: "EAP.md"
-              - Especificação Suplementar(FURPS): "especificacaoSuplementar.md"
-      - Sprints:
-          - Sprint 1:
-              - Planning: "Sprints/sprint01/Planning.md"
-              - Review: "Sprints/sprint01/Review.md"
-          - Sprint 2:
-              - Planning: "Sprints/sprint02/Planning02.md"
-              - Review: "Sprints/sprint02/Review.md"
-      - Atas de Reunião:
-          - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
-          - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
-  - Desenho de Software(Modelagem):
-      - Módulo Notação UML - Diagramas Estáticos:
-        - Diagrama de Pacotes: "diagramaDePacotes.md"
-        - Diagrama de Classes: "diagramaDeClasses.md"
-        - Diagrama de Implementação: "modelagem/diagramas/diagramaDeImplementacao.md"
-        - Diagrama de Casos de Uso: "modelagem/diagramas/diagramaCasoUso.md"
-      - Módulo Notação UML - Diagramas Dinâmicos:
-        - Diagrama de Estado: "diagramaDeEstado.md"
-        - Diagrama de Atividades: "diagrama_de_atividades.md"
-        - Diagrama de Sequencia: "diagramaDeSequencia.md"
-      - Sprints 3:
-          - Planning: "Sprints/sprint03/Planning03.md"
-          - Review: "Sprints/sprint03/Review.md"
-      - Sprints 4:
-          - Planning: "Sprints/sprint04/Planning04.md"
-      - Atas de Reunião:
-          - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
-      - Iniciativas Extras:
-        - MER: "mer.md"
-  - Apresentações:
-      - Apresentação da Entrega 1: "apresentacoes/entrega1.md"
+    - Home: "index.md"
+    - Desenho de Software(Base):
+          - Projeto Não Orientado a Abordagens Específicas:
+                - Design Sprint: "designSprint.md"
+                - Rich Picture: "richPicture.md"
+                - Mapa Mental: "mapaMental.md"
+                - Diagrama Causa e Efeito: "diagramacausaefeito.md"
+                - Termo de Abertura do Projeto: "tap.md"
+                - Léxicos: "lexicos.md"
+                - Elicitação:
+                      - Técnicas de Elicitação:
+                            - Introspecção: "tecnicas_elicitacao/introspeccao.md"
+                            - Story Telling: "tecnicas_elicitacao/StoryTelling.md"
+                            - Brainstorm: "tecnicas_elicitacao/brainstorm.md"
+                      - Personas: Personas.md
+                - Priorização:
+                      - Moscow: "modelagem/priorizacao/moscow.md"
+                - Prototipagem:
+                      - Protótipo Baixa Fidelidade: "prototipoBaixa.md"
+                      - Protótipo Média Fidelidade: "prototipoMedia.md"
+          - Metodologias, Processos e Abordagens:
+                - 5w2h: "5w2h.md"
+                - Metodologia do Projeto: "metodologia_do_projeto.md"
+                - Metologia BPMN: "metodologiaBPMN.md"
+          - Iniciativas Extras:
+                - Backlog do Produto:
+                      - Backlog: "modelagem/backlog.md"
+                      - Épicos:
+                            - Épico 1: "modelagem/Epicos/EP01.md"
+                            - Épico 2: "modelagem/Epicos/EP02.md"
+                            - Épico 3: "modelagem/Epicos/EP03.md"
+                            - Épico 4: "modelagem/Epicos/EP04.md"
+                            - Épico 5: "modelagem/Epicos/EP05.md"
+                            - Épico 6: "modelagem/Epicos/EP06.md"
+                            - Épico 7: "modelagem/Epicos/EP07.md"
+                            - Épico 8: "modelagem/Epicos/EP08.md"
+                      - Histórias de Usuário:
+                            - História de Usuário 1: "modelagem/User-Stories/US01.md"
+                            - História de Usuário 2: "modelagem/User-Stories/US02.md"
+                            - História de Usuário 3: "modelagem/User-Stories/US03.md"
+                            - História de Usuário 4: "modelagem/User-Stories/US04.md"
+                            - História de Usuário 5: "modelagem/User-Stories/US05.md"
+                            - História de Usuário 6: "modelagem/User-Stories/US06.md"
+                            - História de Usuário 7: "modelagem/User-Stories/US07.md"
+                            - História de Usuário 8: "modelagem/User-Stories/US08.md"
+                            - História de Usuário 9: "modelagem/User-Stories/US09.md"
+                            - História de Usuário 10: "modelagem/User-Stories/US10.md"
+                            - História de Usuário 11: "modelagem/User-Stories/US11.md"
+                            - História de Usuário 12: "modelagem/User-Stories/US12.md"
+                            - História de Usuário 13: "modelagem/User-Stories/US13.md"
+                            - História de Usuário 14: "modelagem/User-Stories/US14.md"
+                            - História de Usuário 15: "modelagem/User-Stories/US15.md"
+                            - História de Usuário 16: "modelagem/User-Stories/US16.md"
+                            - História de Usuário 17: "modelagem/User-Stories/US17.md"
+                            - História de Usuário 17: "modelagem/User-Stories/US17.md"
+                            - História de Usuário 18: "modelagem/User-Stories/US18.md"
+                            - História de Usuário 19: "modelagem/User-Stories/US19.md"
+                            - História de Usuário 20: "modelagem/User-Stories/US20.md"
+                            - História de Usuário 21: "modelagem/User-Stories/US21.md"
+                            - História de Usuário 22: "modelagem/User-Stories/US22.md"
+                            - História de Usuário 23: "modelagem/User-Stories/US23.md"
+                            - História de Usuário 24: "modelagem/User-Stories/US24.md"
+                            - História de Usuário 25: "modelagem/User-Stories/US25.md"
+                            - História de Usuário 26: "modelagem/User-Stories/US26.md"
+                            - História de Usuário 27: "modelagem/User-Stories/US27.md"
+                            - História de Usuário 28: "modelagem/User-Stories/US28.md"
+                - Produto:
+                      - Manual de Identidade Visual: "manualIdentidadeVisual.md"
+                - Projeto:
+                      - Documento de Visão: "DocumentoDeVisao.md"
+                      - Politica de Contribuição: "PoliticaDeContribuição.md"
+                      - EAP: "EAP.md"
+                      - Especificação Suplementar(FURPS): "especificacaoSuplementar.md"
+          - Sprints:
+                - Sprint 1:
+                      - Planning: "Sprints/sprint01/Planning.md"
+                      - Review: "Sprints/sprint01/Review.md"
+                - Sprint 2:
+                      - Planning: "Sprints/sprint02/Planning02.md"
+                      - Review: "Sprints/sprint02/Review.md"
+          - Atas de Reunião:
+                - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
+                - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
+    - Desenho de Software(Modelagem):
+          - Módulo Notação UML - Diagramas Estáticos:
+                - Diagrama de Pacotes: "diagramaDePacotes.md"
+                - Diagrama de Classes: "diagramaDeClasses.md"
+                - Diagrama de Implementação: "modelagem/diagramas/diagramaDeImplementacao.md"
+                - Diagrama de Casos de Uso: "modelagem/diagramas/diagramaCasoUso.md"
+          - Módulo Notação UML - Diagramas Dinâmicos:
+                - Diagrama de Comunicação: "diagramaDeComunicacao.md"
+                - Diagrama de Estado: "diagramaDeEstado.md"
+                - Diagrama de Atividades: "diagrama_de_atividades.md"
+                - Diagrama de Sequencia: "diagramaDeSequencia.md"
+          - Sprints 3:
+                - Planning: "Sprints/sprint03/Planning03.md"
+                - Review: "Sprints/sprint03/Review.md"
+          - Sprints 4:
+                - Planning: "Sprints/sprint04/Planning04.md"
+          - Atas de Reunião:
+                - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
+          - Iniciativas Extras:
+                - MER: "mer.md"
+    - Apresentações:
+          - Apresentação da Entrega 1: "apresentacoes/entrega1.md"
