@@ -7,6 +7,7 @@
 | 18.02.2022 | 0.1    | Criação do documento     | Caio Martins e Jonathan Jorge |
 | 19.02.2022 | 0.2    | Introdução e Metodologia | Caio Martins e Jonathan Jorge |
 | 19.02.2022 | 0.3    | Imagem do diagrama       | Caio Martins e Jonathan Jorge |
+| 19.02.2022 | 0.4    | Correção da data de descrição da imagem       | Caio Martins e Jonathan Jorge |
 
 ## 1. Introdução
 
@@ -23,7 +24,7 @@
     <figcaption align='center'>
         <b>Figura 1: Diagrama de Componentes</b>
         <br>
-        <small>Autor: Caio Martins, Jonathan Jorge, 2021.</small>
+        <small>Autor: Caio Martins, Jonathan Jorge, 2022.</small>
     </figcaption>
 </p>
 
@@ -31,5 +32,5 @@
 
 ## 4. Referência
 
-> Diagramas de Componentes, Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams. Acesso em: 19 de Fevereiro de 2022.<br>
-> "Diagrama de componentes UML ": Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml. Acesso em: 19 de Fevereiro de 2022.
+> Diagramas de Componentes, Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams>. Acesso em: 19 de Fevereiro de 2022.<br>
+> "Diagrama de componentes UML ": Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>. Acesso em: 19 de Fevereiro de 2022.
