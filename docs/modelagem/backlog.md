@@ -13,6 +13,7 @@
 | 04.02.2022 | 0.5.1  |         Revisão e correção do documento, primeira entrega          |     Natanael Filho      |
 | 04.02.2022 | 0.5.2  |    Correção PR, primeira entrega (correção de links quebrados)     |       Nilvan Pere       |
 | 11.02.2022 |  0.6   |           Adição da coluna rastreabilidade em resutados            |      Caio Martins       |
+| 19.02.2022 |  0.7   |           Adição da coluna de Tasks dos epicos 1 e 2               |        Davi Matheus     |
 
 ### Responsáveis pelo documento
 
@@ -51,7 +52,7 @@
 ## 3. Resultados
 
 <table>
-    <thead >
+    <thead > 
         <tr>
             <th style="text-align:center">Tema</th>
             <th style="text-align:center">Épico</th>
@@ -59,55 +60,99 @@
             <th style="text-align:center">Rastreabilidade</th>
             <th style="text-align:center">US</th>
             <th style="text-align:center">História de Usuário</th>
+            <th style="text-align:center">Tasks</th>
         </tr>
     </thead>
     <tbody >
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><b>Lavagem de carro e outros serviços</b></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a href="../Epicos/EP01/" >Épico 01 - Cadastro e Autenticação de Cliente </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Cadastro</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS01</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US01/" >US01</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como novo usuário do sistema, desejo realizar cadastro no site do lava-jato para ter uma conta.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="30"><b>Lavagem de carro e outros serviços</b></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="14"><a href="../Epicos/EP01/" >Épico 01 - Cadastro e Autenticação de Cliente </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Cadastro</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../../tecnicas_elicitacao/brainstorm/" >BS01</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../User-Stories/US01/" >US01</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Eu, como novo usuário do sistema, desejo realizar cadastro no site do lava-jato para ter uma conta.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar model de usuário do cliente.</td>
+              </tr>
+        <tr>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Providenciando endpoint para registro de novos cliente</td>
+              </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar página de cadastro de acordo com o prototipo de alta fidelidade.</td>
+            </tr>
+        <tr style="height: 23px;">
+            <td style="width: 475px; height: 23px;">Implementar serviço de requisição POST para o cliente.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Login</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS05</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US02/" >US02</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo realizar o login na aplicação do lava-jato para ter acesso à todas as funcionalidades.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8">Login</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../../tecnicas_elicitacao/brainstorm/" >BS05</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../User-Stories/US02/" >US02</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Eu, como um usuário do sistema, desejo realizar o login na aplicação do lava-jato para ter acesso à todas as funcionalidades.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Providenciando endpoint para a autenticação do cliente.</td>
+              </tr>
+        <tr>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar da service de requisição POST para login.</td>
+              </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar token de autenticação do cliente </td>
+            </tr>
+        <tr style="height: 23px;">
+            <td style="width: 475px; height: 23px;">Criar página de login seguindo os padrões do protótipo de alta.</td>
         </tr>
         <tr>
-        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS05</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US03/" >US03</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo visualizar minha senha, para que eu consiga confirmar se digitação está correta.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS05</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US03/" >US03</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Eu, como um usuário do sistema, desejo visualizar minha senha, para que eu consiga confirmar se digitação está correta.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Inserir um serviço para vizualizar o input da senha </td>
         </tr>
         <tr>
-        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS05</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US04/" >US04</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como cliente do sistema, desejo logar automaticamente quando marcar a opção de lembrar o login.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Adicionar funcionalidade na pagina de login </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Logout</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS06</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US05/" >US05</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema, desejo fazer logout da aplicação, para que ninguém acesse minha conta na mesma sessão.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS05</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US04/" >US04</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Eu, como cliente do sistema, desejo logar automaticamente quando marcar a opção de lembrar o login.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Armazenar de maneira local o token de autenticação do cliente</td>
+             </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Disponibilizar endpoint de autenticação de usuário. </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Informação do Usuário</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS03</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US06/">US06</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como cliente, desejo ter uma página de perfil, para que consiga acessar as minhas informações.</td>    
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Logout</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS06</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US05/" >US05</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Eu, como gerente do sistema, desejo fazer logout da aplicação, para que ninguém acesse minha conta na mesma sessão.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Retirar e apagar o token de autenticação do cliente</td>
+             </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar da service de sair da conta do cliente. </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="9"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Informação do Usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS03</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US06/">US06</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Eu, como cliente, desejo ter uma página de perfil, para que consiga acessar as minhas informações.</td>    
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar página de perfil do cliente.</td>
         </tr>
         </tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar página de atualização de dados do usuário. </td>
         <tr>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Alterar dados de usuário</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS10</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US07/"  >US07</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como cliente, desejo editar minhas informações de perfil, para que eu possa atualizar meus dados quando necessário.
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Alterar dados de usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../../tecnicas_elicitacao/brainstorm/" >BS10</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../User-Stories/US07/"  >US07</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3">Eu, como cliente, desejo editar minhas informações de perfil, para que eu possa atualizar meus dados quando necessário.
         </td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar serviço de requisição PUT para o cliente.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Providenciando endpoint para atualização de dados do cliente.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar confirmação de confirmação. </td>
+        </tr>
+        <tr>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS04</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US08/"  >US08</a></td>
