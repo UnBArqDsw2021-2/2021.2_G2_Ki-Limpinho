@@ -14,7 +14,8 @@
 | 04.02.2022 | 0.5.2  |    Correção PR, primeira entrega (correção de links quebrados)     |       Nilvan Pere       |
 | 11.02.2022 |  0.6   |           Adição da coluna rastreabilidade em resutados            |      Caio Martins       |
 | 19.02.2022 |  0.7   |           Adição da coluna de Tasks dos epicos 1 e 2               |        Davi Matheus     |
-| 20.02.2022 |  0.7.1   |           Adição da coluna de Tasks dos epicos 3, 4 e 5          |        Davi Matheus     |
+| 20.02.2022 |  0.7.1 |           Adição da coluna de Tasks dos epicos 3, 4 e 5            |        Davi Matheus     |
+| 20.02.2022 |  0.7.2 |           Revisão e concluimento das Tasks                         |        Davi Matheus     |
 
 ### Responsáveis pelo documento
 
@@ -126,7 +127,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Retirar e apagar o token de autenticação do cliente</td>
              </tr>
         <tr>
-        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar da service de sair da conta do cliente. </td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementação da service de sair da conta do cliente. </td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="20"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
@@ -225,7 +226,7 @@
            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../../tecnicas_elicitacao/brainstorm/" >BS09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../User-Stories/US12/">US12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Eu, como cliente, desejo remarcar um serviço, para que eu possa obter a lavagem em uma data mais adequada a minha agenda.</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar endpoint para altera(remarcarção) da lavagem..</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar endpoint para alterar(remarcarção) a lavagem.</td>
         </tr>
         </tr>
         <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar confirmação de remarcação</td>
@@ -241,7 +242,7 @@
            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US13/">US13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Eu, como cliente, desejo  fazer um comentário sobre determinado serviço para que eu possa deixar um feedback construtivo sobre a lavagem realizada.</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar autenticação dos feedbacks.</td>   
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementação da autenticação dos feedbacks.</td>   
         </tr>
         </tr>
         <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar pagina de avaliação.</td>   
@@ -265,7 +266,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../../tecnicas_elicitacao/introspeccao/" >ITP05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../User-Stories/US15/">US15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3">Eu, como cliente, desejo recomendar a aplicação para amigos, para que eu possa receber descontos e brindes.</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar autenticação dos convites e dos clientes.</td>   
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementação da autenticação dos convites e dos clientes.</td>   
         </tr>
         </tr> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Aplicação dos descontos de acordo com a quantidade de clientes convidados.</td>   
@@ -275,7 +276,7 @@
         </tr>
         </tr>   
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan=25><b>Gerenciamento do lava jato.</b></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan=40><b>Gerenciamento do lava jato.</b></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="15"><a href="../Epicos/EP04/" >Épico 04 -  Cadastro e Autenticação de Gerente </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Cadastro</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../../tecnicas_elicitacao/brainstorm/" >BS15</a></td>
@@ -300,7 +301,7 @@
                 <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Providenciando endpoint para a autenticação do gerente.</td>
               </tr>
         <tr>
-             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar da service de requisição POST para login.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementação  da service de requisição POST para login.</td>
               </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar token de autenticação do gerente </td>
@@ -335,7 +336,7 @@
         <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Retirar e apagar o token de autenticação do gerente</td>
         </tr>
         <tr>
-        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar da service de sair da conta do gerente.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementação da service de sair da conta do gerente.</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a href="../Epicos/EP05/" >Épico 05 -  Gerenciamento de conta de Gerente </a></td>
@@ -352,46 +353,95 @@
         <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar confirmação de atualização . </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a href="../Epicos/EP06/" >Épico 06 -  Dashboards</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Visualização de dados</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS20</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US23/" >US23</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do lava-jato, desejo visualizar um dashboard com a quantidade de serviços contratados/cancelados, para ter mais controle sobre quantidade de serviços prestados</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="9"><a href="../Epicos/EP06/" >Épico 06 -  Dashboards</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="9">Visualização de dados</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5"><a href="../../tecnicas_elicitacao/brainstorm/" >BS20</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5"><a href="../User-Stories/US23/" >US23</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5">Eu, como gerente do lava-jato, desejo visualizar um dashboard com a quantidade de serviços contratados/cancelados, para ter mais controle sobre quantidade de serviços prestados</td>
+        </tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Implementar service de requisição GET para as lavagens em geral. </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS22</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US24/" >US24</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Eu, como gerente do lava-jato desejo visualizar um gráfico com o lucro bruto líquido.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Disponibilizar endpoint para recuperar os serviços prestados de um determinado mês. </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS23</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US25/" >US25</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do lava-jato, desejo visualizar um dashboard com o gasto mensal, para análise do negócio.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar pagina da visualização dos dashboards . </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a href="../Epicos/EP07/" >Épico 07 -  Sistema de fidelização</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Cupons</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/introspeccao/" >ITP07</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US26/" >US26</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema, desejo cadastrar cupons de descontos, para os clientes conseguirem aplica-los no serviço desejado.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar visualização do histórico de lavagem. </td>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS22</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US24/" >US24</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"> Eu, como gerente do lava-jato desejo visualizar um gráfico com o lucro bruto líquido.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar service de requisição GET para uma lavagem especifica </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Recompensas</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/introspeccao/" >ITP08</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US27/" >US27</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema, desejo determinar recompensas a partir da quantidade de serviços contratados pelo mesmo cliente, para que os clientes ganhem brindes ou serviços gratuitos.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar visualização do histórico de apenas um gráfico.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a href="../Epicos/EP08/" >Épico 08 -  Fluxo de caixa</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Despesas</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/StoryTelling/" >ST02</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US28/" >US28</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema desejo registrar despesas fixas e variáveis(mês).</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS23</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US25/" >US25</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Eu, como gerente do lava-jato, desejo visualizar um dashboard com o gasto mensal, para análise do negócio.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar service de requisição GET para as lavagens especifica de um mês</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/StoryTelling/" >ST02</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US29/" >US29</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como gerente do sistema desejo listar despesas fixas e variáveis(mês), para ter controle sobre lucro líquido e o fluxo de caixa.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar visualização do histórico do gráfico mensal.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="../Epicos/EP07/" >Épico 07 -  Sistema de fidelização</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Cupons</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../../tecnicas_elicitacao/introspeccao/" >ITP07</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../User-Stories/US26/" >US26</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3">Eu, como gerente do sistema, desejo cadastrar cupons de descontos, para os clientes conseguirem aplica-los no serviço desejado.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar model de cupons de descontos.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Disponibilizar endpoint para registro de cupons.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar service de requisição POST para cupons.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Recompensas</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../../tecnicas_elicitacao/introspeccao/" >ITP08</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../User-Stories/US27/" >US27</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3">Eu, como gerente do sistema, desejo determinar recompensas a partir da quantidade de serviços contratados pelo mesmo cliente, para que os clientes ganhem brindes ou serviços gratuitos.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar model de recompensas.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Disponibilizar endpoint para deteminação de recompensas.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar autenticação das recompensas de acordo com os dados do cliente.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7"><a href="../Epicos/EP08/" >Épico 08 -  Fluxo de caixa</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7">Despesas</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../../tecnicas_elicitacao/StoryTelling/" >ST02</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../User-Stories/US28/" >US28</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Eu, como gerente do sistema desejo registrar despesas fixas e variáveis(mês).</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar model de depesas.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Disponibilizar endpoint para registro de novas despesas.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar service de requisição POST para despesas.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar pagina de despesas.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../../tecnicas_elicitacao/StoryTelling/" >ST02</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../User-Stories/US29/" >US29</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3">Eu, como gerente do sistema desejo listar despesas fixas e variáveis(mês), para ter controle sobre lucro líquido e o fluxo de caixa.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Disponibilizar endpoint para recuperar as despesas de um determinado mês ou fixas.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar service de requisição GET para as depesas em geral.</td>
+        </tr>
+        <tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar visualização de despesas fixas e variáveis.</td>
         </tr>
     </tbody>
 </table>
