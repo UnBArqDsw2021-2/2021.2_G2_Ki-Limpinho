@@ -65,7 +65,7 @@
     </thead>
     <tbody >
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="30"><b>Lavagem de carro e outros serviços</b></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="41"><b>Lavagem de carro e outros serviços</b></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="14"><a href="../Epicos/EP01/" >Épico 01 - Cadastro e Autenticação de Cliente </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Cadastro</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4"><a href="../../tecnicas_elicitacao/brainstorm/" >BS01</a></td>
@@ -127,7 +127,7 @@
         <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar da service de sair da conta do cliente. </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="9"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="20"><a href="../Epicos/EP02/" >Épico 02 - Perfil do Usuário </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2">Informação do Usuário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../../tecnicas_elicitacao/brainstorm/" >BS03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="2"><a href="../User-Stories/US06/">US06</a></td>
@@ -139,7 +139,7 @@
         <tr>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Alterar dados de usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="9">Alterar dados de usuário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../../tecnicas_elicitacao/brainstorm/" >BS10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3"><a href="../User-Stories/US07/"  >US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="3">Eu, como cliente, desejo editar minhas informações de perfil, para que eu possa atualizar meus dados quando necessário.
@@ -150,18 +150,37 @@
         <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Providenciando endpoint para atualização de dados do cliente.</td>
         </tr>
         <tr>
-        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar confirmação de confirmação. </td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar confirmação de atualização . </td>
         </tr>
         <tr>
         </tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS04</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US08/"  >US08</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como cliente, desejo deletar minha conta, para que todos meus registros sejam apagados.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5"><a href="../../tecnicas_elicitacao/brainstorm/" >BS04</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5"><a href="../User-Stories/US08/"  >US08</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5">Eu, como cliente, desejo deletar minha conta, para que todos meus registros sejam apagados.</td>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Providenciando service de requisição DELETE para os clientes.</td>
+        <tr>
         </tr>
-           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Forma de Pagamento</td>
-           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../tecnicas_elicitacao/brainstorm/" >BS11</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US09/">US09</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como cliente, desejo escolher minha forma de pagamento, para que eu possa pagar da maneira que eu preferir.</td>    
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar confirmação de deleção . </td>
+        <tr>
+        </tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar endpoint para excluir o perfil e os dados do cliente.</td>
+        <tr>
+        </tr>
+        </tr>
+           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="7">Forma de Pagamento</td>
+           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="7"><a href="../../tecnicas_elicitacao/brainstorm/" >BS11</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="7"><a href="../User-Stories/US09/">US09</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="7">Eu, como cliente, desejo escolher minha forma de pagamento, para que eu possa pagar da maneira que eu preferir.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Providenciando API de pagamento para o cliente</td> 
+        <tr>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar confirmação de pagamento.</td>
+        <tr>
+        </tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Implementar endpoint para pagamento do cliente.</td>
+        <tr>
+        </tr>
+        <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Criar pagina de escolha de pagamento.</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7"><a href="../Epicos/EP03/" >Épico 03 - Gerenciamento de serviços </a></td>
