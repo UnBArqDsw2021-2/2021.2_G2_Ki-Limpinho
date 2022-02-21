@@ -14,11 +14,22 @@
 
 <br><br>
 
-## Introdução
+## 1-Introdução
 
 <div align="justify"> 
     O diagrama de comunicação é um diagrama de estrutura UML que mostra o comportamento que representa a comunicação entra um ou mais participantes, mostrando o fluxo de mensagens entre os objetos em uma interação.
 </div>
+
+## 2-Diagramas
+
+<p align='center'>
+    <img src='../assets/img/comunicacao/comunicationClient.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Comunicação cliente</b>
+        <br>
+        <small>Autor: Yuri Alves, 2021.</small>
+    </figcaption>
+</p>
 
 ## Referências
 
