@@ -9,6 +9,7 @@
 | 19.02.2022 | 0.3    | Imagem do diagrama       | Caio Martins e Jonathan Jorge |
 | 19.02.2022 | 0.4    | Correção da data de descrição da imagem       | Caio Martins e Jonathan Jorge |
 | 19.02.2022 | 0.5    | Revisão, correção do documento e adição do link para melhor visualização do diagrama      | Peniel Zannoukou |
+| 21.02.2022 | 0.6   | Ajustes de padronização para segunda entrega     | Nilvan Peres |
 
 ## 1. Introdução
 
@@ -27,6 +28,8 @@
 
 ## 4. Referências
 
-> - Diagramas de Componentes, Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams>. Acesso em: 19 de Fevereiro de 2022.<br>
-> - "Diagrama de componentes UML ": Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>. Acesso em: 19 de Fevereiro de 2022.
-> - Component Diagram Tutorial. Disponível em: <https://online.visual-paradigm.com/diagrams/tutorials/component-diagram-tutorial/>. Acesso em: 19 de Fevereiro de 2022.
+> [1] Diagramas de Componentes, Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams>. Acesso em: 19 de Fevereiro de 2022.<br>
+
+> [2] Diagrama de componentes UML: Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>. Acesso em: 19 de Fevereiro de 2022.
+
+> [3] Component Diagram Tutorial. Disponível em: <https://online.visual-paradigm.com/diagrams/tutorials/component-diagram-tutorial/>. Acesso em: 19 de Fevereiro de 2022.

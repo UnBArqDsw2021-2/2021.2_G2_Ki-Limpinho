@@ -44,7 +44,6 @@ nav:
           - Prototipagem:
               - Protótipo Baixa Fidelidade: "prototipagem/prototipoBaixa.md"
               - Protótipo Média Fidelidade: "prototipagem/prototipoMedia.md"
-              - Protótipo Alta Fidelidade: "prototipagem/prototipoAlta.md"
       - Metodologias, Processos e Abordagens:
           - 5w2h: "5w2h.md"
           - Metodologia do Projeto: "MetodologiaDoProjeto.md"
@@ -110,26 +109,24 @@ nav:
           - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
           - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
   - Desenho de Software(Modelagem):
-      - Módulo Notação UML - Diagramas Estáticos:
-        - Diagrama de Pacotes: "DiagramaDePacotes.md"
-        - Diagrama de Classes: "DiagramaDeClasses.md"
-        - Diagrama de Implementação: "modelagem/diagramas/DiagramaDeImplementacao.md"
-        - Diagrama de Casos de Uso: "modelagem/diagramas/DiagramaCasoUso.md"
-        - Diagrama de Componentes: "DiagramaDeComponentes.md"
-      - Módulo Notação UML - Diagramas Dinâmicos:
-        - Diagrama de Estado: "DiagramaDeEstado.md"
-        - Diagrama de Atividades: "DiagramaDeAtividades.md"
-        - Diagrama de Sequencia: "DiagramaDeSequencia.md"
-        - Diagrama de Comunicação: "diagramaDeComunicacao.md"
-      - Sprints 3:
-          - Planning: "Sprints/sprint03/Planning03.md"
-          - Review: "Sprints/sprint03/Review.md"
-      - Sprints 4:
-          - Planning: "Sprints/sprint04/Planning04.md"
-      - Atas de Reunião:
-          - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
+      - Módulo Projeto Orientado a Abordagens Tradicionais:
+        - Módulo Notação UML - Diagramas Estáticos:
+          - Diagrama de Pacotes: "DiagramaDePacotes.md"
+          - Diagrama de Classes: "DiagramaDeClasses.md"
+          - Diagrama de Implementação: "modelagem/diagramas/DiagramaDeImplementacao.md"
+          - Diagrama de Componentes: "DiagramaDeComponentes.md"
+        - Módulo Notação UML - Diagramas Dinâmicos:
+          - Diagrama de Estado: "DiagramaDeEstado.md"
+          - Diagrama de Atividades: "DiagramaDeAtividades.md"
+          - Diagrama de Sequencia: "DiagramaDeSequencia.md"
+          - Diagrama de Comunicação: "diagramaDeComunicacao.md"
+        - Modelagem Ágil:
+          - Priorização - MOSCOW : "modelagem/priorizacao/Moscow.md"
+          - Backlog do Produto: "modelagem/Backlog.md"
       - Iniciativas Extras:
-        - Modelo Entidade Relacionamento: "MER.md"
+        - MER/DER/DLD: "MER.md"
+        - Diagrama de Casos de Uso: "modelagem/diagramas/DiagramaCasoUso.md"
+        - Protótipo Alta Fidelidade: "prototipagem/prototipoAlta.md"
   - Sprints: 
     - Sprint 1:
         - Planning: "Sprints/sprint01/Planning.md"

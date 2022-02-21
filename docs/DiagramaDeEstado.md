@@ -9,6 +9,7 @@
 | 13.02.2022 | 0.2.1    | Adição da revisão     | [Natanael Filho](https://github.com/fernandes-natanael)   |
 | 13.02.2022 | 0.2.2    | Melhorias após revisão do PR     | [Peniel Zannoukou](https://github.com/zpeniel09)   |
 | 13.02.2022 | 0.2.3    | Adição da revisão     | [Natanael Filho](https://github.com/fernandes-natanael)   |
+| 21.02.2022 | 0.2.3.1    | Padronização referências    | [Nilvan Júnior](https://github.com/NilvanPeres)   |
 
 
 ### Participantes
@@ -50,6 +51,8 @@ entre os integrantes do grupo, principalmente entre esses participantes presente
 
 ## Referências
 
-> - SERRANO, Milene. Modelagem - Diagrama de Estados, 2022. Vídeo-aulas complementares apresentadas na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 09 de fevereiro de 2022.
-> - UML. State Machine Diagrams. [S. l.], 2020. Disponível em: <https://www.uml-diagrams.org/state-machine-diagrams.html>. Acesso em: 09 fev. 2022.
-> - Unified Modeling Language (UML) | State Diagrams. Disponível em: <https://www.geeksforgeeks.org/unified-modeling-language-uml-state-diagrams/>. Acesso em: 11 fev. 2022.
+> [1] SERRANO, Milene. Modelagem - Diagrama de Estados, 2022. Vídeo-aulas complementares apresentadas na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 09 de fevereiro de 2022.
+
+> [2] UML. State Machine Diagrams. [S. l.], 2020. Disponível em: <https://www.uml-diagrams.org/state-machine-diagrams.html>. Acesso em: 09 fev. 2022.
+
+> [3] Unified Modeling Language (UML) | State Diagrams. Disponível em: <https://www.geeksforgeeks.org/unified-modeling-language-uml-state-diagrams/>. Acesso em: 11 fev. 2022.
