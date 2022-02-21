@@ -14,18 +14,15 @@ theme:
 markdown_extensions:
     - pymdownx.arithmatex:
         generic: true
-        
+
 extra_javascript:
     - javascripts/mathjax.js
     - https://polyfill.io/v3/polyfill.min.js?features=es6
     - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-
-
-
 extra_css:
     - assets/stylesheets/extra.css
-
+    
 nav:
   - Home: "index.md"
   - Desenho de Software(Base):
@@ -122,6 +119,7 @@ nav:
           - Diagrama de Estado: "DiagramaDeEstado.md"
           - Diagrama de Atividades: "DiagramaDeAtividades.md"
           - Diagrama de Sequencia: "DiagramaDeSequencia.md"
+          - Diagrama de Comunicação: "diagramaDeComunicacao.md"
         - Modelagem Ágil:
           - Priorização - MOSCOW : "modelagem/priorizacao/Moscow.md"
           - Backlog do Produto: "modelagem/Backlog.md"
@@ -143,3 +141,4 @@ nav:
         - Planning: "Sprints/sprint04/Planning04.md"
   - Apresentações:
       - Apresentação da Entrega 1: "apresentacoes/Entrega1.md"
+
