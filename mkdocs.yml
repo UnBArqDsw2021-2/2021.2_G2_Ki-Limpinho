@@ -129,7 +129,7 @@ nav:
       - Atas de Reunião:
           - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
       - Iniciativas Extras:
-        - MER: "mer.md"
+        - Modelo Entidade Relacionamento: "MER.md"
   - Sprints: 
     - Sprint 1:
         - Planning: "Sprints/sprint01/Planning.md"
@@ -141,6 +141,6 @@ nav:
         - Planning: "Sprints/sprint03/Planning03.md"
         - Review: "Sprints/sprint03/Review.md"
     - Sprint 4:
-        - Planning: "Sprints/sprint03/Planning04.md"
+        - Planning: "Sprints/sprint04/Planning04.md"
   - Apresentações:
       - Apresentação da Entrega 1: "apresentacoes/Entrega1.md"
