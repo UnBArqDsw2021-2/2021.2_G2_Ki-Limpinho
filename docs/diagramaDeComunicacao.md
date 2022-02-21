@@ -7,11 +7,12 @@
 | 17.02.2022 | 0.1    | Criação do documento | Yuri Alves |
 | 18.02.2022 | 0.2    | Adição da introdução | Yuri Alves |
 | 20.02.2022 | 0.3    | Adição dos diagramas | Yuri Alves |
+| 20.02.2022 | 0.4    | Edição da introdução | Henrique Amorim |
 
 ## Participantes
 
 -   Yuri Alves
--   Davi Matheus
+-   Henrique Amorim
 
 <br><br>
 
@@ -19,6 +20,7 @@
 
 <div align="justify"> 
     O diagrama de comunicação é um diagrama de estrutura UML que mostra o comportamento que representa a comunicação entra um ou mais participantes, mostrando o fluxo de mensagens entre os objetos em uma interação.
+    Os diagramas de comunicação assemelham-se aos diagramas de objetos, nos quais uma linha de vida representa os objetos na interação e as setas representam as mensagens transmitidas entre as linhas de vida. Pontas de setas indicam a direção das mensagens, para frente ou para trás, e números de sequência indicam a ordem na qual as mensagens são transmitidas.
 </div>
 
 ## 2-Diagramas
