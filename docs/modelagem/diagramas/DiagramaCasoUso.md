@@ -72,8 +72,10 @@
 
 ## 4. Referências
 
-> [1] Flowchart Maker and Online Diagram Software. **Draw.io**. Disponível em: <https://draw.io/> (último acesso em 12/02/2022)
+> [1] Flowchart Maker and Online Diagram Software. **Draw.io**. Disponível em: <https://draw.io/>. Acesso em: 12, de fev de 2022.
 
-> [2] UML Use Case Diagrams. **UML Diagrams**. Disponível em: <https://www.uml-diagrams.org/use-case-diagrams.html/> (último acesso em 12/02/2022)
+> [2] UML Use Case Diagrams. **UML Diagrams**. Disponível em: <https://www.uml-diagrams.org/use-case-diagrams.html/> Acesso em: 12, de fev de 2022.
+
+> [3] Habitica. Casos de Uso. Disponível em <https://requisitos-habitica.netlify.app/CasosDeUsoDesafios> Acesso em: 12, de fev de 2022.
   
 
