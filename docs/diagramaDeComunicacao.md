@@ -9,6 +9,7 @@
 | 20.02.2022 | 0.3    | Adição dos diagramas | Yuri Alves |
 | 20.02.2022 | 0.4    | Complementação da introdução | Henrique Amorim |
 | 21.02.2022 | 0.5    | Complementação dos diagramas | Henrique Amorim |
+| 21.02.2022 | 0.5.1   | Revisão Documento | Nilvan Peres |
 
 
 ## Participantes
@@ -50,7 +51,7 @@
 </p>
 
 <p align='center'>
-    <img src='./assets/img/comunicacao/comunicacaoFinancas.png'>
+    <img src='../assets/img/comunicacao/comunicacaoFinancas.png'>
     <figcaption align='center'>
         <b>Figura 2: Comunicação controle de finanças</b>
         <br>
@@ -59,7 +60,7 @@
 </p>
 
 <p align='center'>
-    <img src='./assets/img/comunicacao/comunicacaoServicos.png'>
+    <img src='../assets/img/comunicacao/comunicacaoServicos.png'>
     <figcaption align='center'>
         <b>Figura 2: Comunicação controle de serviços</b>
         <br>
