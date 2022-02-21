@@ -1,10 +1,20 @@
 site_name: Ki-Limpinho
 repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho
 
+theme:
+    name: material
+    logo: assets/img/personalizacao/logo.svg
+    favicon: assets/img/personalizacao/favicon.svg
+    features:
+      - navigation.tabs
+      - navigation.indexes
+    font:
+        text: Roboto
+
 markdown_extensions:
-  - pymdownx.arithmatex:
-      generic: true
-      
+    - pymdownx.arithmatex:
+        generic: true
+        
 extra_javascript:
     - javascripts/mathjax.js
     - https://polyfill.io/v3/polyfill.min.js?features=es6
@@ -13,13 +23,6 @@ extra_javascript:
 
 extra_css:
     - assets/stylesheets/extra.css
-theme:
-  name: material
-  logo: assets/img/personalizacao/logo.svg
-  favicon: assets/img/personalizacao/favicon.svg
-  features:
-    - navigation.tabs
-    - navigation.indexes
 
 nav:
   - Home: "index.md"
@@ -40,8 +43,9 @@ nav:
           - Priorização:
               - Moscow: "modelagem/priorizacao/Moscow.md"
           - Prototipagem:
-              - Protótipo Baixa Fidelidade: "PrototipoBaixa.md"
-              - Protótipo Média Fidelidade: "PrototipoMedia.md"
+              - Protótipo Baixa Fidelidade: "prototipagem/prototipoBaixa.md"
+              - Protótipo Média Fidelidade: "prototipagem/prototipoMedia.md"
+              - Protótipo Alta Fidelidade: "prototipagem/prototipoAlta.md"
       - Metodologias, Processos e Abordagens:
           - 5w2h: "5w2h.md"
           - Metodologia do Projeto: "MetodologiaDoProjeto.md"
@@ -88,6 +92,7 @@ nav:
                   - História de Usuário 26: "modelagem/User-Stories/US26.md"
                   - História de Usuário 27: "modelagem/User-Stories/US27.md"
                   - História de Usuário 28: "modelagem/User-Stories/US28.md"
+                  - História de Usuário 29: "modelagem/User-Stories/US29.md"
           - Produto:
               - Manual de Identidade Visual: "ManualIdentidadeVisual.md"
           - Projeto:
@@ -124,6 +129,18 @@ nav:
       - Atas de Reunião:
           - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
       - Iniciativas Extras:
-        - MER: "MER.md"
+        - Modelo Entidade Relacionamento: "MER.md"
+  - Sprints: 
+    - Sprint 1:
+        - Planning: "Sprints/sprint01/Planning.md"
+        - Review: "Sprints/sprint01/Review.md"
+    - Sprint 2:
+        - Planning: "Sprints/sprint02/Planning02.md"
+        - Review: "Sprints/sprint02/Review.md"
+    - Sprint 3:
+        - Planning: "Sprints/sprint03/Planning03.md"
+        - Review: "Sprints/sprint03/Review.md"
+    - Sprint 4:
+        - Planning: "Sprints/sprint04/Planning04.md"
   - Apresentações:
       - Apresentação da Entrega 1: "apresentacoes/Entrega1.md"
