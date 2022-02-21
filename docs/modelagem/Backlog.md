@@ -11,11 +11,12 @@
 | 31.01.2022 |  0.4   | Adição dos tópicos introdução, metodologia, resultados e conclusão |      Nilvan Peres       |
 | 03.02.2022 |  0.5   |                     Refatoração dos requisitos                     | Lucas Lima e Lucas Melo |
 | 04.02.2022 | 0.5.1  |         Revisão e correção do documento, primeira entrega          |     Natanael Filho      |
-| 04.02.2022 | 0.5.2  |    Correção PR, primeira entrega (correção de links quebrados)     |       Nilvan Pere       |
+| 04.02.2022 | 0.5.2  |    Correção PR, primeira entrega (correção de links quebrados)     |       Nilvan Peres       |
 | 11.02.2022 |  0.6   |           Adição da coluna rastreabilidade em resutados            |      Caio Martins       |
 | 19.02.2022 |  0.7   |           Adição da coluna de Tasks dos epicos 1 e 2               |        Davi Matheus     |
 | 20.02.2022 |  0.7.1 |           Adição da coluna de Tasks dos epicos 3, 4 e 5            |        Davi Matheus     |
 | 20.02.2022 |  0.7.2 |           Revisão e concluimento das Tasks                         |        Davi Matheus     |
+| 20.02.2022 |  0.7.2.1 |           Revisão do documento para PR | Natanael Filho |
 
 ### Responsáveis pelo documento
 
