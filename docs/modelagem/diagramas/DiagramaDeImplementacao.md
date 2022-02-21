@@ -6,7 +6,8 @@
 | :--------: | :----: | :------------------: | :---------------: |
 | 12/02/2022 |  0.1   | Criação do documento | Henrique Amorim |
 | 13/02/2022 |  0.2  | Criação do documento | Natanael Filho |
-| 13/02/2022 |  0.2  | Revisão do documento | Davi Matheus |
+| 13/02/2022 |  0.3  | Revisão do documento | Davi Matheus |
+| 14/02/2022 |  0.4  | Ajustes de padronização para segunda entrega | Nilvan Peres |
 
 ### Participantes
 
@@ -81,7 +82,7 @@ Com este diagrama buscamos uma visualização, especificação e documentação 
 </p>
 
 
-## 4. Bibliografia
+## 4. Referências
 
 > [1] O que é um diagrama de implementação? **Lucidchat**. Disponível em: [https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml) (último acesso em 12/02/2022)
 

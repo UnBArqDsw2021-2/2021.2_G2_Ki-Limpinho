@@ -117,6 +117,6 @@ Nó final: representa a etapa final da atividade. É representado por um círcul
 
 > [2] SERRANO, Milene. Arquitetura e Desenho de Software AULA - DIAGRAMA DE ATIVIDADES (Último acesso em 13/02/2022)
 
-> [3] "O que é diagrama de atividades UML?". **Lucidchart**. https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml (Último acesso em 14/08/2022)
+> [3] O que é diagrama de atividades UML?. **Lucidchart**. https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml (Último acesso em 14/08/2022)
 
 

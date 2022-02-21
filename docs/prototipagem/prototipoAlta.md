@@ -5,6 +5,7 @@
 |Data|Versão|Descrição|Autor(es)|          
 |-----|------|---------|----------|           
 | 20.02.2022 | 0.1 | Criação do documento | Lucas Melo e Natanael Filho |
+| 21.02.2022 | 0.2 | Revisão do documento | Nilvan Peres |
 
 ### Participantes
 
@@ -22,7 +23,7 @@
 
 ## Metodologia
 
-&emsp;&emsp;Para a elaboração do protótipo de alta fidelidade da Ki-limpinho utilizamos a ferramenta figma, que permite a criação de modelos páginas estáticas e, além disso, permite a geração de fluxo de páginas, para simular uma navegação. Outro fator é que fazemos o uso também da dribbble, pois com ela possui componentes web que  replicamos e funcionam de modo positivo relacionando ao UI/UX seja respeitado e traga sentimentos positivos ao usuário durante navegação.
+&emsp;&emsp;Para a elaboração do protótipo de alta fidelidade da Ki-limpinho utilizamos a ferramenta <a href="https://www.figma.com/">figma</a>, que permite a criação de modelos páginas estáticas e, além disso, permite a geração de fluxo de páginas, para simular uma navegação. Outro fator é que fazemos o uso também da <a href="https://dribbble.com/">dribbble</a>, pois com ela possui componentes web que usamos como referências, para respeitar boas práticas relacionadas ao UI/UX sejam respeitadas e traga sentimentos positivos ao usuário durante navegação.
 
 
 ## Resultados
