@@ -5,36 +5,33 @@
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 01.12.2020 | 0.1 | Criação do documento | Lucas Melo <br>Nilvan Júnior|
+| 01.12.2022 | 0.1 | Criação do documento | Lucas Melo <br>Nilvan Júnior|
 
 ### Participantes
 
 * Lucas Melo
 * Nilvan Júnior
 
-<br><br>
-
 
 ### Introdução
-<div align="justify"> Falar do que se trata o documento.
-
-<br><br>
-
-</div><br>
+<p align="justify">&emsp;&emsp;
+    Explicar sobre o que é o artefato que será apresentado...
+</p>
 
 
 ### Metodologia
-<div align="justify"> Explicar como foi feito o doc.
-</div><br>
+<p align="justify">&emsp;&emsp; 
+    Explicar como foi feito o doc...
+</p>
 
 ### Resultados
-<div align="justify">
-
-O documento em si
-
-</div><br>
+<p align="justify">&emsp;&emsp;
+    O documento em si...
+</p>
 
 
 ## Referências
 
-> REFERENCIAS
+> [1] REFERENCIAS. Disponível em: <link>. Acesso em 20, fev de 2022.
+
+> [2] REFERENCAS 2. Disponível em: <link>. Acesso em 20, fev de 2022.
