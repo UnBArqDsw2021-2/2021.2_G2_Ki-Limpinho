@@ -7,7 +7,7 @@
 | 04.02.2022 | 1.0.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 | 04.02.2022 | 1.0.2 | Mudança de política de commit | Nilvan Peres |
 | 20.02.2022 | 1.0.3 | Adição de política de issues e de documentos | Nilvan Peres |
-
+| 20.02.2022 | 1.0.4 | Review pull request| Caio Martins |
 
 ## 1. Introdução
 
