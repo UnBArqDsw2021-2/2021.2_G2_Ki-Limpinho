@@ -6,6 +6,7 @@
 | ---------- | ------ | -------------------- | ---------- |
 | 17.02.2022 | 0.1    | Criação do documento | Yuri Alves |
 | 18.02.2022 | 0.2    | Adição da introdução | Yuri Alves |
+| 20.02.2022 | 0.3    | Adição dos diagramas | Yuri Alves |
 
 ## Participantes
 
@@ -26,6 +27,15 @@
     <img src='../assets/img/comunicacao/comunicationClient.png'>
     <figcaption align='center'>
         <b>Figura 1: Comunicação cliente</b>
+        <br>
+        <small>Autor: Yuri Alves, 2021.</small>
+    </figcaption>
+</p>
+
+<p align='center'>
+    <img src='../assets/img/comunicacao/comunicationManager.png'>
+    <figcaption align='center'>
+        <b>Figura 2: Comunicação gerente criação lava jato</b>
         <br>
         <small>Autor: Yuri Alves, 2021.</small>
     </figcaption>
