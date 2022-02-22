@@ -42,10 +42,22 @@ Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto 
 [![Iniciativas Extras](docs/assets/img/screenshots/entrega1/Thumb-3.png)](https://youtu.be/ME-ElzwlVs0)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+
+![Screenshot Diagrama pacotes](docs/assets/img/screenshots/entrega2/screen1.png)
+
+![Screenshot Diagrama De Implementação](docs/assets/img/screenshots/entrega2/screen2.png)
+
+![Screenshot De Entidade Relacionamento](docs/assets/img/screenshots/entrega2/screen3-V1.png)
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione o(s)s vídeo(s) da Segunda Entrega.
+
+[![Módulo Notação UML-Diagramas Estáticos](docs/assets/img/screenshots/entrega2/Thumb-V1.png)](https://youtu.be/eWh2CRP5xsk)
+
+[![Módulo Notação UML-Diagramas Dinâmicos](docs/assets/img/screenshots/entrega2/Thumb-2-V1.png)](https://www.youtube.com/watch?v=SRXFpjQESlw)
+
+[![Modelagem Ágil](docs/assets/img/screenshots/entrega2/Thumb-1-V1.png)](https://www.youtube.com/watch?v=yqWRY3LcKrg)
+
+[![Iniciativas Extras](docs/assets/img/screenshots/entrega2/Thumb-3-V1.png)](https://www.youtube.com/watch?v=WBk3WFXbHGU)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
