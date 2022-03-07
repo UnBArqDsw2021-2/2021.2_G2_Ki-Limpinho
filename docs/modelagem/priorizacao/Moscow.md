@@ -9,13 +9,14 @@
 | 04.02.2022 | 0.2.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
 | 11.02.2022 | 0.2.2 | Adição dos links nas rastreabilidades  | Jonathan Jorge |
 | 21.02.2022 | 0.2.3 | Ajustes para segunda entrega (Metodologia e Bibliografia)  | Nilvan Peres |
+| 07.03.2022 | 0.2.4 | Ajustes para terceira entrega  | Jonathan Jorge  |
 
-### Responsáveis pelo documento
+### Participantes
 
 - Lucas Melo
 - Lucas Lima
 
-## 1. Introdução
+## Introdução
 
 <p align="justify">&emsp;
   MoSCoW é  um método que auxilia na determinação de um sistema de prioridades. Essa técnica está ligada às metodologias ágeis e define a importância e importância dos requisitos de um sistema ou projeto.
@@ -27,14 +28,14 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
 - Could: são requisitos que seriam desejáveis, porém não são estrategicamente essenciais;
 - Would/Want/Won't : requisitos menos críticos que possuem menor retorno sobre o investimento quando comparado a outros.
 
-## 2. Metodologia
+##  Metodologia
 
 <p align="justify">&emsp;
     Depois de realizarmos algumas técnicas para elicitações de requisitos como: <a href="../../../tecnicas_elicitacao/Brainstorm/">Brainstorm</a>, <a href="../../../tecnicas_elicitacao/StoryTelling/">Storytelling</a> <a href="../../../tecnicas_elicitacao/Introspeccao/">Introspecção</a>, foi gerada uma lista com o aglomerado de todas as funcionalidades que posteriormente foram refinadadas e filtradas, gerando uma tabela com os módulos que agregariam mais valor ao projeto. Tais funcionalidades foram classificadas na terminologia Moscow.
 </p>
 
 
-## 3. Resultados
+##  Resultados
 
 <table>
     <thead style="background-color: lightblue">
@@ -217,13 +218,13 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
     </tbody>
 </table>
 
-## 4. Conclusão
+## Conclusão
 
 Através da priorização podemos determinar qual a importância de um requisito para o projeto. Os resultados que determinam a relação de tags(Must, Should, Could, Would) por requisitos podem ser observados no gráfico a seguir.
 
 <img width="1500" height="1500"  src="../../../assets/img/moscow/moscow-chart.jpeg">
 
-## 5. Referências
+##  Referências
 
 > [1] Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em: [https://www.voitto.com.br/blog/artigo/metodo-moscow](https://www.voitto.com.br/blog/artigo/metodo-moscow). Acesso em 03 de fev de 2022.
 
