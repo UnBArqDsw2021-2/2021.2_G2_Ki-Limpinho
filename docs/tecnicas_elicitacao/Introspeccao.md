@@ -1,18 +1,18 @@
 # <center> Introspecção
 
 
-## Histórico de versão<br>
+## Histórico de Versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 03.02.2022 | 0.1    | Criação do documento | Henrique Amorim |
-| 04.02.2022 | 0.1.1  | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 04.02.2022 | 0.1.2  | Revisão PR | Nilvan Peres |
-| 05.03.2022 | 0.2    | Revisão e correção do documento | Jonathan Jorge |
+| 03.02.2022 | 0.1    | Criação do documento | [Henrique Amorim](https://github.com/HenriqueAmorim20)|
+| 04.02.2022 | 0.1.1  | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 04.02.2022 | 0.1.2  | Revisão PR | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 05.03.2022 | 0.2    | Revisão e correção do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
 ## Participantes
 
-* Henrique Amorim
+*  [Henrique Amorim](https://github.com/HenriqueAmorim20)
 
 ## Introdução
 <p align="justify">&emsp;&emsp;
@@ -26,7 +26,7 @@ A Pode ser utilizado para iniciar o processo de elicitação de requisitos e é 
 
 ##  Resultados
 <p align="justify">&emsp;&emsp;
-  Os requisitos que foram elicitados pelo membro da equipe Henrique Amorim ao aplicar a técnica foram os seguintes:
+  Os requisitos que foram elicitados pelo membro da equipe [Henrique Amorim](https://github.com/HenriqueAmorim20)ao aplicar a técnica foram os seguintes:
 </p>
 
 | ID LOCAL | Requisito | Tipo Requisito |
