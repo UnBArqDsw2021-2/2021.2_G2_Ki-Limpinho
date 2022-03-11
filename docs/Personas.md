@@ -1,11 +1,15 @@
 # <center> Personas
 
-### Histórico de Versão
+## Histórico de Versão<br>
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 30.01.2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Lucas Melo |
-| 04.02.2022 | 0.1.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 05.03.2022 |  0.2  | Revisão e correção do documento | Jonathan Jorge |
+| 30.01.2022 |  0.1   | Criação do documento e adição de personas, anti-persona | [Lucas Melo](https://github.com/luucas-melo) |
+| 04.02.2022 | 0.1.1 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael)  |
+| 05.03.2022 |  0.2  | Revisão e correção do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+
+## Participantes
+
+* [Lucas Melo](https://github.com/luucas-melo)
 
 ## Introdução
 
@@ -84,4 +88,4 @@ criado para descrever um usuário específico. Como não é possível falar com 
 
 > [1] -(  Baxter. K; Courage. C; Caine. K ;  Understanding Your Users, Second Edition: A Practical Guide to User Research Methods. Morgan Kaufmann, 2015)
 
-> [2] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.
+> [2] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2.
