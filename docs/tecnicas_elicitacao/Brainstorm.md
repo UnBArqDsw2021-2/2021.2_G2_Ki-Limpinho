@@ -1,26 +1,27 @@
 # <center> Brainstorm
 
-### Histórico de Versão
+## Histórico de Versão<br>
 
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 04.02.2022 |  0.1   | Criação do documento | Davi Matheus |
-| 04.02.2022 |  0.2   | Revisão do documento |Lucas Melo |
-| 04.02.2022 | 0.2.1  | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 05.03.2022 | 0.3    | Revisão e correção do documento | Jonathan Jorge |
+| 04.02.2022 |  0.1   | Criação do documento | [Davi matheus](https://github.com/DaviMatheus) |
+| 04.02.2022 |  0.2   | Revisão do documento | [Lucas Melo](https://github.com/luucas-melo) |
+| 04.02.2022 | 0.2.1  | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 05.03.2022 | 0.3    | Revisão e correção do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
 
-### Participantes
+## Participantes
 
-* Caio Martins
-* Davi Matheus
-* Henrique Melo
-* Jonathan Jorge
-* Lucas Lima
-* Lucas Melo
-* Natanael Fernandes
-* Nilvan Peres
-* Peniel Etèmana
-* Yuri Alves
+* [Caio Martins](https://github.com/linktocaio)
+* [Davi matheus](https://github.com/DaviMatheus)
+* [Henrique Amorim](https://github.com/HenriqueAmorim20)
+* [Jonathan Jorge](https://github.com/Jonathan-Oliveira)
+* [Lucas Lima](https://github.com/mibasFerraz)
+* [Lucas Melo](https://github.com/luucas-melo)
+* [Natanael Filho](https://github.com/fernandes-natanael)
+* [Nilvan Peres](https://github.com/NilvanPeres)
+* [Peniel Etèmana](https://github.com/zpeniel09)
+* [Yuri Alves](https://github.com/yuriAlves5)
+
 
 ## Introdução
 
