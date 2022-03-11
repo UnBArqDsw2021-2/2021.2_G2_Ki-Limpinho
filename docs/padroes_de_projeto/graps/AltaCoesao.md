@@ -47,6 +47,8 @@ Utilização da alta coesão deve estar presente durante todo o projeto para gar
 
 ## Conclusão
 
+Com o presente documento é possível demonstrar a importância dos padrões de projeto GRASP dentro da construção da base do código, isto é, ser capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes.
+
 ## Referências
 
 > [1] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
