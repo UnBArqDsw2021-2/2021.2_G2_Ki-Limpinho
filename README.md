@@ -8,16 +8,16 @@
 ## Alunos 🤓
 |Matrícula | Aluno |
 | -- | -- |
-| 18/0074741  |  Caio Martins Ferreira |
-| 19/0042419 |  Davi Matheus da Rocha de Oliveira |
-| 17/0144488  |  Henrique Amorim |
-| 18/0103580  |  Jonathan Jorge Barbosa Oliveira |
-| 18/0105345  |  Lucas Lima Ferraz |
-| 18/0125885  |  Lucas Melo dos Santos |
-| 19/0058650  |  Natanael Fernandes Coelho Filho |
-| 17/0122468  |  Nilvan Peres Costa |
-| 18/0011308  |  Peniel Etèmana Désirez-Jésus Zannoukou |
-| 18/0078640  |  Yuri Alves Bacarias |
+| 18/0074741  |  [Caio Martins Ferreira](https://github.com/linktocaio) |
+| 19/0042419  |  [Davi Matheus da Rocha de Oliveira](https://github.com/DaviMatheus) |
+| 17/0144488  |  [Henrique Amorim](https://github.com/HenriqueAmorim20) |
+| 18/0103580  |  [Jonathan Jorge Barbosa Oliveira](https://github.com/Jonathan-Oliveira) |
+| 18/0105345  |  [Lucas Lima Ferraz](https://github.com/mibasFerraz) |
+| 18/0125885  |  [Lucas Melo dos Santos](https://github.com/luucas-melo) |
+| 19/0058650  |  [Natanael Fernandes Coelho Filho](https://github.com/fernandes-natanael) |
+| 17/0122468  |  [Nilvan Peres Costa](https://github.com/NilvanPeres) |
+| 18/0011308  |  [Peniel Etèmana Désirez-Jésus Zannoukou](https://github.com/zpeniel09) |
+| 18/0078640  |  [Yuri Alves Bacarias](https://github.com/yuriAlves5) |
 
 ## Sobre 🤔
 Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto sonhava, acorda cedo para levar o carro para lavar, e depois tem que ficar horas esperando o carro ficar pronto, triste né. É pior ainda quando você é um gerente de uma empresa e tem que além de gerenciar os funcionários, lidar com ações repetitivas da gerência financeira, 😨.
