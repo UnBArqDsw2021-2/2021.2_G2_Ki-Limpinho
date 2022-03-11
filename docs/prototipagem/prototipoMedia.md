@@ -1,12 +1,19 @@
 # <center> Protótipo de Média Fidelidade
 
+## Histórico de Versão<br>
 |Data|Versão|Descrição|Autor(es)|          
-|-----|------|---------|----------|           
-|02.01.2022  |0.1|Criação do protótipo | Lucas Lima, Lucas Melo, Jonathan Jorge |
-|03.01.2022  |0.2| Adição da descrição e metodologia | Lucas Lima, Lucas Melo, Jonathan Jorge |
+:- | :- | :- | :- |
+|02.01.2022  |0.1|Criação do protótipo | [Lucas Lima](https://github.com/mibasFerraz), [Lucas Melo](https://github.com/luucas-melo), [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+|03.01.2022  |0.2| Adição da descrição e metodologia | [Lucas Lima](https://github.com/mibasFerraz), [Lucas Melo](https://github.com/luucas-melo), [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 |03.01.2022  |0.3| Revisão do documento | Peniel Zannoukou |
-| 04.02.2022 | 0.3.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 07.03.2022 | 0.4 | Ajustes para terceira entrega  | Jonathan Jorge  |
+| 04.02.2022 | 0.3.1 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 07.03.2022 | 0.4 | Ajustes para terceira entrega  | [Jonathan Jorge](https://github.com/Jonathan-Oliveira)  |
+
+## Participantes
+
+* [Jonathan Jorge](https://github.com/Jonathan-Oliveira)
+* [Lucas Lima](https://github.com/mibasFerraz)
+* [Lucas Melo](https://github.com/luucas-melo)
 
 ## Introdução
 
