@@ -8,7 +8,7 @@
 | 02.02.2022 | 0.2 | Remoção de léxicos incorretos| [Lucas Melo](https://github.com/luucas-melo) |
 | 03.02.2022 | 0.3 | Melhorias de léxicos | [Peniel Etèmana](https://github.com/zpeniel09) |
 | 04.02.2022 | 0.3.1 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
-| 11.03.2022 | 0.2.3 | Padronizar estrutura | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+| 11.03.2022 | 0.3.2 | Padronizar estrutura | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
 ## Participantes
 
