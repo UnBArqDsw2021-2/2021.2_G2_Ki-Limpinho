@@ -1,16 +1,16 @@
 # <center> Story Telling
 
-### Histórico de Versão
+## Histórico de Versão<br>
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 30.01.2022 |  0.1   | Criação do documento | Lucas Melo |
-| 31.01.2022 |  0.2   | Adição dos requisitos elicitados | Lucas Melo |
-| 04.02.2022 | 0.2.1  | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 05.03.2022 |  0.3   | Revisão e correção do documento | Jonathan Jorge |
+| 30.01.2022 |  0.1   | Criação do documento | [Lucas Melo](https://github.com/luucas-melo) |
+| 31.01.2022 |  0.2   | Adição dos requisitos elicitados | [Lucas Melo](https://github.com/luucas-melo) |
+| 04.02.2022 | 0.2.1  | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 05.03.2022 |  0.3   | Revisão e correção do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
 ## Participantes
 
-* Lucas Melo
+* [Lucas Melo](https://github.com/luucas-melo)
 
 ##  Introdução
 
