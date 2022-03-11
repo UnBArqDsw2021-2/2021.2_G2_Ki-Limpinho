@@ -1,19 +1,26 @@
 # <center> Léxicos
 
-### Histórico de Versão<br>
+## Histórico de Versão<br>
 
 | Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 30.01.2022 | 0.1 | Criação do documento | Peniel Zannoukou |
-| 02.02.2022 | 0.2 | Remoção de léxicos incorretos| Lucas Melo |
-| 03.02.2022 | 0.3 | Melhorias de léxicos | Peniel Zannoukou |
-| 04.02.2022 | 0.3.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
+| 30.01.2022 | 0.1 | Criação do documento | [Peniel Etèmana](https://github.com/zpeniel09) |
+| 02.02.2022 | 0.2 | Remoção de léxicos incorretos| [Lucas Melo](https://github.com/luucas-melo) |
+| 03.02.2022 | 0.3 | Melhorias de léxicos | [Peniel Etèmana](https://github.com/zpeniel09) |
+| 04.02.2022 | 0.3.1 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 11.03.2022 | 0.2.3 | Padronizar estrutura | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-### Participantes
+## Participantes
 
-* Peniel Zannoukou
-	
-## 1. Metodologia
+* [Peniel Etèmana](https://github.com/zpeniel09)
+
+##  Introdução
+
+<div align="justify">&emsp;&emsp;
+O conceito de léxico abrange vários significados que concedem que a palavra seja empregada em diversos ramos de linguística. Léxico é o vocabulário de um idioma ou de uma região/comunidade, o dicionário de uma língua ou o conjunto de vocábulos empregues por um autor (Conceito de léxico, 2021). O léxico é um conjunto de palavras, termos ou expressões que são usadas para definir o significado de uma palavra ou expressão.
+</div>
+
+##  Metodologia
 <div align="justify">&emsp;&emsp; As atividades associadas ao processo de desenho de software(Base), principalmente a parte de Módulo Projeto Não Orientado a Abordagens Específicas, podem envolver leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Exemplos de documentos incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software. [Sayão, Carvalho, 2006]</div>
 <div align="justify">&emsp;&emsp; Esses símbolos são apresentados em ordem alfabética. Cada um deles trará uma noção, que diz respeito ao significado desse símbolo, e um impacto, que traz uma descrição do efeito desse símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. Além disso, cada um contará com os respectivos sinônimos e com a classificação que pode ser: Objeto, Verbo, Sujeito ou Estado. Faremos uso desse formato a seguir:</div>
 
@@ -24,7 +31,9 @@
 | Impacto | O impacto do léxico |
 | Classificação | A classificação do léxico |
 
-## 2. Agendamento
+## Resultados
+
+### Agendamento
 | Nome | Agendamento |
 | -- | -- |
 | Sinônimos | Agendar |
@@ -34,7 +43,7 @@
 
 <br>
 
-## 3. Ajuda
+### Ajuda
 | Nome | Ajuda |
 | -- | -- |
 | Sinônimos | Amparo, beneficiamento, auxílio, Faq |
@@ -44,7 +53,7 @@
 
 <br>
 
-## 4. Cadastro de funcionários
+### Cadastro de funcionários
 | Nome | Cadastro de funcionários |
 | -- | -- |
 | Sinônimos |  Registra |
@@ -54,7 +63,7 @@
 
 <br>
 
-## 5. Cadastro de serviço
+### Cadastro de serviço
 | Nome | Cadastro de serviço |
 | -- | -- |
 | Sinônimos |  Registra |
@@ -64,7 +73,7 @@
 
 <br>
 
-## 6. Contatos
+### Contatos
 | Nome | Contatos |
 | -- | -- |
 | Sinônimos | Toque, tato, comunicação, conversa, diálogo |
@@ -74,7 +83,7 @@
 
 <br>
 
-## 7. Capital
+### Capital
 | Nome | Capital |
 | -- | -- |
 | Sinônimos |  Dinheiro total de empresa |
@@ -84,7 +93,7 @@
 
 <br>         
 
-## 8. Conta
+### Conta
 | Nome | Conta |
 | -- | -- |
 | Sinônimos |  Domínio |
@@ -94,7 +103,7 @@
 
 <br> 
 
-## 9. Crédito
+### Crédito
 | Nome | Crédito |
 | -- | -- |
 | Sinônimos |  Confiança, Acreditar |
@@ -104,7 +113,7 @@
 
 <br>
 
-## 10. Custo Operacionais
+### Custo Operacionais
 | Nome | Custo Operacionais |
 | -- | -- |
 | Sinônimos |  Conta a serem pagas |
@@ -114,7 +123,7 @@
 
 <br>
 
-## 11. Débito
+### Débito
 | Nome | Débito |
 | -- | -- |
 | Sinônimos |  Conta, dívida |
@@ -124,7 +133,7 @@
 
 <br>
 
-## 12. Depósito
+### Depósito
 | Nome | Depósito |
 | -- | -- |
 | Sinônimos |  Armazenado, depositar, Guardado |
@@ -134,7 +143,7 @@
 
 <br>
 
-## 13. Dinheiro
+### Dinheiro
 | Nome | Dinheiro |
 | -- | -- |
 | Sinônimos |   Patrimônio, meio de pagamento |
@@ -144,7 +153,7 @@
 
 <br>
 
-## 14. Dúvidas
+### Dúvidas
 | Nome | Dúvidas |
 | -- | -- |
 | Sinônimos |  indecisão, insegurança |
@@ -154,7 +163,7 @@
 
 <br>
 
-## 15. Financeiro    
+### Financeiro    
 | Nome | Financeiro |
 | -- | -- |
 | Sinônimos | Financial, monetário, numerário, fazendário, financista |
@@ -164,7 +173,7 @@
 
 <br>
 
-## 16. Funcionalidade
+### Funcionalidade
 | Nome | Funcionalidade |
 | -- | -- |
 | Sinônimos |  funções,opções |
@@ -174,7 +183,7 @@
 
 <br>
 
-## 17. Histórico    
+### Histórico    
 | Nome | Histórico |
 | -- | -- |
 | Sinônimos | Consagrado, Memorável, reconhecido, Celebrado |
@@ -184,7 +193,7 @@
 
 <br>
 
-## 18. Lava Jato     
+### Lava Jato     
 | Nome | Lava Jato |
 | -- | -- |
 | Sinônimos |  Lava Jato |
@@ -194,7 +203,7 @@
 
 <br>
 
-## 19. Nome Do Usuários
+### Nome Do Usuários
 | Nome | Operações normais |
 | -- | -- |
 | Sinônimos |  Nickname, Nick, @. |
@@ -204,7 +213,7 @@
 
 <br>
 
-## 20. Senha
+### Senha
 | Nome | Senha |
 | -- | -- |
 | Sinônimos | Marca, indicação |
@@ -214,7 +223,7 @@
 
 <br>
 
-## 21. Serviços
+### Serviços
 | Nome | Serviços |
 | -- | -- |
 | Sinônimos | Trabalho, fineza, préstimo, despacho |
@@ -224,7 +233,7 @@
 
 <br>
 
-## 22. Site
+### Site
 | Nome | Site |
 | -- | -- |
 | Sinônimos | Site |
@@ -234,7 +243,7 @@
 
 <br>
 
-## 23. Usuário    
+### Usuário    
 | Nome | Usuário |
 | -- | -- |
 | Sinônimos | Utilizador, utente, cliente, usador, usufruidor |
@@ -244,7 +253,10 @@
 
 <br>
 
-## 24. Referências
+## Referências
 
->  * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula<br><br>
->  * Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br>
+> [1]   SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula
+
+> [2]   Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.
+
+> [3] Equipe editorial de Conceito.de. (25 de Outubro de 2011). Conceito de léxico. Conceito.de. https://conceito.de/lexico
