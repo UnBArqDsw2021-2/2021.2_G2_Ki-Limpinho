@@ -1,20 +1,20 @@
 # <center> Moscow
 
-### Histórico de Versão
+## Histórico de Versão<br>
 
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 03.01.2022 |  0.1   | Criação do documento e versão inicial | Lucas Melo, Lucas Lima |
-| 04.01.2022 |  0.2   | Revisão do documento | Nilvan Peres |
-| 04.02.2022 | 0.2.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 11.02.2022 | 0.2.2 | Adição dos links nas rastreabilidades  | Jonathan Jorge |
-| 21.02.2022 | 0.2.3 | Ajustes para segunda entrega (Metodologia e Bibliografia)  | Nilvan Peres |
-| 07.03.2022 | 0.2.4 | Ajustes para terceira entrega  | Jonathan Jorge  |
+| 03.01.2022 |  0.1   | Criação do documento e versão inicial | [Lucas Melo](https://github.com/luucas-melo) , [Lucas Lima](https://github.com/mibasFerraz)|
+| 04.01.2022 |  0.2   | Revisão do documento | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 04.02.2022 | 0.2.1 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael)  |
+| 11.02.2022 | 0.2.2 | Adição dos links nas rastreabilidades  | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+| 21.02.2022 | 0.2.3 | Ajustes para segunda entrega (Metodologia e Bibliografia)  | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 07.03.2022 | 0.2.4 | Ajustes para terceira entrega  | [Jonathan Jorge](https://github.com/Jonathan-Oliveira)  |
 
-### Participantes
+## Participantes
 
-- Lucas Melo
-- Lucas Lima
+* [Lucas Melo](https://github.com/luucas-melo)
+* [Lucas Lima](https://github.com/mibasFerraz)
 
 ## Introdução
 
