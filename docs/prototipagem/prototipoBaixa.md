@@ -17,7 +17,8 @@
 &emsp;&emsp;O grupo decidiu reunir três membros e fazer um protótipo de baixa fidelidade com base nos requisitos que foram elicitados anteriormente visando  na funcionalidade e arquitetura da solução a ser desenvolvida não levando em consideração os detalhes visuais ou refinamentos estéticos.
 </p>
 
-## Resultado
+## Resultados
+
 <p align="justify">
 Abaixo temos o protótipo de baixa fidelidade produzido:
 <img width="1500" height="1500" src="../assets/img/prototipagem/prototipoBaixa.jpeg">
