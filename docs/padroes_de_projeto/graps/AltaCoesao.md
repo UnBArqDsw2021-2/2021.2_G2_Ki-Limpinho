@@ -43,6 +43,8 @@ Alta coesão é um principio avaliativo que prega a divisão de responsabilidade
 
 ### Utilização
 
+Utilização da alta coesão deve estar presente durante todo o projeto para garantir que cada classe possua um unica responsabilidade, dessa forma deixando-a entendivel, reutilizavel e enxuta. Dessa maneira tornando as interfaces de comunicação mais claras, enquando deixa as classes mais legiveis e amigaveis a expançẽoes e alterações mantendo a complexidade gerenciável.
+
 ## Conclusão
 
 ## Referências
