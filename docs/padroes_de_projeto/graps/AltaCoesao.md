@@ -6,6 +6,9 @@
 | ---------- | ------ | -------------------------------- | --------------------------- |
 | 11.03.2022 | 0.1    | Criação do documento             | Caio Martins <br>Yuri Alves |
 | 11.03.2022 | 0.2    | Adição da introdução padronizada | Caio Martins <br>Yuri Alves |
+| 11.03.2022 | 0.3    | Adição da definição              | Caio Martins <br>Yuri Alves |
+| 11.03.2022 | 0.4    | Adição da utilizção              | Caio Martins <br>Yuri Alves |
+| 11.03.2022 | 0.5    | Adição da conclusão              | Caio Martins <br>Yuri Alves |
 
 ### Participantes
 
