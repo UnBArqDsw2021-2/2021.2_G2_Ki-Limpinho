@@ -6,6 +6,7 @@
 | 07/03/2022 |  0.1   | Criação do Documento | Henrique Melo e Lucas Lima |
 | 07/03/2022 |  0.2   | Criação da Introdução | Henrique Melo e Lucas Lima |
 | 07/03/2022 |  0.3   | Baixo acoplamento | Henrique Melo e Lucas Lima |
+| 13/03/2022 |  0.3   | Revisão | Yuri Alves|
 
 
 <div align="justify">
