@@ -1,19 +1,20 @@
-# <center> Alta Coesao
+# <center> Alta Coesão
 
 ### Histórico de versão<br>
 
 | Data       | Versão | Descrição                        | Autor(es)                   |
 | ---------- | ------ | -------------------------------- | --------------------------- |
-| 11.03.2022 | 0.1    | Criação do documento             | Caio Martins <br>Yuri Alves |
-| 11.03.2022 | 0.2    | Adição da introdução padronizada | Caio Martins <br>Yuri Alves |
-| 11.03.2022 | 0.3    | Adição da definição              | Caio Martins <br>Yuri Alves |
-| 11.03.2022 | 0.4    | Adição da utilizção              | Caio Martins <br>Yuri Alves |
-| 11.03.2022 | 0.5    | Adição da conclusão              | Caio Martins <br>Yuri Alves |
+| 11.03.2022 | 0.1    | Criação do documento             | [Caio Martins](https://github.com/linktocaio) <br>[Yuri Alves](https://github.com/yuriAlves5) |
+| 11.03.2022 | 0.2    | Adição da introdução padronizada | [Caio Martins](https://github.com/linktocaio) <br>[Yuri Alves](https://github.com/yuriAlves5) |
+| 11.03.2022 | 0.3    | Adição da definição              | [Caio Martins](https://github.com/linktocaio) <br>[Yuri Alves](https://github.com/yuriAlves5) |
+| 11.03.2022 | 0.4    | Adição da utilização              | [Caio Martins](https://github.com/linktocaio) <br>[Yuri Alves](https://github.com/yuriAlves5) |
+| 11.03.2022 | 0.5    | Adição da conclusão              | [Caio Martins](https://github.com/linktocaio) <br>[Yuri Alves](https://github.com/yuriAlves5) |
+| 13.03.2022 | 0.6    | Revisão do documento             | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
 ### Participantes
 
--   Caio Martins
--   Yuri Alves
+* [Caio Martins](https://github.com/linktocaio)
+* [Yuri Alves](https://github.com/yuriAlves5)
 
 ## Introdução
 
@@ -42,11 +43,11 @@ Neste documento, será abordado o tópico **Alta Coesão**.
 
 ### Definição
 
-Alta coesão é um principio avaliativo que prega a divisão de responsabilidades entre as classe. Isso é, uma classe coesa é aquela que lhe foi delegada apenas as suas responsabilidades que estão fortemente relacionadas e altamente focadas. Classes com baixa coesão frequentemente são de dificil compreensão, dificeis de se reutilizar, manter ou alterar.
+Alta coesão é um principio avaliativo que prega a divisão de responsabilidades entre as classe. Isso é, uma classe coesa é aquela que lhe foi delegada apenas as suas responsabilidades que estão fortemente relacionadas e altamente focadas. Classes com baixa coesão frequentemente são de difícil compreensão, difíceis de se reutilizar, manter ou alterar.
 
 ### Utilização
 
-Utilização da alta coesão deve estar presente durante todo o projeto para garantir que cada classe possua um unica responsabilidade, dessa forma deixando-a entendivel, reutilizavel e enxuta. Dessa maneira tornando as interfaces de comunicação mais claras, enquando deixa as classes mais legiveis e amigaveis a expançẽoes e alterações mantendo a complexidade gerenciável.
+Utilização da alta coesão deve estar presente durante todo o projeto para garantir que cada classe possua um única responsabilidade, dessa forma deixando-a entendível, reutilizável e enxuta. Dessa maneira tornando as interfaces de comunicação mais claras, enquanto deixa as classes mais legíveis e amigáveis a expansões e alterações mantendo a complexidade gerenciável.
 
 ## Conclusão
 
@@ -56,8 +57,8 @@ Com o presente documento é possível demonstrar a importância dos padrões de 
 
 > [1] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
 
-> [2] Desenvolvimento com qualidade com GRASP. **DevMedia**. Disponível em <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704> (Último acesso em 11/03/2022).
+> [2] Desenvolvimento com qualidade com GRASP. **DevMedia**. Disponível em: <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704> (Último acesso em 11/03/2022).
 
-> [3] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP – PARTE I. 36 slides <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP%20BASE%20Parte%20I%20-%20Profa.%20Milene.pdf> (Último acesso em 11/03/2022).
+> [3] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP – PARTE I. 36 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP%20BASE%20Parte%20I%20-%20Profa.%20Milene.pdf> (Último acesso em 11/03/2022).
 
-> [4] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP_A - COMPLEMENTAR – PARTE I. 66 slides <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP_A%20-%20Profa.%20Milene%20-%20Complementar.pdf> (Último acesso em 11/03/2022).
+> [4] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP_A - COMPLEMENTAR – PARTE I. 66 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP_A%20-%20Profa.%20Milene%20-%20Complementar.pdf> (Último acesso em 11/03/2022).
