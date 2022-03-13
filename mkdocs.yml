@@ -127,6 +127,10 @@ nav:
         - MER/DER/DLD: "MER.md"
         - Diagrama de Casos de Uso: "modelagem/diagramas/DiagramaCasoUso.md"
         - Protótipo Alta Fidelidade: "prototipagem/prototipoAlta.md"
+    - Desenho de Software(Padrões de Projeto):
+          - GRASP:
+                - Alta Coesão: "padroes_de_projeto/graps/AltaCoesao.md"
+
   - Sprints: 
     - Sprint 1:
         - Planning: "Sprints/sprint01/Planning.md"
