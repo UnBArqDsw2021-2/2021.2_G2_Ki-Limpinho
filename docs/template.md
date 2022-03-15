@@ -4,7 +4,7 @@
 ## Histórico de Versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
-| :- | :- | :- | :- |
+| :-:|:-:|:-:|:-: |
 | 01.12.2022 | 0.1 | Criação do documento |[Lucas Melo](https://github.com/luucas-melo), [Nilvan Peres](https://github.com/NilvanPeres)|
 
 ## Participantes

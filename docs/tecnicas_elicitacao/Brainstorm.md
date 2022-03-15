@@ -38,9 +38,11 @@ Para a realização do Brainstorming foi utilizado a ferramenta Miro. Por meio d
  Através desse brainstorm conseguimos elicitar requisitos funcionais e não funcionais, em que  após essas discussões, o grupo compreendeu melhor o escopo do projeto. Para fechar essa fase foi realizado um último Brainstorming para escolher o nome do projeto.
 </p>
 
-## *Brainstorming* requisitos funcionais
+## Resultados
 
-###  *Brainstorming* requisitos funcionais para o cliente
+### *Brainstorming* requisitos funcionais
+
+####  *Brainstorming* requisitos funcionais para o cliente
 
 <p align='center'>
     <img src='../../assets/img/brainstorm/Brainstorming _cliente.jpg'>
@@ -55,7 +57,7 @@ Para a realização do Brainstorming foi utilizado a ferramenta Miro. Por meio d
     </figcaption>
 </p>
 
-###  *Brainstorming* requisitos funcionais para o gerente
+####  *Brainstorming* requisitos funcionais para o gerente
 
 <p align='center'>
     <img src='../../assets/img/brainstorm/Brainstorming_gerente.jpg'>
@@ -66,7 +68,7 @@ Para a realização do Brainstorming foi utilizado a ferramenta Miro. Por meio d
     </figcaption>
 </p>
 
-### *Brainstorming* requisitos funcionais para o gerente
+#### *Brainstorming* requisitos funcionais para o gerente
 
 **ID**|**Descrição**|**Tipo de Requisito**
 :----:|-------------|:--------------------:
@@ -98,7 +100,7 @@ BS24  | O gerente deve ser capaz de visualizar as avaliações de serviço      
 <h6 align="center">Tabela 1: Requisitos Funcionais elicitados a partir do brainstorming</h6>
 <h6 align="center">Fonte: Autor(es)</h6>
 
-## *Brainstorming* requisitos não funcionais
+### *Brainstorming* requisitos não funcionais
 
 <p align='center'>
     <img src='../../assets/img/brainstorm/Brainstorming_NF.jpg'>
@@ -109,7 +111,7 @@ BS24  | O gerente deve ser capaz de visualizar as avaliações de serviço      
     </figcaption>
 </p>
 
-##  *Resultado* requisitos não funcionais
+###  *Resultado* requisitos não funcionais
 
 **ID**|**Descrição**|**Tipo de Requisito**
 :----:|-------------|:--------------------:
@@ -136,7 +138,7 @@ BS10  | A aplicação deve dar o Backup de dados a cada 24 horas                
 
 </center>
 
-## *Brainstorming*  para a escolha do nome do projeto
+### *Brainstorming*  para a escolha do nome do projeto
 
 <p align="justify">&emsp;&emsp;
 Por fim, o último Brainstorming feito até o momento foi para definição do nome do projeto. Para isso, no dia 01 de fevereiro de 2021, foi pedido aos integrantes do grupo para escrever vários potenciais nomes para o projeto no grupo do Telegram e depois foi feito uma enquete para decidir qual nome os integrantes mais se interessaram.
