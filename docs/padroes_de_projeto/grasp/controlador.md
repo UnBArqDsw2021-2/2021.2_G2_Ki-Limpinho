@@ -30,3 +30,9 @@
 
 
 ## Referências
+
+> [1] BOAS, Leandro Vilas. Padrões GRASP - Padrões de Atribuir Responsabilidades. Disponível em: <https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204>. Acesso em 15, de Março de 2022.
+
+> [2] Universidade Federal de Uberlândia. Padrões GRASP. Disponível em: <http://www.facom.ufu.br/~bacala/ESOF/05a-Padr%C3%B5es%20GRASP.pdf>. Acesso em 15, de Março de 2022.
+
+> [3] SERRANO, Milene. Aula - GRASP - PARTE I.
