@@ -109,28 +109,30 @@ nav:
           - Ata 18/01/2022: "Atas/ATA_18_01_2022.md"
           - Ata 24/01/2022: "Atas/ATA_24_01_2022.md"
   - Desenho de Software(Modelagem):
-      - Módulo Projeto Orientado a Abordagens Tradicionais:
-        - Módulo Notação UML - Diagramas Estáticos:
-          - Diagrama de Pacotes: "DiagramaDePacotes.md"
-          - Diagrama de Classes: "DiagramaDeClasses.md"
-          - Diagrama de Implementação: "modelagem/diagramas/DiagramaDeImplementacao.md"
-          - Diagrama de Componentes: "DiagramaDeComponentes.md"
-        - Módulo Notação UML - Diagramas Dinâmicos:
-          - Diagrama de Estado: "DiagramaDeEstado.md"
-          - Diagrama de Atividades: "DiagramaDeAtividades.md"
-          - Diagrama de Sequencia: "DiagramaDeSequencia.md"
-          - Diagrama de Comunicação: "diagramaDeComunicacao.md"
-        - Modelagem Ágil:
-          - Priorização - MOSCOW : "modelagem/priorizacao/Moscow.md"
-          - Backlog do Produto: "modelagem/Backlog.md"
+    - Módulo Projeto Orientado a Abordagens Tradicionais:
+      - Módulo Notação UML - Diagramas Estáticos:
+        - Diagrama de Pacotes: "DiagramaDePacotes.md"
+        - Diagrama de Classes: "DiagramaDeClasses.md"
+        - Diagrama de Implementação: "modelagem/diagramas/DiagramaDeImplementacao.md"
+        - Diagrama de Componentes: "DiagramaDeComponentes.md"
+      - Módulo Notação UML - Diagramas Dinâmicos:
+        - Diagrama de Estado: "DiagramaDeEstado.md"
+        - Diagrama de Atividades: "DiagramaDeAtividades.md"
+        - Diagrama de Sequencia: "DiagramaDeSequencia.md"
+        - Diagrama de Comunicação: "diagramaDeComunicacao.md"
+      - Modelagem Ágil:
+        - Priorização - MOSCOW : "modelagem/priorizacao/Moscow.md"
+        - Backlog do Produto: "modelagem/Backlog.md"
       - Iniciativas Extras:
         - MER/DER/DLD: "MER.md"
         - Diagrama de Casos de Uso: "modelagem/diagramas/DiagramaCasoUso.md"
         - Protótipo Alta Fidelidade: "prototipagem/prototipoAlta.md"
-    - Desenho de Software(Padrões de Projeto):
-          - GRASP:
-                - Alta Coesão: "padroes_de_projeto/graps/AltaCoesao.md"
-
+        - Atas de Reunião:
+          - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
+  - Desenho de Software(Padrões de Projeto):
+    - GRASP:
+      - Alta Coesão: "padroes_de_projeto/GRASPS/AltaCoesao.md"
+      - Baixo Acomplamento: "padroes_de_projeto/GRASPS/BaixoAcoplamento.md"
   - Sprints: 
     - Sprint 1:
         - Planning: "Sprints/sprint01/Planning.md"
