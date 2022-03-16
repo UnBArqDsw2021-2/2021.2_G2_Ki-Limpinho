@@ -133,6 +133,7 @@ nav:
     - GRASP:
       - Alta Coesão: "padroes_de_projeto/GRASPS/AltaCoesao.md"
       - Baixo Acomplamento: "padroes_de_projeto/GRASPS/BaixoAcoplamento.md"
+      - Controlador: "padroes_de_projeto/GRASPS/Controlador.md"
   - Sprints: 
     - Sprint 1:
         - Planning: "Sprints/sprint01/Planning.md"
