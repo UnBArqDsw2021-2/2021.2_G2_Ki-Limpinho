@@ -23,3 +23,27 @@ Entre os principais GoFs comportamentais temos o Observer, que consiste em defin
 
 </p>
 
+### Metodologia
+
+<p>
+    No pattern observer, é criado uma relação de dependência um-para-muitos entre objetos que funciona da forma seguinte:
+    quando um certo objeto, chamado subject tem seu estado modificado, outros objetos, chamados observers, são notificados. 
+</p>
+
+<p>
+    O Observer é formado por métodos que possuem padrões de nomenclatura e comportamentos específicos. É importante seguir estes padrões para que implementações diferentes do Observer possam ser facilmente identificadas por desenvolvedores que não as codificaram.
+</p>
+
+### Resultados
+
+<center>
+<img src="../../../assets/img/padroes/observer-padrao.png" class="zoom"> 
+<h6>Figura 1: Observer Padrão.</h6>
+<h6>Fonte: Padrões de Projetos.</h6>
+</center>
+
+<center>
+<img src="../../../assets/img/padroes/imagem-observer.png" class="zoom"> 
+<h6>Figura 2: Exemplo de imagem sobre Observer.</h6>
+<h6>Fonte: Padrões de Projetos.</h6>
+</center>
