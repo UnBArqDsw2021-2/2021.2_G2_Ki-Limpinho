@@ -135,6 +135,7 @@ nav:
           - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
       - GOFS:
           - Command: 'padroes_de_projeto/GOFS/command.md'
+          - Observer: 'padroes_de_projeto/GOFS/GofsComportamentaisObserver.md'
   - Sprints:
       - Sprint 1:
           - Planning: 'Sprints/sprint01/Planning.md'
