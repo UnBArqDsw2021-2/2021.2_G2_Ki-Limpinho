@@ -7,6 +7,7 @@
 | 13.03.2022 | 0.1 | Criação do documento              | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 | 15.03.2022 | 0.2 | Adição no documento               | [Peniel Etèmana](https://github.com/zpeniel09)         |
 | 15.03.2022 | 1.0 | Adição dos resultados e conclusão | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) e [Peniel Etèmana](https://github.com/zpeniel09)    |
+| 16.03.2022 | 1.0 | Adição dos resultados e conclusão | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) e [Peniel Etèmana](https://github.com/zpeniel09)    |
 
 
 ### Participantes
