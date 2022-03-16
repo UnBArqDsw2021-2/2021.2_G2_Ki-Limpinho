@@ -135,6 +135,8 @@ nav:
           - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
       - GOFS:
           - Command: 'padroes_de_projeto/GOFS/command.md'
+          - Criacionais:
+                - Prototype: 'padroes_de_projeto/GOFS/GofsCriacionaisPrototype.md'
   - Sprints:
       - Sprint 1:
           - Planning: 'Sprints/sprint01/Planning.md'
