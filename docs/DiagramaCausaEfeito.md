@@ -4,12 +4,21 @@
 
 | Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 01.02.2022 | 0.1 | Criação do documento | Peniel Zannoukou |
-| 04.02.2022 | 0.2 | Melhorias após o PR | Peniel Zannoukou |
-| 04.02.2022 | 0.3 | Revisão do Documento | Davi e Natanael |
+| 01.02.2022 | 0.1 | Criação do documento |[Peniel Etèmana](https://github.com/zpeniel09) |
+| 04.02.2022 | 0.2 | Melhorias após o PR | [Peniel Etèmana](https://github.com/zpeniel09) |
+| 04.02.2022 | 0.3 | Revisão do Documento | [Davi matheus](https://github.com/DaviMatheus) e [Natanael Filho](https://github.com/fernandes-natanael) |
+| 11.03.2022 | 0.3.1 | Padronizar estrutura |[Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-## 1. Metodologia
+## Participantes
+
+* [Peniel Etèmana](https://github.com/zpeniel09)
+
+##  Introdução
+
 <div align="justify">&emsp;&emsp; O Diagrama de Ishikawa , também conhecido como "Diagrama de Causa e Efeito" ou "Espinha-de-peixe", é utilizado pela administração para o gerenciamento e controle de qualidade sendo uma ferramenta gráfica que auxilia em diversos processos. Os diagramas de Ishikawa são ferramentas sistemáticas muito úteis para encontrar, classificar e documentar as causas da variação da qualidade em uma determinada produção e organizar a mútua relação entre elas. Esse diagrama vai analisando sobre diferentes perspectivas,diferentes pontos de vistas, levantando uma série de causas que podem estar levando à um dado efeito.</div>
+
+##  Metodologia
+
 <div align="justify">&emsp;&emsp; Para construção do diagrama de causa e efeito foram definidos os problemas e suas possíveis causas, para o escopo do projeto foram escolhidas 6 categorias das possíveis causas, sendo elas as seguintes: 
 
 <br><br>
@@ -24,7 +33,7 @@
 </br>
 <div align="justify">&emsp;&emsp; Dessa forma foi possível fazer uma dedução mais objetiva das possíveis causas e montar uma estratégia para resolver os problemas levantados.</div><br>
 
-## 2. Resultado
+## Resultados
 
 ![Figura 1: Diagrama Causa-Efeito](assets/img/ishikawa/fishbone.png)
 <center>Figura 1: Diagrama Causa-Efeito</center>
@@ -40,13 +49,13 @@
 * Clientes: com imprevistos cotidianos que levam a impossibilidade de prosseguir com o que foi agendado no sistema, os clientes tendem a esquecer de avisar a ausência ou simplesmente não comparecem ao estabelecimento. Além disso, nem todas as empresas conseguem organizar-se de tal maneira que consigam avisar com atecedência aos seus clientes o atendimento marcado.<br>
 
 
-## 3. Conclusão 
+## Conclusão 
 Através do uso do diagrama de causa e efeito foi possível ter uma visão maior sobre as causas dos problemas que nossa aplicação deve ser capaz de resolver, dessa forma, devemos levantar requisitos que sejam capazes de ser a solução para cada uma das causas identificadas.
 
-## 4. Referência
+## Referências
 
-> ISHIKAWA, Kaoru. Controle de Qualidade Total. 6. ed. Rio de Janeiro, Campus Editora, 1998.<br>
-> ANDRADE, Luiza. Diagrama de Ishikawa: o que é e como fazer. Siteware, 2017. Disponível em: https://www.siteware.com.br/blog/metodologias/diagrama-de-ishikawa/. Acesso em: 3 de Fevereiro de 2022.<br>
-> SILVEIRA, Cristiano Bertulucci.Diagrama de Ishikawa, Causa e Efeito ou Espinha de Peixe. Citisystems, 2012. Disponível em: https://www.citisystems.com.br/diagrama-de-ishikawa/. Acesso em: 03/02/2022.<br>
-> "O que são os 6M no diagrama de causa e efeito?": https://radardeprojetos.com.br/o-que-sao-os-6m-no-diagrama-de-causa-e-efeito/. Último acesso em 03/02/2022
+> [1] ISHIKAWA, Kaoru. Controle de Qualidade Total. 6. ed. Rio de Janeiro, Campus Editora, 1998.<br>
+> [2]  ANDRADE, Luiza. Diagrama de Ishikawa: o que é e como fazer. Siteware, 2017. Disponível em: https://www.siteware.com.br/blog/metodologias/diagrama-de-ishikawa/. Acesso em: 3 de Fevereiro de 2022.<br>
+> [3]  SILVEIRA, Cristiano Bertulucci.Diagrama de Ishikawa, Causa e Efeito ou Espinha de Peixe. Citisystems, 2012. Disponível em: https://www.citisystems.com.br/diagrama-de-ishikawa/. Acesso em: 03/02/2022.<br>
+> [4]  "O que são os 6M no diagrama de causa e efeito?": https://radardeprojetos.com.br/o-que-sao-os-6m-no-diagrama-de-causa-e-efeito/. Último acesso em 03/02/2022
 
