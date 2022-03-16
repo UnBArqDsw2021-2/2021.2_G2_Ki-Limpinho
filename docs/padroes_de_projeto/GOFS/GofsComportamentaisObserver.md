@@ -47,3 +47,13 @@ Entre os principais GoFs comportamentais temos o Observer, que consiste em defin
 <h6>Figura 2: Exemplo de imagem sobre Observer.</h6>
 <h6>Fonte: Padrões de Projetos.</h6>
 </center>
+
+## Referências
+
+> [1] Arquitetura e Desenho de Software AULA - GOFS COMPORTAMENTAIS Profa. Milene Serrano
+
+> [2] Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Observer>. Acesso em: 16 mar. 2022.
+
+>‌ [3] Refactoring Guru. **Observer**. Disponível em: <https://refactoring.guru/design-patterns/observer>. Acesso em: 16 mar. 2022.
+
+> [4] Wikipédia. Disponível em: <https://en.wikipedia.org/wiki/Observer_pattern>. Acesso em: 16 mar. 2022.
