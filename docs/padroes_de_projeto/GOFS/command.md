@@ -21,9 +21,17 @@ O padrão de comando encapsula ações como objetos. Nesse padrão temos uma uma
 
 ### Metodologia
 
-<p align="justify">&emsp;&emsp; 
-    O documento foi construido baseado na 
+<p>
+    No pattern command, o cliente que cria um comando não é o mesmo cliente que o executa. 
 </p>
+
+<p>Os passos para aplicar o pattern command são:</p>
+
+<li>Defina uma interface Command com uma assinatura de método como execute()</li>
+<li>Crie uma ou mais classes derivadas que encapsulam algum subconjunto do seguinte: um objeto "receptor", o método a ser invocado, os argumentos a serem transmitidos</li>
+<li>Instancie um objeto Command para cada solicitação de execução adiada</li>
+<li>Passe o objeto Command do criador (também conhecido como remetente) para o invocador (também conhecido como receptor)</li>
+<li>O invocador decide quando executar()</li>
 
 ### Resultados
 
@@ -61,5 +69,7 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
 > [1] WIKIPEDIA CONTRIBUTORS. Command pattern. Disponível em: <https://en.wikipedia.org/wiki/Command_pattern>. Acesso em: 15 mar. 2022.
 
 > [2] AND, A. Learning Python Design Patterns - Second Edition. Disponível em: <https://www.oreilly.com/library/view/learning-python-design/9781785888038/ch07s04.html>. Acesso em: 16 mar. 2022.
+
+> [3] Design Patterns and Refactoring. Disponível em: <https://sourcemaking.com/design_patterns/command>. Acesso em: 16 mar. 2022.
 
 ‌
