@@ -45,6 +45,17 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
     </figcaption>
 </p>
 
+<strong>Pros do pattern Command </strong>
+
+<li> dissocia o objeto que invoca a operação daquele que sabe realizá-la</li>
+<li>ajuda na extensibilidade, pois podemos adicionar um novo comando sem alterar o código existente</li>
+<li>permite que você crie uma sequência de comandos chamada macro. Para executar a macro, crie uma lista de instâncias de Comando e chame o método execute de todos os comandos.</li>
+<li>Capacidade de desfazer/refazer facilmente</li>
+
+<strong>Contras do pattern Command </strong>
+
+<li>aumento no número de classes para cada comando individual</li>
+
 ## Referências
 
 > [1] WIKIPEDIA CONTRIBUTORS. Command pattern. Disponível em: <https://en.wikipedia.org/wiki/Command_pattern>. Acesso em: 15 mar. 2022.
