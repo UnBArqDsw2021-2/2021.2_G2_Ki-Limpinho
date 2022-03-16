@@ -22,3 +22,12 @@ Entre os principais GoFs criacionais temos o Prototype,é um padrão de design c
 
 </p>
 
+### Metodologia
+
+<p>
+    O Prototype faz a criação de novos objetos, mas ao invés de criar objetos com valores não inicializados, ele cria objetos através da cópia dos valores de um protótipo. 
+</p>
+
+<p>
+    Esse padrão nos permitirá copiar objetos existentes sem que essa parte do código tenha dependência em classes. Quando quisermos criar um objeto igual, não precisamos acionar essas classes, basta fazer a exata cópia do objeto já criado.
+</p>
