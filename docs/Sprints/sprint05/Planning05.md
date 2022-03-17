@@ -48,6 +48,5 @@
 
 ## 6. Gravação:
 
-<iframe width="953" height="536" src="https://youtu.be/Yf8W6svX7pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="921" height="518" src="https://www.youtube.com/embed/taTVd90PMa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
