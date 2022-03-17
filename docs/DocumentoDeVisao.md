@@ -1,17 +1,22 @@
 # <center> Documento de visão
 
-### Histórico de revisão
+## Histórico de Versão<br>
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 29.01.2022 | 1.0.0 | Criação e elaboração do documento |  Nilvan Júnior |
-| 31.01.2022 | 1.0.1 | Correção de alguns erros |  Nilvan Júnior |
-| 04.02.2022 | 1.0.2 | Correção do sumário |  Nilvan Júnior |
-| 04.02.2022 | 1.0.3 | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 04.02.2022 | 1.0.3 | Revisão PR, primeira entrega | Nilvan Júnior |
+| 29.01.2022 | 1.0.0 | Criação e elaboração do documento |  [Nilvan Peres](https://github.com/NilvanPeres) |
+| 31.01.2022 | 1.0.1 | Correção de alguns erros |  [Nilvan Peres](https://github.com/NilvanPeres) |
+| 04.02.2022 | 1.0.2 | Correção do sumário |  [Nilvan Peres](https://github.com/NilvanPeres) |
+| 04.02.2022 | 1.0.3 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 04.02.2022 | 1.0.3 | Revisão PR, primeira entrega | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 11.03.2022 | 1.1.0 | Padronizar estrutura | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-## 1 - Introdução 
+## Participantes
 
-### 1.1 - Propósito
+* [Nilvan Peres](https://github.com/NilvanPeres)
+
+##  Introdução 
+
+### Propósito
 
 <p align="justify">&emsp;&emsp;
   Esse documento tem como principal objetivo principal fornecer uma visão geral sobre o projeto que será desenvolvido, o escopo que está inserido e a finalidade do produto. Aos fatos, também é esperado que ao final dessa leitura estejam claros as principais características e requisitos de nossa aplicação web, entendimento do problema que buscamos resolver, expecativas em relação ao que será desenvolvido, e alguns mecanismos para reduzir riscos que possam afetar a entrega do produto. [1]
@@ -22,13 +27,13 @@
 </p>
 
 
-### 1.2 - Escopo
+### Escopo
 
 <p align="justify">&emsp;&emsp;
   Esse projeto tem como principal objetivo a elaboração de uma aplicação web, que será utilizada por gerentes de algum lava-jato e atender a uma possível clientela da lava-jato em questão. Visando permitir mais flexibilidade para os clientes marcarem os serviços na melhor data e avaliarem a qualidade do serviço prestado, além de facilitar o gerenciamento dos proprietários a partir de dashboards.
 </p>
 
-### 1.3 - Definições, acrônomos e Abreviações
+### Definições, acrônomos e Abreviações
 
 <p align="justify">&emsp;&emsp;
   <ul> 
@@ -42,21 +47,9 @@
 </p>
 
 
-### 1.4 - Referências
-
-<p align="justify">&emsp;&emsp;
-
-  <ul>
-    <li> [1] - IBM Knowlege Center - Documento de visão. Disponível em: < <a href="https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document" >https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document </a> >.Acesso em: 29 jan. 2022; </li>
-    <li> [2] - IBGE - Frota de veículos. Disponível em: < <a href="https://cidades.ibge.gov.br/brasil/pesquisa/22/28120">https://cidades.ibge.gov.br/brasil/pesquisa/22/28120</a> >.Acesso em: 29 jan. 2022</li>
-    <li> [3] - GrLavaJato - Principais funcionalidades: Disponível em: < <a href="https://www.grlavajato.com.br/">https://www.grlavajato.com.br</a> >. Acesso em 29 jan. 2002</li>
-    <li> Hortum - Documento de Visão. Disponível em: < <a href="https://fga-eps-mds.github.io/2020.2-Hortum/Documento_de_visao/">https://fga-eps-mds.github.io/2020.2-Hortum/Documento_de_visao/</a> >. Acesso em: 29 jan. 2022
-  </ul>
-
-</p>
 
 
-### 1.5 - Visão Geral
+### Visão Geral
 
 <p align="justify">&emsp;&emsp;
   Este documento é consituído em seis tópicos que destrincham as principais características e fornecem uma ideia geral de como será o planejamento de construção do produto.
@@ -70,9 +63,9 @@
   </ul>
 </p>
 
-## 2 - Posicionamento
+## Posicionamento
 
-### 2.1 - Oportunidade de negócios 
+### Oportunidade de negócios 
 
 <p align="justify">&emsp;&emsp;
   A tecnologia está presente em praticamente todos os setores de nossa economia, e um fato que não se discute é: empresa que não se moderniza fica para trás. Vale ressaltar que, o número da frota de veículos do Brasil é equivalente a metade da população, dessa forma é um nicho que se bem explorado, pode ser bem rentável e acaba abrindo a possibilidade para expansões do negócio. [2]
@@ -85,7 +78,7 @@
 </p>
 
 
-### 2.2 - Descrição do problema
+### Descrição do problema
 
 | O problema é  | quem afeta | cujo impacta  | possível solução  |
 | :- | :- | :- | :- |
@@ -102,30 +95,30 @@
 </p>
 
 
-### 2.3 - Descrição de posição de produto
+### Descrição de posição de produto
 
 <p align="justify">&emsp;&emsp;
   O produto final é uma aplicação web que servirá <b>para</b> auxiliar gerentes e clientes de lava-jatos, para que, tenham um acesso de forma virtual. O <b>Ki-limpinho</b> veio para auxiliar o ramo de lava-jatos, ferramentas como dashboards, sistema de feedback, agendamento e pagamento de serviço, e permitirão uma melhor conexão da lava-jato com os clientes. Aplicações como o "Meu Lava Jato" e "Gr lavajato", buscam oferecer um gerenciamento de entrada e saída de carros, assim como cadastro de clientes, e agendamento de serviços, status de serviço,e orçamentos de serviços. Apesar do segundo ser bem completo, o que estamos propondo é algo mais focado no cliente, e funcionalidades essenciais para os gerentes como mostrar KR's a partir de dashboards para facilitar leitura dos dados, facilitando traçar um plano de ação. Além de permitir que proprietários automotivos possam utilizar a aplicação, para que não tenham que ficar horas na fila, e consigam avaliar qualidade do serviço prestado, também acreditamos que o sistema de fidelização em conjunto com o cadastro de promoções será um grande diferencial para retenção de clientes. [3]
 </p>
 
 
-## 3 - Descrições da parte interessada e do usuário
+## Descrições da parte interessada e do usuário
 
-### 3.1 - Resumo dos envolvidos
+### Resumo dos envolvidos
 | Nome  | Descrição | Responsabilidades |
 | :- | :- | :-  |
 | Equipe de desenvolvimento do Software | Estudantes da disciplina ArqDSW (Arquitetura e Desenho de Software). | Desenvolvimento seguindo padrões de qualidades, testes, documentação geral e específica da arquitetura do produto e implementações do Software. |
 | Avaliadores  | Professora na Universidade de Brasília, atual resposável pela disciplina de ArqDSW. | Avaliar e auxiliar os estudantes nas etapas de previstas na disciplina. |
 
-### 3.2 - Resumo dos usuários
+### Resumo dos usuários
 | Nome  | Descrição |
 | :- | :- |
 | Gerente | Proprietários ou gerentes de lava-jatos interessados na otimização de monitoramento do negócio. | Validação informal. |
 | Proprietários de veículos | Pessoas interessadas em consumir os serviços ofertados em um lava-jato.  | Validação informal. | 
 
-### 3.3 - Perfis dos envolvidos  
+### Perfis dos envolvidos  
 
-#### 3.3.1 - Equipe de desenvolvimento de software 
+#### Equipe de desenvolvimento de software 
 | Representantes | Davi Matheus, Nilvan Peres, Natanael Fernandes, Lucas Ferraz, Henrique Amorim, Jonathan Jorge, Yuri Alves, Lucas Melo, Peniel Etèmana e Caio Martins. |
 | :--- | :-------- |  
 | Descrição | Estudantes do curso de Engenharia de Software da FGA. |
@@ -134,7 +127,7 @@
 | Envolvimento | Alto. |
 | Problemas/Comentários | Organizar horários para dez integrantes, seguir prazo de entregas, sobrecarga em algum membro do projeto.|
 
-#### 3.3.2 - Avaliadores
+#### Avaliadores
 | Representantes | Professora Milene Serrano | 
 | :--- | :-------- |  
 | Descrição | Professora da disciplina ArqDSW. |  
@@ -143,9 +136,9 @@
 | Envolvimento | Médio. |
 | Problemas/Comentários | Penalização de integrantes que não estão auxiliando a equipe, tornando o processo mais árduo e possivelmente sobrecarregando outros membros. |
 
-### 3.4 - Perfis dos usuários  
+### Perfis dos usuários  
 
-#### 3.4.1 - Gerente
+#### Gerente
 | Representante | Gerente. |
 | :--- | :-------- |  
 | Descrição | Gerente de algum lava-jato em busca de uma ferramenta o auxiliar a otimizar seu serviço. |
@@ -154,7 +147,7 @@
 | Envolvimento | Alto. |
 | Problemas/Comentários | Não possuir muito conhecimento com aplicações web.|
 
-#### 3.4.1 - Proprietário automotivo
+#### Proprietário automotivo
 | Representante | Proprietário automotivo.  |
 | :--- | :-------- |  
 | Descrição | Proprietário automotivo interessados em serviços de um lava-jato.   |
@@ -163,13 +156,13 @@
 | Envolvimento | Alto. |
 | Problemas/Comentários | Não possuir muito conhecimento com aplicações web.|
 
-### 3.5 - Ambiente dos usuários
+### Ambiente dos usuários
 
 <p align="justify">&emsp;&emsp;
   Os usuários poderão utilizar a plataforma a partir de computador ou celular por meio de uma página web.
 </p>
 
-### 3.6 - Alternativas e concorrências
+### Alternativas e concorrências
 
 <p align="justify">&emsp;&emsp;
   GrLavaJato: Focada bastante no serviço de análise e gerenciamento do lava-jato. Os mesmos, dividiram a aplicação em 4 grandes módulos: serviços, clientes, depesas e indicadores. Entrega funcionalidades interessantes para o gerente, mas não há um espaço onde os clientes possam marcar/visualizar os serviços disponíveis, ou deixar algum tipo de feedback, acreditamos que possamos nos destacar aqui, explorando a conexão entre plataforma e cliente.
@@ -179,20 +172,20 @@
 </p>
 
 
-## 4 - Visão geral do produto
+## Visão geral do produto
 
-### 4.1 - Perspectiva do produto
+### Perspectiva do produto
 <p align="justify">&emsp;&emsp;
   A aplicação web <b>Ki Limpinho</b> busca atender dois públicos essenciais para o lava-jato, os gerentes, e seus clientes. Para o gerente permitirá maior monitoramento sobre os serviços que estão sendo prestados, além de dashboards que ajudarão a acompanhar o fluxo de caixa do negócio. Para os proprietário automotivos buscará fornecer maior comodidade podendo escolher melhor horário e serviço, conseguir descontos, além de conseguir avaliar como foi o serviço prestado.
 </p>
 
-### 4.2 - Resumo das capacidades
+### Resumo das capacidades
 | Benefício  |  Recursos de suporte|
 | :--- | :-------- |  
 | Auxiliar gerentes de lava-jata com suas responsibilidades. | Aplicação web de fácil usabilidade, onde será possível acompanhar fluxo de caixa a partir de gráficos, analisar quantidade de serviços contratados, visualizar feedbacks de clientes e cadastrar promoções.|
 | Auxiliar proprietários de carro a contratarem serviços de lava-jato. | Aplicação web com interface intuitiva, onde será possível listar os serviços prestados, escolher uma data e horário para o tipo de lavagem escolhida, contratar, avaliação de serviço prestado.  |
 
-### 4.3 - Suposições e dependências
+### Suposições e dependências
 <p align="justify">&emsp;&emsp;
   <ul> 
     <li>O usuário deverá ter computador/celular e uma conexão estável com a internet.</li>
@@ -201,9 +194,9 @@
   </ul>
 </p>
 
-## 5- Recursos do produto
+## Recursos do produto
 
-### 5.1 Recursos do Gerente
+### Recursos do Gerente
 <p align="justify">&emsp;&emsp;
   <ul> 
     <li>Cadastro na plataforma.</li>
@@ -215,7 +208,7 @@
   </ul>
 </p>
 
-### 5.2 Recursos do Proprietário do carro
+### Recursos do Proprietário do carro
 <p align="justify">&emsp;&emsp;
   <ul> 
     <li>Cadastro na plataforma.</li>
@@ -226,31 +219,39 @@
   </ul>
 </p>
 
-## 6 - Restrições
+## Restrições
 
-### 6.1 - Restrições de design
+### Restrições de design
 <p align="justify">&emsp;&emsp;
   O design será elegante e simples, proporcional ao tempo de trabalho estimado (12 semanas), buscando atender, prioritariamente, as essencialidades do projeto. De forma que a aplicação seja intuitiva e de uso fácil e autoexplicativo.
 </p>
 
-### 6.2 - Restrições de implementação
+### Restrições de implementação
 
 <p align="justify">&emsp;&emsp;
   O sistema será desenvolvido fazendo-se uso da linguagen Javascript, utilizando NodeJS para o back-end. E o framework escolhido para o front-end será o ReactJS.
 </p>
 
 
-### 6.3 - Restrições de segurança
+### Restrições de segurança
 
 <p align="justify">&emsp;&emsp;
 É assegurado tanto ao gerente quanto ao cliente total sigilo de suas informações pessoais.
 </p>
 
 
-### 6.4 - Restrições de uso
+### Restrições de uso
 <p align="justify">&emsp;&emsp;
   Faz-se necessário o acesso à internet pelo usuário, e o navegador escolhido deve ser capaz de suportar o sistema. Caso contrário, o usuário não conseguirá utilizar a plataforma e terá uma experiência desagradável pelos possíveis erros de compatabilidade que podem ocorrer.
 </p>
 
 
 
+## Referências
+> [1] - IBM Knowlege Center - Documento de visão. Disponível em: <https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document>. Acesso em: 29 jan. 2022; 
+
+> [2] - IBGE - Frota de veículos. Disponível em: <https://cidades.ibge.gov.br/brasil/pesquisa/22/28120>.Acesso em: 29 jan. 2022;
+
+> [3] - GrLavaJato - Principais funcionalidades: Disponível em: <https://www.grlavajato.com.br>. Acesso em 29 jan. 2002;
+
+> [4] Hortum - Documento de Visão. Disponível em: <https://fga-eps-mds.github.io/2020.2-Hortum/Documento_de_visao/> Acesso em: 29 jan. 2022
