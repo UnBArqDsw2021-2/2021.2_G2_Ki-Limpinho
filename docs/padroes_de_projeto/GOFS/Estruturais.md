@@ -1,3 +1,9 @@
+### Histórico de Versão<br>
+
+| Data | Versão | Descrição | Autor(es)|
+| -- | -- | -- | -- |
+| 18.03.2022 | 0.1 | Criação do documento | Lucas Lima |
+
 ## Bridge
 O padrão Bridge é mais um dos vinte e três padrões descritos no livro “Design Patterns: Elements of Reusable Object-Oriented Software“ e é muito utilizado quando se deseja separar abstração de implementação justamente porque lida diretamente com a estrutura com que as interfaces e classes são elaboradas. Essa característica peculiar o elevou a ser considerado como um padrão estrutural e tornou possível sua aplicação em pontes de conexão com Banco de Dados.
 Por ser um padrão de projeto estrutural é possível que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas: Abstração e Implementação que podem ser desenvolvidas independentemente umas das outras.
@@ -12,3 +18,6 @@ Camada de que terá a responsabilidade de implementar um comportamento específi
 
 ## Bibliografia
 > - LARMAN, Craig. Utilizando UML e Padrões: Uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. [S. l.: s. n.], 2004.
+> - Source Making. 2019. Design patterns. [ONLINE] Available at: https://sourcemaking.com/design_patterns/. Último acesso em 18/03/2022.
+> - Padrões de projeto comportamentais: https://refactoring.guru/pt-br/design-patterns/behavioral-patterns. Último acesso em 18/03/2022.
+> - GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design Patterns: Elements of Reusable Object-Oriented Software. Estados Unidos: Hardback, 1995. 416 p. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.
