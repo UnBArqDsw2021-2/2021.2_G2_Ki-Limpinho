@@ -129,7 +129,7 @@ nav:
           - Protótipo Alta Fidelidade: 'prototipagem/prototipoAlta.md'
   - Desenho de Software(Padrões de Projeto):
       - GRASP:
-          -Criador: 'padroesDeProjeto/Criador.md'
+          -Criador: 'padroes_de_projeto/GRASPS/Criador.md'
   - Sprints:
       - Sprint 1:
           - Planning: 'Sprints/sprint01/Planning.md'
