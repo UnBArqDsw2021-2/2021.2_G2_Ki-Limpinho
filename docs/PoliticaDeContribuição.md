@@ -1,19 +1,20 @@
 # <center> Política de Contribuição
 
-### Histórico de revisão
+## Histórico de Versão<br>
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 02/02/2022 | 1.0.0 | Criação e elaboração do documento | Davi Matheus |
-| 04.02.2022 | 1.0.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
-| 04.02.2022 | 1.0.2 | Mudança de política de commit | Nilvan Peres |
-| 20.02.2022 | 1.0.3 | Adição de política de issues e de documentos | Nilvan Peres |
-| 20.02.2022 | 1.0.4 | Review pull request| Caio Martins |
+| 02.02.2022 | 1.0.0 | Criação e elaboração do documento | [Davi matheus](https://github.com/DaviMatheus) |
+| 04.02.2022 | 1.0.1 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 04.02.2022 | 1.0.2 | Mudança de política de commit | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 20.02.2022 | 1.0.3 | Adição de política de issues e de documentos | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 20.02.2022 | 1.0.4 | Review pull request| [Caio Martins](https://github.com/linktocaio) |
+| 11.03.2022 | 1.0.5 | Padronizar estrutura e adicionar rastreabilidade nos autores | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-## 1. Introdução
+## Introdução
 
 O principal intuito desse documento é elucidar o processo e as práticas que devem ser seguidas para a **criação de issues**, **criação de branches** e de **criação de commits**, e **padronização dos nomes** dos documentos.
 
-## 2. Políticas para criação de issues
+## Políticas para criação de issues
 
 A criação de issues deverá ser feita a partir do seguinte template:
 
@@ -40,7 +41,7 @@ As labels da issues também são essenciais para facilitar a filtragem delas, no
 - tests
   
 
-## 3. Políticas de Branch
+## Políticas de Branch
 
 Para a criação de branches, deve ser seguido as seguintes políticas abaixo.
 
@@ -103,7 +104,7 @@ Observações: O título da issue utilizado no nome das branches deve ser mantid
 
   ![](https://miro.medium.com/max/640/0*FTwKYpFGADX-5Y0O)
 
-## 4. Políticas de Commits
+## Políticas de Commits
 Os commits deve seguir a seguinte estrutura: 
 
 - categoria: nome do commit #issueID.
@@ -121,7 +122,7 @@ Categorias:
 - _**test**_: Adição/modifição de um teste.
 - _**refactor**_: Refatoração do código.
 
-## 5. Criação de documentos
+## Criação de documentos
 Os documentos deverão ser criados seguindo o arquivo template.md que pode ser encontrado no repositório, o documento consiste nos seguintes tópicos:
 
 - Introdução: Onde deverá ter uma breve descrição explicando sobre o que é artefato que será desenvolvido.
@@ -132,7 +133,7 @@ Os documentos deverão ser criados seguindo o arquivo template.md que pode ser e
 Regras de nomenclatura para nomear os documentos: CamelCase
 Ex: EspecificacaoSuplementar
 
-## 6. Referências
+## Referências
 
 > [1] [Git-flow Applied to a Real Project](https://medium.com/empathyco/git-flow-applied-to-a-real-project-c08037e28f88)
 

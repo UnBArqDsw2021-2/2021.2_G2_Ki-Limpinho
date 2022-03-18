@@ -1,37 +1,38 @@
 # <center> Product Backlog
 
-### Histórico de Versão
+## Histórico de Versão<br>
 
 |    Data    | Versão |                             Descrição                              |        Autor(es)        |
 | :--------: | :----: | :----------------------------------------------------------------: | :---------------------: |
-| 30.01.2022 |  0.1   |               Criação do documento e versão inicial                |      Henrique Melo      |
-| 30.01.2022 |  0.2   |             Continuação do doumento e Criação Épico-2              |      Davi Matheus       |
-| 30.01.2022 |  0.2   |                          Criação Épico-3                           |     Natanael Filho      |
-| 31.01.2022 |  0.3   |           Criação Épicos 4,5,6,7 e adição de coluna tema           |      Nilvan Peres       |
-| 31.01.2022 |  0.4   | Adição dos tópicos introdução, metodologia, resultados e conclusão |      Nilvan Peres       |
-| 03.02.2022 |  0.5   |                     Refatoração dos requisitos                     | Lucas Lima e Lucas Melo |
-| 04.02.2022 | 0.5.1  |         Revisão e correção do documento, primeira entrega          |     Natanael Filho      |
-| 04.02.2022 | 0.5.2  |    Correção PR, primeira entrega (correção de links quebrados)     |       Nilvan Peres      |
-| 11.02.2022 |  0.6   |           Adição da coluna rastreabilidade em resutados            |      Caio Martins       |
-| 19.02.2022 |  0.7   |           Adição da coluna de Tasks dos epicos 1 e 2               |        Davi Matheus     |
-| 20.02.2022 |  0.7.1 |           Adição da coluna de Tasks dos epicos 3, 4 e 5            |        Davi Matheus     |
-| 20.02.2022 |  0.7.2 |           Revisão e conclusão das Tasks                            |        Davi Matheus     |
-| 20.02.2022 |  0.7.2.1 |           Revisão do documento para PR                           |        Natanael Filho   |
-| 20.02.2022 |  0.7.2.2 |           Correção navegabilidade                                |        Nilvan Peres     |
+| 30.01.2022 |  0.1   |               Criação do documento e versão inicial                |      [Henrique Amorim](https://github.com/HenriqueAmorim20)      |
+| 30.01.2022 |  0.2   |             Continuação do doumento e Criação Épico-2              |      [Davi matheus](https://github.com/DaviMatheus)      |
+| 30.01.2022 |  0.2   |                          Criação Épico-3                           |    [Natanael Filho](https://github.com/fernandes-natanael)      |
+| 31.01.2022 |  0.3   |           Criação Épicos 4,5,6,7 e adição de coluna tema           |      [Nilvan Peres](https://github.com/NilvanPeres)       |
+| 31.01.2022 |  0.4   | Adição dos tópicos introdução, metodologia, resultados e conclusão |      [Nilvan Peres](https://github.com/NilvanPeres)       |
+| 03.02.2022 |  0.5   |                     Refatoração dos requisitos                     | [Lucas Lima](https://github.com/mibasFerraz) e [Lucas Melo](https://github.com/luucas-melo) |
+| 04.02.2022 | 0.5.1  |         Revisão e correção do documento, primeira entrega          |    [Natanael Filho](https://github.com/fernandes-natanael)      |
+| 04.02.2022 | 0.5.2  |    Correção PR, primeira entrega (correção de links quebrados)     |       [Nilvan Peres](https://github.com/NilvanPeres)      |
+| 11.02.2022 |  0.6   |           Adição da coluna rastreabilidade em resutados            |      [Caio Martins](https://github.com/linktocaio)       |
+| 19.02.2022 |  0.7   |           Adição da coluna de Tasks dos epicos 1 e 2               |        [Davi matheus](https://github.com/DaviMatheus)    |
+| 20.02.2022 |  0.7.1 |           Adição da coluna de Tasks dos epicos 3, 4 e 5            |        [Davi matheus](https://github.com/DaviMatheus)    |
+| 20.02.2022 |  0.7.2 |           Revisão e conclusão das Tasks                            |        [Davi matheus](https://github.com/DaviMatheus)    |
+| 20.02.2022 |  0.7.2.1 |           Revisão do documento para PR                           |       [Natanael Filho](https://github.com/fernandes-natanael)   |
+| 20.02.2022 |  0.7.2.2 |           Correção navegabilidade                                |        [Nilvan Peres](https://github.com/NilvanPeres)     |
+| 11.03.2022 | 0.7.3 | Padronizar estrutura | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-### Responsáveis pelo documento
+## Participantes
 
--   Nilvan Peres
--   Davi Matheus
--   Henrique
+* [Nilvan Peres](https://github.com/NilvanPeres)
+* [Davi matheus](https://github.com/DaviMatheus)
+* [Henrique Amorim](https://github.com/HenriqueAmorim20)
 
-## 1. Introdução
+##  Introdução
 
 <p align="justify">&emsp;&emsp;
     O product backlog é uma das ferramentas essenciais da metologia Scrum, e consiste em uma lista priorizada, contendo todas as funcionalidades/comportamentos desejados para determinada aplicação. Vale ressaltar que, o product backlog está em constante mudanças, com o decorrer do desenvolvimento do projeto entendimento sobre o domínio é aprofundado, prioridades são alteradas, novas demandas surgem, ou outros comportamentos podem ser descartados, é de suma importância ter o product backlog atualizado para ter uma organização mais otimizada sobre o projeto.[1]
 </p>
 
-## 2. Metodologia
+## Metodologia
 
 <p align="justify">&emsp;&emsp;
     O artefato foi desenvolvido ao longo da sprint 01 e 02, e deverá sofrer alterações ao longo do projeto. A lista de requisitos foram extraídas a partir das seguintes técnicas de elicitações:
@@ -54,7 +55,7 @@
     </ul>
 </p>
 
-## 3. Resultados
+##  Resultados
 
 <style>
     table {
@@ -455,7 +456,7 @@
     </tbody>
 </table>
 
-## 4. Referências
+## Referências
 
 > [1] Atlassian - Product Backlog. Disponível em : <https://www.atlassian.com/agile/scrum/backlogs>. Acesso em: 02 de fev. de 2022.
 
