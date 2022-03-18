@@ -1,20 +1,22 @@
 # <center> GRASP Criador
 
-### Histórico de versão<br>
+## Histórico de versão<br>
 
 | Data       | Versão | Descrição            | Autor(es)                    |
 | ---------- | ------ | -------------------- | ---------------------------- |
 | 12.03.2022 | 0.1    | Criação do documento | [Lucas Melo](https://github.com/luucas-melo)<br>[Nilvan Peres](https://github.com/NilvanPeres) |
+| 18.03.2022 | 0.1.1   | Revisão do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-### Participantes
+
+## Participantes
 
 - [Lucas Melo](https://github.com/luucas-melo)
 - [Nilvan Peres](https://github.com/NilvanPeres)
 
-### Introdução
+## Introdução
 
 <p align="justify">&emsp;&emsp;
-    Creator ou Criador é um dos padrões de Projeto GRASP, que assim como os outros tentam atribuir responsabilidades, papéis e colaborações. A criação de desenho de software desse padrão foca em identificar os responsáveis ideais para criação de objetos. Essa atribuição de obrigações de criação de objetos é de extrema importância para a modelagem do domínio, pois permite que a construção do software reduza acomplamentos desnecessários, além de facilitar o encapsulameno e reutilização do software. [2]
+    Creator ou Criador é um dos padrões de Projeto GRASP, que assim como os outros tentam atribuir responsabilidades, papéis e colaborações. A criação de desenho de software desse padrão foca em identificar os responsáveis ideais para criação de objetos. Essa atribuição de obrigações de criação de objetos é de extrema importância para a modelagem do domínio, pois permite que a construção do software reduza acomplamentos desnecessários, além de facilitar o encapsulamento e reutilização do software. [2]
 </p>
 
 <p align="justify">&emsp;&emsp;
@@ -30,9 +32,10 @@
 
 
 
-### Referências
+## Referências
 
 > [1] GRASP: Designing Objetos com Responsabilidades. [s.l: s.n.]. Disponível em: <https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar16GRASP.pdf>. Acesso em: 13 mar. 2022.
+
 > [2] SERRANO, Milene. Módulo de padrões de projeto GRASPs. 07a -VídeoAula - GRASP Criador.  Disponível em: <https://aprender3.unb.br/course/view.php?id=11018&section=4>. Acesso em: 15 mar. 2022.
 
 ‌
