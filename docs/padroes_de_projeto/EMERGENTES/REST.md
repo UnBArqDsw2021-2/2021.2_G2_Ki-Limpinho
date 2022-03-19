@@ -1,4 +1,4 @@
-# <center> Design Sprint
+# <center> REST
 
 ## Histórico de Versão<br>
 
