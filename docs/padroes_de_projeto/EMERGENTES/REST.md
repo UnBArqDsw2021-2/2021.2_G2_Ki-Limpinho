@@ -77,11 +77,13 @@ Cada resposta que uma aplicação REST retorna, é enviado um código definindo 
 - 200 (OK), requisição atendida com sucesso;
 - 201 (CREATED), objeto ou recurso criado com sucesso;
 - 204 (NO CONTENT), objeto ou recurso deletado com sucesso;
-- 400 (BAD REQUEST), ocorreu algum erro na requisição (podem existir inumeras causas);
+- 400 (BAD REQUEST), ocorreu algum erro na requisição (podem existir inúmeras causas);
 - 404 (NOT FOUND), rota ou coleção não encontrada;
 - 500 (INTERNAL SERVER ERROR), ocorreu algum erro no servidor.
 
+<p align="justify">&emsp;&emsp;
 Segue uma lista de métodos HTTP com suas respectivas operações :
+</p>
 
 - POST: O método POST é utilizado para submeter uma entidade a um recurso específico, frequentemente causando uma mudança no estado do recurso ou efeitos colaterais no servidor.
 - GET: O método GET solicita a representação de um recurso específico. Requisições utilizando o método GET devem retornar apenas dados.
@@ -89,15 +91,50 @@ Segue uma lista de métodos HTTP com suas respectivas operações :
 - PUT: O método PUT substitui todas as atuais representações do recurso de destino pela carga de dados da requisição.
 - DELETE: O método DELETE remove um recurso específico.
 
+<p align="justify">&emsp;&emsp;
+Usualmente usa-se o método PUT para atualizar parte de um recurso ao invés do PATCH.
+</p>
 
-#### Aplicação
+### Aplicação
 
+<p align="justify">&emsp;&emsp;
+Segue um exemplo da aplicação do REST no Back-end do Ki-limpinho, feita com Node.Js, onde pode ser visualizado a disponibilização dos principais métodos HTTP utilizados para manipulação de dados do usuário.
+</p>
 
+```javascript
+const express = require('express');
+const validate = require('express-validation');
+const paramValidation = require('../../config/param-validation');
+const userCtrl = require('./user.controller');
 
+const router = express.Router(); // eslint-disable-line new-cap
+
+router.route('/')
+  /** GET /api/users - Get list of users */
+  .get(userCtrl.list)
+
+  /** POST /api/users - Create new user */
+  .post(validate(paramValidation.createUser), userCtrl.create);
+
+router.route('/:userId')
+  /** GET /api/users/:userId - Get user */
+  .get(userCtrl.get)
+
+  /** PUT /api/users/:userId - Update user */
+  .put(validate(paramValidation.updateUser), userCtrl.update)
+
+  /** DELETE /api/users/:userId - Delete user */
+  .delete(userCtrl.remove);
+
+/** Load user when API with userId route parameter is hit */
+router.param('userId', userCtrl.load);
+
+module.exports = router;
+```
 
 ## Conclusão
 
- Com esse documento podemos ter uma visão geral sobre o REST e como ele é aplicado no nosso projeto. Evidenciando sua importância para a aplicação.
+ Com esse documento podemos ter uma visão geral sobre o REST e como ele é aplicado no backend do  projeto. Evidenciando sua importância para a aplicação.
 
 ## Referências
 
@@ -111,3 +148,5 @@ Software Architectures. Tese (Doutorado), 2000. AAI9980887.
 > [4] MDN contributors. Métodos de requisição HTTP. 14 jul. de 2021. Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods> Acesso em: 18 mar. 2022
 
 > [5] Introdução a web services RESTful. Disponível em: <https://www.devmedia.com.br/introducao-a-web-services-wwwrestful/37387> Acesso em: 18 mar. 2022.
+
+> [6] Backend Ki-limpinho. Disponível em: <https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho_Backend/blob/main/server/user/user.route.js> Acesso em: 18 mar. 2022.
