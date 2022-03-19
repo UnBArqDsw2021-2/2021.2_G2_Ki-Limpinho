@@ -109,50 +109,52 @@ nav:
           - Ata 18/01/2022: 'Atas/ATA_18_01_2022.md'
           - Ata 24/01/2022: 'Atas/ATA_24_01_2022.md'
   - Desenho de Software(Modelagem):
-    - Módulo Projeto Orientado a Abordagens Tradicionais:
-      - Módulo Notação UML - Diagramas Estáticos:
-        - Diagrama de Pacotes: "DiagramaDePacotes.md"
-        - Diagrama de Classes: "DiagramaDeClasses.md"
-        - Diagrama de Implementação: "modelagem/diagramas/DiagramaDeImplementacao.md"
-        - Diagrama de Componentes: "DiagramaDeComponentes.md"
-      - Módulo Notação UML - Diagramas Dinâmicos:
-        - Diagrama de Estado: "DiagramaDeEstado.md"
-        - Diagrama de Atividades: "DiagramaDeAtividades.md"
-        - Diagrama de Sequencia: "DiagramaDeSequencia.md"
-        - Diagrama de Comunicação: "diagramaDeComunicacao.md"
-      - Modelagem Ágil:
-        - Priorização - MOSCOW : "modelagem/priorizacao/Moscow.md"
-        - Backlog do Produto: "modelagem/Backlog.md"
-      - Iniciativas Extras:
-        - MER/DER/DLD: "MER.md"
-        - Diagrama de Casos de Uso: "modelagem/diagramas/DiagramaCasoUso.md"
-        - Protótipo Alta Fidelidade: "prototipagem/prototipoAlta.md"
-        - Atas de Reunião:
-          - Ata 08/02/2022: "Atas/ATA_08_02_2022.md"
+      - Módulo Projeto Orientado a Abordagens Tradicionais:
+          - Módulo Notação UML - Diagramas Estáticos:
+              - Diagrama de Pacotes: 'DiagramaDePacotes.md'
+              - Diagrama de Classes: 'DiagramaDeClasses.md'
+              - Diagrama de Implementação: 'modelagem/diagramas/DiagramaDeImplementacao.md'
+              - Diagrama de Componentes: 'DiagramaDeComponentes.md'
+          - Módulo Notação UML - Diagramas Dinâmicos:
+              - Diagrama de Estado: 'DiagramaDeEstado.md'
+              - Diagrama de Atividades: 'DiagramaDeAtividades.md'
+              - Diagrama de Sequencia: 'DiagramaDeSequencia.md'
+              - Diagrama de Comunicação: 'diagramaDeComunicacao.md'
+          - Modelagem Ágil:
+              - Priorização - MOSCOW: 'modelagem/priorizacao/Moscow.md'
+              - Backlog do Produto: 'modelagem/Backlog.md'
+          - Iniciativas Extras:
+              - MER/DER/DLD: 'MER.md'
+              - Diagrama de Casos de Uso: 'modelagem/diagramas/DiagramaCasoUso.md'
+              - Protótipo Alta Fidelidade: 'prototipagem/prototipoAlta.md'
+              - Atas de Reunião:
+                  - Ata 08/02/2022: 'Atas/ATA_08_02_2022.md'
   - Desenho de Software(Padrões de Projeto):
-    - GRASP:
-      - Alta Coesão: "padroes_de_projeto/GRASPS/AltaCoesao.md"
-      - Baixo Acomplamento: "padroes_de_projeto/GRASPS/BaixoAcoplamento.md"
-      - Controlador: "padroes_de_projeto/GRASPS/Controlador.md"
-      - Criador: 'padroes_de_projeto/GRASPS/Criador.md'
-  - Sprints: 
-    - Sprint 1:
-        - Planning: "Sprints/sprint01/Planning.md"
-        - Review: "Sprints/sprint01/Review.md"
-    - Sprint 2:
-        - Planning: "Sprints/sprint02/Planning02.md"
-        - Review: "Sprints/sprint02/Review.md"
-    - Sprint 3:
-        - Planning: "Sprints/sprint03/Planning03.md"
-        - Review: "Sprints/sprint03/Review.md"
-    - Sprint 4:
-        - Planning: "Sprints/sprint04/Planning04.md"
-        - Review: "Sprints/sprint04/Review.md"
-    - Sprint 5:
-        - Planning: "Sprints/sprint05/Planning05.md"
-        - Review: "Sprints/sprint05/Review.md"
-    - Sprint 6:
-        - Planning: "Sprints/sprint06/Planning06.md"
+      - GRASP:
+          - Alta Coesão: 'padroes_de_projeto/GRASPS/AltaCoesao.md'
+          - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
+          - Controlador: 'padroes_de_projeto/GRASPS/Controlador.md'
+          - Criador: 'padroes_de_projeto/GRASPS/Criador.md'
+      - Dojo:
+          - frontend: 'dojoNext.md'
+  - Sprints:
+      - Sprint 1:
+          - Planning: 'Sprints/sprint01/Planning.md'
+          - Review: 'Sprints/sprint01/Review.md'
+      - Sprint 2:
+          - Planning: 'Sprints/sprint02/Planning02.md'
+          - Review: 'Sprints/sprint02/Review.md'
+      - Sprint 3:
+          - Planning: 'Sprints/sprint03/Planning03.md'
+          - Review: 'Sprints/sprint03/Review.md'
+      - Sprint 4:
+          - Planning: 'Sprints/sprint04/Planning04.md'
+          - Review: 'Sprints/sprint04/Review.md'
+      - Sprint 5:
+          - Planning: 'Sprints/sprint05/Planning05.md'
+          - Review: 'Sprints/sprint05/Review.md'
+      - Sprint 6:
+          - Planning: 'Sprints/sprint06/Planning06.md'
   - Apresentações:
       - Apresentação da Entrega 1: 'apresentacoes/Entrega1.md'
       - Apresentação da Entrega 2: 'apresentacoes/Entrega2.md'
