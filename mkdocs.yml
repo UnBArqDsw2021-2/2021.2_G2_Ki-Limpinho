@@ -137,6 +137,7 @@ nav:
           - Criador: 'padroes_de_projeto/GRASPS/Criador.md'
       - Dojo:
           - frontend: 'dojoNext.md'
+          - backend: 'DojoBackend.md'
   - Sprints:
       - Sprint 1:
           - Planning: 'Sprints/sprint01/Planning.md'
