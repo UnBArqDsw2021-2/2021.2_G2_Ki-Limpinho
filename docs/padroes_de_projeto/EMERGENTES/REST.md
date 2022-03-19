@@ -20,7 +20,7 @@ REST é um acrônimo de Representational State Transfer, que significa Transfer�
 ## Metodologia
 
 <p align="justify">&emsp;&emsp;
-Foi realizado uma pesquisa bibliográfica sobre o assunto, para conceituar e para aplicação do REST no projeto foi utilizado a linguagem javascript com o framework react para o front e nodejs para o back. A identificação da localização do uso dos recursos REST foi realizada através do diagrama X.
+Foi realizado uma pesquisa bibliográfica sobre o assunto, para conceituar e para aplicação do REST no projeto foi utilizado a linguagem javascript com o framework react para o front e nodejs para o back.
 </p>
 
 ## Resultados
