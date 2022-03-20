@@ -135,8 +135,11 @@ nav:
           - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
           - Controlador: 'padroes_de_projeto/GRASPS/Controlador.md'
           - Criador: 'padroes_de_projeto/GRASPS/Criador.md'
-      - GOF's: 
+          - Especialista: 'padroes_de_projeto/GRASPS/Especialista.md'
+      - GOF's:
+          - Comportamentais: 'padroes_de_projeto/GOFS/Comportamentais.md'
           - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
+
       - Dojo:
           - frontend: 'dojoNext.md'
           - backend: 'DojoBackend.md'
