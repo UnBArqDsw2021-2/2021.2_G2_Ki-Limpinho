@@ -7,7 +7,8 @@
 | Data       | Versão | Descrição            | Autor(es)                    |
 | ---------- | ------ | -------------------- | ---------------------------- |
 | 19.03.2022 | 0.1    | Criação do documento | [Davi Matheus](https://github.com/DaviMatheus)<br>[Natanale Filho](https://github.com/fernandes-natanael) |
-| 20.03.2022 | 0.2   | Adição da Metodologia [Davi Matheus](https://github.com/DaviMatheus) |
+| 20.03.2022 | 0.2   | Adição da Metodologia | [Davi Matheus](https://github.com/DaviMatheus) |
+| 20.03.2022 | 0.2   | Correção e melhorias do documento | [Natanale Filho](https://github.com/fernandes-natanael) |
 
 
 ## Participantes
@@ -17,35 +18,28 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;
-    Especialista na informação ou apenas Expert ou Especialista é um dos princípios mais básicos dentro dos 9 GRASP’s existentes, em que é uma abordagem genérica que visa atribuir a responsabilidade de fazer ou conhecer algo, assim, basicamente o padrão de projeto Especialista se preocupa em atribuir responsabilidades para alguma entidade.
-</p>
+&emsp;&emsp;Especialista na informação, ou apenas Expert, é um dos princípios básicos dentre os 9 GRASP’s existentes, em que visa uma abordagem genérica que atribui a responsabilidade de fazer ou conhecer algo, assim, basicamente o padrão de projeto Especialista se preocupa em atribuir responsabilidades para entidade do projeto.
 
-<p align="justify">&emsp;&emsp;
-    Para essa atribuição é importante seguir um caminho objetivo em que primeiramente é interessante pensar em quais são as informações necessárias para se concluir uma tarefa obrigatória do sistema, após a identificação é preciso avaliar qual é a camada que concentra o maior conhecimento acerca da tarefa em específica. Com os módulos agora mapeados e levantados, aquele que possuir o maior conhecimento da tarefa é o forte candidato para especialista.
-</p>
+&emsp;&emsp;Primeiramente, para esta atribuição é importante seguir um caminho objetivo onde  defini-se quais são as informações necessárias para se concluir uma tarefa obrigatória do sistema. Após a identificação é preciso avaliar qual é a camada que concentra o maior conhecimento acerca da tarefa em específica. Ao fim, com os módulos mapeados e levantados, aquele que possuir o maior conhecimento da tarefa é o forte candidato para especialista.
 
 
-## Metodologia
+### Aplicação
 
-<p align="justify">&emsp;&emsp;
-A partir da definição do padrão, vamos fazer um exemplo analisando a API no backend do projeto do KI-limpinho em que a estrutura de arquivos da pasta pode ser visualizada na próxima imagem.
-</p>
+&emsp;&emsp;A partir da definição do padrão, trazemos como exemplo analisado a API do Backend do projeto Ki-Limpinho.
 
 
-
-<p align='center'>
+<center>
 <img src='..\..\..\assets\img\grasp\especialista.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Estrutura de arquivos na camada Backend</b>
         <br>
         <small>Autor: Davi Matheus, 2022.</small>
     </figcaption>
-</p>
+</center>
 
 
 
-Como evidenciado na imagem, existem arquivos node no padrão do templete do express no diretório e cada um deles possui uma responsabilidade específica. Estes são
+Na figura anterior, vemos que o projeto é feito em node.js e evidenciamos que os especialistas são separados em diretórios, onde cada um possuem arquivos característicos para as suas respectivas funções, sendo elas:
 
 - ```auth```, responsável pela a autenticação do projeto, controlando as rotas e os controllers.
 - ```helpers```, responsável por ajudar e complementar algumas functios que o sistema percise;
