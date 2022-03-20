@@ -48,3 +48,9 @@
 > [5] Padrões de projeto comportamentais: https://refactoring.guru/pt-br/design-patterns/behavioral-patterns. Último acesso em 18/03/2022 por [Lucas Lima](https://github.com/mibasFerraz).
 
 > [6] SHVETS, Alexander. Dive Into Design Patterns. Disponível em <https://refactoring.guru/design-patterns>. Último acesso em 18/03/2022 por [Lucas Lima](https://github.com/mibasFerraz).
+
+> [7] SERRANO, Milene. Módulo Padrões de Projeto GoF(s) Comportamentais. Disponível em : <https://aprender3.unb.br/course/view.php?id=11018&section=4>. Acesso em 16, mar de 2022 por [Nilvan Peres](https://github.com/NilvanPeres).
+
+> [8] GAMMA, Erich; HELM Richard; JOHNSON, Ralph; and VLISSIDES, John. Design Patterns: Elements of Reusable Object-oriented Software, 1995. Addison-Wesley Longman Publishing Co., Inc por [Nilvan Peres](https://github.com/NilvanPeres).
+
+> [9] Design Patterns - Mediator, DO FACTORY. Disponível em: <https://www.dofactory.com/javascript/design-patterns/mediator>, Acesso em 18, mar de 2022 por [Nilvan Peres](https://github.com/NilvanPeres).
