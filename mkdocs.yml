@@ -136,6 +136,9 @@ nav:
           - Controlador: 'padroes_de_projeto/GRASPS/Controlador.md'
           - Criador: 'padroes_de_projeto/GRASPS/Criador.md'
           - Especialista: 'padroes_de_projeto/GRASPS/Especialista.md'
+      - GOF's: 
+          - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
+
       - Dojo:
           - frontend: 'dojoNext.md'
           - backend: 'DojoBackend.md'
