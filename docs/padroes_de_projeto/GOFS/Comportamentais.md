@@ -62,3 +62,7 @@
 > [12] Refactoring Guru. **Observer**. Disponível em: <https://refactoring.guru/design-patterns/observer>. Acesso em: 16 mar. 2022 por [Peniel Etèmana](https://github.com/zpeniel09).
 
 > [13] Wikipédia. Disponível em: <https://en.wikipedia.org/wiki/Observer_pattern>. Acesso em: 16 mar. 2022 por mim [Peniel Etèmana](https://github.com/zpeniel09).
+
+> [14] BRIENZO, Marcos. State. Disponível em: <https://brizeno.wordpress.com/category/padroes-de-projeto/state/>. Acesso em 17, mar de 2022 por [Caio Martins](https://github.com/linktocaio).
+
+> [15] Refactoring Guru. State. Disponível em: <https://refactoring.guru/pt-br/design-patterns/state>. Acesso em: 17 de mar de 2022 por [Caio Martins](https://github.com/linktocaio). 
