@@ -41,3 +41,10 @@
 
 > [2] AND, A. Learning Python Design Patterns - Second Edition. Disponível em: <https://www.oreilly.com/library/view/learning-python-design/9781785888038/ch07s04.html>. Acesso em: 16 mar. 2022 por [Lucas Melo](https://github.com/luucas-melo).
 
+> [3] https://www.dofactory.com/javascript/design-patterns/iterator Último acesso em 18/03/2022 por [Lucas Lima](https://github.com/mibasFerraz).
+
+> [4] https://brizeno.wordpress.com/2011/09/15/mao-na-massa-iterator/ Último acesso em 18/03/2022 por [Lucas Lima](https://github.com/mibasFerraz).
+
+> [5] Padrões de projeto comportamentais: https://refactoring.guru/pt-br/design-patterns/behavioral-patterns. Último acesso em 18/03/2022 por [Lucas Lima](https://github.com/mibasFerraz).
+
+> [6] SHVETS, Alexander. Dive Into Design Patterns. Disponível em <https://refactoring.guru/design-patterns>. Último acesso em 18/03/2022 por [Lucas Lima](https://github.com/mibasFerraz).
