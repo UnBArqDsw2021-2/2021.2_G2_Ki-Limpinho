@@ -37,5 +37,7 @@
 
 ## Referências
 
-> [1] REFERENCIAS. Disponível em: <link>. Acesso em 20, fev de 2022.
-> [2] REFERENCAS 2. Disponível em: <link>. Acesso em 20, fev de 2022.
+> [1] WIKIPEDIA CONTRIBUTORS. Command pattern. Disponível em: <https://en.wikipedia.org/wiki/Command_pattern>. Acesso em: 15 mar. 2022 por [Lucas Melo](https://github.com/luucas-melo).
+
+> [2] AND, A. Learning Python Design Patterns - Second Edition. Disponível em: <https://www.oreilly.com/library/view/learning-python-design/9781785888038/ch07s04.html>. Acesso em: 16 mar. 2022 por [Lucas Melo](https://github.com/luucas-melo).
+
