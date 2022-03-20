@@ -17,15 +17,15 @@
 
 ## Introdução
  
-<p align="justify">&emsp;&emsp;
-    Explicar sobre o que é o artefato que será apresentado...
-</p>
+<div align="justify">&emsp;&emsp; GoFs Comportamentais são padrões voltados para alterações no nível do comportamento dos objetos. Auxiliam quando é necessério, por exemplo, usar vários algoritmos diferentes, cada qual mais apropriado para um determinado contexto.</div>
+<div align="justify">&emsp;&emsp; Permitem, nesse caso, usar mecanismos/recursos para facilitar tanto a incorporação de novos algoritmos para novos contextos quanto a seleção de qual algoritmo usar dado um contexto.</div>
+<div align="justify">&emsp;&emsp; Entre os principais GoFs comportamentais estaremos apresentando: Command, Iterator, Mediator, Observer, State e Strategy. Esses serão implementados no escopoo do nosso projeto.</div>
 
 
 ## Metodologia
 
 <p align="justify">&emsp;&emsp; 
-    Explicar como foi feito o doc...
+    A metodologia utilizada foi de ter feito separadamente os gofs comportamentais, para que possamos junta-los depois, adicionando também o que estaria faltando para o documento esteja completo.
 </p>
 
 ## Resultados
