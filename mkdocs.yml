@@ -133,10 +133,9 @@ nav:
       - GRASP:
           - Alta Coesão: 'padroes_de_projeto/GRASPS/AltaCoesao.md'
           - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
-      - GOFS:
+      - GOF's:
           - Command: 'padroes_de_projeto/GOFS/command.md'
-          - Criacionais:
-                - Prototype: 'padroes_de_projeto/GOFS/GofsCriacionaisPrototype.md'
+          - Criacionais: 'padroes_de_projeto/GOFS/Criacionais.md'
   - Sprints:
       - Sprint 1:
           - Planning: 'Sprints/sprint01/Planning.md'
