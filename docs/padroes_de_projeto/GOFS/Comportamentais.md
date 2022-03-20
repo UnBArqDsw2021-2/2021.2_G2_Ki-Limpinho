@@ -54,3 +54,11 @@
 > [8] GAMMA, Erich; HELM Richard; JOHNSON, Ralph; and VLISSIDES, John. Design Patterns: Elements of Reusable Object-oriented Software, 1995. Addison-Wesley Longman Publishing Co., Inc por [Nilvan Peres](https://github.com/NilvanPeres).
 
 > [9] Design Patterns - Mediator, DO FACTORY. Disponível em: <https://www.dofactory.com/javascript/design-patterns/mediator>, Acesso em 18, mar de 2022 por [Nilvan Peres](https://github.com/NilvanPeres).
+
+> [10] Arquitetura e Desenho de Software AULA - GOFS COMPORTAMENTAIS Profa. Milene Serrano Acessado por mim [Peniel Etèmana](https://github.com/zpeniel09).
+
+> [11] Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Observer>. Acesso em: 16 mar. 2022 por mim [Peniel Etèmana](https://github.com/zpeniel09).
+
+> [12] Refactoring Guru. **Observer**. Disponível em: <https://refactoring.guru/design-patterns/observer>. Acesso em: 16 mar. 2022 por [Peniel Etèmana](https://github.com/zpeniel09).
+
+> [13] Wikipédia. Disponível em: <https://en.wikipedia.org/wiki/Observer_pattern>. Acesso em: 16 mar. 2022 por mim [Peniel Etèmana](https://github.com/zpeniel09).
