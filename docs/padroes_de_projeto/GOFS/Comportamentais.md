@@ -23,21 +23,49 @@
         </ol>
 </p>
 <p align="justify">&emsp;&emsp;
-    Os principais participantes desse padrão são <b>Mediator(interface para comunicação com objetos colegas)</b>, <b>ConcreteMediator( implemena os comportamentos cooperativos a partir da coordenação dos objetos colegas), </b><b>Products(a instância do produto criado pela factory)</b>, <b> ColeagueClasses (se comunica com seu mediator quando necessário, caso contrário se comunica com outro colega)</b>. Para aplicar esse conceito no projeto, será feito um exemplo-TOY. Lembrando que são necessárias adaptações, pois o projeto está sendo desenvolvido em JavaScript.[3].
+    Os principais participantes desse padrão são <b>Mediator(interface para comunicação com objetos colegas)</b>, <b>ConcreteMediator( implemena os comportamentos cooperativos a partir da coordenação dos objetos colegas), </b><b>Products(a instância do produto criado pela factory)</b>, <b> ColeagueClasses (se comunica com seu mediator quando necessário, caso contrário se comunica com outro colega)</b>. Na Figura2 abaixo será introduzindo um exemplo de prático de como aplicar esse padrão em JavaScript.
 </p>
 
-<p align='center'>
-  <img src='https://i.ibb.co/yB6r5WL/Screenshot-from-2022-03-19-18-56-55.png'>
-  <figcaption align='center'>
-        <b>
-            <a href='https://i.ibb.co/yB6r5WL/Screenshot-from-2022-03-19-18-56-55.png'>
-               Figura 2: Aplicação do padrão Mediator - ToyExample
-            </a>
-        </b>   
-      <br>
-        <small>Autor: <a href='https://github.com/NilvanPeres'>Nilvan Peres</a>, 2022.</small>
-  </figcaption>
-</p>
+```
+var Participant = function (name) {
+    this.name = name;
+    this.chatroom = null;
+};
+
+Participant.prototype = {
+    send: function (message, to) {
+        this.chatroom.send(message, this, to);
+    },
+    receive: function (message, from) {
+        console.log(from.name + " to " + this.name + ": " + message);
+    }
+};
+
+var Chatroom = function () {
+    var participants = {};
+
+    return {
+
+        register: function (participant) {
+            participants[participant.name] = participant;
+            participant.chatroom = this;
+        },
+
+        send: function (message, from, to) {
+            if (to) {                      // single message
+                to.receive(message, from);
+            } else {                       // broadcast message
+                for (key in participants) {
+                    if (participants[key] !== from) {
+                        participants[key].receive(message, from);
+                    }
+                }
+            }
+        }
+    };
+};
+```
+Fonte: <a href="https://www.dofactory.com/javascript/design-patterns/mediator">DoFactory</a>[3]
 
 
 ## Referências
