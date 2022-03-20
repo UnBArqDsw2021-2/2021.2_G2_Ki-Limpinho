@@ -3,10 +3,12 @@
 |Data | Versão | Descrição | Autor(es)|
 | :-:|:-:|:-:|:-: |
 | 16.03.2022 | 0.1 | Adição Prototype | [Peniel Etèmana](https://github.com/zpeniel09) |
+| 16.03.2022 | 0.1.1 | Adição do singleton | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 16.03.2022 | 0.1.2 | Adição do multiton | [Natanael Filho](https://github.com/fernandes-natanael) |
 | 17.03.2022 | 0.2 | Adição do Builder | [Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
+| 19.03.2022 | 0.2.1 | Revisão do singleton | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 | 20.03.2022 | 0.3 | Revisão Builder | [Nilvan Peres](https://github.com/NilvanPeres)|
 | 20.03.2022 | 0.4 | Revisão Prototype | [Nilvan Peres](https://github.com/NilvanPeres) |
-
 
 ## Participantes
 
@@ -185,6 +187,46 @@ O padrão prototype deve ser aplicado quando:
     Dessa forma, podemos concluir que, o padrão Builder facilita na separação de toda a lógica de criação dos objetos, evitando que as classes que representam esses objetos finais fiquem muito extensas e de pouca manutenibilidade, além de prover a implementação de múltiplos builders especializados, onde tem-se objetos construídos em cima de uma interface.
 </p>
 
+## Singleton
+
+&emsp;&emsp;Vemos que no Design Pattern o padrão Singleton possui uma peculiaridade, a qual seria a existência de um atributo estático  na classe que instância a própria classe, mas quais as vantagens para está pratica? Simplificando, classes públicas podem ser instâncias N vezes, logo é possível criar inúmeros objetos. Então, para aplicar o Singleton declaramos o construtor de uma classe como pública, e adicionamos uma variável estática, a qual limitará a criação de instâncias da classes.
+
+&emsp;&emsp;Portanto, Singleton será usado quando a aplicação exigir a existência de uma única instância de uma classe, além disso, o acesso desta instância deverá ser através de um ponto bem conhecido.
+
+&emsp;&emsp;Algumas vantagens da aplicação do Singleton:
+
+- Acesso controlado a uma instância única.
+- Menos variáveis globais para armazenar instâncias únicas.
+- Permite um número variável de instâncias (alterando o padrão para controlar esse número).
+
+&emsp;&emsp;Atualmente em nosso projeto esse padrão poderá ser aplicado na classe [Gerente](/DiagramaDeClasses). Para a aplicação é interessante exista apenas uma instância de gerente, pois assim evita-se a instância vários gerentes externos que não sejam o próprio gerente.
+
+&emsp;&emsp;Segue um exemplo simplificado em Java de uma estrutura no padrão Singleton:
+
+```java
+class Gerente{
+    protected Gerente instanceGerente;
+
+    private Gerente() {}
+
+    public static getInstanceGerente() {
+        if (!instanceGerente) {
+            this.instanceGerente = new Gerente();
+        }
+        return this.instanceGerente;
+    }
+}
+
+```
+
+## Multiton
+
+&emsp;&emsp;O Multiton é um padrão que pouco se difere do Singleton. Basicamente, enquanto no Singleton a instância da classe está delimitada na criação de apenas **um** objeto, o Multiton delimita um número de múltiplos objetos, limitado a uma quantidade especificada, que serão criados,  fornecendo vários objetos para serem usados em caráter global para todo o projeto.
+
+&emsp;&emsp;Como exemplo trago uma classe ProdutoLimpeza, nela queremos instanciar 4 produtos diferentes, sendo eles, cera automotiva, sabão para carro,  limpa vidros e espuma multiúso, a partir de uma estrutura de HashMap, podemos instanciar cada objeto de forma única possuindo valores conhecidos e diferentes. A estrutura se mantêm bem semelhante à utilizada no Singleton.
+
+&emsp;&emsp;A situação atual em que se encontra o projeto não há classe que se beneficiária do uso de Multiton, já que não há limitações de N objetos. Além disso, mesmo usando o exemplo dos produtos de limpeza, a plataforma atualmente não possui  o objetivo de gerenciar produtos de limpezas, por isso não se torna viável. 
+
 ## Referências
 
 
@@ -204,3 +246,7 @@ Addison-Wesley Longman Publishing Co., Inc., 1995. ISBN 0201633612.
 > [7] Refactoring Guru. **Prototype**. Disponível em: <https://refactoring.guru/design-patterns/prototype>. Acesso em: 16 mar. 2022.
 
 > [8] Wikipédia. Disponível em: <https://en.wikipedia.org/wiki/Prototype_pattern>. Acesso em: 16 mar. 2022.
+
+> [9] **Single Pattern**. Departamento de Informática, UFMA, Maranhão. Disponível em: <http://www.deinf.ufma.br/~vidal/singleton.pdf>. Acesso em 16, mar de 2022.
+
+> [10] **GOFs Criacionais**. Disponível em: <https://unbarqdsw2021-1.github.io/2021.1_G6_Curumim/padroes-de-projeto/gofs-criacionais/#multiton>. Acesso em 16, mar de 2022.
