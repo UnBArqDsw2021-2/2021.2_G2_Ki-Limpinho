@@ -78,6 +78,7 @@ O padrão prototype deve ser aplicado quando:
 
 <p align="justify">&emsp;&emsp;
     Podemos concluir que, o Prototype faz a criação de novos objetos, mas ao invés de criar objetos com valores não inicializados, ele cria objetos através da cópia dos valores de um protótipo. Esse padrão nos permitirá copiar objetos existentes sem que essa parte do código tenha dependência em classes. Quando quisermos criar um objeto igual, não precisamos acionar essas classes, basta fazer a exata cópia do objeto já criado.
+</p>
 
 
 ## Builder
@@ -89,10 +90,10 @@ O padrão prototype deve ser aplicado quando:
 </p>
 
 <p align='center'>
-  <img src='../../../../assets/img/gof/structure_builder.png'>
+  <img src='../../../assets/img/gof/structure_builder.png'>
   <figcaption align='center'>
         <b>
-            <a href='../../../../assets/img/gof/structure_builder.png'>
+            <a href='../../../assets/img/gof/structure_builder.png'>
                Figura 3: Estrutura do padrão Builder
             </a>
         </b>   
@@ -112,10 +113,10 @@ O padrão prototype deve ser aplicado quando:
 </p>
 
 <p align='center'>
-  <img src='../../../assets/img/gof/application_builder.png'>
+  <img src='../../../../assets/img/gof/application_builder.png'>
   <figcaption align='center'>
         <b>
-            <a href='../../../assets/img/gof/application_builder.png'>
+            <a href='../../../../assets/img/gof/application_builder.png'>
                Figura 4: Estrutura da aplicação do padrão Builder
             </a>
         </b>   
@@ -183,7 +184,6 @@ O padrão prototype deve ser aplicado quando:
 <p align="justify">&emsp;&emsp;
     Dessa forma, podemos concluir que, o padrão Builder facilita na separação de toda a lógica de criação dos objetos, evitando que as classes que representam esses objetos finais fiquem muito extensas e de pouca manutenibilidade, além de prover a implementação de múltiplos builders especializados, onde tem-se objetos construídos em cima de uma interface.
 </p>
-
 
 ## Referências
 
