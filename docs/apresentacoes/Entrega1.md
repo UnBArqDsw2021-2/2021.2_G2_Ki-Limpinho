@@ -1,11 +1,12 @@
 # <center> Entrega 1
 
 
-### Histórico de versão<br>
+## Histórico de Versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 01.12.2020 | 0.1 | Criação do documento | Natanael Filho|
+| 01.12.2020 | 0.1 | Criação do documento | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 11.03.2022 | 0.1.1 | Adicionar rastreabilidade nos membros | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
 ## Projeto Não Orientado a Abordagens Específicas
 

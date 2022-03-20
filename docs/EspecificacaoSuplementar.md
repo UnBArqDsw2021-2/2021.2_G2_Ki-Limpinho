@@ -1,36 +1,40 @@
 # <center> Especificação Suplementar
 
 
-### Histórico de versão<br>
+## Histórico de Versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 31.01.2022 | 0.1 | Criação do documento | Henrique Melo |
-| 03.02.2022 | 0.1 | Revisão do documento | Natanel |
-| 04.02.2022 | 0.2 | Revisão e Correção dos erros de português |  
-| 04.02.2022 | 0.2.1 | Revisão e correção do documento, primeira entrega | Natanael Filho |
+| 31.01.2022 | 0.1 | Criação do documento |[Henrique Amorim](https://github.com/HenriqueAmorim20) |
+| 03.02.2022 | 0.1 | Revisão do documento | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 04.02.2022 | 0.2 | Revisão e Correção dos erros de português |  [Nilvan Peres](https://github.com/NilvanPeres) |
+| 04.02.2022 | 0.2.1 | Revisão e correção do documento, primeira entrega | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 11.03.2022 | 0.2.2 | Padronizar estrutura | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-### Participantes
+## Participantes
 
-* Henrique Melo
+* [Henrique Amorim](https://github.com/HenriqueAmorim20)
 
-## 1. __Introdução__
-<div align="justify"> 
+## Introdução
+
+<p align="justify">&emsp;&emsp;
     Os requisitos não funcionais do site Lava Jato estão descritos neste documento. Em sua construção, foi utilizado o FURPS+ de modo a descrever as categorias principais de requisitos, sendo elas usabilidade, confiabilidade, desempenho, suportabilidade e requisitos de licenciamento.
-</div>
+</p>
 
-## 2. __Finalidade__
+## Resultados
+
+### __Finalidade__
 Atuando com os casos de uso na tarefa de capturar todos os requisitos do sistema, o objetivo desse documento é definir os requisitos não funcionais do site Lava Jato.
 
 
-## 3. __Escopo__
+### __Escopo__
 O site Lava Jato existe de modo a acelerar, facilitar e melhorar o serviço de lavagem de carros, tanto para o cliente quanto para o gerente.
 
 
-## 4. __Funcionalidades__
+### __Funcionalidades__
 Podem ser encontradas nos casos de uso.
 
-## 5. __Usabilidade__
+### __Usabilidade__
 Se refere à facilidade do usuário em realizar as tarefas desejadas.
 
 * __Interface intuitiva e aprendizado rápido__
@@ -42,7 +46,7 @@ Ao entrar no site Lava Jato é possível perceber uma interface fácil de utiliz
 
 A linguagem utilizada no site é simples, direta e não muito técnica, o que permite que usuários de diferentes idades e realidades possam utilizá-lo e fiquem satisfeitos com o sistema.
 
-## 6. __Performance__
+### __Performance__
 Quão rápido é o site Lava Jato?
 
 * __Acessos ao site__
@@ -53,7 +57,7 @@ O site suporta em torno de 100 acessos simultâneos sem alteração na sua perfo
 
 A aplicação limita a 10 segundos o tempo de carregamento de uma página, após esse tempo uma mensagem de erro é mostrada
 
-## 7. __Confiabilidade__
+### __Confiabilidade__
 Analisa a confiabilidade do site lava-jato, ou seja, diz respeito à segurança e a manutenibilidade do aplicativo.
 
 * __Armazenamento de dados__
@@ -65,7 +69,7 @@ A aplicação assegura a criptografia dos dados armazenados.
 Ao acessar o site lava-jato, o usuário poderá visualizar a equipe responsável pelo desenvolvimento no rodapé da aplicação.
 
 
-## 8. __Suportabilidade__
+### __Suportabilidade__
 Caracterizada pela portabilidade e adaptabilidade do site Lava Jato. Por exemplo, as plataformas que ele oferece suporte.
 
 * __Pré-requisitos para utilização do aplicativo__
@@ -76,7 +80,7 @@ O usuário vai ser capaz de usar o site do Lava Jato de todos os locais, precisa
 
 O site deve ser compatível com Google Chrome, Mozilla Firefox e Safari.
 
-## 9. __Restrições de Design__
+### __Restrições de Design__
 
 * __Suporte a idiomas__
 
@@ -86,7 +90,7 @@ O site do Lava jato é uma aplicação nacional e, portanto, não há a possibil
 
 No site do Lava Jata, existirá uma barra de navegação que dará acesso a todos os recursos da aplicação.
 
-## 10. __Componentes Adquiridos__
+### __Componentes Adquiridos__
 
 * __Bibliotecas__
 
@@ -101,7 +105,7 @@ O aplicativo necessita de um servidor para funcionar.
 É importante dar suporte aos colaboradores no desenvolvimento da aplicação do Lava Jato.
 
 
-## 11. __Interfaces do Usuário__
+### __Interfaces do Usuário__
 Onde são determinadas as interfaces que a aplicação suporta.
 
 * __Interface do Usuário__
@@ -116,18 +120,18 @@ A aplicação Lava Jato será compatível com os mais relevantes navegadores.
 
 É necessária comunicação com o servidor e acesso à internet.
 
-## 12. __Requisitos de Licenciamento__
+### __Requisitos de Licenciamento__
 
 Ao cadastrar uma conta, todos os usuários devem concordar com os termos de utilização da aplicação.
 
-## 13. __Proteção de Dados__
+### __Proteção de Dados__
 
 A aplicação assegurará a segurança de dados seguindo a LGPD.
 
-## 14. __Padrões Aplicáveis__
+### __Padrões Aplicáveis__
 
 Alguns padrões que devem ser seguidos pelo site são ISO 6166.
 
-## 15. Referências
+## Referências
 
-> [1] - referencia
+> [1] Exemplo: Especificação Suplementar Disponível em:  https://pdp.mcti.gov.br/MCTI-PDP/guidances/examples/Especificacao%20Suplementar_4C68A4F4.html Acesso em: 29/01/2022
