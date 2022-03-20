@@ -1,13 +1,13 @@
 ## Mediator
 
 <p align="justify">&emsp;&emsp;
-    O padrão mediator permite que um objeto encapsule como será a interação com outros objetos, o mediator permite que o desacoplamento evitando que os ojetos fiquem refereciando entre si. [1]
+    O padrão mediator permite que um objeto encapsule como será a interação com outros objetos, o mediator permite que o desacoplamento evitando que os objetos fiquem referenciando entre si. [1]
 </p>
 <p align="justify">&emsp;&emsp;
     O mediator deve ser aplicado quando:
-        <li> Um grupo de objetos que se comunicam de forma definida, porém complexa. Resultando em interdependências não estruturadas e complexas de serem entedidas.</li>
+        <li> Um grupo de objetos que se comunicam de forma definida, porém complexa. Resultando em interdependências não estruturadas e complexas de serem entendidas.</li>
         <li> A reutilização de um objeto se torna complexa, pois o mesmo está se comunicando ou se referindo a vários outros objetos.</li>
-        <li> Um comportamento que é distruibuído entre várias classes e que deveria ser customizável sem o uso de outras subclasses.[2]</li> 
+        <li> Um comportamento que é distruibuído entre várias classes e que deveria ser customizável.[2]</li> 
 </p>
 <p align="justify">&emsp;&emsp;
     <li><b>Vantagens:</b> </li>
@@ -19,11 +19,11 @@
         </ol>
     <li><b>Desvantagens:</b> </li>
         <ol>
-            <li>Centralização do controle. O mediator permite que a troca de complexidade de interação para uma complexidade no próprio mediator. Como um mediador encapsula protocolos, ele pode se tornar mais complexo que qualquer colega individual. Isso pode tornar o mediador monolitico e complexo de manter.</li>
+            <li>Centralização do controle. O mediator permite que a troca de complexidade de interação para uma complexidade no próprio mediator. Como um mediador encapsula protocolos, ele pode se tornar mais complexo que qualquer colega individual. Isso pode tornar o mediador monolítico e complexo de manter.</li>
         </ol>
 </p>
 <p align="justify">&emsp;&emsp;
-    Os principais participantes desse padrão são <b>Mediator(interface para comunicação com objetos colegas)</b>, <b>ConcreteMediator( implemena os comportamentos cooperativos a partir da coordenação dos objetos colegas), </b><b>Products(a instância do produto criado pela factory)</b>, <b> ColeagueClasses (se comunica com seu mediator quando necessário, caso contrário se comunica com outro colega)</b>. Na Figura2 abaixo será introduzindo um exemplo de prático de como aplicar esse padrão em JavaScript.
+    Os principais participantes desse padrão são <b>Mediator(interface para comunicação com objetos colegas)</b>, <b>ConcreteMediator( implemena os comportamentos cooperativos a partir da coordenação dos objetos colegas), </b><b>Products(a instância do produto criado pela factory)</b>, <b> ColeagueClasses (se comunica com seu mediator quando necessário, caso contrário se comunica com outro colega)</b>. No código abaixo, será introduzindo um exemplo de prático de como aplicar esse padrão em JavaScript.
 </p>
 
 ```
