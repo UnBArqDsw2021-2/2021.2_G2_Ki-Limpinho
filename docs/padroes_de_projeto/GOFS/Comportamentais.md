@@ -30,6 +30,34 @@
 
 ## Resultados
 
+### GoFs Comportamentais
+
+<strong>I- Command</strong>
+<p align="justify">&emsp;&emsp;
+    O documento em si...
+</p>
+
+<strong>II- Iterator</strong>
+<p align="justify">&emsp;&emsp;
+    O documento em si...
+</p>
+
+<strong>III- Mediator</strong>
+<p align="justify">&emsp;&emsp;
+    O documento em si...
+</p>
+
+<strong>IV- Observer</strong>
+<p align="justify">&emsp;&emsp;
+    O documento em si...
+</p>
+
+<strong>V- State</strong>
+<p align="justify">&emsp;&emsp;
+    O documento em si...
+</p>
+
+<strong>VI- Strategy</strong>
 <p align="justify">&emsp;&emsp;
     O documento em si...
 </p>
