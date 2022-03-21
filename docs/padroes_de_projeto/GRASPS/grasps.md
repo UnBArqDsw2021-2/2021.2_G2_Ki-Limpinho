@@ -1,5 +1,14 @@
 # <center> GRASPS
 
+
+### Histórico de Versão
+|    Data    | Versão | Descrição            | Autor(es)       |
+| :--------: | :----: | :------------------: | :-------------: |
+| 20/03/2022 |  0.1   | Criação do Documento | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.2   | Adição da introdução | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.3   | Adição de Alta Coesão | [Lucas Lima](https://github.com/mibasFerraz) |
+
+
 ### Introdução
 
 &emsp;&emsp; GRASP é um acrônimo para **General Responsability Assignment Software Patterns**, que em tradução livre significa **Padrões de Software para Atribuições Gerais de Responsabilidades**. Para a compreensão dos GRASP's, é primeiro necessário a contextualização da abordagem em mais alto nível, esta chamada de **Responsability-Driven-Development**, ou simplesmente **RDD**, que em tradução livre significa **Projeto Guiado por Responsabilidades**.
@@ -20,3 +29,20 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 -   GRASP da Invenção Pura;
 -   GRASP da Indireção;
 -   E, por fim, GRASP de Variações Protegidas.
+
+ &emsp;&emsp;No nosso projeto utilizamos os GRASP criador, baixo acoplamento, controlador e criador.
+
+ ### Alta Coesão
+
+### Definição
+
+&emsp;&emsp; Alta coesão é um principio avaliativo que prega a divisão de responsabilidades entre as classe. Isso é, uma classe coesa é aquela que lhe foi delegada apenas as suas responsabilidades que estão fortemente relacionadas e altamente focadas. Classes com baixa coesão frequentemente são de difícil compreensão, difíceis de se reutilizar, manter ou alterar.
+
+### Utilização
+
+&emsp;&emsp; Utilização da alta coesão deve estar presente durante todo o projeto para garantir que cada classe possua um única responsabilidade, dessa forma deixando-a entendível, reutilizável e enxuta. Dessa maneira tornando as interfaces de comunicação mais claras, enquanto deixa as classes mais legíveis e amigáveis a expansões e alterações mantendo a complexidade gerenciável.
+
+## Conclusão
+
+&emsp;&emsp; Com o presente documento é possível demonstrar a importância dos padrões de projeto GRASP dentro da construção da base do código, isto é, ser capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes.
+
