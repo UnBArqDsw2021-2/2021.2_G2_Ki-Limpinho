@@ -6,9 +6,11 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 20/03/2022 |  0.1   | Criação do Documento | [Lucas Lima](https://github.com/mibasFerraz) |
 | 21/03/2022 |  0.2   | Adição da introdução | [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.3   | Adição de Alta Coesão | [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.3   | Adição de Baixo Acoplamento | [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.3   | Adição de Controlador | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.3   | Adição de Alta Coesão | [Caio Martins](https://github.com/linktocaio) <br> [Yuri Alves](https://github.com/yuriAlves5)<br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.4   | Adição de Baixo Acoplamento | [Henrique Amorim](https://github.com/HenriqueAmorim20) <br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.5   | Adição de Controlador | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) <br> [Peniel Etèmana](https://github.com/zpeniel09)<br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.6   | Adição de Criador | [Lucas Melo](https://github.com/luucas-melo)<br>[Nilvan Peres](https://github.com/NilvanPeres)<br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.7   | Adição da Bibliografia | [Lucas Lima](https://github.com/mibasFerraz) |
 
 
 ### Introdução
@@ -34,7 +36,7 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 
  &emsp;&emsp;No nosso projeto utilizamos os GRASP criador, baixo acoplamento, controlador e criador.
 
- ### Alta Coesão
+## Alta Coesão
 
 ### Definição
 
@@ -44,7 +46,7 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 
 &emsp;&emsp; Utilização da alta coesão deve estar presente durante todo o projeto para garantir que cada classe possua um única responsabilidade, dessa forma deixando-a entendível, reutilizável e enxuta. Dessa maneira tornando as interfaces de comunicação mais claras, enquanto deixa as classes mais legíveis e amigáveis a expansões e alterações mantendo a complexidade gerenciável.
 
-## Conclusão
+### Conclusão
 
 &emsp;&emsp; Com o presente documento é possível demonstrar a importância dos padrões de projeto GRASP dentro da construção da base do código, isto é, ser capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes.
 
@@ -63,20 +65,22 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 
 &emsp;&emsp; Ao utilizarmos os padrões já estabelecidos por uma REST API usando express, mongoose em NodeJS(ES6), já estamos utilizando as práticas de Baixo acoplamento, visto que cada um dos arquivos tem sua própria responsabilidade e seus próprios métodos definidos. Desta forma, a própria ferramenta já proporciona um nível adequado de conexão entre os componentes do código e também de modularização e reutilização do código.
 
-## Conclusão
+### Conclusão
 
 &emsp;&emsp; Após todo o conteúdo explicitado neste documento, é possível evidenciar a importância dos padrões de projeto GRASP dentro da construção da base de código do projeto, isto é, é capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes no código.
 
+## Controlador
 
+### Definição
 <p align="justify">&emsp;&emsp;O grasp controller ou controlador delega a responsabilidade pelo tratamento de evento do sistema à classes diferente da interface do usuário, ele delega o trabalho que precisa ser feito para outros objetos. Entre as normas que fazem parte desse padrão temos o Controller sobre qual estaremos falando.
 </p>
 
-## Metodologia
+### Metodologia
 
 <p align="justify">&emsp;&emsp;  O controlador é a camada responsável por receber as entradas que os usuários fazem através da interface do usuário e tratar desses eventos, geralmente é a camada intermediária entre as requisições dos atores e o backend que responde às requisições dessas requisições. Essa camada é responsável por entender as requisições dos usuários e logo em seguida redireciona essa requisição para o elemento no backend responsável por tratá-la. Em nosso código usamos muito o padrão controller e abaixo temos um exemplo de sua implementação. A metodologia que utilizaremos seria os controllers(controladores) do nosso projeto.
 </p>
 
-## Resultados
+### Resultados
 
 <p align="justify">&emsp;&emsp;
 Aqui temos cinco classes onde são implementados os controllers, uma para alguns dos principais objetos do sistema. O diagrama completo do projeto está disponível no <a href='../../../DiagramaDeClasses'>diagrama do classes</a>.
@@ -92,19 +96,22 @@ Aqui temos cinco classes onde são implementados os controllers, uma para alguns
   </figcaption>
 </p>
 
-## Conclusão
+### Conclusão
 
 <p align="justify">&emsp;&emsp;
 
 Este padrão, trabalha como uma camada de indireção para acontecimentos do projeto. Deixando os eventos causados pela Interface desacoplados dos objetos responsáveis por tratar a requisição, tornando o sistema mais flexível de fácil manutenção.
 </p>
 
+## Criador
 
-## Introdução
+### Introdução
 
 <p align="justify">&emsp;&emsp;
     Creator ou Criador é um dos padrões de Projeto GRASP, que assim como os outros tentam atribuir responsabilidades, papéis e colaborações. A criação de desenho de software desse padrão foca em identificar os responsáveis ideais para criação de objetos. Essa atribuição de obrigações de criação de objetos é de extrema importância para a modelagem do domínio, pois permite que a construção do software reduza acomplamentos desnecessários, além de facilitar o encapsulamento e reutilização do software. [2]
 </p>
+
+### Metodologia
 
 <p align="justify">&emsp;&emsp;
     Determinar isso pode não ser uma tarefa tão simples, por isso é importante analisar bem. Uma forma para determinar o responsável pela criação desses objetos é verificando da seguinte forma, supondo que temos uma classe A e B. A classe A cria a classe B se[1]:
@@ -115,4 +122,29 @@ Este padrão, trabalha como uma camada de indireção para acontecimentos do pro
 <li>B usa A</li>
 <li>B tem os dados necessários para a inicialização de A que serão passados ao construtor de A</li>
 
+### Conclusão
+
 <div style="width: 480px; height: 360px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:480px; height:360px" src="https://lucid.app/documents/embeddedchart/92a215e1-c772-41b4-b751-9ca7cb76976c" id="9T82cDyCgAB5"></iframe></div>
+
+
+## Bibliografia
+
+> - [1] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
+
+> - [2] Desenvolvimento com qualidade com GRASP. **DevMedia**. Disponível em: <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704> (Último acesso em 11/03/2022).
+
+> - [3] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP – PARTE I. 36 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP%20BASE%20Parte%20I%20-%20Profa.%20Milene.pdf> (Último acesso em 11/03/2022).
+
+> - [4] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP_A - COMPLEMENTAR – PARTE I. 66 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP_A%20-%20Profa.%20Milene%20-%20Complementar.pdf> (Último acesso em 11/03/2022).
+
+> - [5] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
+
+> - [6] BOAS, Leandro Vilas. Padrões GRASP - Padrões de Atribuir Responsabilidades. Disponível em: <https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204>. Acesso em 15, de Março de 2022.
+
+> - [7] Universidade Federal de Uberlândia. Padrões GRASP. Disponível em: <http://www.facom.ufu.br/~bacala/ESOF/05a-Padr%C3%B5es%20GRASP.pdf>. Acesso em 15, de Março de 2022.
+
+> - [8] Controller – Padrões GRASP . Disponível em: <https://www.ramonsilva.net/post/controller-padr%C3%B5es-grasp>. Acesso em 15, de Março de 2022.
+
+> - [9] GRASP: Designing Objetos com Responsabilidades. [s.l: s.n.]. Disponível em: <https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar16GRASP.pdf>. Acesso em: 13 mar. 2022.
+
+> - [10] SERRANO, Milene. Módulo de padrões de projeto GRASPs. 07a -VídeoAula - GRASP Criador.  Disponível em: <https://aprender3.unb.br/course/view.php?id=11018&section=4>. Acesso em: 15 mar. 2022.
