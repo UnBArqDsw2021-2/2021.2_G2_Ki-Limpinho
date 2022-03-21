@@ -6,15 +6,89 @@
 | 16.03.2022 | 0.1.1 | Adição do singleton | [Natanael Filho](https://github.com/fernandes-natanael) |
 | 16.03.2022 | 0.1.2 | Adição do multiton | [Natanael Filho](https://github.com/fernandes-natanael) |
 | 17.03.2022 | 0.2 | Adição do Builder | [Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
-| 19.03.2022 | 0.2.1 | Revisão do singleton | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+| 18.03.2022 | 0.2.1 | Adição GOF Absract Factory | [Nilvan Peres](https://github.com/NilvanPeres)|
+| 19.03.2022 | 0.2.2 | Revisão do singleton | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 | 20.03.2022 | 0.3 | Revisão Builder | [Nilvan Peres](https://github.com/NilvanPeres)|
 | 20.03.2022 | 0.4 | Revisão Prototype | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 21.03.2022 | 0.5 |Adição do Factory Method | [Henrique Melo](https://github.com/henriqueamorim20) |
+| 21.03.2022 | 0.4 | Revisão Factory Method | [Nilvan Peres](https://github.com/NilvanPeres) |
 
 ## Participantes
 
+* [Henrique Melo](https://github.com/henriqueamorim20)
 * [Jonathan Jorge](https://github.com/Jonathan-Oliveira)
+* [Nilvan Peres](https://github.com/NilvanPeres)
+* [Natanael Filho](https://github.com/fernandes-natanael)
+
+## Abstract Factory
+
+<p align="justify">&emsp;&emsp;
+    Esse padrão permite que uma interface seja responsável pela criação de famílias de objetos que possuem um "tema" em comum, sem a necessidade de especificar a classe concreta. 
+</p>
+<p align="justify">&emsp;&emsp;
+    O abstract factory deve ser aplicado quando:
+        <li> Um sistema que deveria ser ser independente em como os produtos são criados, associados e representados.</li>
+        <li> Um sistema que deveria ser configurado com múltiplas famílias de produtos.</li>
+        <li> Quando é desejado implementar uma classe de produtos, e você deseja que tenham acesso apenas a interface, e não a implementação.[2]</li> 
+</p>
+<p align="justify">&emsp;&emsp;
+    <li><b>Vantagens:</b> </li>
+        <ol>
+            <li>Há o isolamento das classes concretas. A factory ajuda a encapsular a responsabilidade e o processo de criar ojetos e isola o cliente da classes de implemtações.</li>
+            <li>As mudanças nas classes concretas ficam unitárias, tendo que alterar o código em apenas um lugar, caso haja alguma mudança de configuração na classe de fábrica concreta.</li>
+            <li>Permite maior consistências dos produtos, permitindo que aplicação use uma família por vez.</li>
+        </ol>
+    <li><b>Desvantagens:</b> </li>
+        <ol>
+            <li>A extensão de novos produtos não ocorre de forma fácil, pois é necessário a alteração de diferentes trechos de códigos em múltiplos arquivos, a classe da fábrica abstrata e toda as suas subclasses.</li>
+        </ol>
+</p>
+<p align="justify">&emsp;&emsp;
+    Os principais participantes desse padrão são <b>AbstractFactory(interface para criação de produtos)</b>, <b>ConcreteFactory(uma fabrica que "produz" novos produtos), </b><b>Products(a instância do produto criado pela factory)</b>, <b> AbstractProduct (Interface para os produtos que serão criados)</b>. Para aplicar esse conceito no projeto, será feito um exemplo-TOY. Lembrando que são necessárias adaptações, pois o projeto está sendo desenvolvido em JavaScript, dessa forma, não é suportado herança de classes, por isso as classes concretas receberão mesmos métodos e propriedades para garantir que tenham as mesmas definições [3].
+</p>
+
+<p align='center'>
+  <img src='https://i.ibb.co/ryNmjxr/Screenshot-from-2022-03-19-12-26-02.png'>
+  <figcaption align='center'>
+        <b>
+            <a href='https://i.ibb.co/ryNmjxr/Screenshot-from-2022-03-19-12-26-02.png'>
+               Figura 2: Aplicação do padrão AbstractFactory - ToyExample
+            </a>
+        </b>   
+      <br>
+        <small>Autor: <a href='https://github.com/NilvanPeres'>Nilvan Peres</a>, 2022.</small>
+  </figcaption>
+</p>
+
 
 - [Peniel Etèmana](https://github.com/zpeniel09)
+
+- [Natanael Filho](https://github.com/fernandes-natanael)
+
+## Factory Method
+
+&emsp;&emsp;O Factory Method é um padrão bastante adotado por diversas linguagens. Consiste basicamente na definição de uma interface comum para criação de objetos, deixando para as subclasses a responsabilidade de instanciá-los. Essa estrutura é composta pelas interfaces Product, ConcreteProduct, Creator e ConcreteCreator.
+
+- Product: Se caracteriza como a interface comum dos produtos a serem criados;
+  
+- ConcreteProduct: Responsável pela implementação da interface Product, definindo produtos concretos;
+  
+- Creator: É uma classe abstrata sendo responsável pela declaração da operação factoryMethod, que retorna um objeto Product. Podendo ainda definir uma implementação padrão e assim retornar um ConcreteProduct específico ou também pode definir alguns métodos que invocam FactoryMethod;
+  
+- ConcreteCreator: Basicamente estende a classe Creator, realiza a redefinição do factoryMethod para retornar uma instância de um ConcreteProduct criado;
+
+&emsp;&emsp;Em nosso projeto, é possível utilizar o Factory Method na classe "UsuarioControlador", onde pode ser implementado uma interface com os atributos e métodos necessários, uma ConcreteProduct que realize a implementação dos métodos, e por meio de uma ConcreteCreater realizar a redefinição específica para cada tipo de usuário.
+
+<center>
+  <img src='../../assets/img/factoryMethod/factoryMethod.png' width="200px">
+  <figcaption align='center'>
+        <b>
+            <a href='../../assets/img/factoryMethod/factoryMethod.png'>
+              Figura 1: Factory Method
+            </a>
+        </b>   
+      <br>
+</center>
 
 ## Prototype
 
@@ -230,18 +304,18 @@ class Gerente{
 ## Referências
 
 
-> [1] Builder Disponível em: <https://refactoring.guru/pt-br/design-patterns/builder>. Acesso em 17, Mar de 2022.
+> [1] SERRANO, Milene. Módulo Padrões de Projeto GoF(s) Criacionais. Disponível em : <https://aprender3.unb.br/course/view.php?id=11018&section=4>. Acesso em 16, mar de 2022.
 
 > [2] GAMMA, E. et al. Design Patterns: Elements of Reusable Object-Oriented Software. USA:
 Addison-Wesley Longman Publishing Co., Inc., 1995. ISBN 0201633612.
 
-> [3] 007 – Padrão de Projeto BUILDER – Padrão GoF de Criação – Curso de Design Patterns Disponível em: <http://davesbalthazar.com.br/007-padrao-de-projeto-builder-padrao-gof-de-criacao-curso-de-design-patterns/>. Acesso em 17, Mar de 2022.
+> [3] Design Patterns - Abstract Factory, DO FACTORY. Disponível em: <https://www.dofactory.com/javascript/design-patterns/abstract-factory>, Acesso em 18, mar de 2022.
 
-> [4] Desing Patterns na prática - Desvendando o Builder (parte 2) Disponível em: <http://www.linhadecodigo.com.br/artigo/2576/desing-patterns-na-pratica-desvendando-o-builder-parte-2.aspx>. Acesso em 17, Mar de 2022.
+> [4] Builder Disponível em: <https://refactoring.guru/pt-br/design-patterns/builder>. Acesso em 17, Mar de 2022.
 
-> [5] SERRANO, Milene. Arquitetura e Desenho de Software AULA - GOFS CRIACIONAIS.
+> [5] 007 – Padrão de Projeto BUILDER – Padrão GoF de Criação – Curso de Design Patterns Disponível em: <http://davesbalthazar.com.br/007-padrao-de-projeto-builder-padrao-gof-de-criacao-curso-de-design-patterns/>. Acesso em 17, Mar de 2022.
 
-> [6] Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Prototype>. Acesso em: 16 mar. 2022.
+> [6] Desing Patterns na prática - Desvendando o Builder (parte 2) Disponível em: <http://www.linhadecodigo.com.br/artigo/2576/desing-patterns-na-pratica-desvendando-o-builder-parte-2.aspx>. Acesso em 17, Mar de 2022.
 
 > [7] Refactoring Guru. **Prototype**. Disponível em: <https://refactoring.guru/design-patterns/prototype>. Acesso em: 16 mar. 2022.
 

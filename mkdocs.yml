@@ -130,7 +130,7 @@ nav:
               - Atas de Reunião:
                   - Ata 08/02/2022: 'Atas/ATA_08_02_2022.md'
   - Desenho de Software(Padrões de Projeto):
-      - GRASP:
+      - GRASP's:
           - Alta Coesão: 'padroes_de_projeto/GRASPS/AltaCoesao.md'
           - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
           - Controlador: 'padroes_de_projeto/GRASPS/Controlador.md'
