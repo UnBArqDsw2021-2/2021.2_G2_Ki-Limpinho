@@ -9,12 +9,41 @@
 | 19.03.2022 | 0.2.1 | Revisão do singleton | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 | 20.03.2022 | 0.3 | Revisão Builder | [Nilvan Peres](https://github.com/NilvanPeres)|
 | 20.03.2022 | 0.4 | Revisão Prototype | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 21.03.2022 | 0.5 |Adição do Factory Method | [Henrique Melo](https://github.com/henriqueamorim20) |
+
 
 ## Participantes
+
+* [Henrique Melo](https://github.com/henriqueamorim20)
 
 * [Jonathan Jorge](https://github.com/Jonathan-Oliveira)
 
 - [Peniel Etèmana](https://github.com/zpeniel09)
+
+## Factory Method
+
+&emsp;&emsp;O Factory Method é um padrão bastante adotado por diversas linguagens. Consiste basicamente na definição de uma interface comum para criação de objetos, deixando para as subclasses a responsabilidade de instanciá-los. Essa estrutura é composta pelas interfaces Product, ConcreteProduct, Creator e ConcreteCreator.
+
+- Product: Se caracteriza como a interface comum dos produtos a serem criados;
+  
+- ConcreteProduct: Responsável pela implementação da interface Product, definindo produtos concretos;
+  
+- Creator: É uma classe abstrata sendo responsável pela declaração da operação factoryMethod, que retorna um objeto Product. Podendo ainda definir uma implementação padrão e assim retornar um ConcreteProduct específico ou também pode definir alguns métodos que invocam FactoryMethod;
+  
+- ConcreteCreator: Basicamente estende a classe Creator, realiza a redefinição do factoryMethod para retornar uma instância de um ConcreteProduct criado;
+
+&emsp;&emsp;Em nosso projeto, é possível utilizar o Factory Method na classe "UsuarioControlador", onde pode ser implementado uma interface com os atributos e métodos necessários, uma ConcreteProduct que realize a implementação dos métodos, e por meio de uma ConcreteCreater realizar a redefinição específica para cada tipo de usuário.
+
+<center>
+  <img src='../../assets/img/factoryMethod/factoryMethod.png' width="200px">
+  <figcaption align='center'>
+        <b>
+            <a href='../../assets/img/factoryMethod/factoryMethod.png'>
+              Figura 1: Factory Method
+            </a>
+        </b>   
+      <br>
+</center>
 
 ## Prototype
 
