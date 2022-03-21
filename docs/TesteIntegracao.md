@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição            | Autor(es)                    |
 | ---------- | ------ | -------------------- | ---------------------------- |
 | 20.03.2022 | 0.1 | Criação do documento | [Natanale Filho](https://github.com/fernandes-natanael) |
+| 21.03.2022 | 0.2 | Revisão do documento | [Davi Matheus](https://github.com/DaviMatheus)  |
 
 ## Participantes
 
@@ -18,7 +19,7 @@
 
 ## Metodologia
 
-&emsp;&emsp;Para a elaboração dos testes de integração da equipe Ki-limpinho, fizemos o uso do Java 11, juntamente do Maven 4.0.0, o qual auxilia na construção das dependências necessárias para os testes funcionarem, como o Framework principal para a elaboração de testes de integração, chamado Rest Assured. Embora comumente os testes de integração sejam feitos após os testes unitários, não há problemas em desenvolverem eles primeiros, na realidade isto se adequa ao contexto de cada projeto.
+&emsp;&emsp;Para a elaboração dos testes de integração da equipe Ki-limpinho, fizemos o uso do Java 11, juntamente do Maven 4.0.0, o qual auxilia na construção das dependências necessárias para os testes funcionarem, como o Framework principal para a elaboração de testes de integração, chamado Rest Assured. Embora comumente os testes de integração sejam feitos após os testes unitários, não há problemas em desenvolverem eles primeiros, na realidade isto se adéqua  ao contexto de cada projeto.
 
 &emsp;&emsp;Rest Assured é um framework utilizado para validar REST API e seus serviços, de modo que independe da linguagem a qual a aplicação e feita [3]. Utilizando o exemplo da Ki-limpinho, feita em Node.JS, temos que o Rest Assured verifica se as requisições e responses com conteúdo do tipo JSON confirmam com o esperado pelo sistema, desse modo, validam se a troca de informações e as requisições http estão ocorrendo de forma correta.
 
