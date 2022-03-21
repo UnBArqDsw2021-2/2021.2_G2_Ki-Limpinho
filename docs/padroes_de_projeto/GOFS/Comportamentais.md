@@ -2,13 +2,16 @@
 |Data | Versão | Descrição | Autor(es)|
 | :-:|:-:|:-:|:-: |
 | 15.03.2022 | 0.1    | Criação do command | [Lucas Melo](https://github.com/luucas-melo) |
-| 17.03.2022 | 0.1.1    | Adição do State | [Caio Martins](https://github.com/linktocaio) |
-| 18.03.2022| 0.1.2 | Criação do Iterator | [Lucas Ferraz](https://github.com/mibasFerraz)|
+| 16.03.2022 | 0.1.1    | Adição do observer | [Peniel Etèmana](https://github.com/zpeniel09) |
+| 17.03.2022 | 0.1.2    | Adição do State | [Caio Martins](https://github.com/linktocaio) |
+| 18.03.2022| 0.1.3 | Criação do Iterator | [Lucas Ferraz](https://github.com/mibasFerraz)|
 | 19.03.2022| 0.2 | Criação do Mediator | [Nilvan Peres](https://github.com/NilvanPeres)|
 | 20.03.2022| 0.3 | Revisão do Mediator | [Davi Matheus ](https://github.com/DaviMatheus)|
 | 21.03.2022| 0.4 | Revisão do Iterator | [Nilvan Peres](https://github.com/NilvanPeres)|
 | 21.03.2022 | 0.5    | Revisão do State | [Nilvan Peres](https://github.com/NilvanPeres) |
 | 21.03.2022 | 0.6    | Revisão do command | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 21.03.2022 | 0.7    | Revisão observer | [Nilvan Peres](https://github.com/NilvanPeres) |
+
 
 
 
@@ -18,6 +21,12 @@
  - [Nilvan Peres](https://github.com/NilvanPeres)
  - [Caio Martins](https://github.com/linktocaio)
  - [Lucas Melo](https://github.com/luucas-melo)
+ - [Peniel Etèmana](https://github.com/zpeniel09)
+
+## Introdução
+
+&emsp;&emsp;GoFs Comportamentais são padrões voltados para alterações no nível do comportamento dos objetos. Auxiliam quando é necessério, por exemplo, usar vários algoritmos diferentes, cada qual mais apropriado para um determinado contexto. Permitem, nesse caso, usar mecanismos/recursos para facilitar tanto a incorporação de novos algoritmos para 
+novos contextos quanto a seleção de qual algoritmo usar dado um contexto.
 
 
 ## Iterator
@@ -159,6 +168,75 @@ var Chatroom = function () {
 ```
 Fonte: <a href="https://www.dofactory.com/javascript/design-patterns/mediator">DoFactory</a>[3]
 
+&emsp;&emsp;Entre os principais GoFs comportamentais temos o Observer, que consiste em definir um mecanismo eficiente para reagir
+às alterações realizadas em determinados objetos.
+
+&emsp;&emsp;No pattern observer, é criado uma relação de dependência um-para-muitos entre objetos que funciona da forma seguinte:quando um certo objeto, chamado subject tem seu estado modificado, outros objetos, chamados observers, são notificados. 
+
+&emsp;&emsp;O Observer é formado por métodos que possuem padrões de nomenclatura e comportamentos específicos. É importante seguir estes padrões para que implementações diferentes do Observer possam ser facilmente identificadas por desenvolvedores que não as codificaram.
+
+&emsp;&emsp; Na figura 4 abaixo, será representado como funciona esse padrão no nível de modelagem, e quais são os participantes desse design.
+<center>
+<img src="../../../assets/img/padroes/observer-padrao.png" class="zoom"> 
+<h6>Figura 4: Observer Padrão.</h6>
+<h6>Fonte: Padrões de Projetos.</h6>
+</center>
+
+<center>
+<img src="../../../assets/img/padroes/imagem-observer.png" class="zoom"> 
+<h6>Figura 4: Exemplo de imagem sobre Observer.</h6>
+<h6>Fonte: Padrões de Projetos.</h6>
+</center>
+
+&emsp;&emsp; Abaixo, um exemplo em código de como aplicar esse padrão em Javascript:
+
+```
+function Click() {
+    this.handlers = [];  // observers
+}
+
+Click.prototype = {
+
+    subscribe: function (fn) {
+        this.handlers.push(fn);
+    },
+
+    unsubscribe: function (fn) {
+        this.handlers = this.handlers.filter(
+            function (item) {
+                if (item !== fn) {
+                    return item;
+                }
+            }
+        );
+    },
+
+    fire: function (o, thisObj) {
+        var scope = thisObj || window;
+        this.handlers.forEach(function (item) {
+            item.call(scope, o);
+        });
+    }
+}
+
+function run() {
+
+    var clickHandler = function (item) {
+        console.log("fired: " + item);
+    };
+
+    var click = new Click();
+
+    click.subscribe(clickHandler);
+    click.fire('event #1');
+    click.unsubscribe(clickHandler);
+    click.fire('event #2');
+    click.subscribe(clickHandler);
+    click.fire('event #3');
+}
+```
+Fonte: [DoFactory](https://www.dofactory.com/javascript/design-patterns/observer)
+
 ## Command
 
 &emsp;&emsp;No pattern Command, uma operação é encapsulada como um objeto de comando e passada para o objeto invocador. O objeto invocador passa o comando para o objeto correspondente, que executa o comando. O padrão de comando encapsula ações como objetos. Nesse padrão temos uma uma pilha de comandos sempre que um comando é executado e enviado para a mesma.
@@ -230,3 +308,11 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
 > [12] AND, A. Learning Python Design Patterns - Second Edition. Disponível em: <https://www.oreilly.com/library/view/learning-python-design/9781785888038/ch07s04.html>. Acesso em: 16 mar. 2022.
 
 > [13] Design Patterns and Refactoring. Disponível em: <https://sourcemaking.com/design_patterns/command>. Acesso em: 16 mar. 2022.
+
+> [14] Arquitetura e Desenho de Software AULA - GOFS COMPORTAMENTAIS Profa. Milene Serrano
+
+> [15] Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Observer>. Acesso em: 16 mar. 2022.
+
+> [16] Refactoring Guru. **Observer**. Disponível em: <https://refactoring.guru/design-patterns/observer>. Acesso em: 16 mar. 2022.
+
+> [17] Wikipédia. Disponível em: <https://en.wikipedia.org/wiki/Observer_pattern>. Acesso em: 16 mar. 2022.
