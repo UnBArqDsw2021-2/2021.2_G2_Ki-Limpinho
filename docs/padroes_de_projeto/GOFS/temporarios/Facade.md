@@ -1,6 +1,7 @@
 | Data       | Versão | Descrição        | Autor(es)                                      |
-| ---------- | ------ | ---------------- | ---------------------------------------------- |
-| 17.03.2022 | 0.1    | Adição do Facade | [[Caio Martins](https://github.com/linktocaio) |
+| :----------: | :------: | :----------------: | :----------------------------------------------: |
+| 17.03.2022 | 0.1    | Adição do Facade | [Caio Martins](https://github.com/linktocaio) |
+| 21.03.2022 | 0.1.1    | Revisão do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
 ## Facade
 
@@ -20,4 +21,5 @@
 ## Referências
 
 > [1] BRIENZO, Marcos. Facade. Disponível em: <https://brizeno.wordpress.com/category/padroes-de-projeto/facade/>. Acesso em 17, mar de 2022.
+
 > [2] Refactoring Guru. Facade. Disponível em: <https://refactoring.guru/pt-br/design-patterns/facade>. Acesso em: 17 de mar de 2022.
