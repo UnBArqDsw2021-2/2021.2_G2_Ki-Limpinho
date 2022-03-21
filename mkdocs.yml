@@ -131,11 +131,7 @@ nav:
                   - Ata 08/02/2022: 'Atas/ATA_08_02_2022.md'
   - Desenho de Software(Padrões de Projeto):
       - GRASP's:
-          - Alta Coesão: 'padroes_de_projeto/GRASPS/AltaCoesao.md'
-          - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
-          - Controlador: 'padroes_de_projeto/GRASPS/Controlador.md'
-          - Criador: 'padroes_de_projeto/GRASPS/Criador.md'
-          - Especialista: 'padroes_de_projeto/GRASPS/Especialista.md'
+          - GRASP: "padroes_de_projeto/GRASPS/grasps.md"
       - GOF's:
           - Comportamentais: 'padroes_de_projeto/GOFS/Comportamentais.md'
           - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
