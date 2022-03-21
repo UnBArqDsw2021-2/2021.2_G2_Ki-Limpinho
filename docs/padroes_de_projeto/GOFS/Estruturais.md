@@ -4,6 +4,7 @@
 | -- | -- | -- | -- |
 | 18.03.2022 | 0.1 | Criação do documento | [Lucas Lima](https://github.com/mibasFerraz) |
 | 21.03.2022 | 0.2 | Revisado | [Yuri Alves](https://github.com/yuriAlves5) |
+| 21.03.2022 | 0.3 | Adição do Flyweight | [Davi Matheus ](https://github.com/DaviMatheus) |
 
 ## Bridge
 <p align="justify">&emsp;&emsp;
