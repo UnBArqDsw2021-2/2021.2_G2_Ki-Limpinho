@@ -1,5 +1,3 @@
-# <center> Design Sprint
-
 ### Histórico de versão<br>
 
 | Data       | Versão | Descrição            | Autor(es)  |
