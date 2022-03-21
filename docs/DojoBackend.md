@@ -19,7 +19,7 @@ O cenário que fez necessária a criação de um treinamento específico para o 
 
 ##  Metodologia
 
-<p align="justify">&emsp;&emsp; 
+&emsp;&emsp; 
 Uma vez que uma das grandes dificuldades do grupo é a de encontrar um horário em que todos os membros estejam disponíveis para reuniões, foi definido que o DOJO fosse realizado de maneira síncrona, porém a gravação do dojo seria disponibilizada para os integrantes que não puderam comparecer. Além disso o "instrutor" do DOJO deve se mostrar disponível para responder dúvidas e para fornecer auxílio durante as primeiras sprints de desenvolvimento de código.
 
 A partir deste cenário, foram levantados os seguintes tópicos que foram abordados na execução do DOJO:
@@ -33,14 +33,12 @@ A partir deste cenário, foram levantados os seguintes tópicos que foram aborda
 * Explicar a função dos models e controllers.
 * Mostrar a utilização da API criada.
 
-</p>
-
 ## Resultados
 
 ###  Gravação da explicação do template
 
 <p align='center'>
-    <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="949" height="534" src="https://www.youtube.com/embed/KrtVrG1KZ_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## Conclusão

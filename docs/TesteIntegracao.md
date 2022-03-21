@@ -40,6 +40,7 @@
 </a></center>
 <center>Autor:  <a href='https://github.com/fernandes-natanael'>Natanel Filho</a>, 2022.</center>
 
+## Referências
 
 > [1] Testes de integração na prática. **Devmedia**. Disponível em: <https://www.devmedia.com.br/teste-de-integracao-na-pratica/31877#1>. Acesso em 20, mar de 2022.
 

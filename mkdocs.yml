@@ -140,8 +140,8 @@ nav:
           - REST: "padroes_de_projeto/EMERGENTES/REST.md"
       - Iniciativas Extras:
           - Dojo:
-            - frontend: 'dojoNext.md'
-            - backend: 'DojoBackend.md'
+            - Frontend: 'dojoNext.md'
+            - Backend: 'DojoBackend.md'
           - Testes de Software:
             - Testes de Integração: "TesteIntegracao.md"
   - Sprints:

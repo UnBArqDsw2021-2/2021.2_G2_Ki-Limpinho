@@ -1,11 +1,11 @@
-# <center> DOJO do Front-end
+# <center> DOJO do Frontend
 
 ## Histórico de Versão<br>
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                   |
 | :--------: | :----: | :------------------: | :------------------------------------------: |
 | 19.03.2022 |  0.1   | Criação do documento | [Lucas Melo](https://github.com/luucas-melo) |
-| 19.03.2022 | 0.1.1 | Revisão do documento |[Jonathan Jorge](https://github.com/Jonathan-Oliveira))|
+| 19.03.2022 | 0.1.1 | Revisão do documento |[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
 
 ## Participantes
 
