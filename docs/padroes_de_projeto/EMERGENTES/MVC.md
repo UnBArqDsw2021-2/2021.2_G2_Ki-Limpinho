@@ -6,7 +6,8 @@
 | :-:|:-:|:-:|:-: |
 | 18.03.2022 | 0.1 | Criação do documento |[Davi matheus](https://github.com/DaviMatheus)</br>[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
 | 19.03.2022 | 0.2 | Adição da introdução, metodologia e resultados  |[Davi matheus](https://github.com/DaviMatheus)</br>[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
-| 20.03.2022 | 0.2 | Adição dos codigos  |[Davi matheus](https://github.com/DaviMatheus)</br>[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
+| 20.03.2022 | 0.3 | Adição dos codigos  |[Davi matheus](https://github.com/DaviMatheus)</br>[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
+| 23.03.2022 | 0.4 | Revisão PR  |[Nilvan Peres](https://github.com/NilvanPeres)|
 
 ## Participantes
 
@@ -97,7 +98,7 @@ dinâmica, em que por padrão o middleware já vem implementado no express, se t
             </a>
         </b>
         <br>
-        <small>Fonte:<a href='https://www.devmedia.com.br/padrao-mvc-java-magazine/21995#2'>Codigo do Projeto</a></small>
+        <small>Fonte:<a href='https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho_Backend/blob/develop/server/user/user.model.js'>Codigo do Projeto</a></small>
     </figcaption>
 </p>
 
@@ -110,7 +111,7 @@ dinâmica, em que por padrão o middleware já vem implementado no express, se t
             </a>
         </b>
         <br>
-        <small>Fonte:<a href='https://www.devmedia.com.br/padrao-mvc-java-magazine/21995#2'>Codigo do Projeto</a></small>
+        <small>Fonte:<a href='https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho_Backend/blob/develop/server/user/user.controller.js'>Codigo do Projeto</a></small>
     </figcaption>
 </p>
 
