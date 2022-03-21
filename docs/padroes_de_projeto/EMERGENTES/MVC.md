@@ -1,4 +1,4 @@
-# <center> Design Sprint
+# <center> MVC
 
 ## Histórico de Versão<br>
 
@@ -6,6 +6,7 @@
 | :-:|:-:|:-:|:-: |
 | 18.03.2022 | 0.1 | Criação do documento |[Davi matheus](https://github.com/DaviMatheus)</br>[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
 | 19.03.2022 | 0.2 | Adição da introdução, metodologia e resultados  |[Davi matheus](https://github.com/DaviMatheus)</br>[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
+| 20.03.2022 | 0.2 | Adição dos codigos  |[Davi matheus](https://github.com/DaviMatheus)</br>[Jonathan Jorge](https://github.com/Jonathan-Oliveira)|
 
 ## Participantes
 
@@ -77,6 +78,40 @@ O modelo é a camada responsável pela lógica da aplicação, ou seja, pela reg
 
 <p align="justify">&emsp;&emsp;
 Uma vez que as requisições são enviadas pela visão e a lógica de negócio está centralizada no modelo, o controlador vem para ser um intermediador e  realizar a conexão entre as duas camadas de maneira organizada. Deste modo, toda requisição gerada pelo cliente é direcionada para o controlador, que por sua vez comunica com o modelo. Se o modelo criar uma resposta para essas requisições, ele retornará para o controlador, e este então enviará para a visão.
+</p>
+
+### Aplicação MVC no Projeto
+
+<p align="justify">&emsp;&emsp;
+   Como dito anteriormente nossa aplicação usa o node.js mas também utiliza a biblioteca express para tratar as requisições de maneira mais simples e 
+dinâmica, em que por padrão o middleware já vem implementado no express, se tratando de intercepting filter pattern do chain of responsibility.
+</p>
+
+
+<p align='center'>
+    <img src='../../../assets/img/padroes_de_projeto/model.jpeg'>
+    <figcaption align='center'>
+        <b>
+            <a href='../../../assets/img/padroes_de_projeto/model.jpeg'>
+               Figura 2: Exemplo da Model User
+            </a>
+        </b>
+        <br>
+        <small>Fonte:<a href='https://www.devmedia.com.br/padrao-mvc-java-magazine/21995#2'>Codigo do Projeto</a></small>
+    </figcaption>
+</p>
+
+<p align='center'>
+    <img src='../../../assets/img/padroes_de_projeto/controller.jpeg'>
+    <figcaption align='center'>
+        <b>
+            <a href='../../../assets/img/padroes_de_projeto/controller.jpeg'>
+               Figura 3: Exemplo da Controller
+            </a>
+        </b>
+        <br>
+        <small>Fonte:<a href='https://www.devmedia.com.br/padrao-mvc-java-magazine/21995#2'>Codigo do Projeto</a></small>
+    </figcaption>
 </p>
 
 ## Conclusão
