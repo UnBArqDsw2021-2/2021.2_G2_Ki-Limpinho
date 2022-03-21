@@ -62,4 +62,3 @@
 
 ## Referências
 
-> [1] Design Patters - Elements of Reusable Object-Oriented Software. Disponível em: <http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.pdf>. Acesso em: 15 mar. de 2022.

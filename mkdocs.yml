@@ -138,6 +138,7 @@ nav:
           - Estruturais: "padroes_de_projeto/GOFS/Estruturais.md"
       - Emergentes:
           - MVC: "padroes_de_projeto/EMERGENTES/MVC.md"
+
           - REST: "padroes_de_projeto/EMERGENTES/REST.md"
       - Iniciativas Extras:
           - Dojo:
