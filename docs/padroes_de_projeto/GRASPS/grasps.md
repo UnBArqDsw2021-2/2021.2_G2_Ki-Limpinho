@@ -1,19 +1,19 @@
 # <center> GRASPS
 
 
-### Histórico de Versão
+## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 20/03/2022 |  0.1   | Criação do Documento | [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.2   | Adição da introdução | [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.3   | Adição de Alta Coesão | [Caio Martins](https://github.com/linktocaio) <br> [Yuri Alves](https://github.com/yuriAlves5)<br> [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.4   | Adição de Baixo Acoplamento | [Henrique Amorim](https://github.com/HenriqueAmorim20) <br> [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.5   | Adição de Controlador | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) <br> [Peniel Etèmana](https://github.com/zpeniel09)<br> [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.6   | Adição de Criador | [Lucas Melo](https://github.com/luucas-melo)<br>[Nilvan Peres](https://github.com/NilvanPeres)<br> [Lucas Lima](https://github.com/mibasFerraz) |
-| 21/03/2022 |  0.7   | Adição da Bibliografia | [Lucas Lima](https://github.com/mibasFerraz) |
+| 20.03.2022 |  0.1   | Criação do Documento | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 |  0.2   | Adição da introdução | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 |  0.3   | Adição de Alta Coesão | [Caio Martins](https://github.com/linktocaio) <br> [Yuri Alves](https://github.com/yuriAlves5)<br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 |  0.4   | Adição de Baixo Acoplamento | [Henrique Amorim](https://github.com/HenriqueAmorim20) <br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 |  0.5   | Adição de Controlador | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) <br> [Peniel Etèmana](https://github.com/zpeniel09) <br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 |  0.6   | Adição de Criador | [Lucas Melo](https://github.com/luucas-melo)<br>[Nilvan Peres](https://github.com/NilvanPeres)<br> [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 |  0.7   | Adição das Referências | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 |  1.0   | Revisão do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 
-
-### Introdução
+## Introdução
 
 &emsp;&emsp; GRASP é um acrônimo para **General Responsability Assignment Software Patterns**, que em tradução livre significa **Padrões de Software para Atribuições Gerais de Responsabilidades**. Para a compreensão dos GRASP's, é primeiro necessário a contextualização da abordagem em mais alto nível, esta chamada de **Responsability-Driven-Development**, ou simplesmente **RDD**, que em tradução livre significa **Projeto Guiado por Responsabilidades**.
 
@@ -36,24 +36,25 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 
  &emsp;&emsp;No nosso projeto utilizamos os GRASP criador, baixo acoplamento, controlador e criador.
 
-## Alta Coesão
+## Resultados
 
-### Definição
+### Alta Coesão
+
+#### Definição
 
 &emsp;&emsp; Alta coesão é um principio avaliativo que prega a divisão de responsabilidades entre as classe. Isso é, uma classe coesa é aquela que lhe foi delegada apenas as suas responsabilidades que estão fortemente relacionadas e altamente focadas. Classes com baixa coesão frequentemente são de difícil compreensão, difíceis de se reutilizar, manter ou alterar.
 
-### Utilização
+#### Utilização
 
-&emsp;&emsp; Utilização da alta coesão deve estar presente durante todo o projeto para garantir que cada classe possua um única responsabilidade, dessa forma deixando-a entendível, reutilizável e enxuta. Dessa maneira tornando as interfaces de comunicação mais claras, enquanto deixa as classes mais legíveis e amigáveis a expansões e alterações mantendo a complexidade gerenciável.
+&emsp;&emsp; Utilização da alta coesão deve estar presente durante todo o projeto para garantir que cada classe possua um única responsabilidade, dessa forma deixando-a compreensível, reutilizável e enxuta. Dessa maneira tornando as interfaces de comunicação mais claras, enquanto deixa as classes mais legíveis e amigáveis a expansões e alterações mantendo a complexidade gerenciável.
 
-### Conclusão
+#### Conclusão
 
 &emsp;&emsp; Com o presente documento é possível demonstrar a importância dos padrões de projeto GRASP dentro da construção da base do código, isto é, ser capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes.
 
+### Baixo Acoplamento
 
-## Baixo Acoplamento
-
-### Definição
+#### Definição
 
 &emsp;&emsp; Para definir o princípio do Baixo Acoplamento, antes é preciso definir em termos palpáveis o que é acoplamento: Larman define o acoplamento como uma métrica para mensurar o quão fortemente conectado se encontra o estado de um código específico, isto é, o quão dependente a camada de *conhecer* está entre os diversos componentes do sistema [1]. A partir disso, o princípio do baixo acoplamento fornece a visão necessária para a decisão da melhor forma de implementação que satisfaça:
 
@@ -61,26 +62,27 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 - menor impacto por mudanças em classes existentes;
 - maior potencial de reutilização de código.
 
-### Utilização
+#### Utilização
 
 &emsp;&emsp; Ao utilizarmos os padrões já estabelecidos por uma REST API usando express, mongoose em NodeJS(ES6), já estamos utilizando as práticas de Baixo acoplamento, visto que cada um dos arquivos tem sua própria responsabilidade e seus próprios métodos definidos. Desta forma, a própria ferramenta já proporciona um nível adequado de conexão entre os componentes do código e também de modularização e reutilização do código.
 
-### Conclusão
+#### Conclusão
 
 &emsp;&emsp; Após todo o conteúdo explicitado neste documento, é possível evidenciar a importância dos padrões de projeto GRASP dentro da construção da base de código do projeto, isto é, é capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes no código.
 
-## Controlador
+### Controlador
 
-### Definição
-<p align="justify">&emsp;&emsp;O grasp controller ou controlador delega a responsabilidade pelo tratamento de evento do sistema à classes diferente da interface do usuário, ele delega o trabalho que precisa ser feito para outros objetos. Entre as normas que fazem parte desse padrão temos o Controller sobre qual estaremos falando.
-</p>
+#### Definição
 
-### Metodologia
+&emsp;&emsp;O grasp controller ou controlador delega a responsabilidade pelo tratamento de evento do sistema à classes diferente da interface do usuário, ele delega o trabalho que precisa ser feito para outros objetos. Entre as normas que fazem parte desse padrão temos o Controller sobre qual estaremos falando.
+
+
+#### Metodologia
 
 <p align="justify">&emsp;&emsp;  O controlador é a camada responsável por receber as entradas que os usuários fazem através da interface do usuário e tratar desses eventos, geralmente é a camada intermediária entre as requisições dos atores e o backend que responde às requisições dessas requisições. Essa camada é responsável por entender as requisições dos usuários e logo em seguida redireciona essa requisição para o elemento no backend responsável por tratá-la. Em nosso código usamos muito o padrão controller e abaixo temos um exemplo de sua implementação. A metodologia que utilizaremos seria os controllers(controladores) do nosso projeto.
 </p>
 
-### Resultados
+#### Utilização
 
 <p align="justify">&emsp;&emsp;
 Aqui temos cinco classes onde são implementados os controllers, uma para alguns dos principais objetos do sistema. O diagrama completo do projeto está disponível no <a href='../../../DiagramaDeClasses'>diagrama do classes</a>.
@@ -96,22 +98,22 @@ Aqui temos cinco classes onde são implementados os controllers, uma para alguns
   </figcaption>
 </p>
 
-### Conclusão
+#### Conclusão
 
 <p align="justify">&emsp;&emsp;
 
 Este padrão, trabalha como uma camada de indireção para acontecimentos do projeto. Deixando os eventos causados pela Interface desacoplados dos objetos responsáveis por tratar a requisição, tornando o sistema mais flexível de fácil manutenção.
 </p>
 
-## Criador
+### Criador
 
-### Introdução
+#### Introdução
 
 <p align="justify">&emsp;&emsp;
-    Creator ou Criador é um dos padrões de Projeto GRASP, que assim como os outros tentam atribuir responsabilidades, papéis e colaborações. A criação de desenho de software desse padrão foca em identificar os responsáveis ideais para criação de objetos. Essa atribuição de obrigações de criação de objetos é de extrema importância para a modelagem do domínio, pois permite que a construção do software reduza acomplamentos desnecessários, além de facilitar o encapsulamento e reutilização do software. [2]
+    Creator ou Criador é um dos padrões de Projeto GRASP, que assim como os outros tentam atribuir responsabilidades, papéis e colaborações. A criação de desenho de software desse padrão foca em identificar os responsáveis ideais para criação de objetos. Essa atribuição de obrigações de criação de objetos é de extrema importância para a modelagem do domínio, pois permite que a construção do software reduza acoplamentos desnecessários, além de facilitar o encapsulamento e reutilização do software. [2]
 </p>
 
-### Metodologia
+#### Metodologia
 
 <p align="justify">&emsp;&emsp;
     Determinar isso pode não ser uma tarefa tão simples, por isso é importante analisar bem. Uma forma para determinar o responsável pela criação desses objetos é verificando da seguinte forma, supondo que temos uma classe A e B. A classe A cria a classe B se[1]:
@@ -122,12 +124,12 @@ Este padrão, trabalha como uma camada de indireção para acontecimentos do pro
 <li>B usa A</li>
 <li>B tem os dados necessários para a inicialização de A que serão passados ao construtor de A</li>
 
-### Conclusão
+#### Conclusão
 
 <div style="width: 480px; height: 360px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:480px; height:360px" src="https://lucid.app/documents/embeddedchart/92a215e1-c772-41b4-b751-9ca7cb76976c" id="9T82cDyCgAB5"></iframe></div>
 
 
-## Bibliografia
+## Referências
 
 > - [1] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
 
