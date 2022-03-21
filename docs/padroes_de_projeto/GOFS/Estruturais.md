@@ -2,7 +2,8 @@
 
 | Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 18.03.2022 | 0.1 | Criação do documento | Lucas Lima |
+| 18.03.2022 | 0.1 | Criação do documento | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21.03.2022 | 0.2 | Revisado | [Yuri Alves](https://github.com/yuriAlves5) |
 
 ## Bridge
 O padrão Bridge é mais um dos vinte e três padrões descritos no livro “Design Patterns: Elements of Reusable Object-Oriented Software“ e é muito utilizado quando se deseja separar abstração de implementação justamente porque lida diretamente com a estrutura com que as interfaces e classes são elaboradas. Essa característica peculiar o elevou a ser considerado como um padrão estrutural e tornou possível sua aplicação em pontes de conexão com Banco de Dados.
