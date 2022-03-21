@@ -8,6 +8,7 @@
 | 21/03/2022 |  0.2   | Adição da introdução | [Lucas Lima](https://github.com/mibasFerraz) |
 | 21/03/2022 |  0.3   | Adição de Alta Coesão | [Lucas Lima](https://github.com/mibasFerraz) |
 | 21/03/2022 |  0.3   | Adição de Baixo Acoplamento | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.3   | Adição de Controlador | [Lucas Lima](https://github.com/mibasFerraz) |
 
 
 ### Introdução
@@ -66,3 +67,34 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 
 &emsp;&emsp; Após todo o conteúdo explicitado neste documento, é possível evidenciar a importância dos padrões de projeto GRASP dentro da construção da base de código do projeto, isto é, é capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes no código.
 
+
+<p align="justify">&emsp;&emsp;O grasp controller ou controlador delega a responsabilidade pelo tratamento de evento do sistema à classes diferente da interface do usuário, ele delega o trabalho que precisa ser feito para outros objetos. Entre as normas que fazem parte desse padrão temos o Controller sobre qual estaremos falando.
+</p>
+
+## Metodologia
+
+<p align="justify">&emsp;&emsp;  O controlador é a camada responsável por receber as entradas que os usuários fazem através da interface do usuário e tratar desses eventos, geralmente é a camada intermediária entre as requisições dos atores e o backend que responde às requisições dessas requisições. Essa camada é responsável por entender as requisições dos usuários e logo em seguida redireciona essa requisição para o elemento no backend responsável por tratá-la. Em nosso código usamos muito o padrão controller e abaixo temos um exemplo de sua implementação. A metodologia que utilizaremos seria os controllers(controladores) do nosso projeto.
+</p>
+
+## Resultados
+
+<p align="justify">&emsp;&emsp;
+Aqui temos cinco classes onde são implementados os controllers, uma para alguns dos principais objetos do sistema. O diagrama completo do projeto está disponível no <a href='../../../DiagramaDeClasses'>diagrama do classes</a>.
+</p>
+<p style="text-align: center">
+<img src='..\..\..\assets\img\grasp\controlador.jpg' width='80%'>
+  <figcaption align='center'>
+      <b>
+          <a href='..\..\..\assets\img\grasp\controlador.jpg'>
+                Figura 1: Aplicação do controller no projeto
+          </a>
+      </b>
+  </figcaption>
+</p>
+
+## Conclusão
+
+<p align="justify">&emsp;&emsp;
+
+Este padrão, trabalha como uma camada de indireção para acontecimentos do projeto. Deixando os eventos causados pela Interface desacoplados dos objetos responsáveis por tratar a requisição, tornando o sistema mais flexível de fácil manutenção.
+</p>
