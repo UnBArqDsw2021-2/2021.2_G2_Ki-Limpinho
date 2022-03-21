@@ -130,6 +130,7 @@ nav:
               - Atas de Reunião:
                   - Ata 08/02/2022: 'Atas/ATA_08_02_2022.md'
   - Desenho de Software(Padrões de Projeto):
+
       - GRASP's:
           - Alta Coesão: 'padroes_de_projeto/GRASPS/AltaCoesao.md'
           - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
@@ -141,6 +142,8 @@ nav:
           - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
           - Estruturais: "padroes_de_projeto/GOFS/Estruturais.md"
       - Emergentes:
+          - MVC: "padroes_de_projeto/EMERGENTES/MVC.md"
+
           - REST: "padroes_de_projeto/EMERGENTES/REST.md"
       - Iniciativas Extras:
           - Dojo:
@@ -167,6 +170,7 @@ nav:
           - Review: 'Sprints/sprint05/Review.md'
       - Sprint 6:
           - Planning: 'Sprints/sprint06/Planning06.md'
+
   - Apresentações:
       - Apresentação da Entrega 1: 'apresentacoes/Entrega1.md'
       - Apresentação da Entrega 2: 'apresentacoes/Entrega2.md'
