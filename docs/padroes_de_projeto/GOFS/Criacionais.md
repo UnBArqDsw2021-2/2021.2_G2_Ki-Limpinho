@@ -19,6 +19,7 @@
 * [Jonathan Jorge](https://github.com/Jonathan-Oliveira)
 * [Nilvan Peres](https://github.com/NilvanPeres)
 * [Natanael Filho](https://github.com/fernandes-natanael)
+- [Peniel Etèmana](https://github.com/zpeniel09)
 
 ## Abstract Factory
 
@@ -61,10 +62,6 @@
 </p>
 
 
-- [Peniel Etèmana](https://github.com/zpeniel09)
-
-- [Natanael Filho](https://github.com/fernandes-natanael)
-
 ## Factory Method
 
 &emsp;&emsp;O Factory Method é um padrão bastante adotado por diversas linguagens. Consiste basicamente na definição de uma interface comum para criação de objetos, deixando para as subclasses a responsabilidade de instanciá-los. Essa estrutura é composta pelas interfaces Product, ConcreteProduct, Creator e ConcreteCreator.
@@ -80,14 +77,16 @@
 &emsp;&emsp;Em nosso projeto, é possível utilizar o Factory Method na classe "UsuarioControlador", onde pode ser implementado uma interface com os atributos e métodos necessários, uma ConcreteProduct que realize a implementação dos métodos, e por meio de uma ConcreteCreater realizar a redefinição específica para cada tipo de usuário.
 
 <center>
-  <img src='../../assets/img/factoryMethod/factoryMethod.png' width="200px">
+  <img src='../../../assets/img/factoryMethod/factoryMethod.png' width="200px">
   <figcaption align='center'>
         <b>
-            <a href='../../assets/img/factoryMethod/factoryMethod.png'>
+            <a href='../../../assets/img/factoryMethod/factoryMethod.png'>
               Figura 1: Factory Method
             </a>
         </b>   
       <br>
+      <small>Autor: Henrique Melo</a>, 2022.</small>
+    </figcaption>
 </center>
 
 ## Prototype
@@ -189,10 +188,10 @@ O padrão prototype deve ser aplicado quando:
 </p>
 
 <p align='center'>
-  <img src='../../../../assets/img/gof/application_builder.png'>
+  <img src='../../../../../assets/img/gof/application_builder.png'>
   <figcaption align='center'>
         <b>
-            <a href='../../../../assets/img/gof/application_builder.png'>
+            <a href='../../../../../assets/img/gof/application_builder.png'>
                Figura 4: Estrutura da aplicação do padrão Builder
             </a>
         </b>   
@@ -257,9 +256,8 @@ O padrão prototype deve ser aplicado quando:
     </ol>
 </p>
 
-<p align="justify">&emsp;&emsp;
-    Dessa forma, podemos concluir que, o padrão Builder facilita na separação de toda a lógica de criação dos objetos, evitando que as classes que representam esses objetos finais fiquem muito extensas e de pouca manutenibilidade, além de prover a implementação de múltiplos builders especializados, onde tem-se objetos construídos em cima de uma interface.
-</p>
+&emsp;&emsp;Dessa forma, podemos concluir que, o padrão Builder facilita na separação de toda a lógica de criação dos objetos, evitando que as classes que representam esses objetos finais fiquem muito extensas e de pouca manutenibilidade, além de prover a implementação de múltiplos builders especializados, onde tem-se objetos construídos em cima de uma interface.
+
 
 ## Singleton
 
