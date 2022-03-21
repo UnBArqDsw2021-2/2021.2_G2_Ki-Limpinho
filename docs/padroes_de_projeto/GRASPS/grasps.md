@@ -7,6 +7,7 @@
 | 20/03/2022 |  0.1   | Criação do Documento | [Lucas Lima](https://github.com/mibasFerraz) |
 | 21/03/2022 |  0.2   | Adição da introdução | [Lucas Lima](https://github.com/mibasFerraz) |
 | 21/03/2022 |  0.3   | Adição de Alta Coesão | [Lucas Lima](https://github.com/mibasFerraz) |
+| 21/03/2022 |  0.3   | Adição de Baixo Acoplamento | [Lucas Lima](https://github.com/mibasFerraz) |
 
 
 ### Introdução
@@ -45,4 +46,23 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 ## Conclusão
 
 &emsp;&emsp; Com o presente documento é possível demonstrar a importância dos padrões de projeto GRASP dentro da construção da base do código, isto é, ser capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes.
+
+
+## Baixo Acoplamento
+
+### Definição
+
+&emsp;&emsp; Para definir o princípio do Baixo Acoplamento, antes é preciso definir em termos palpáveis o que é acoplamento: Larman define o acoplamento como uma métrica para mensurar o quão fortemente conectado se encontra o estado de um código específico, isto é, o quão dependente a camada de *conhecer* está entre os diversos componentes do sistema [1]. A partir disso, o princípio do baixo acoplamento fornece a visão necessária para a decisão da melhor forma de implementação que satisfaça:
+
+- a menor dependência entre as classes;
+- menor impacto por mudanças em classes existentes;
+- maior potencial de reutilização de código.
+
+### Utilização
+
+&emsp;&emsp; Ao utilizarmos os padrões já estabelecidos por uma REST API usando express, mongoose em NodeJS(ES6), já estamos utilizando as práticas de Baixo acoplamento, visto que cada um dos arquivos tem sua própria responsabilidade e seus próprios métodos definidos. Desta forma, a própria ferramenta já proporciona um nível adequado de conexão entre os componentes do código e também de modularização e reutilização do código.
+
+## Conclusão
+
+&emsp;&emsp; Após todo o conteúdo explicitado neste documento, é possível evidenciar a importância dos padrões de projeto GRASP dentro da construção da base de código do projeto, isto é, é capaz de se identificar quais são as atribuições e responsabilidades de cada um dos componentes presentes no código.
 
