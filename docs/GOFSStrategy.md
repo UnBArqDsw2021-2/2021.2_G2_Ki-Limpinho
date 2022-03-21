@@ -7,6 +7,7 @@
 | 15.3.2022 | 0.1    | Criação do documento     | [Yuri Alves](https://github.com/yuriAlves5) |
 | 21.3.2022 | 0.2    | Adição da introdução     | [Yuri Alves](https://github.com/yuriAlves5) |
 | 21.3.2022 | 0.3    | Adição da aplicabilidade | [Yuri Alves](https://github.com/yuriAlves5) |
+| 21.3.2022 | 0.4    | Revisão do documento  | [Peniel Etèmana](https://github.com/zpeniel09) |
 
 ### Participantes
 
