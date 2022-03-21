@@ -5,6 +5,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | :-:|:-:|:-:|:-: |
 | 18.03.2022 | 0.1 | Criação do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+| 21.03.2022 | 0.1 | Revisão do Documento | [Nilvan Peres](https://github.com/NilvanPeres) |
 
 ## Participantes
 
@@ -98,7 +99,7 @@ Usualmente usa-se o método PUT para atualizar parte de um recurso ao invés do 
 ### Aplicação
 
 <p align="justify">&emsp;&emsp;
-Segue um exemplo da aplicação do REST no Back-end do Ki-limpinho, feita com Node.Js, onde pode ser visualizado a disponibilização dos principais métodos HTTP utilizados para manipulação de dados do usuário.
+Segue um exemplo da aplicação do REST no <a href="https://github.com/UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho_Backend/blob/develop/server/user/user.route.js">Back-end do Ki-limpinho</a>, feita com Node.Js, onde pode ser visualizado a disponibilização dos principais métodos HTTP utilizados para manipulação de dados do usuário.
 </p>
 
 ```javascript

@@ -135,7 +135,7 @@ nav:
       - Baixo Acomplamento: "padroes_de_projeto/GRASPS/BaixoAcoplamento.md"
       - Controlador: "padroes_de_projeto/GRASPS/Controlador.md"
     - Emergentes:
-      - REST: "padroes_de_projeto/emergentes/REST.md"
+      - REST: "padroes_de_projeto/EMERGENTES/REST.md"
   - Sprints: 
     - Sprint 1:
         - Planning: "Sprints/sprint01/Planning.md"
