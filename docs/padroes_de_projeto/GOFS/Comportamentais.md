@@ -1,4 +1,7 @@
+# <center> Comportamentais
+
 ## Histórico de Versão<br>
+
 |Data | Versão | Descrição | Autor(es)|
 | :-:|:-:|:-:|:-: |
 | 15.03.2022 | 0.1    | Criação do command | [Lucas Melo](https://github.com/luucas-melo) |
@@ -13,15 +16,13 @@
 | 21.03.2022 | 0.7    | Revisão observer | [Nilvan Peres](https://github.com/NilvanPeres) |
 
 
-
-
 ## Participantes
 
- - [Lucas Ferraz](https://github.com/mibasFerraz)
- - [Nilvan Peres](https://github.com/NilvanPeres)
- - [Caio Martins](https://github.com/linktocaio)
- - [Lucas Melo](https://github.com/luucas-melo)
- - [Peniel Etèmana](https://github.com/zpeniel09)
+ * [Lucas Ferraz](https://github.com/mibasFerraz)
+ * [Nilvan Peres](https://github.com/NilvanPeres)
+ * [Caio Martins](https://github.com/linktocaio)
+ * [Lucas Melo](https://github.com/luucas-melo)
+ * [Peniel Etèmana](https://github.com/zpeniel09)
 
 ## Introdução
 
