@@ -1,7 +1,7 @@
 # <center> GRASPS
 
-
 ## Histórico de Versão
+
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 20.03.2022 |  0.1   | Criação do Documento | [Lucas Lima](https://github.com/mibasFerraz) |
@@ -131,22 +131,22 @@ Este padrão, trabalha como uma camada de indireção para acontecimentos do pro
 
 ## Referências
 
-> - [1] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
+> [1] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
 
-> - [2] Desenvolvimento com qualidade com GRASP. **DevMedia**. Disponível em: <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704> (Último acesso em 11/03/2022).
+> [2] Desenvolvimento com qualidade com GRASP. **DevMedia**. Disponível em: <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704> (Último acesso em 11/03/2022).
 
-> - [3] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP – PARTE I. 36 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP%20BASE%20Parte%20I%20-%20Profa.%20Milene.pdf> (Último acesso em 11/03/2022).
+> [3] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP – PARTE I. 36 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP%20BASE%20Parte%20I%20-%20Profa.%20Milene.pdf> (Último acesso em 11/03/2022).
 
-> - [4] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP_A - COMPLEMENTAR – PARTE I. 66 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP_A%20-%20Profa.%20Milene%20-%20Complementar.pdf> (Último acesso em 11/03/2022).
+> [4] SERRANO, Milene. Arquitetura e Desenho de Software AULA – GRASP_A - COMPLEMENTAR – PARTE I. 66 slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/897140/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP_A%20-%20Profa.%20Milene%20-%20Complementar.pdf> (Último acesso em 11/03/2022).
 
-> - [5] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
+> [5] Larman, C. 2005. Applying UML and Patterns – An Introduction to Object-Oriented Analysis and Design and Iterative Development 3rd ed. New Jersey.
 
-> - [6] BOAS, Leandro Vilas. Padrões GRASP - Padrões de Atribuir Responsabilidades. Disponível em: <https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204>. Acesso em 15, de Março de 2022.
+>  [6] BOAS, Leandro Vilas. Padrões GRASP - Padrões de Atribuir Responsabilidades. Disponível em: <https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204>. Acesso em 15, de Março de 2022.
 
-> - [7] Universidade Federal de Uberlândia. Padrões GRASP. Disponível em: <http://www.facom.ufu.br/~bacala/ESOF/05a-Padr%C3%B5es%20GRASP.pdf>. Acesso em 15, de Março de 2022.
+> [7] Universidade Federal de Uberlândia. Padrões GRASP. Disponível em: <http://www.facom.ufu.br/~bacala/ESOF/05a-Padr%C3%B5es%20GRASP.pdf>. Acesso em 15, de Março de 2022.
 
-> - [8] Controller – Padrões GRASP . Disponível em: <https://www.ramonsilva.net/post/controller-padr%C3%B5es-grasp>. Acesso em 15, de Março de 2022.
+> [8] Controller – Padrões GRASP . Disponível em: <https://www.ramonsilva.net/post/controller-padr%C3%B5es-grasp>. Acesso em 15, de Março de 2022.
 
-> - [9] GRASP: Designing Objetos com Responsabilidades. [s.l: s.n.]. Disponível em: <https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar16GRASP.pdf>. Acesso em: 13 mar. 2022.
+> [9] GRASP: Designing Objetos com Responsabilidades. [s.l: s.n.]. Disponível em: <https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar16GRASP.pdf>. Acesso em: 13 mar. 2022.
 
-> - [10] SERRANO, Milene. Módulo de padrões de projeto GRASPs. 07a -VídeoAula - GRASP Criador.  Disponível em: <https://aprender3.unb.br/course/view.php?id=11018&section=4>. Acesso em: 15 mar. 2022.
+> [10] SERRANO, Milene. Módulo de padrões de projeto GRASPs. 07a -VídeoAula - GRASP Criador.  Disponível em: <https://aprender3.unb.br/course/view.php?id=11018&section=4>. Acesso em: 15 mar. 2022.
