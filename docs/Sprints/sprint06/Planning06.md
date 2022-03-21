@@ -68,7 +68,8 @@
 Não houve definição
 
 ## 7. Gravação
-<iframe width="683" height="384" src="https://youtu.be/iKjyNuugjxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="921" height="518" src="https://www.youtube.com/embed/iKjyNuugjxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

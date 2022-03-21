@@ -155,5 +155,63 @@ nav:
       - Sprint 6:
           - Planning: 'Sprints/sprint06/Planning06.md'
   - Apresentações:
+    - GRASP:
+      - Alta Coesão: "padroes_de_projeto/GRASPS/AltaCoesao.md"
+      - Baixo Acomplamento: "padroes_de_projeto/GRASPS/BaixoAcoplamento.md"
+      - Controlador: "padroes_de_projeto/GRASPS/Controlador.md"
+    - GOF's: 
+      - Comportamentais: "padroes_de_projeto/GOFS/Comportamentais.md"
+  - Sprints: 
+    - Sprint 1:
+        - Planning: "Sprints/sprint01/Planning.md"
+        - Review: "Sprints/sprint01/Review.md"
+    - Sprint 2:
+        - Planning: "Sprints/sprint02/Planning02.md"
+        - Review: "Sprints/sprint02/Review.md"
+    - Sprint 3:
+        - Planning: "Sprints/sprint03/Planning03.md"
+        - Review: "Sprints/sprint03/Review.md"
+    - Sprint 4:
+        - Planning: "Sprints/sprint04/Planning04.md"
+        - Review: "Sprints/sprint04/Review.md"
+    - Sprint 5:
+        - Planning: "Sprints/sprint05/Planning05.md"
+        - Review: "Sprints/sprint05/Review.md"
+    - Sprint 6:
+        - Planning: "Sprints/sprint06/Planning06.md"
+  - Apresentações:
+      - Apresentação da Entrega 1: "apresentacoes/Entrega1.md"
+      - Apresentação da Entrega 2: "apresentacoes/Entrega2.md"
+      - GRASP:
+          - Alta Coesão: 'padroes_de_projeto/GRASPS/AltaCoesao.md'
+          - Baixo Acomplamento: 'padroes_de_projeto/GRASPS/BaixoAcoplamento.md'
+          - Controlador: 'padroes_de_projeto/GRASPS/Controlador.md'
+          - Criador: 'padroes_de_projeto/GRASPS/Criador.md'
+          - Especialista: 'padroes_de_projeto/GRASPS/Especialista.md'
+      - GOF's:
+          - Comportamentais: 'padroes_de_projeto/GOFS/Comportamentais.md'
+          - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
+      - Dojo:
+          - frontend: 'dojoNext.md'
+          - backend: 'DojoBackend.md'
+  - Sprints:
+      - Sprint 1:
+          - Planning: 'Sprints/sprint01/Planning.md'
+          - Review: 'Sprints/sprint01/Review.md'
+      - Sprint 2:
+          - Planning: 'Sprints/sprint02/Planning02.md'
+          - Review: 'Sprints/sprint02/Review.md'
+      - Sprint 3:
+          - Planning: 'Sprints/sprint03/Planning03.md'
+          - Review: 'Sprints/sprint03/Review.md'
+      - Sprint 4:
+          - Planning: 'Sprints/sprint04/Planning04.md'
+          - Review: 'Sprints/sprint04/Review.md'
+      - Sprint 5:
+          - Planning: 'Sprints/sprint05/Planning05.md'
+          - Review: 'Sprints/sprint05/Review.md'
+      - Sprint 6:
+          - Planning: 'Sprints/sprint06/Planning06.md'
+  - Apresentações:
       - Apresentação da Entrega 1: 'apresentacoes/Entrega1.md'
       - Apresentação da Entrega 2: 'apresentacoes/Entrega2.md'
