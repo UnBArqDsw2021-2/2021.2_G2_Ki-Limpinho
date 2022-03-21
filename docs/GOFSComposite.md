@@ -16,7 +16,7 @@
 ### Introdução
 
 <p align="justify">&emsp;&emsp;
-    O <i>composite</i> é um padrão de desing estrutural que permite o reuso de um mesmo objeto. O composite reune os objetos em formato de estrutura de árvore.de acordo com Erich Gamma em <i>Design Patterns</i>, essa forma de estruturação é possivel tratar objetos individuais e objetos compostos de forma uniforme. Toda essa estrutura é baseada  no Polimorfismo dos objetos. 
+    O <i>composite</i> é um padrão de desing estrutural que permite o reuso de um mesmo objeto. O composite reune os objetos em formato de estrutura de árvore.de acordo com Erich Gamma em <i>Design Patterns</i>, essa forma de estruturação é possivel tratar objetos individuais e objetos compostos de forma uniforme. Toda essa estrutura é baseada no Polimorfismo dos objetos. 
 </p>
 
 ### Metodologia
@@ -32,7 +32,7 @@
     </figcaption>
     </p>
     <li>
-    Onde o "aComposite" define o comportamente das filhas, salvando o seus componentes e implementando um relaao de operação "<i>child-related</i>" entre elas.
+    Onde o "aComposite" define o comportamento das filhas, salvando o seus componentes e implementando um relaçao de operação "<i>child-related</i>" entre elas.
     </li>
     <li>
     Já o "aFolha" define a folha da estrutura em forma de arvores onde ela não poderá ter filhos e com um comportamento de objetos primitivos.
@@ -51,9 +51,6 @@
             <strong>Compartilhamento de componentes.</strong> Ainda seguindo Erich Gamma em <i>Design Patterns</i> o compartilhamente de componentes se mostra bem benefico para redução de requiquerimentos de espaço, mas quando um componente não pode ter mais um de um parente, esse compartilhamento se torna bem complicado. Uma possivel solução é dos filhos poderem guardar multiplos parentes e acessar os mesmos.
         </li>
          <li>
-            <strong>Ordenamento de filhos</strong> Diversos designs especificam a ordem dos filhos no <i>composite</i> onde deve ser ordenando de forma a refletir o programa mas com cuidados para manter o controle da sequencia dos filhos.
-        </li>
-        <li>
             <strong>Ordenamento de filhos</strong> Diversos designs especificam a ordem dos filhos no <i>composite</i> onde deve ser ordenando de forma a refletir o programa mas com cuidados para manter o controle da sequencia dos filhos.
         </li>
         <li>
