@@ -3,6 +3,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 20.03.2022 | 0.1.1 | Adição do adapter | [Natanael Filho](https://github.com/fernandes-natanael) |
+| 21.03.2022 | 0.1.2 | Revisão | [Yuri Alves](https://github.com/yuriAlves5) |
 
 ## Adapter
 
