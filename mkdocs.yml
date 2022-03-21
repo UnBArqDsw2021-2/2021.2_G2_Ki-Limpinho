@@ -139,6 +139,7 @@ nav:
           - GOF's:
                 - Comportamentais: "padroes_de_projeto/GOFS/Comportamentais.md"
                 - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
+                - Composite: "GOFSComposite.md"
 
           - Dojo:
                 - frontend: "dojoNext.md"
