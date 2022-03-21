@@ -135,6 +135,7 @@ nav:
       - GOF's:
           - Comportamentais: 'padroes_de_projeto/GOFS/Comportamentais.md'
           - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
+          - Estruturais: "padroes_de_projeto/GOFS/Estruturais.md"
       - Emergentes:
           - MVC: "padroes_de_projeto/EMERGENTES/MVC.md"
           - REST: "padroes_de_projeto/EMERGENTES/REST.md"
