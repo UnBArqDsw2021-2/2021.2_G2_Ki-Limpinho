@@ -10,6 +10,8 @@
 | 20.03.2022 | 0.3 | Revisão Builder | [Nilvan Peres](https://github.com/NilvanPeres)|
 | 20.03.2022 | 0.4 | Revisão Prototype | [Nilvan Peres](https://github.com/NilvanPeres) |
 | 21.03.2022 | 0.5 |Adição do Factory Method | [Henrique Melo](https://github.com/henriqueamorim20) |
+| 21.03.2022 | 0.4 | Revisão Factory Method | [Nilvan Peres](https://github.com/NilvanPeres) |
+
 
 
 ## Participantes
@@ -19,6 +21,8 @@
 * [Jonathan Jorge](https://github.com/Jonathan-Oliveira)
 
 - [Peniel Etèmana](https://github.com/zpeniel09)
+
+- [Natanael Filho](https://github.com/fernandes-natanael)
 
 ## Factory Method
 
