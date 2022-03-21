@@ -142,9 +142,13 @@ nav:
           - Estruturais: "padroes_de_projeto/GOFS/Estruturais.md"
       - Emergentes:
           - REST: "padroes_de_projeto/EMERGENTES/REST.md"
-      - Dojo:
-          - frontend: 'dojoNext.md'
-          - backend: 'DojoBackend.md'
+      - Iniciativas Extras:
+          - Dojo:
+            - frontend: 'dojoNext.md'
+            - backend: 'DojoBackend.md'
+          - Testes de Software:
+            - Testes de Integração: "TesteIntegracao.md"
+
   - Sprints:
       - Sprint 1:
           - Planning: 'Sprints/sprint01/Planning.md'
