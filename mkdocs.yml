@@ -139,6 +139,8 @@ nav:
       - GOF's:
           - Comportamentais: 'padroes_de_projeto/GOFS/Comportamentais.md'
           - Criacionais: "padroes_de_projeto/GOFS/Criacionais.md"
+      - Emergentes:
+          - REST: "padroes_de_projeto/EMERGENTES/REST.md"
       - Dojo:
           - frontend: 'dojoNext.md'
           - backend: 'DojoBackend.md'
