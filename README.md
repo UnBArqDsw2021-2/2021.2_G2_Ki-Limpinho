@@ -60,10 +60,17 @@ Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto 
 [![Iniciativas Extras](docs/assets/img/screenshots/entrega2/Thumb-3-V1.png)](https://www.youtube.com/watch?v=WBk3WFXbHGU)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+
+![Screenshot 1](docs/assets/img/screenshots/entrega3/sc1.jpg)
+![Screenshot 2](docs/assets/img/screenshots/entrega3/sc2.jpg)
+![Screenshot 3](docs/assets/img/screenshots/entrega3/sc3.jpg)
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione o(s)s vídeo(s) da Terceira Entrega.
+
+[![GRASP's](docs/assets/img/screenshots/entrega3/thumbGRASP.png)](https://youtu.be/yo2EaORhJVo)
+[![GoF's](docs/assets/img/screenshots/entrega3/thumbGOFS.png)](https://youtu.be/c6FY5MfW3Rc)
+[![Padrões de Projeto Emergentes](docs/assets/img/screenshots/entrega3/thumbPadroesEmergentes.png)](https://youtu.be/cZJIIPAEC-E)
+[![Iniciativas Extras](docs/assets/img/screenshots/entrega3/thumbIniciativasExtras.png)](https://www.youtube.com/watch?v=lB12Kmqjkjk)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
