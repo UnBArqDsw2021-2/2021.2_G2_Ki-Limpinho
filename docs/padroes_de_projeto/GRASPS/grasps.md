@@ -12,6 +12,7 @@
 | 21.03.2022 |  0.6   | Adição de Criador | [Lucas Melo](https://github.com/luucas-melo)<br>[Nilvan Peres](https://github.com/NilvanPeres)<br> [Lucas Lima](https://github.com/mibasFerraz) |
 | 21.03.2022 |  0.7   | Adição das Referências | [Lucas Lima](https://github.com/mibasFerraz) |
 | 21.03.2022 |  1.0   | Revisão do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+| 21.03.2022 |  1.1   | Revisão do documento | [Lucas Lima](https://github.com/mibasFerraz) |
 
 ## Introdução
 
@@ -34,9 +35,67 @@ Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente 
 -   GRASP da Indireção;
 -   E, por fim, GRASP de Variações Protegidas.
 
- &emsp;&emsp;No nosso projeto utilizamos os GRASP criador, baixo acoplamento, controlador e criador.
+ &emsp;&emsp;No nosso projeto utilizamos os GRASP criador, especialista, baixo acoplamento, controlador e criador.
 
 ## Resultados
+
+
+### Criador
+
+#### Introdução
+
+<p align="justify">&emsp;&emsp;
+    Creator ou Criador é um dos padrões de Projeto GRASP, que assim como os outros tentam atribuir responsabilidades, papéis e colaborações. A criação de desenho de software desse padrão foca em identificar os responsáveis ideais para criação de objetos. Essa atribuição de obrigações de criação de objetos é de extrema importância para a modelagem do domínio, pois permite que a construção do software reduza acoplamentos desnecessários, além de facilitar o encapsulamento e reutilização do software. [2]
+</p>
+
+#### Metodologia
+
+<p align="justify">&emsp;&emsp;
+    Determinar isso pode não ser uma tarefa tão simples, por isso é importante analisar bem. Uma forma para determinar o responsável pela criação desses objetos é verificando da seguinte forma, supondo que temos uma classe A e B. A classe A cria a classe B se[1]:
+</p>
+
+<li>B contém ou agrega A</li>
+<li>B registra a existência de A</li>
+<li>B usa A</li>
+<li>B tem os dados necessários para a inicialização de A que serão passados ao construtor de A</li>
+
+#### Conclusão
+
+<div style="width: 480px; height: 360px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:480px; height:360px" src="https://lucid.app/documents/embeddedchart/92a215e1-c772-41b4-b751-9ca7cb76976c" id="9T82cDyCgAB5"></iframe></div>
+
+
+### Especialista
+
+#### Introdução
+
+&emsp;&emsp;Especialista na informação, ou apenas Expert, é um dos princípios básicos dentre os 9 GRASP’s existentes, em que visa uma abordagem genérica que atribui a responsabilidade de fazer ou conhecer algo, assim, basicamente o padrão de projeto Especialista se preocupa em atribuir responsabilidades para entidade do projeto.
+
+&emsp;&emsp;Primeiramente, para esta atribuição é importante seguir um caminho objetivo onde  defini-se quais são as informações necessárias para se concluir uma tarefa obrigatória do sistema. Após a identificação é preciso avaliar qual é a camada que concentra o maior conhecimento acerca da tarefa em específica. Ao fim, com os módulos mapeados e levantados, aquele que possuir o maior conhecimento da tarefa é o forte candidato para especialista.
+
+
+#### Aplicação
+
+&emsp;&emsp;A partir da definição do padrão, trazemos como exemplo analisado a API do Backend do projeto Ki-Limpinho.
+
+
+<center>
+<img src='..\..\..\assets\img\grasp\especialista.jpeg'>
+    <figcaption align='center'>
+        <b>Figura 1: Estrutura de arquivos na camada Backend</b>
+        <br>
+        <small>Autor: Davi Matheus, 2022.</small>
+    </figcaption>
+</center>
+
+#### Conclusão
+
+Na figura anterior, vemos que o projeto é feito em node.js e evidenciamos que os especialistas são separados em diretórios, onde cada um possuem arquivos característicos para as suas respectivas funções, sendo elas:
+
+- ```auth```, responsável pela a autenticação do projeto, controlando as rotas e os controllers.
+- ```helpers```, responsável por ajudar e complementar algumas functios que o sistema percise;
+- ```tests```, responsável pela implementação dos testes;
+- ```user```, responsável por mapear  e implementar os endpoints e os metodos dos users, como as rotas as models os controlleres e etc;
+
 
 ### Alta Coesão
 
@@ -105,28 +164,6 @@ Aqui temos cinco classes onde são implementados os controllers, uma para alguns
 Este padrão, trabalha como uma camada de indireção para acontecimentos do projeto. Deixando os eventos causados pela Interface desacoplados dos objetos responsáveis por tratar a requisição, tornando o sistema mais flexível de fácil manutenção.
 </p>
 
-### Criador
-
-#### Introdução
-
-<p align="justify">&emsp;&emsp;
-    Creator ou Criador é um dos padrões de Projeto GRASP, que assim como os outros tentam atribuir responsabilidades, papéis e colaborações. A criação de desenho de software desse padrão foca em identificar os responsáveis ideais para criação de objetos. Essa atribuição de obrigações de criação de objetos é de extrema importância para a modelagem do domínio, pois permite que a construção do software reduza acoplamentos desnecessários, além de facilitar o encapsulamento e reutilização do software. [2]
-</p>
-
-#### Metodologia
-
-<p align="justify">&emsp;&emsp;
-    Determinar isso pode não ser uma tarefa tão simples, por isso é importante analisar bem. Uma forma para determinar o responsável pela criação desses objetos é verificando da seguinte forma, supondo que temos uma classe A e B. A classe A cria a classe B se[1]:
-</p>
-
-<li>B contém ou agrega A</li>
-<li>B registra a existência de A</li>
-<li>B usa A</li>
-<li>B tem os dados necessários para a inicialização de A que serão passados ao construtor de A</li>
-
-#### Conclusão
-
-<div style="width: 480px; height: 360px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:480px; height:360px" src="https://lucid.app/documents/embeddedchart/92a215e1-c772-41b4-b751-9ca7cb76976c" id="9T82cDyCgAB5"></iframe></div>
 
 
 ## Referências
