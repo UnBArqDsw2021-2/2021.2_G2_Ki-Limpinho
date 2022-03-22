@@ -107,7 +107,7 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
     <img src='..\..\..\assets\img\gof\compositeDiagrama.jpeg'>    <figcaption align='center'>
         <b>Figura 2: Exemplo de árvore</b>
         <br>
-        <small>Autor: Yuri Alves, 2021.</small>
+            <small>Autor: <a href='https://github.com/yuriAlves5'>Yuri Alves</a>, 2022.</small>
     </figcaption>
     </p>
     <li>
