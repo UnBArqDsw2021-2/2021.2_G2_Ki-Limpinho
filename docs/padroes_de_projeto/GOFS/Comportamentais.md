@@ -1,34 +1,35 @@
-# <center> Comportamentais
+# <center> GOFS Comportamentis
 
 ## Histórico de Versão<br>
 
-|Data | Versão | Descrição | Autor(es)|
-| :-:|:-:|:-:|:-: |
-| 15.03.2022 | 0.1    | Criação do command | [Lucas Melo](https://github.com/luucas-melo) |
-| 16.03.2022 | 0.1.1    | Adição do observer | [Peniel Etèmana](https://github.com/zpeniel09) |
-| 17.03.2022 | 0.1.2    | Adição do State | [Caio Martins](https://github.com/linktocaio) |
-| 18.03.2022| 0.1.3 | Criação do Iterator | [Lucas Ferraz](https://github.com/mibasFerraz)|
-| 19.03.2022| 0.2 | Criação do Mediator | [Nilvan Peres](https://github.com/NilvanPeres)|
-| 20.03.2022| 0.3 | Revisão do Mediator | [Davi Matheus ](https://github.com/DaviMatheus)|
-| 21.03.2022| 0.4 | Revisão do Iterator | [Nilvan Peres](https://github.com/NilvanPeres)|
-| 21.03.2022 | 0.5    | Revisão do State | [Nilvan Peres](https://github.com/NilvanPeres) |
-| 21.03.2022 | 0.6    | Revisão do command | [Nilvan Peres](https://github.com/NilvanPeres) |
-| 21.03.2022 | 0.7    | Revisão observer | [Nilvan Peres](https://github.com/NilvanPeres) |
-
+|    Data    | Versão |      Descrição      |                    Autor(es)                    |
+| :--------: | :----: | :-----------------: | :---------------------------------------------: |
+| 15.03.2022 |  0.1   | Criação do command  |  [Lucas Melo](https://github.com/luucas-melo)   |
+| 16.03.2022 | 0.1.1  | Adição do observer  | [Peniel Etèmana](https://github.com/zpeniel09)  |
+| 17.03.2022 | 0.1.2  |   Adição do State   |  [Caio Martins](https://github.com/linktocaio)  |
+| 18.03.2022 | 0.1.3  | Criação do Iterator | [Lucas Ferraz](https://github.com/mibasFerraz)  |
+| 19.03.2022 |  0.2   | Criação do Mediator | [Nilvan Peres](https://github.com/NilvanPeres)  |
+| 20.03.2022 |  0.3   | Revisão do Mediator | [Davi Matheus ](https://github.com/DaviMatheus) |
+| 21.03.2022 |  0.4   | Revisão do Iterator | [Nilvan Peres](https://github.com/NilvanPeres)  |
+| 21.03.2022 |  0.5   |  Revisão do State   | [Nilvan Peres](https://github.com/NilvanPeres)  |
+| 21.03.2022 |  0.6   | Revisão do command  | [Nilvan Peres](https://github.com/NilvanPeres)  |
+| 21.03.2022 |  0.7   |  Revisão observer   | [Nilvan Peres](https://github.com/NilvanPeres)  |
+| 21.03.2022 |  0.8   |   Adição Strategy   |   [Yuri Alves](https://github.com/yuriAlves5)   |
+| 21.03.2022 |  0.8   |  Revisao documento  |  [Caio Martins](https://github.com/linktocaio)  |
 
 ## Participantes
 
- * [Lucas Ferraz](https://github.com/mibasFerraz)
- * [Nilvan Peres](https://github.com/NilvanPeres)
- * [Caio Martins](https://github.com/linktocaio)
- * [Lucas Melo](https://github.com/luucas-melo)
- * [Peniel Etèmana](https://github.com/zpeniel09)
+-   [Lucas Ferraz](https://github.com/mibasFerraz)
+-   [Nilvan Peres](https://github.com/NilvanPeres)
+-   [Caio Martins](https://github.com/linktocaio)
+-   [Lucas Melo](https://github.com/luucas-melo)
+-   [Peniel Etèmana](https://github.com/zpeniel09)
+-   [Yuri Alves](https://github.com/yuriAlves5)
 
 ## Introdução
 
-&emsp;&emsp;GoFs Comportamentais são padrões voltados para alterações no nível do comportamento dos objetos. Auxiliam quando é necessério, por exemplo, usar vários algoritmos diferentes, cada qual mais apropriado para um determinado contexto. Permitem, nesse caso, usar mecanismos/recursos para facilitar tanto a incorporação de novos algoritmos para 
+&emsp;&emsp;GoFs Comportamentais são padrões voltados para alterações no nível do comportamento dos objetos. Auxiliam quando é necessério, por exemplo, usar vários algoritmos diferentes, cada qual mais apropriado para um determinado contexto. Permitem, nesse caso, usar mecanismos/recursos para facilitar tanto a incorporação de novos algoritmos para
 novos contextos quanto a seleção de qual algoritmo usar dado um contexto.
-
 
 ## Iterator
 
@@ -38,15 +39,15 @@ novos contextos quanto a seleção de qual algoritmo usar dado um contexto.
 
 &emsp;&emsp;Segundo o RefactoringGuru, o iterator deve ser aplicado quando:
 
-- Quando você deseja que o código realiza iterações sobre diferentes estrutura de dados, ou quando os tipos dessas estruturas ainda não são conhecidos.
-- O  padrão permite a redução de duplicatas desnecessárias de códigos.
-- Use o padrão Iterator quando sua coleção tiver uma estrutura de dados complexa de árvores, mas você quer esconder sua complexidade dos clientes (seja por conveniência ou por razões de segurança). 
+-   Quando você deseja que o código realiza iterações sobre diferentes estrutura de dados, ou quando os tipos dessas estruturas ainda não são conhecidos.
+-   O padrão permite a redução de duplicatas desnecessárias de códigos.
+-   Use o padrão Iterator quando sua coleção tiver uma estrutura de dados complexa de árvores, mas você quer esconder sua complexidade dos clientes (seja por conveniência ou por razões de segurança).
 
 &emsp;&emsp; Os principais participantes dessa padrão em JS são:
 
-- <b>Client</b> : referencia e invoca o iterator para ser utilizado na coleção de objetos.
-- <b>Iterator</b>: implementa a interface da iteração, com os métodos first(), next().
-- <b>Items</b>: Objetos individuais de uma coleção que está sendo iterada.
+-   <b>Client</b> : referencia e invoca o iterator para ser utilizado na coleção de objetos.
+-   <b>Iterator</b>: implementa a interface da iteração, com os métodos first(), next().
+-   <b>Items</b>: Objetos individuais de uma coleção que está sendo iterada.
 
 &emsp;&emsp;Como o Front-end da nossa aplicação é feita no framework React.JS, estamos utilizando uma abstração do padrão iterator. A linguagem JavaScript utiliza abstrações do padrão por meio de loops. Porém, pode ser considerada uma aplicação exagerada caso o sistema em questão trabalhe apenas com coleções simples e de baixa complexidade.
 
@@ -70,8 +71,8 @@ Na figura 1 abaixo, será representada a utilização desse padrão em código q
 
 &emsp;&emsp; O padrão pode ser utilizado quando:
 
-- O comportamento de um objeto depende do seu estado, e tal comportamento deve ser mudadado em tempo de execução de acordo com o estado do objeto.
-- Operações com múltiplas condições que dependem do estado do objeto.
+-   O comportamento de um objeto depende do seu estado, e tal comportamento deve ser mudadado em tempo de execução de acordo com o estado do objeto.
+-   Operações com múltiplas condições que dependem do estado do objeto.
 
 &emsp;&emsp;A estrutura dessa padrão será descrita na figura 2. Onde um jogo onde o personagem pode se apresentar de diversas formas: andando, nadando, dirigindo um carro, um avião etc. Os controles para a interação com o jogador devem ser diferentes para cada um desses estados, dessa forma os controles devem possuir comportamentos diferentes para cada estado em que o personagem se encontra.
 
@@ -83,7 +84,6 @@ Na figura 1 abaixo, será representada a utilização desse padrão em código q
         <small>Autor: <a href='https://refactoring.guru/pt-br/design-patterns/state'>Refactoring Guru</a>, 2022.</small>
     </figcaption>
 </p>
-
 
 &emsp;&emsp; Na figura 3 abaixo, será representado um exemplo de como aplicar esse padrão em JavaScript
 
@@ -167,16 +167,20 @@ var Chatroom = function () {
     };
 };
 ```
+
 Fonte: <a href="https://www.dofactory.com/javascript/design-patterns/mediator">DoFactory</a>[3]
+
+## Observer
 
 &emsp;&emsp;Entre os principais GoFs comportamentais temos o Observer, que consiste em definir um mecanismo eficiente para reagir
 às alterações realizadas em determinados objetos.
 
-&emsp;&emsp;No pattern observer, é criado uma relação de dependência um-para-muitos entre objetos que funciona da forma seguinte:quando um certo objeto, chamado subject tem seu estado modificado, outros objetos, chamados observers, são notificados. 
+&emsp;&emsp;No pattern observer, é criado uma relação de dependência um-para-muitos entre objetos que funciona da forma seguinte:quando um certo objeto, chamado subject tem seu estado modificado, outros objetos, chamados observers, são notificados.
 
 &emsp;&emsp;O Observer é formado por métodos que possuem padrões de nomenclatura e comportamentos específicos. É importante seguir estes padrões para que implementações diferentes do Observer possam ser facilmente identificadas por desenvolvedores que não as codificaram.
 
 &emsp;&emsp; Na figura 4 abaixo, será representado como funciona esse padrão no nível de modelagem, e quais são os participantes desse design.
+
 <center>
 <img src="../../../assets/img/padroes/observer-padrao.png" class="zoom"> 
 <h6>Figura 4: Observer Padrão.</h6>
@@ -236,14 +240,14 @@ function run() {
     click.fire('event #3');
 }
 ```
+
 Fonte: [DoFactory](https://www.dofactory.com/javascript/design-patterns/observer)
 
 ## Command
 
 &emsp;&emsp;No pattern Command, uma operação é encapsulada como um objeto de comando e passada para o objeto invocador. O objeto invocador passa o comando para o objeto correspondente, que executa o comando. O padrão de comando encapsula ações como objetos. Nesse padrão temos uma uma pilha de comandos sempre que um comando é executado e enviado para a mesma.
 
-&emsp;&emsp;No pattern command, o cliente que cria um comando não é o mesmo cliente que o executa. 
-
+&emsp;&emsp;No pattern command, o cliente que cria um comando não é o mesmo cliente que o executa.
 
 &emsp;&emsp;Os passos para aplicar o pattern command são:
 
@@ -282,6 +286,22 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
 
 <li>aumento no número de classes para cada comando individual</li>
 
+## Strategy
+
+<p align="justify">&emsp;&emsp;
+    Seguindo o conceito de GOFS Comportamentais o padrão de strategy é fundamental para formação de um projeto bem consolidado e com funcionalidade estendidas e manutenções menos custosas. De acordo com o livro Design Patterns de (Gamma et al.) o padrão de estrategia é utilizado de forma a manter o encapsulamento dos algoritimos alem de mante-los intercambiaveis. 
+</p>
+
+<p align="justify">&emsp;&emsp; 
+    Ainda seguindo Gamma a utilização dos padrões de estrategia é sugestivo quando:
+    <li> Muitas classes relacionadas se diferenciando somente pelo seu comportamento. Com as estrategias é possivel configurar a classe com um ou mais comportamentos.
+    </li>
+    <li> Você precisa de diferentes variações de um algoritimos
+    </li>
+    <li> O algoritimo usa dados que os clientes não devem saber. Com o uso do padrão de estrategia, é possivel evitar de expor a estrutura de dados de certos algoritimos especificos.
+    </li>
+</p>
+
 ## Referências
 
 > [1] SERRANO, Milene. Módulo Padrões de Projeto GoF(s) Comportamentais. Disponível em : <https://aprender3.unb.br/course/view.php?id=11018&section=4>. Acesso em 16, mar de 2022.
@@ -290,13 +310,13 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
 
 > [3] Design Patterns - Mediator, DO FACTORY. Disponível em: <https://www.dofactory.com/javascript/design-patterns/mediator>, Acesso em 18, mar de 2022.
 
-> [4] Iterator - DOFactory;. Disponível em : <https://www.dofactory.com/javascript/design-patterns/iterator>.  Último acesso em 18/03/2022.
+> [4] Iterator - DOFactory;. Disponível em : <https://www.dofactory.com/javascript/design-patterns/iterator>. Último acesso em 18/03/2022.
 
 > [5] Desgin Patterns - Iterator. Disponível em : <https://brizeno.wordpress.com/2011/09/15/mao-na-massa-iterator/>. Último acesso em 18/03/2022.
 
 > [6] Padrões de projeto comportamentais: Disponível em <https://refactoring.guru/pt-br/design-patterns/behavioral-patterns>. Último acesso em 18/03/2022.
 
-> [7] SHVETS, Alexander. Dive Into Design Patterns. Disponível em <https://refactoring.guru/design-patterns>. Último acesso em 18/03/2022. 
+> [7] SHVETS, Alexander. Dive Into Design Patterns. Disponível em <https://refactoring.guru/design-patterns>. Último acesso em 18/03/2022.
 
 > [8] BRIENZO, Marcos. State. Disponível em: <https://brizeno.wordpress.com/category/padroes-de-projeto/state/>. Acesso em 17, mar de 2022.
 
