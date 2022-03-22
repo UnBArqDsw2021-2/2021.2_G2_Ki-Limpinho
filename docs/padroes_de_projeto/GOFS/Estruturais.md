@@ -228,6 +228,12 @@ De acordo com o GoF, o padrão Bridge significa desacoplar uma abstração de su
     </figcaption>
 </p>
 
+## Conclusão
+
+&emsp;&emsp;Em fim nesse padrao de gofs Estruturais , fizemos uso dos padrões a seguir: Proxy, Facade,
+em que para o Proxy usamos a variação de Proteção, que como já foi dito, é responsável pelo processo de autenticação, estes são padrões que lidam com o encapsulamento de objetos, voltados a criar objetos de maneira adequada à situação. Eles ajudam a tornar um sistema mais unificado e conciso  ajudando na organição do nosso projeto.
+</p>
+
 ## Referências
 
 > [1] Conheça o Pattern Proxy - GoF (Gang of Four) Disponível em : <https://www.devmedia.com.br/conheca-o-pattern-proxy-gof-gang-of-four/4066>. Acesso em 20, mar de 2022.
