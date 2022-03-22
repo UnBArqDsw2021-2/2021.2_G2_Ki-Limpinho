@@ -13,7 +13,8 @@
 | 20.03.2022 | 0.3 | Revisão Builder | [Nilvan Peres](https://github.com/NilvanPeres)|
 | 20.03.2022 | 0.4 | Revisão Prototype | [Nilvan Peres](https://github.com/NilvanPeres) |
 | 21.03.2022 | 0.5 |Adição do Factory Method | [Henrique Melo](https://github.com/henriqueamorim20) |
-| 21.03.2022 | 0.4 | Revisão Factory Method | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 21.03.2022 | 0.6 | Revisão Factory Method | [Nilvan Peres](https://github.com/NilvanPeres) |
+| 21.03.2022 | 0.7 | Adição Introdução | [Peniel Etèmana](https://github.com/zpeniel09) |
 
 ## Participantes
 
@@ -23,6 +24,18 @@
 * [Natanael Filho](https://github.com/fernandes-natanael)
 * [Peniel Etèmana](https://github.com/zpeniel09)
 
+## Introdução    
+
+&emsp;&emsp;Segundo o livro Design Patterns: Elements of Reusable Object-Oriented Software, os padrões de projetos criacionais fazem a abstração do processo de instanciação, tornando um sistema independente de como seus objetos são criados, compostos e representados.
+
+&emsp;&emsp;Os padrões de projeto Criacionais se preocupam basicamente com a maneira como os objetos são criados, buscando reduzir a instabilidade e complexidade, criando objetos de maneira controlada.
+
+&emsp;&emsp;O novo operador é considerado prejudicial, principalmente por espalhar objetos por todo o aplicativo. Podendo com o tempo gerar problemas ao alterar uma implementação devido ao fato das classes estarem fortemente acopladas.
+
+&emsp;&emsp;Os Padrões de Criação buscam resolver esse problema separando o cliente do processo de inicialização real.
+
+&emsp;&emsp;Fazendo uma analogia com uma situação real, quando um mecânico realiza o conserto de um carro ele faz a terceirização das peças, solicitando elas a um fornecedor, para então realizar a instalação, não se preocupando com todo o processo envolvido na criação desses componentes.
+    
 ## Abstract Factory
 
 <p align="justify">&emsp;&emsp;
