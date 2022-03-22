@@ -203,10 +203,10 @@ O padrão prototype deve ser aplicado quando:
 </p>
 
 <p align='center'>
-  <img src='../../../../../assets/img/gof/application_builder.png'>
+  <img src='../../../assets/img/gof/application_builder.png'>
   <figcaption align='center'>
         <b>
-            <a href='../../../../../assets/img/gof/application_builder.png'>
+            <a href='../../../assets/img/gof/application_builder.png'>
                Figura 4: Estrutura da aplicação do padrão Builder
             </a>
         </b>   
