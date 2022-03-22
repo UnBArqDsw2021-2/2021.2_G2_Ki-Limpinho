@@ -16,28 +16,11 @@
 
 ## Introdução
 
-&emsp;&emsp; GRASP é um acrônimo para **General Responsability Assignment Software Patterns**, que em tradução livre significa **Padrões de Software para Atribuições Gerais de Responsabilidades**. Para a compreensão dos GRASP's, é primeiro necessário a contextualização da abordagem em mais alto nível, esta chamada de **Responsability-Driven-Development**, ou simplesmente **RDD**, que em tradução livre significa **Projeto Guiado por Responsabilidades**.
+&emsp;&emsp; GRASP, que é uma sigla para General Responsability Assignment Software Patterns e em português teria como resultado padrões de software em atribuição geral de responsabilidade. É interessante que se tenha um contexto com a abordagem em alto nível para que se entenda a utilização destes GRASP, as conhecidas RDD, que em inglês significa Responsability driven development e em português teria como resultado projeto guiado por responsabilidades.
 
-&emsp;&emsp; Larman define que o **RDD** é uma maneira de pensar em projetos de Orientação a Objetos que inclui a abstração de comportamentos entre os diferentes módulos do sistema. O _RDD_ é baseado em duas grandes camadas de abstração, a camada de _conhecer_, relacionada com instâncias e comunicações internas do código, e a camada de _fazer_, relacionada com os comportamentos e métodos implementados pelos diferentes módulos. A partir do **RDD**, tem-se que os GRASP's são um conjunto pragmático de princípios básicos que fornecem um referencial sólido para a programação orientada a objetos. [1]
-Alta coesão é um padrão avaliativo que tenta manter os objetos adequadamente focados, gerenciáveis e compreensíveis. A alta coesão é geralmente utilizada em suporte de baixo acoplamento. A alta coesão significa que as responsabilidades de um determinado elemento estão fortemente relacionadas e altamente focadas. A quebra de programas em classes e subsistemas é um exemplo de atividades que aumentam as propriedades coesivas de um sistema. Alternativamente, a baixa coesão é uma situação em que um determinado elemento tem muitas responsabilidades distintas, não relacionadas. Elementos com baixa coesão muitas vezes sofrem de ser difíceis de entender, reutilizar, manter e são avessos à mudança.[4]
+&emsp;&emsp; Seguindo o pensamento já definido em Larman onde a ideia principal RDD é uma forma de pensar em projetos orientados a objetos com a características de abstração do sistema.  Ainda de acordo com Larman é possível basear o RDD em duas camadas de abstração de fazer e a de conhecer. Seguindo que o GRASP é um conjunto de princípios de paradigmas da orientação orientada a objeto, focando em Alta coesão com objetos bem focados e compreensíveis servindo de suporte para baixo acoplamento e outras alternativas o de baixa coesão com elementos de responsabilidades distintas e não relacionadas.
 
-&emsp;&emsp;Desta forma, é válido afirmar que os GRASP's buscam oferecer um guia bem estruturado para soluções de software que se baseiam no paradigma da Orientação a Objetos. Como consequência direta da utilização dos padrões dentro de um projeto de software, tem-se a produção de uma base de código robusta e que apresenta um enorme fator de adaptabilidade diante de novas necessidades de projeto, de negócio ou, simplesmente, futuras mudanças planejadas para o código. Um código que segue as diretrizes propostas pelos GRASP's apresenta uma ótima organização entre os diferentes módulos; uma fácil manutenção e, por fim; uma boa capacidade de compreensão por diferentes desenvolvedores. [2]
-
-&emsp;&emsp;Os GRASP são descritos pelos seguintes tópicos:
-
--   GRASP Criador;
--   GRASP Especialista;
--   GRASP da Alta Coesão;
--   GRASP do Baixo Acoplamento;
--   GRASP Controlador;
--   GRASP do Polimorfismo;
--   GRASP da Invenção Pura;
--   GRASP da Indireção;
--   E, por fim, GRASP de Variações Protegidas.
-
- &emsp;&emsp;No nosso projeto utilizamos os GRASP criador, especialista, baixo acoplamento, controlador e criador.
-
-## Resultados
+&emsp;&emsp; Com isso podemos concluir que os GRASP's tem como objetivo promover uma estrutura para software que tem como paradigma a Orientação a objetos. Ele busca sempre a produção de um código robusto e de fácil adaptabilidade diante novos requisitos, tão quanto a organização entre os módulos, manutenibilidade e uma boa compreensão de todo projeto por todos os interessados.
 
 
 ### Criador
