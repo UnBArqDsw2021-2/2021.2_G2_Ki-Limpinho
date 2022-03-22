@@ -18,6 +18,7 @@
 | 21.3.2022 | 0.12   | Revisão do Composite | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 | 21.03.2022 | 0.13    | Revisão do Facade | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
 | 21.03.2022 | 0.14    | Revisão do documento | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) |
+| 21.03.2022 | 0.15    | Revisão do documento |[Davi Matheus](https://github.com/DaviMatheus)  |
 
 ## Participantes
 
@@ -31,6 +32,10 @@
 ### Command
 
 #### Introdução
+
+<p align="justify">&emsp;&emsp;
+Os GoFs Estuturais se preocupam com a forma como classes e objetos são compostos para formar estruturas maiores. Os padrões estruturais de classes utilizam a herança para compor interfaces ou implementações. 
+</p>
 
 <p align="justify">&emsp;&emsp;
 No pattern Command, uma operação é encapsulada como um objeto de comando e passada para o objeto invocador. O objeto invocador passa o comando para o objeto correspondente, que executa o comando.
@@ -67,7 +72,7 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
 <p align='center'>
     <img src='../../../assets/img/padroes/command-example.png'>
     <figcaption align='center'>
-        <b>Exemplo código Wizard component - React</b>
+        <b> Figura 1: Exemplo código Wizard component - React</b>
         <br>
         <small>Autor: <a href='https://github.com/luucas-melo'>Lucas Melo</a>, 2022.</small>
     </figcaption>
@@ -95,12 +100,12 @@ Dessa forma, o objeto de comando é criado quando o componente Wizard é exibido
 
 #### Metodologia
 
+
 <p align="Estrutura">&emsp;&emsp; 
     Uma típica estrutura da forma <i>composite</i> deve seguir em princípios a seguinte forma.
     <p align='center'>
-    <img src='../assets/img/gof/compositeDiagrama.jpeg'>
-    <figcaption align='center'>
-        <b>Figura 1: Exemplo de árvore</b>
+    <img src='..\..\..\assets\img\gof\compositeDiagrama.jpeg'>    <figcaption align='center'>
+        <b>Figura 2: Exemplo de árvore</b>
         <br>
         <small>Autor: Yuri Alves, 2021.</small>
     </figcaption>
@@ -146,7 +151,7 @@ O  padrão Estrutural  Proxy  permite a encapsulação de um objeto através de 
     <figcaption align='center'>
         <b>
             <a href='..\..\..\assets\img\grasp\proxy.jpeg'>
-               Figura 1. Diagrama do padrão Proxy
+               Figura 3. Diagrama do padrão Proxy
             </a>
         </b>
         <br>
@@ -162,6 +167,22 @@ O  padrão Estrutural  Proxy  permite a encapsulação de um objeto através de 
             <li>Pode ser implementado rotinas de logs e controle de acesso (segurança). Este tipo de proxy é conhecido como Virtual Proxy.</li>
 </p>
 
+<p align="justify">&emsp;&emsp;
+Na aplicação do Ki-limpinho usamos a variação de Proxy de Proteção, que como já foi dito, é responsável pelo processo de autenticação, como podemos observar na imagem do código abaixo.
+</p>
+
+<p align='center'>
+    <img src='..\..\..\assets\img\gofs\proxy_code.jpeg'>
+    <figcaption align='center'>
+        <b>
+            <a href='..\..\..\assets\img\gofs\proxy_code.jpeg'>
+               Figura 4. Diagrama do padrão Proxy
+            </a>
+        </b>
+        <br>
+    </figcaption>
+</p>
+
 ### Flyweight
 
 <p align="justify">&emsp;&emsp;
@@ -173,7 +194,7 @@ O Flyweight é um padrão de projeto estrutural que permite a você colocar mais
     <figcaption align='center'>
         <b>
             <a href='..\..\..\assets\img\grasp\proxy.jpeg'>
-               Figura 2. Diagrama do padrão Flyweight
+               Figura 5. Diagrama do padrão Flyweight
             </a>
         </b>
         <br>
@@ -199,9 +220,9 @@ De acordo com o GoF, o padrão Bridge significa desacoplar uma abstração de su
 &emsp;&emsp;Uma boa utilização do facade seria por exemplo em um sistema complexo de sensores, cada um com seu driver e método de comunicação específicos. Com o facade você pode criar uma interface que defina a inicialização dos sistemas, testes de funcionamento, requisição de leituras, desligamento etc.
 
 <p align='center'>
-    <img src='../assets/img/gofs/facade.png'>
+    <img src='..\..\..\assets\img\gofs\facade.png'>
     <figcaption align='center'>
-        <b>Figura 1: Estrutura Facade</b>
+        <b>Figura 6: Estrutura Facade</b>
         <br>
         <small>Autor: <a href='https://refactoring.guru/pt-br/design-patterns/facade'>Refactoring Guru</a>, 2022.</small>
     </figcaption>
