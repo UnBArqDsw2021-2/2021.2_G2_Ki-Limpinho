@@ -7,6 +7,7 @@
 | 30.03.2022 | 0.1 | Abertura do documento |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 30.03.2022 | 0.2 | Adição de Introdução  |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 30.03.2022 | 0.3 | Adição da Metodologia e Resultados  |[Peniel Etèmana](https://github.com/zpeniel09)|
+| 30.03.2022 | 0.4 | Finalização do documento com as referências   |[Peniel Etèmana](https://github.com/zpeniel09)|
 
 
 ## Participantes
@@ -66,3 +67,12 @@
         <small>Autor: <a href='https://github.com/zpeniel09'>Peniel Etèmana</a>, 2022.</small>
   </figcaption>
 </p>
+
+## Referências
+> [1] **Reutilização de software**. Disponível em: <https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956#:~:text=A%20reutiliza%C3%A7%C3%A3o%20de%20software%20se,a%20qualidade%20e%20a%20produtividade.>. Acesso em 30, março de 2022.
+
+> [2] **Install Docker Compose**. Disponível em: <https://docs.docker.com/compose/install/>. Acesso em 30, março de 2022.
+
+> [3] DOCKER. **Overview of Docker Compose**. Disponível em: <https://docs.docker.com/compose/>. Acesso em 30, março de 2022.
+
+> [4] **Docker**. Disponível em: <https://stack.desenvolvedor.expert/appendix/docker/oquee.html>. Acesso em 30, março de 2022.
