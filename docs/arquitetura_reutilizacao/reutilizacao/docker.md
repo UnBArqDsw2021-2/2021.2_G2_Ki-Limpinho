@@ -40,3 +40,29 @@
 * Frozen-Spots: definem a arquitetura geral do sistema e seus componentes básicos, permanecem fixos em todas as instanciações.
     * Sistema de arquivos,
     * Arquivos necessário.
+
+<p align='center'>
+  <img src='https://i.ibb.co/5xfgnks/dockerfile.png'>
+  <figcaption align='center'>
+        <b>
+            <a href='https://i.ibb.co/5xfgnks/dockerfile.png'>
+               Figura 1: Dockerfile Backend
+            </a>
+        </b>   
+      <br>
+        <small>Autor: <a href='https://github.com/zpeniel09'>Peniel Etèmana</a>, 2022.</small>
+  </figcaption>
+</p>
+
+<p align='center'>
+  <img src='https://i.ibb.co/FW6Kf1z/docker-Compose-File.png'>
+  <figcaption align='center'>
+        <b>
+            <a href="https://i.ibb.co/FW6Kf1z/docker-Compose-File.png">
+               Figura 2: Docker Compose Backend
+            </a>
+        </b>   
+      <br>
+        <small>Autor: <a href='https://github.com/zpeniel09'>Peniel Etèmana</a>, 2022.</small>
+  </figcaption>
+</p>
