@@ -146,6 +146,9 @@ nav:
             - Backend: 'DojoBackend.md'
           - Testes de Software:
             - Testes de Integração: "TesteIntegracao.md"
+  - Arquitetura de Software e Reutilização:
+      - Reutilização de Software:
+            - Docker: "arquitetura_reutilizacao/reutilizacao/docker.md"
   - Sprints:
       - Sprint 1:
           - Planning: 'Sprints/sprint01/Planning.md'
