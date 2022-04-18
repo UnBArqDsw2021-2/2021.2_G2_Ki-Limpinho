@@ -139,40 +139,41 @@ nav:
           - Emergentes:
                 - MVC: "padroes_de_projeto/EMERGENTES/MVC.md"
 
-          - REST: "padroes_de_projeto/EMERGENTES/REST.md"
-      - Iniciativas Extras:
-          - Dojo:
-            - Frontend: 'dojoNext.md'
-            - Backend: 'DojoBackend.md'
-          - Testes de Software:
-            - Testes de Integração: "TesteIntegracao.md"
-  - Arquitetura de Software e Reutilização:
-      - Documento de Arquitetura de Software: "arquitetura_reutilizacao/das.md"
-      - Reutilização de Software:
-            - Docker: "arquitetura_reutilizacao/reutilizacao/docker.md"
-  - Sprints:
-      - Sprint 1:
-          - Planning: 'Sprints/sprint01/Planning.md'
-          - Review: 'Sprints/sprint01/Review.md'
-      - Sprint 2:
-          - Planning: 'Sprints/sprint02/Planning02.md'
-          - Review: 'Sprints/sprint02/Review.md'
-      - Sprint 3:
-          - Planning: 'Sprints/sprint03/Planning03.md'
-          - Review: 'Sprints/sprint03/Review.md'
-      - Sprint 4:
-          - Planning: 'Sprints/sprint04/Planning04.md'
-          - Review: 'Sprints/sprint04/Review.md'
-      - Sprint 5:
-          - Planning: 'Sprints/sprint05/Planning05.md'
-          - Review: 'Sprints/sprint05/Review.md'
-      - Sprint 6:
-          - Planning: 'Sprints/sprint06/Planning06.md'
-          - Review: 'Sprints/sprint06/Review.md'
-      - Sprint 7:
-          - Planning: 'Sprints/sprint07/Planning07.md'
-          - Review: 'Sprints/sprint07/Review.md'
-  - Apresentações:
-      - Apresentação da Entrega 1: 'apresentacoes/Entrega1.md'
-      - Apresentação da Entrega 2: 'apresentacoes/Entrega2.md'
-      - Apresentação da Entrega 3: 'apresentacoes/Entrega3.md'
+                - REST: "padroes_de_projeto/EMERGENTES/REST.md"
+          - Iniciativas Extras:
+                - Dojo:
+                      - Frontend: "dojoNext.md"
+                      - Backend: "DojoBackend.md"
+                - Testes de Software:
+                      - Testes de Integração: "TesteIntegracao.md"
+    - Arquitetura de Software e Reutilização:
+          - Documento de Arquitetura de Software: "arquitetura_reutilizacao/das.md"
+          - Reutilização de Software:
+                - Docker: "arquitetura_reutilizacao/reutilizacao/docker.md"
+                - NextJS: "arquitetura_reutilizacao/reutilizacao/NextJS.md"
+    - Sprints:
+          - Sprint 1:
+                - Planning: "Sprints/sprint01/Planning.md"
+                - Review: "Sprints/sprint01/Review.md"
+          - Sprint 2:
+                - Planning: "Sprints/sprint02/Planning02.md"
+                - Review: "Sprints/sprint02/Review.md"
+          - Sprint 3:
+                - Planning: "Sprints/sprint03/Planning03.md"
+                - Review: "Sprints/sprint03/Review.md"
+          - Sprint 4:
+                - Planning: "Sprints/sprint04/Planning04.md"
+                - Review: "Sprints/sprint04/Review.md"
+          - Sprint 5:
+                - Planning: "Sprints/sprint05/Planning05.md"
+                - Review: "Sprints/sprint05/Review.md"
+          - Sprint 6:
+                - Planning: "Sprints/sprint06/Planning06.md"
+                - Review: "Sprints/sprint06/Review.md"
+          - Sprint 7:
+                - Planning: "Sprints/sprint07/Planning07.md"
+                - Review: "Sprints/sprint07/Review.md"
+    - Apresentações:
+          - Apresentação da Entrega 1: "apresentacoes/Entrega1.md"
+          - Apresentação da Entrega 2: "apresentacoes/Entrega2.md"
+          - Apresentação da Entrega 3: "apresentacoes/Entrega3.md"
