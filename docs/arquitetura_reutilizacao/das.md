@@ -10,6 +10,7 @@
 | 17.04.2022 | 0.4 | Adição metas e Restrições de Arquitetura |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 0.5 | Adição Visão de Casos de Uso |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 0.6 | Adição Visão lógica |[Peniel Etèmana](https://github.com/zpeniel09)|
+| 18.04.2022 | 0.7 | Adição Visão de Processos e de Deploy |[Peniel Etèmana](https://github.com/zpeniel09)|
 
 ## Participantes
 
@@ -45,14 +46,14 @@
 #### 1-5 Visão Geral
 
 &emsp;&emsp;Esse documento de arquitetura contém os tópicos a seguir:
-- [Introdução](#1--introdução)
-- [Escopo](#1-3-escopo)
-- [Representação Arquitetural](#2--representação-arquitetural)
-- [Metas e Restrições de Arquitetura](#3--metas-e-restrições-de-arquitetura)
-- [Visão dos Casos de Uso](#4--visão-de-casos-de-uso)
-- [Visão Lógica](#5--visão-lógica)
-- Visão de Processos.
-- Visão de Deploy.
+- [1-Introdução](#1--introdução)
+- [1-1-Escopo](#1-3-escopo)
+- [2-Representação Arquitetural](#2--representação-arquitetural)
+- [3-Metas e Restrições de Arquitetura](#3--metas-e-restrições-de-arquitetura)
+- [4-Visão dos Casos de Uso](#4--visão-de-casos-de-uso)
+- [5-Visão Lógica](#5--visão-lógica)
+- [6-Visão de Processos](#6--visão-de-processos)
+- [7-Visão de Deploy](#7--visão-de-deploy)
 - Visão de Implementação.
 - Tamanho e Desempenho.
 - Qualidade.
@@ -138,6 +139,24 @@
 
 &emsp;&emsp;Para mais detalhes sobre nosso diagrama de comunicação, clique nesse [link](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/diagramaDeComunicacao/)
 
+## 6- Visão de Processos
+
+#### 6-1 Visão Geral
+
+&emsp;&emsp;Descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Consiste de redes de comutação rápida de objetos de comunicação. Os elementos são componentes que têm presença em tempo de execução (processos, threads, servlets, etc), data store. A interação entre os elementos varia, de acordo com a tecnologia. Esta visão é útil para pensarmos sobre os atributos de qualidade do sistema de tempo-de-execução, tais como desempenho e confiabilidade.
+
+#### 6-2 Diagrama de sequência
+
+&emsp;&emsp;Os diagramas de sequência são um tipo de modelagem dinâmica em UML para a melhor visualização de processos, objetos e suas mensagens trocadas sempre procurando mostrar uma sequência de eventos e métodos disparados por seus agentes e os seus objetivos. Assim colaborando para um melhor entendimento dos processos de determinado caso de uso, pois com o diagrama de sequência é possível documentar o ato dos autores e suas consequências.
+
+&emsp;&emsp;Para mais detalhes sobre nosso diagrama de sequência, clique nesse [link](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/DiagramaDeSequencia/).
+
+## 7- Visão de Deploy
+
+&emsp;&emsp;O deploy é um termo famoso entre os desenvolvedores de software. Ele pode significar muitas coisas, dependendo do ambiente e da tecnologia. Porém, os significados que condizem mais com a prática e podem resumir o seu funcionamento são: implantar, colocar em posição, disponibilizar para uso ou simplesmente colocar no ar.
+
+&emsp;&emsp;Na prática, também é utilizado quando um sistema foi disponibilizado para uso – seja no ambiente de desenvolvimento, para testes ou produção.
+
 
 ## Referências
 
@@ -150,3 +169,5 @@
 > [4] **Visão de casos de uso**. Disponível em: <https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408>. Acesso em 18, Abril de 2022.
 
 > [5] **Visão lógica, de Processo e de Implementação**. Disponível em: <https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html#:~:text=Vis%C3%A3o%20L%C3%B3gica%3A%20Descreve%20como%20o,todo%20e%20assim%20por%20diante.>
+
+> [6] **Visaõ de deploy**. Disponível em: <https://www.hostgator.com.br/blog/o-que-e-deploy-e-como-realiza-lo/>. Acesso em 18, Abril de 2022.
