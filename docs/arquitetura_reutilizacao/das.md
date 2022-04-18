@@ -12,6 +12,8 @@
 | 18.04.2022 | 0.6 | Adição Visão lógica |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 0.7 | Adição Visão de Processos e de Deploy |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 0.8 | Adição Visão de Implementação e de Dados |[Peniel Etèmana](https://github.com/zpeniel09)|
+| 18.04.2022 | 0.9 | Adição Visão de tamanho e desempenho e qualidade |[Peniel Etèmana](https://github.com/zpeniel09)|
+
 
 ## Participantes
 
@@ -47,19 +49,20 @@
 #### 1-5 Visão Geral
 
 &emsp;&emsp;Esse documento de arquitetura contém os tópicos a seguir:
-- [1-Introdução](#1--introdução)
+
+- [1-Introdução](#1-introducao)
 - [1-1-Escopo](#1-3-escopo)
-- [2-Representação Arquitetural](#2--representação-arquitetural)
-- [3-Metas e Restrições de Arquitetura](#3--metas-e-restrições-de-arquitetura)
-- [4-Visão dos Casos de Uso](#4--visão-de-casos-de-uso)
-- [5-Visão Lógica](#5--visão-lógica)
-- [6-Visão de Processos](#6--visão-de-processos)
-- [7-Visão de Deploy](#7--visão-de-deploy)
-- [8-Visão de Implementação](#8--visão-de-implementação)
-- [9-Visão de Dados](#9--visão-de-dados)
-- Tamanho e Desempenho.
-- Qualidade.
-- [Referências](#referências)
+- [2-Representação Arquitetural](#2-representacao-arquitetural)
+- [3-Metas e Restrições de Arquitetura](#3-metas-e-restricoes-de-arquitetura)
+- [4-Visão dos Casos de Uso](#4-visao-de-casos-de-uso)
+- [5-Visão Lógica](#5-visao-logica)
+- [6-Visão de Processos](#6-visao-de-processos)
+- [7-Visão de Deploy](#7-visao-de-deploy)
+- [8-Visão de Implementação](#8-visao-de-implementacao)
+- [9-Visão de Dados](#9-visao-de-dados)
+- [10-Tamanho e Desempenho](#10-tamanho-e-desempenho)
+- [11-Qualidade](#11-qualidade)
+- [Referências](#referencias)
 
 ## 2- Representação Arquitetural
 
@@ -188,6 +191,22 @@
 
 &emsp;&emsp;O [DLD(Diagrama Lógico de Dados)](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/MER/), mostrar mais detalhes de riquezas das entidades, e também sobre especificações das chaves primárias e estrangeiras, esse diagrama também informa a cardidalidade dos relacionamentos.
 
+## 10- Tamanho e Desempenho
+
+&emsp;&emsp;Uma visão geral do tamanho e desempenho é a discrição do desempenho e das características do software que impactam na arquitetura de software. Um dos requisitos mínimos: é necessário possuir uma conexão com a internet, navegador (com alguns dos suportes a seguirHTML 5, CSS e JavaScript); ela poderia ser rodado nos sistemas operacionais que são:Windows, Linux ou MacOS;
+
+## 11- Qualidade
+
+&emsp;&emsp;Tem como objetivo de garantir a qualidade do software através da definição e normatização de processos de desenvolvimento. O glossário do IEEE define qualidade como “Grau de conformidade de um sistema, componente ou processo com os respectivos requisitos”, ou, alternativamente, como “Grau de conformidade de um sistema, componente ou processo com as necessidades e expectativas de clientes ou usuários”.Clicando [aqui](https://pt.wikipedia.org/wiki/Qualidade_de_software) terão mais informação.
+
+&emsp;&emsp;Para alcaçar os objetivos de qualidade de código,foram usados algumas características da mediçao de qualidade de software que são: 
+
+- Funcionalidade: ela permite se o conjunto de funções satisfazem as necessidades explícitas e implícitas para a finalidade a que se destina o nosso produto. 
+- Confiabilidade: permite de saber se o desempenho se mantém ao longo do tempo e em condições estabelecidas.
+- Usabilidade: permite de saber se nosso software é fácil utilizar ou não. 
+- Eficiência: com a eficiência, podemos saber se os recursos e os tempos utilizados são compatíveis com o nível de desempenho requerido para o produto.
+- Manutenibilidade: Facilidade para correções, atualizações e alterações do software.
+- Portabilidade: É possível utilizar o produto em diversas plataformas com pequeno esforço de adaptação
 
 ## Referências
 
@@ -204,3 +223,5 @@
 > [6] **Visaõ de deploy**. Disponível em: <https://www.hostgator.com.br/blog/o-que-e-deploy-e-como-realiza-lo/>. Acesso em 18, Abril de 2022.
 
 > [7] **Visão de Implementação**. Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/deployment_view_64CB74A6.html>. Acesso em 18, Abril de 2022.
+
+> [8] **Qualidade**. Disponível em: <https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209>. Acessso em 18, Abril de 2022.
