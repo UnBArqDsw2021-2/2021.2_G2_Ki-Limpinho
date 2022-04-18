@@ -147,6 +147,7 @@ nav:
           - Testes de Software:
             - Testes de Integração: "TesteIntegracao.md"
   - Arquitetura de Software e Reutilização:
+      - Documento de Arquitetura de Software: "arquitetura_reutilizacao/das.md"
       - Reutilização de Software:
             - Docker: "arquitetura_reutilizacao/reutilizacao/docker.md"
   - Sprints:
