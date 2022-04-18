@@ -2,7 +2,8 @@
 | :--------: | :----: | :-------------------: | :-----------------------------------------: |
 | 16.03.2022 |  0.1   | Abertura do documento | [Yuri Alves](https://github.com/yuriAlves5) |
 | 17.03.2022 |  0.2   | Adição da Introdução  | [Yuri Alves](https://github.com/yuriAlves5) |
-| 18.03.2022 |  0.3   |   Adição do hotSpot   | [Yuri Alves](https://github.com/yuriAlves5) |
+| 18.03.2022 |  0.3   |   Adição do HotSpot   | [Yuri Alves](https://github.com/yuriAlves5) |
+| 18.03.2022 |  0.4   | Adição do FrozenSpot  | [Yuri Alves](https://github.com/yuriAlves5) |
 
 ## Participantes
 
@@ -40,9 +41,17 @@
         </figcaption>
 </center>
 
--   Frozen-Spots: definem a arquitetura geral do sistema e seus componentes básicos, permanecem fixos em todas as instanciações.
-    -   Sistema de arquivos,
-    -   Arquivos necessário.
+&emsp;&emsp;Frozen-Spots: definem a arquitetura geral do sistema e seus componentes básicos, permanecem fixos em todas as instanciações.
+
+-   Utilizando do hook como por exemplo o useEffect
+<center>
+        <img src='..\..\..\assets\img\reutilizacao\useEffect.png'>
+            <figcaption align='center'>
+                <b>Figura 3: Exemplo de useEffect</b>
+                <br>
+                <small>Autor: Yuri Alves, 2022.</small>
+            </figcaption>
+    </center>
 
 ## Referências
 
