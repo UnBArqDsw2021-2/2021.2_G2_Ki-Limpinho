@@ -11,6 +11,7 @@
 | 18.04.2022 | 0.5 | Adição Visão de Casos de Uso |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 0.6 | Adição Visão lógica |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 0.7 | Adição Visão de Processos e de Deploy |[Peniel Etèmana](https://github.com/zpeniel09)|
+| 18.04.2022 | 0.8 | Adição Visão de Implementação e de Dados |[Peniel Etèmana](https://github.com/zpeniel09)|
 
 ## Participantes
 
@@ -54,7 +55,8 @@
 - [5-Visão Lógica](#5--visão-lógica)
 - [6-Visão de Processos](#6--visão-de-processos)
 - [7-Visão de Deploy](#7--visão-de-deploy)
-- Visão de Implementação.
+- [8-Visão de Implementação](#8--visão-de-implementação)
+- [9-Visão de Dados](#9--visão-de-dados)
 - Tamanho e Desempenho.
 - Qualidade.
 - [Referências](#referências)
@@ -157,6 +159,35 @@
 
 &emsp;&emsp;Na prática, também é utilizado quando um sistema foi disponibilizado para uso – seja no ambiente de desenvolvimento, para testes ou produção.
 
+## 8- Visão de Implementação
+
+#### 8-1 Visão geral
+
+&emsp;&emsp;Uma visão geral sobre a visão de implementação é que ela descreve como o sistema é mapeado para o hardware. Ela é  utilizada no fluxo de trabalho Análise & Design, ilustra a distribuição do processamento em um conjunto de nós do sistema, incluindo a distribuição física dos processos e threads. Ela é refinada durante cada iteração, mostra a distribuição física do processamento no sistema.
+
+#### 8-2 Diagrama de Pacotes
+
+&emsp;&emsp;Os diagramas de pacotes são diagrama estruturais comumente usados para simplificar os diagramas de classe complexos e organizar as classes em pacotes. Um pacote é uma coleção de elementos relacionados, incluindo diagramas, documentos, classes e pacotes de eventos
+
+&emsp;&emsp;Sobre o nosso [diagrama de pacotes](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/DiagramaDePacotes/),existem alguns elementos que formam esse diagrama que são:
+
+- Pacote
+- Elemento empacotado
+- Dependência
+- Importação de elemento
+- Importação de pacote
+- Mesclagem de pacote
+
+## 9- Visão de Dados
+
+&emsp;&emsp;Em teoria de banco de dados, uma visão, ou vista, é um conjunto resultado de uma consulta armazenada sobre os dados, em que os usuários do banco de dados podem consultar simplesmente como eles fariam em um objeto de coleção de banco de dados persistente.
+
+&emsp;&emsp;Iniciamos essa visão com o [MER](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/MER/), que é  uma linguagem que tem como principal intuito descrever modelos conceituais de banco de dados, ela é considerada de alto nível e busca representar a semântica associada aos dados do minimundo.
+
+&emsp;&emsp;Após o MER, foi feito o [DER(Diagrama de Entidade Relacionamento)](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/MER/). É o resultado do processo de modelagem se baseando no MER, esse artefato tem como principal objetivo mostrar de forma visual essa organização dos dados.
+
+&emsp;&emsp;O [DLD(Diagrama Lógico de Dados)](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/MER/), mostrar mais detalhes de riquezas das entidades, e também sobre especificações das chaves primárias e estrangeiras, esse diagrama também informa a cardidalidade dos relacionamentos.
+
 
 ## Referências
 
@@ -171,3 +202,5 @@
 > [5] **Visão lógica, de Processo e de Implementação**. Disponível em: <https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html#:~:text=Vis%C3%A3o%20L%C3%B3gica%3A%20Descreve%20como%20o,todo%20e%20assim%20por%20diante.>
 
 > [6] **Visaõ de deploy**. Disponível em: <https://www.hostgator.com.br/blog/o-que-e-deploy-e-como-realiza-lo/>. Acesso em 18, Abril de 2022.
+
+> [7] **Visão de Implementação**. Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/deployment_view_64CB74A6.html>. Acesso em 18, Abril de 2022.
