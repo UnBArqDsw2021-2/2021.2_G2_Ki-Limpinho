@@ -50,7 +50,7 @@
 - [Representação Arquitetural](#2--representação-arquitetural)
 - [Metas e Restrições de Arquitetura](#3--metas-e-restrições-de-arquitetura)
 - [Visão dos Casos de Uso](#4--visão-de-casos-de-uso)
-- Visão Lógica.
+- [Visão Lógica](#5--visão-lógica)
 - Visão de Processos.
 - Visão de Deploy.
 - Visão de Implementação.
@@ -107,6 +107,37 @@
 - **[UC09 - Realizar Logout](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/modelagem/diagramas/casosDeUso/UC09/)**
 - **[UC11 – Realizar login](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/modelagem/diagramas/casosDeUso/UC11/)**
 
+## 5- Visão Lógica
+
+&emsp;&emsp;A visão lógica descreve como o sistema é estruturado, em termos de unidades de implementação. Os elementos são pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamentos parte-todo e assim por diante.
+
+#### 5-1 Diagrama de Classes
+
+&emsp;&emsp; O diagrama de classes é um dos principais artefatos de modelagem estática, nele conseguimos representar como cada entidade da nossa aplicação relaciona com as demais, a fim de esclarecer a estrutura estática do sistema, esse artefato também pode ser considerado o "blueprint" da aplicação, pois na hora do desenvolvimento os responsáveis devem consultar o artefato a fim de mapear como deve ser implementado as interações das classes no software.
+
+&emsp;&emsp;Ele consiste na seguinte estrutura: Classes, Atributos e Operações. Por ter essas estruturas, esse artefato é carro-chefe em linguagens orientadas a objetos. Também ressaltar que a UML(Unified Modeling Language) definiu padrões que devem ser seguidos para confeccionar esse artefato, para que qualquer pessoa interessada no projeto consiga entender do que se trata e padronizar como documento deve ser desenvolvido. Para mais detalhes sobre o nosso diagrama de classes, vale clica nesse link [aqui](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/DiagramaDeClasses/).
+
+#### 5-2 Diagrama de Pacotes
+
+&emsp;&emsp;O diagrama de pacotes é um diagrama de estrutura UML que mostra a estrutura do sistema projetado no nível de pacotes. Esse artefato proporciona uma visão hierárquica dos elementos da aplicação. Existem alguns elementos que formam os diagramas de pacotes que são:
+
+- Pacote
+- Elemento empacotado
+- Dependência
+- Importação de elemento
+- Importação de pacote
+- Mesclagem de pacote
+
+&emsp;&emsp;Para mais detalhes sobre nosso diagrama de pacotes, clique nesse [link](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/DiagramaDePacotes/).
+
+#### 5-3 Diagrama de Comunicação
+
+&emsp;&emsp;O diagrama de comunicação é um diagrama de estrutura UML que mostra o comportamento que representa a comunicação entra um ou mais participantes, mostrando o fluxo de mensagens entre os objetos em uma interação.
+
+&emsp;&emsp;Os diagramas de comunicação assemelham-se aos diagramas de objetos, nos quais uma linha de vida representa os objetos na interação e as setas representam as mensagens transmitidas entre as linhas de vida. Pontas de setas indicam a direção das mensagens, para frente ou para trás, e números de sequência indicam a ordem na qual as mensagens são transmitidas.
+
+&emsp;&emsp;Para mais detalhes sobre nosso diagrama de comunicação, clique nesse [link](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/diagramaDeComunicacao/)
+
 
 ## Referências
 
@@ -117,3 +148,5 @@
 > [3] **Representação Arquitetural**. Disponível em: <https://www.devmedia.com.br/arquitetura-de-software-desenvolvimento-orientado-para-arquitetura/8033#:~:text=O%20estilo%20arquitetural%20considera%20o,todos%20os%20componentes%20do%20sistema.>. Acesso em 17, Abril de 2022.
 
 > [4] **Visão de casos de uso**. Disponível em: <https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408>. Acesso em 18, Abril de 2022.
+
+> [5] **Visão lógica, de Processo e de Implementação**. Disponível em: <https://www.trt9.jus.br/pds/pdstrt9/guidances/guidelines/architectural_view_FF6EDA37.html#:~:text=Vis%C3%A3o%20L%C3%B3gica%3A%20Descreve%20como%20o,todo%20e%20assim%20por%20diante.>
