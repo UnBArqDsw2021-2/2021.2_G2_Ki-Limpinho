@@ -14,10 +14,11 @@
 | 18.04.2022 | 0.8 | Adição Visão de Implementação e de Dados |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 0.9 | Adição Visão de tamanho e desempenho e qualidade |[Peniel Etèmana](https://github.com/zpeniel09)|
 | 18.04.2022 | 1.0 |  Revisão do documento  | [Jonathan Jorge](https://github.com/Jonathan-Oliveira) e [Yuri Alves](https://github.com/yuriAlves5)|
-
+| 18.04.2022 | 1.0 |  Revisão do documento  e Adicao de visao de dados| [Davi Matheus](https://github.com/DaviMatheus) 
 ## Participantes
 
 * [Peniel Etèmana](https://github.com/zpeniel09)
+* [Davi Matheus](https://github.com/DaviMatheus) 
 
 ## Introdução
 
@@ -167,11 +168,21 @@
 
 &emsp;&emsp;Em teoria de banco de dados, uma visão, ou vista, é um conjunto resultado de uma consulta armazenada sobre os dados, em que os usuários do banco de dados podem consultar simplesmente como eles fariam em um objeto de coleção de banco de dados persistente.
 
-&emsp;&emsp;Iniciamos essa visão com o [MER](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/MER/), que é  uma linguagem que tem como principal intuito descrever modelos conceituais de banco de dados, ela é considerada de alto nível e busca representar a semântica associada aos dados do minimundo.
+&emsp;&emsp; Como dito assim, a visão de dados é um tema que mostrarquais são os dados persistentes na aplicação, em que normalmente se utiliza ferramentas como um Modelo Entidade-Relacionamento e/ou Diagrama Entidade-Relacionamento, porém na nossa aplicação foi utilizado um sistema não-relacional, o MongoDB, com isso  tornando essas ferramentas inoportunas nessa situação.
 
-&emsp;&emsp;Após o MER, foi feito o [DER(Diagrama de Entidade Relacionamento)](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/MER/). É o resultado do processo de modelagem se baseando no MER, esse artefato tem como principal objetivo mostrar de forma visual essa organização dos dados.
 
-&emsp;&emsp;O [DLD(Diagrama Lógico de Dados)](https://unbarqdsw2021-2.github.io/2021.2_G2_Ki-Limpinho/MER/), mostrar mais detalhes de riquezas das entidades, e também sobre especificações das chaves primárias e estrangeiras, esse diagrama também informa a cardidalidade dos relacionamentos.
+&emsp;&emsp; Como dito anteriormente  utilizamos o MongoDB em que uma das sua caracteristica é ser um banco de dados orientado a documentos JSON, assim foi  preferivel utilizar um sistema que mostra os objetos da camada "Model", pois esses são os objetos que são mapeados para a camada persistente. Assim abaixo estão as tabelas principais da nossa aplicação.
+
+
+![Visao de dados - user](../assets/img/visao_de_dados/user.jpeg)
+
+> Figura 3: Visão de dados - user. Autor: Davi Matheus. 
+
+![Visao de dados - feedback](../assets/img/visao_de_dados/feedback.jpeg)
+> Figura 3: Visão de dados - feedback. Autor: Davi Matheus. 
+
+![Visao de dados - despesas](../assets/img/visao_de_dados/despesas.jpeg)
+> Figura 3: Visão de dados - despesas. Autor: Davi Matheus. 
 
 ## Tamanho e Desempenho
 
