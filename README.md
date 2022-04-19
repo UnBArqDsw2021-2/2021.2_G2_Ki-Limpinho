@@ -82,7 +82,7 @@ Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
 [![Documentos](docs/assets/img/screenshots/entrega4/thumbDocs.png)](https://youtu.be/jE-lXad90xk)
-[![Aplicação](docs/assets/img/screenshots/entrega4/thumbAplicacao.png)](https://youtu.be/jE-lXad90xk)
+[![Aplicação](docs/assets/img/screenshots/entrega4/thumbAplicacao.png)](https://www.youtube.com/watch?v=oicQyrVyeG8)
 
 ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**: 
