@@ -1,9 +1,10 @@
 |    Data    | Versão |       Descrição       |                  Autor(es)                  |
 | :--------: | :----: | :-------------------: | :-----------------------------------------: |
-| 16.03.2022 |  0.1   | Abertura do documento | [Yuri Alves](https://github.com/yuriAlves5) |
-| 17.03.2022 |  0.2   | Adição da Introdução  | [Yuri Alves](https://github.com/yuriAlves5) |
-| 18.03.2022 |  0.3   |   Adição do HotSpot   | [Yuri Alves](https://github.com/yuriAlves5) |
-| 18.03.2022 |  0.4   | Adição do FrozenSpot  | [Yuri Alves](https://github.com/yuriAlves5) |
+| 16.04.2022 |  0.1   | Abertura do documento | [Yuri Alves](https://github.com/yuriAlves5) |
+| 17.04.2022 |  0.2   | Adição da Introdução  | [Yuri Alves](https://github.com/yuriAlves5) |
+| 18.04.2022 |  0.3   |   Adição do HotSpot   | [Yuri Alves](https://github.com/yuriAlves5) |
+| 18.04.2022 |  0.4   | Adição do FrozenSpot  | [Yuri Alves](https://github.com/yuriAlves5) |
+| 18.04.2022 |  0.5   | Revisão do documento  |[Peniel Etèmana](https://github.com/zpeniel09)|
 
 ## Participantes
 
