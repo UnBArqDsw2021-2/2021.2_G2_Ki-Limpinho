@@ -151,6 +151,7 @@ nav:
           - Reutilização de Software:
                 - Docker: "arquitetura_reutilizacao/reutilizacao/docker.md"
                 - NextJS: "arquitetura_reutilizacao/reutilizacao/NextJS.md"
+                - NodeJS: "arquitetura_reutilizacao/reutilizacao/nodejs.md"
     - Sprints:
           - Sprint 1:
                 - Planning: "Sprints/sprint01/Planning.md"
