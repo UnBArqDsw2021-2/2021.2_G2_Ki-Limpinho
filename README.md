@@ -73,21 +73,72 @@ Você trabalhou a semana toda e decide fazer aquela viagem no sábado que tanto 
 [![Iniciativas Extras](docs/assets/img/screenshots/entrega3/thumbIniciativasExtras.png)](https://www.youtube.com/watch?v=lB12Kmqjkjk)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+
+
+![Reutilização Next](docs/assets/img/screenshots/entrega4/sc1.jpg)
+![Reutilização Docker](docs/assets/img/screenshots/entrega4/sc2.png)
+![Documento de Arquitetura de Software](docs/assets/img/screenshots/entrega4/sc3.png)
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione o(s)s vídeo(s) da Entrega Final.
+
+[![Documentos](docs/assets/img/screenshots/entrega4/thumbDocs.png)](https://youtu.be/jE-lXad90xk)
+[![Aplicação](docs/assets/img/screenshots/entrega4/thumbAplicacao.png)](https://youtu.be/jE-lXad90xk)
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: 
+Scrum e Xp<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: 
+Foi utilizado JavaScript para o font e back, usando os frameworks.<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: 
+Para o desenvolvimento do front forma utilizados o framework Next.js e para o back Node.js<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: 
+GRASP's: adapter, alta coesão e baixo acoplamento. MVC<br>
 
 ## O Projeto está rodando?
-( ) SIM
+( X ) SIM
 ( ) NÃO
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
 ## Informações Complementares 
-Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+
+### Configurações para rodar o Front
+
+Pré-requisitos, possuir o node 14 ou versão superior.
+
+- Clonando projeto.
+
+```shell
+git clone git@github.com:UnBArqDsw2021-2/2021.2_g2_kilimpinho_frontend.git
+
+cd 2021.2_g2_kilimpinho_frontend
+```
+
+- Inicilizando o projeto
+
+```shell
+yarn
+
+yarn dev
+```
+
+Apos a primeira inicialização, utilize apenas o `yarn dev`, pois é ele o responsável por subir o Front.
+
+
+### Configurações para rodar o Docker
+
+Pré-requisitos, possuir docker e docker-compose instalado na maquina.
+
+- Clonando projeto.
+
+```shell
+git clone git@github.com:UnBArqDsw2021-2/2021.2_G2_Ki-Limpinho_Backend.git
+
+cd 2021.2_G2_Ki-Limpinho_Backend
+```
+
+- Primeiro acesso. Para buildar o projeto escreva.
+
+```shell
+docker-compose up --build
+```
+
+Para acessos futuros utilize apenas `docker-compose up`, pois o --build serve apenas para construção inicial do container.
