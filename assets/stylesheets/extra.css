@@ -1,0 +1,55 @@
+
+:root {
+    --primary-color: #6998F6;
+    --primary-color--light: #9FB6E3;
+    --secondary-color: #544FE3;
+    --text-color: #414141;
+    --background: #FAFAFA;
+}
+
+  body{
+    background-color: var(--background) ;
+  }
+
+  .md-header {
+    background: linear-gradient(90deg, #6998f6, #544fe3);
+      color: white !important;
+  }
+  
+  .md-tabs {
+      background: linear-gradient(90deg, #6998f6, #544fe3);
+      color: white !important;
+  }
+  
+  
+  .md-typeset table thead tr {
+    background: linear-gradient(90deg, #5c5c5c, #505050);
+      color: white;
+  }
+  
+  .md-typeset__table table {
+      border-radius: 10px !important;
+      box-shadow: 0 0 0.5em #0000003f !important;
+  }
+
+  h1, h2, h3, h4, h5, h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700 !important;
+    color: var(--text-color);
+  }
+
+  p, li{
+    font-size: 14px !important;
+    color: var(--text-color) !important;
+  }
+
+  p{
+    text-align: justify;
+  }
+
+  .md-tabs__item, .md-source__fact, .md-source__fact--stars{
+    color: white !important;
+  }
+
+
+  
